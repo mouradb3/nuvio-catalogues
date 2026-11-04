@@ -1,0 +1,16 @@
+{
+  "name": "nuvio-streaming-nouveautes",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Générateur de catalogues statiques Nuvio France + Canada, déployés sur GitHub Pages",
+  "scripts": {
+    "start": "node src/server.js",
+    "update": "node src/update.js",
+    "export": "node src/export-static.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
