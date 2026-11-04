@@ -1,0 +1,81 @@
+name: Actualiser les catalogues Nuvio
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - ".github/workflows/deploy.yml"
+      - "package.json"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: nuvio-catalogues
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Récupérer le projet
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Installer les dépendances
+        run: npm install --no-audit --no-fund
+
+      - name: Vérifier le secret TMDB
+        run: test -n "$TMDB_API_TOKEN"
+        env:
+          TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN }}
+
+      - name: Actualiser les offres et l'historique
+        run: npm run update
+        env:
+          TMDB_API_TOKEN: ${{ secrets.TMDB_API_TOKEN }}
+          MAX_PAGES_PER_TYPE: 5
+          DISCOVERY_DAYS: 180
+          CATALOG_LIMIT: 100
+
+      - name: Générer les fichiers compatibles avec Nuvio
+        run: npm run export
+        env:
+          CATALOG_LIMIT: 100
+
+      - name: Enregistrer l'historique de détection
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json public
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualisation automatique des catalogues Nuvio"
+            git push
+          fi
+
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Charger les fichiers statiques
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Publier les catalogues
+        id: deployment
+        uses: actions/deploy-pages@v4
