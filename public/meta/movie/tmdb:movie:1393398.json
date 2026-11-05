@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1393398",
+    "type": "movie",
+    "name": "The 3 Killer Pigs",
+    "poster": "https://image.tmdb.org/t/p/w500/mfNvQfGDRVp4NWofAtxNaZsLJDq.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bM5eaVQlbrT0V1ZpU8pod8GNJdK.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "4.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1393398"
+      }
+    ]
+  }
+}

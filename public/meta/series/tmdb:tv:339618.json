@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339618",
+    "type": "series",
+    "name": "Saturnides",
+    "poster": "https://image.tmdb.org/t/p/w500/iozUFOZU8Qtq2eVJMhG2FnHj376.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339618"
+      }
+    ]
+  }
+}

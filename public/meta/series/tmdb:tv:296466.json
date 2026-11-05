@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:296466",
+    "type": "series",
+    "name": "Marília Mendonça: Sentimento Louco",
+    "poster": "https://image.tmdb.org/t/p/w500/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kqmeuOwL0Wcq0Th7bz9M3EgsYMR.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/296466"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:337061",
+    "type": "series",
+    "name": "도화",
+    "poster": "https://image.tmdb.org/t/p/w500/9WSF0jlbgIjwwWz5JrHDLEdJdUK.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/l1ghWsnGE0ByXmREt4w6c1w1p4M.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/337061"
+      }
+    ]
+  }
+}

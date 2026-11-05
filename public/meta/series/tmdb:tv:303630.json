@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303630",
+    "type": "series",
+    "name": "Cupertino",
+    "poster": "https://image.tmdb.org/t/p/w500/70AhJpOqU2oKyQF2paJA764CSje.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303630"
+      }
+    ]
+  }
+}

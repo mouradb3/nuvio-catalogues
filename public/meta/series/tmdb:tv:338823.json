@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:338823",
+    "type": "series",
+    "name": "Холостяк",
+    "poster": "https://image.tmdb.org/t/p/w500/kLKoy3ruZlCpXyqDeJIhGAM62DJ.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/338823"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1806253",
+    "type": "movie",
+    "name": "La foil histoire de la Route du Rhum",
+    "poster": "https://image.tmdb.org/t/p/w500/5QqYXl9ksVqYVpELn0T3YeZKgbu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iX3qza4Jk3UilanGk0LoS1tQNzG.jpg",
+    "description": "Depuis quelques années, une aile invisible soulève la mer. Le foil, une lame d'ingénierie, permet aux bateaux de ne plus flotter, mais de voler au-dessus des vagues. Et en quelques années, la Route du Rhum est devenue un laboratoire de l'avenir où la mer se dématérialise et où le marin devient pilote. L'édition 2026 sera le rendez-vous des bateaux volants : 70 % des bateaux inscrits au départ seront équipés de foils. Retour sur cette métamorphose spectaculaire du temps des marins poètes aux pilotes d'aujourd'hui, en suivant la trace de ceux qui ont fait basculer la légende.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1806253"
+      }
+    ]
+  }
+}

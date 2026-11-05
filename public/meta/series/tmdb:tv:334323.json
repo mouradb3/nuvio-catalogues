@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:334323",
+    "type": "series",
+    "name": "おかえり、初恋。",
+    "poster": "https://image.tmdb.org/t/p/w500/hXOP9EDwuzbPIZpPrCElf5mM2wF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jb5b3OUZwer2bj26F1UVEtRLtBZ.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/334323"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:243555",
+    "type": "series",
+    "name": "Akka: The Protectors",
+    "poster": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cVUKFfws4upCB4ytz5uGIONIiRc.jpg",
+    "description": "Dans la société matriarcale de la ville fictive de Pernuru, les femmes règnent en maître et le pouvoir a un nouveau nom : Akka.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/243555"
+      }
+    ]
+  }
+}

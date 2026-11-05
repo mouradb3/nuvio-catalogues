@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336936",
+    "type": "series",
+    "name": "Wanted, les secrets de cette course folle",
+    "poster": "https://image.tmdb.org/t/p/w500/knDd2us9SiNMFpOQKjM3xbj0CSj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9ZBhZFKE2066VQzsIJQo87ST5yR.jpg",
+    "description": "La course se prolonge après chaque soirée de « Wanted : attrape-moi si tu peux ! ». L’occasion de revivre les moments forts, de découvrir des images inédites et d’entendre les célébrités raconter leur aventure, côté fugitifs comme côté gardiens.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336936"
+      }
+    ]
+  }
+}

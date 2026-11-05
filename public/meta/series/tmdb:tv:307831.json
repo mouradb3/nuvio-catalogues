@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:307831",
+    "type": "series",
+    "name": "ก่อร่างสร้างเลิฟ",
+    "poster": "https://image.tmdb.org/t/p/w500/sLyZ2T00inCLvZBQsXUPMt0r0pq.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iGygCrsAVOCoLEZkbPuN5WdY2LZ.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/307831"
+      }
+    ]
+  }
+}

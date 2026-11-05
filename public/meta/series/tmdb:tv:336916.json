@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336916",
+    "type": "series",
+    "name": "Kat sauvage",
+    "poster": "https://image.tmdb.org/t/p/w500/92m6asWR8Q5jGwN6tdwb2LM07Xo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uxYGcDqO1PUtXSgqMTlsSiepMUv.jpg",
+    "description": "La vie d'Idris et Dimitri, deux ados sans histoire, bascule le jour où la famille d'Idris accueille Kat, une Wereling capable de se transformer en fille-chat ! Kat est une Traqueuse : elle a été envoyée à Paloma pour arrêter les Werelings qui utilisent leur transformation à des fins malveillantes. Ayant découvert le secret de Kat, Idris et Dimitri deviennent ses coéquipiers. Or, Kat a toujours du mal à s'adapter au monde complexe des humains, tandis que ses deux sidekicks improvisés ne sont pas vraiment taillés pour ce genre d'aventures. La mission du trio risque de se révéler plus mouvementée que prévu…",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336916"
+      }
+    ]
+  }
+}

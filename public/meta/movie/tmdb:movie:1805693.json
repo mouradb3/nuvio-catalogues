@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1805693",
+    "type": "movie",
+    "name": "Hollywood face à l'apocalypse",
+    "poster": "https://image.tmdb.org/t/p/w500/85174paNj45V7mkTZRqxlKGIw05.jpg",
+    "description": "Depuis les années 1950, la science-fiction reflète la paranoïa de la guerre froide et la peur d'une attaque. Des films affrontent le spectre de l'anéantissement nucléaire, dénonçant la bombe tout en habituant le public à cette menace. Dans les années 1980, la peur évolue avec l'idée d'une guerre...",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1805693"
+      }
+    ]
+  }
+}

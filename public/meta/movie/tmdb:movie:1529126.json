@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1529126",
+    "type": "movie",
+    "name": "Sticky",
+    "poster": "https://image.tmdb.org/t/p/w500/jw4aFEIjTBIvPnuXV4NvozgXm3t.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1529126"
+      }
+    ]
+  }
+}

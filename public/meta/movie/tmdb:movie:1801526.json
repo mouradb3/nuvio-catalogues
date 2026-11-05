@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1801526",
+    "type": "movie",
+    "name": "Le luxe, un pouvoir français",
+    "poster": "https://image.tmdb.org/t/p/w500/rjRq3MQECnur892fk8lNmealTVB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ig9rHZV312y3W8pr3uP2U2mFtiQ.jpg",
+    "description": "Sur l'échiquier géopolitique mondial, un sac Dior, une robe Chanel ou un carré Hermès semblent à priori dérisoires face aux barils de pétrole ou aux contrats d'armement. Pourtant, la haute couture française a bâti le système d'influence le plus puissant et le plus viral de notre époque. Depuis 20 ans, les maisons de haute couture françaises sont devenues des empires mondiaux avec LVMH et Kering. En difficultés financières, ces groupes doivent gagner la bataille de l'image et du \"like\" en organisant des défilés hors norme. A l'ère du tout Instagram, une marque est capable de débourser un demi million d'euros pendant la Fashion Week pour avoir les plus grandes stars au premier rang de son défilé.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1801526"
+      }
+    ]
+  }
+}

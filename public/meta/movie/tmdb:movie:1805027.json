@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1805027",
+    "type": "movie",
+    "name": "Dracula : la véritable histoire",
+    "poster": "https://image.tmdb.org/t/p/w500/7twfmxzLWIERt27DbdtwMQ1MsBQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/shvPAi56WfezkA8oldtKm7pRyyE.jpg",
+    "description": "Qui était l’homme qui a inspiré le vampire de Bram Stoker ? Guidé par des chercheurs, un voyage captivant sur les traces de Vlad Tepes (\"l’empaleur\"), ce prince roumain du XVe siècle pris en tenaille entre Occident chrétien et Orient musulman, qui terrifia ses contemporains par les sévices cruels qu’il infligeait à ses ennemis.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1805027"
+      }
+    ]
+  }
+}

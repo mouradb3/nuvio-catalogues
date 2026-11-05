@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1537659",
+    "type": "movie",
+    "name": "A Possession in Lincoln County",
+    "poster": "https://image.tmdb.org/t/p/w500/ba7gjVQXxtBStayfq4Uy2mpvKwE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/d7R8JbaKRJdEhpVDkZcAbBVbaoi.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "3.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1537659"
+      }
+    ]
+  }
+}

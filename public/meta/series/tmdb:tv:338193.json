@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:338193",
+    "type": "series",
+    "name": "Les Fous du bus",
+    "poster": "https://image.tmdb.org/t/p/w500/9sDRfcrd6usRKn5kSTUgEjClxaE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iZbc8a8OTjBpVauPImJ8clROiS9.jpg",
+    "description": "Les Fous du Bus, c'est un road trip complètement fou à travers la France, mené par Ahmed Sylla aux côtés de six humoristes parmi les plus prometteurs de leur génération : Blandine Lehout, Emy BNG, Sofia Belabbes, Édouard Deloignon, Julien Santini et Umut Koker. Habitués des comedy clubs et des scènes parisiennes, ils vont cette fois devoir sortir de leur zone de confort.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/338193"
+      }
+    ]
+  }
+}

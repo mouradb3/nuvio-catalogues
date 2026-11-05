@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1452110",
+    "type": "movie",
+    "name": "Clean Hands",
+    "poster": "https://image.tmdb.org/t/p/w500/szIEtkFLOMsPX6AVQSfzalNEEDd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/py3XG3mFkdVMcw7VwfZ4HaXZIIU.jpg",
+    "description": "L'histoire vraie de Kevin Simmers, ancien policier anti-drogue devenu défenseur de la désintoxication, et de sa fille Brooke. Le film explore la crise américaine de la drogue et « la fine ligne bleue » à travers les regards opposés d'un policier et d'une toxicomane, qui étaient également père et fille.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1452110"
+      }
+    ]
+  }
+}

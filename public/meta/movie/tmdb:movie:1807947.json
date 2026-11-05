@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1807947",
+    "type": "movie",
+    "name": "Les grands buffets, bouillon : les coulisses des plus grands restaurants",
+    "poster": "https://image.tmdb.org/t/p/w500/kdsrLTy27gblKEmbS9ERh7I9Pug.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3fKZKjCMDQ99Aqc3Gu2iomZZPXv.jpg",
+    "description": "Plongeon dans les coulisses des Grands Buffets de Narbonne et des Bouillons, deux institutions de la restauration française. Coups de feu, coups de mou, coups de sang et coups de théâtre : la caméra suit minute par minute la vie de ces maisons. En cuisine comme en salle, chaque seconde compte.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1807947"
+      }
+    ]
+  }
+}

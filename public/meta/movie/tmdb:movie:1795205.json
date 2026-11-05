@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1795205",
+    "type": "movie",
+    "name": "Kibboutz Nir Oz, aux portes de Gaza",
+    "poster": "https://image.tmdb.org/t/p/w500/huewR7ClfzUW59DGpbsR7GpWB8r.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/aKE3rjgVSja59PqwTRMGpHgd7rZ.jpg",
+    "description": "À travers la vie et les archives personnelles de Chaïm Peri, membre fondateur du kibboutz de Nir Oz et militant pour la paix, mort en captivité après avoir été enlevé lors des attaques du 7 octobre 2023, ce film aussi éclairant qu’émouvant retrace l’échec tragique d’une utopie collective et le destin douloureux d’une terre disputée.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1795205"
+      }
+    ]
+  }
+}

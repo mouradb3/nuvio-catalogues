@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336851",
+    "type": "series",
+    "name": "Après la colère",
+    "poster": "https://image.tmdb.org/t/p/w500/vZ9RRnJOuq12h0MVOF39cj1V0Wj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ez5peDFk7wiTqTb4v5duVaB2tQ.jpg",
+    "description": "Cette collection documentaire inédite ausculte la société française et les fractures qui la fragilisent, à travers les grandes histoires d’actualité récentes qui les ont révélées. Une série documentaire-enquête, à la croisée du polar et de l’analyse sociologique, qui poursuit la double ambition d'étudier l'anatomie d’un événement et de conduire ses protagonistes que tout oppose à renouer le dialogue.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336851"
+      }
+    ]
+  }
+}

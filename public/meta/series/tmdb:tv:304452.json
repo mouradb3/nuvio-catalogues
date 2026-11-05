@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:304452",
+    "type": "series",
+    "name": "Le Deuil de l’Automne",
+    "poster": "https://image.tmdb.org/t/p/w500/r5N8g3WEes9x1z76Sil614Do9Bv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
+    "description": "Sous l'ère Républicaine, Ye Ping Jun cherche à payer les frais médicaux de sa mère avec son nouvel emploi. Mais pour son premier jour de travail, elle se retrouve accidentellement prise dans une tentative d'assassinat contre le cinquième fils de la famille Yu, Yu Chang Xuan. Quand elle se retrouve suspecte, elle fait un pari avec ce dernier : elle a dix jours pour trouver le vrai coupable. Yu Chang Xuan en profite, espérant pourvoir se rapprocher de Ye Ping Jun.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/304452"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1783833",
+    "type": "movie",
+    "name": "Renaud, 50 ans de chansons",
+    "poster": "https://image.tmdb.org/t/p/w500/jwpwjhpkTnJdsCmePpMDms9wV0R.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1qlqHniFPucTSDtujZMqZtxiHP9.jpg",
+    "description": "Pour célébrer cinquante ans de chansons, Renaud retrace, sur la scène du Zénith de Paris, les plus grands moments de sa carrière accompagné de grands noms de la chanson française lors d'un concert exceptionnel. Entouré de 23 artistes invités, tels qu'Axelle Red, Alain Souchon, Francis Cabrel ou Olivia Ruiz, il revisite les plus grands titres de son répertoire, entre duos, reprises et moments inédits. De génération en génération, chacun vient rendre hommage à l'une des figures majeures de la chanson française, pour une rétrospective riche en émotions, en souvenirs et en surprises. Captation les 15 et 16 mai 2026 au Zénith de Paris 19ème.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1783833"
+      }
+    ]
+  }
+}

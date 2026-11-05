@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1768182",
+    "type": "movie",
+    "name": "てんてん　ずっと独身でいるつもり？",
+    "poster": "https://image.tmdb.org/t/p/w500/4FgmM1wuQxCLzVfPUJNmRyCBMtE.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1768182"
+      }
+    ]
+  }
+}

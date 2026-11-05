@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1810122",
+    "type": "movie",
+    "name": "BAILAR O MORIR",
+    "poster": "https://image.tmdb.org/t/p/w500/sjpXtb69YAIoZudqtp2PrDxMvhn.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2ak0dZHknRW4KAOp1fmEMBDiXLg.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1810122"
+      }
+    ]
+  }
+}

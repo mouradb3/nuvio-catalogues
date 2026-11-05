@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1771719",
+    "type": "movie",
+    "name": "Liberté, la statue qui voulait changer le monde",
+    "poster": "https://image.tmdb.org/t/p/w500/goKN1uMom3Q68OfMkKTP6kFDdsG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lUH110PY6b9O9V8NjgSWXcqThGZ.jpg",
+    "description": "Une découverte des secrets de la statue de la Liberté en explorant l'atelier parisien où elle fut créée, symbole d'une grande épopée franco-américaine.",
+    "releaseInfo": "2026",
+    "imdbRating": "9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1771719"
+      }
+    ]
+  }
+}

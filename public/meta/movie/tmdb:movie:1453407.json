@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1453407",
+    "type": "movie",
+    "name": "Gajab Raat",
+    "poster": "https://image.tmdb.org/t/p/w500/e4N7M52cBbyi24xLga8yI6yt1u1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
+    "description": "À New Delhi, Ajay Dikshit, un policier corrompu, voit ses projets de gains faciles voler en éclats lorsqu'une jeune femme grièvement blessée est jetée d'une voiture en marche. Déterminé à découvrir son identité, il se retrouve malgré lui au cœur d'une vaste conspiration aux ramifications internationales. Au fil d'une nuit particulièrement mouvementée, chaque décision l'entraîne un peu plus dans un engrenage dangereux, le contraignant à choisir entre ses intérêts personnels et son devoir de policier.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1453407"
+      }
+    ]
+  }
+}

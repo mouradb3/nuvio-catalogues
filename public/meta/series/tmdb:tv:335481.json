@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:335481",
+    "type": "series",
+    "name": "A Course Called Ireland",
+    "poster": "https://image.tmdb.org/t/p/w500/fqry4uxJuyFcSR3locllFwxES3K.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zh55w8Z9uYzLlaquhhrwmsgf6tT.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/335481"
+      }
+    ]
+  }
+}

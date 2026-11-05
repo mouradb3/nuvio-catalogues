@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1794750",
+    "type": "movie",
+    "name": "American Voices 2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wQzoxUlfDz71YAvIiDGdkB2FkNi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nm4leWTp70dfF9DNAahuMRXfggc.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1794750"
+      }
+    ]
+  }
+}

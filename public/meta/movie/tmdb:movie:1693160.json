@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1693160",
+    "type": "movie",
+    "name": "换骨",
+    "poster": "https://image.tmdb.org/t/p/w500/5zq1YXsLLBuW7udG33kvV8b2W0t.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1693160"
+      }
+    ]
+  }
+}

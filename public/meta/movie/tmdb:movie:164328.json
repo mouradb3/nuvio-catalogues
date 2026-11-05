@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:164328",
+    "type": "movie",
+    "name": "L'étrange petit chat",
+    "poster": "https://image.tmdb.org/t/p/w500/9cKsuqOmNigrzK48Rkmv1tHaGRr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
+    "description": "Une scène familiale dans un appartement de Berlin. Les deux adolescents Simon et sa soeur Karin rendent visite à leur parents et leur petite s?ur Clara, bientôt suivis par d'autres membres de cette famille élargie qui viennent dîner, ainsi que des voisins et amis présents pour diverses raisons comme réparer la machine à laver ou apporter les courses. Ils papotent et se consacrent à leurs petites activités qoutidiennes, qui se transforment en véritables événements.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/164328"
+      }
+    ]
+  }
+}

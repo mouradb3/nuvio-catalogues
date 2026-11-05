@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1811964",
+    "type": "movie",
+    "name": "SI Yugandhar",
+    "poster": "https://image.tmdb.org/t/p/w500/mIK5YnqQWKZxyQgaeDDVywUxNWo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hFKZK6R1iFvB1Da01rN28CqWYmi.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1811964"
+      }
+    ]
+  }
+}

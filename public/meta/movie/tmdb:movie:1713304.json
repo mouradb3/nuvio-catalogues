@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1713304",
+    "type": "movie",
+    "name": "The Anta Claus of the South Pole",
+    "poster": "https://image.tmdb.org/t/p/w500/9vNsRTtNSpV0mff5FWSj7V1kY28.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1BsdwZvTmHgUaFsBjhgEYLZXK0r.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1713304"
+      }
+    ]
+  }
+}

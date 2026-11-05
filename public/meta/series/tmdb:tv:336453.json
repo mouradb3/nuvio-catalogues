@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336453",
+    "type": "series",
+    "name": "Alerte à l'hôtel : 30 jours pour tout relancer",
+    "poster": "https://image.tmdb.org/t/p/w500/g3MXM5ixfiDFFzRTO44pK9mINg8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lkcj9IKfF4LylYT5qrz6wTC7hog.jpg",
+    "description": "Pendant 30 jours, deux experts en hôtellerie, Fred Sirieix et Pauline Petta, viennent en aide à des patrons d'hôtel en crise pour les aider à redresser la barre. Cash, exigeant mais bienveillant, le binôme s'installe à l'hôtel et passe tout au crible afin de proposer un plan d'action aux propriétaires pour relancer leur hôtel et améliorer les relations humaines au sein de l'entreprise. Face à des vérités parfois difficiles à entendre, les hôteliers n'ont qu'un seul choix : se remettre en question et transformer leur établissement !",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336453"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1662627",
+    "type": "movie",
+    "name": "On aboie en silence",
+    "poster": "https://image.tmdb.org/t/p/w500/xonXMZ6vK4kIpsRUcy615xHfet8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ua4XrCA5xaqVKmCaj8Pi5kJzUHq.jpg",
+    "description": "À 17 ans, Jérémy rêve de devenir cinéaste et partage une relation fusionnelle avec son grand frère Théo, rappeur en pleine ascension. Mais l’apparition de troubles psychotiques fait vaciller l’équilibre familial. Entre déni, crises et tentatives de création commune, les deux frères luttent pour préserver leur lien. Jérémy doit accepter la maladie, vivre avec et finalement renoncer à une vie qu’il imaginait.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1662627"
+      }
+    ]
+  }
+}

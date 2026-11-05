@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:338844",
+    "type": "series",
+    "name": "Prescription Musicale",
+    "poster": "https://image.tmdb.org/t/p/w500/pLBxSi1kV2R9Clz9Qwa7BU0bN4Z.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fGbufUmQCRy6ocS3GNIxSuJvEQU.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/338844"
+      }
+    ]
+  }
+}

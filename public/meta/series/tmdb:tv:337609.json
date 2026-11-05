@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:337609",
+    "type": "series",
+    "name": "Swiper avec le diable",
+    "poster": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg",
+    "description": "Sydney Loofe, 24 ans, disparaît après un rendez-vous Tinder. Ce qui n'est au départ qu'une simple affaire de disparition se transforme vite en un mystère troublant. Dans leur course pour la retrouver, les enquêteurs plongent au cœur d'un monde de manipulation et de sorcellerie, où des adeptes apprennent à contrôler les esprits et à user de la magie noire. Chaque indice révèle des faits si troublants qu'ils choquent même les agents les plus chevronnés du FBI. L'histoire de Sydney devient alors une leçon sur la confiance, la vulnérabilité et les dangers qui se cachent derrière des rencontres en apparence banales. Une affaire glaçante, aussi déroutante qu'inoubliable.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/337609"
+      }
+    ]
+  }
+}

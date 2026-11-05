@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1807243",
+    "type": "movie",
+    "name": "Chambord : les derniers trésors d'un géant de pierre",
+    "background": "https://image.tmdb.org/t/p/w1280/tylCXWiOtZORypEMwgc0JbJ0okv.jpg",
+    "description": "Le château de Chambord, chef-d'oeuvre architectural de François Ier, incarne la Renaissance française. Pourtant, derrière sa perfection géométrique apparente, ce monument de 440 pièces dissimule d'étranges anomalies. Aujourd'hui, historiens et scientifiques explorent ses espaces cachés pour percer les ultimes secrets de sa construction et découvrir si Léonard de Vinci a participé à sa conception.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1807243"
+      }
+    ]
+  }
+}

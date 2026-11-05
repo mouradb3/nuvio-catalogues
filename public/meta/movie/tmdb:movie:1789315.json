@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1789315",
+    "type": "movie",
+    "name": "Mallbound",
+    "poster": "https://image.tmdb.org/t/p/w500/4fKBnryAHIGvk0AV50Jxrox1fVc.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1789315"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1775352",
+    "type": "movie",
+    "name": "Remembrance",
+    "poster": "https://image.tmdb.org/t/p/w500/csSj6lNDAtzkaStpG7Oih7nDygj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fo8kliLYhtjBXEfM06qMvyA8pp5.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1775352"
+      }
+    ]
+  }
+}

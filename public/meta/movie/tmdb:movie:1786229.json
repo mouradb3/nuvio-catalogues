@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1786229",
+    "type": "movie",
+    "name": "Barrage de la Rance : le défi des marées",
+    "poster": "https://image.tmdb.org/t/p/w500/9RUcBn7Z14WhwFKw0L9O6drVJSp.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zzVFFWolEyfdCuSXvjNdmDf6sKZ.jpg",
+    "description": "Entre Saint-Malo et Dinard, l'usine marémotrice de la Rance, mise en service il y a 60 ans, est un défi fou lancé aux éléments, dans l'une des régions du monde où les marées sont les plus puissantes. Six décennies plus tard, le barrage reste une référence mondiale. Plongeon dans les entrailles de ce barrage hors norme.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1786229"
+      }
+    ]
+  }
+}

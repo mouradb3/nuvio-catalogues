@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1795723",
+    "type": "movie",
+    "name": "Diane Segard - Parades",
+    "poster": "https://image.tmdb.org/t/p/w500/qa3LiVguZjVdQf5BBYzmQL4iv4a.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zWIyOzJcUqVDkJbn7RUk8AgO8X2.jpg",
+    "description": "Après avoir conquis des millions d'internautes avec ses vidéos, Diane Segard monte sur scène avec \"Parades\", un show démesuré où l'humour se mêle à l'émotion, l'absurde au vrai, et la scène à la vie. Sur fond de musique, de chorégraphies, de personnages hauts en couleur et d'interventions aussi délirantes qu'inattendues, Diane explore les peurs et les parades inventées pour les apprivoiser. Ce spectacle est une comédie chorale portée par une seule artiste, une performance qui fait rire aux éclats, parfois grincer des dents, et qui touche droit au coeur. Captation les 17 et 18 avril 2026 au Dôme de Paris à Paris 15ème.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1795723"
+      }
+    ]
+  }
+}

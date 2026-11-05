@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1799804",
+    "type": "movie",
+    "name": "Israël, une démocratie en péril",
+    "poster": "https://image.tmdb.org/t/p/w500/qyhiR2YQsmUYSIJCBFBiuXTcKs0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/aKfp9bjfEH8IfNSVbZBwiOADzsB.jpg",
+    "description": "Depuis le 7 octobre 2023, Israël traverse la crise politique, morale et démocratique la plus profonde de son histoire récente. Le traumatisme des attaques du Hamas et la guerre prolongée à Gaza, au Liban, en Iran ont accentué des dynamiques déjà à l’œuvre : concentration du pouvoir exécutif, affaiblissement des contrepouvoirs et fragilisation des libertés publiques. Le fonctionnement institutionnel se maintient, tandis que les conditions du débat démocratique se transforment, rendant plus difficile l’exercice de la critique et accentuant les lignes de fracture au sein de la société.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1799804"
+      }
+    ]
+  }
+}

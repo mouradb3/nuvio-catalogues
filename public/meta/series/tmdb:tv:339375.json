@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339375",
+    "type": "series",
+    "name": "El Comité",
+    "poster": "https://image.tmdb.org/t/p/w500/bqxz4KKYEwNbCM2FGzlIARhIGLr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/yFV2pTuuE8vyHpK5ADK7LbG5o3r.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339375"
+      }
+    ]
+  }
+}

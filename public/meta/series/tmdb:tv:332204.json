@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:332204",
+    "type": "series",
+    "name": "Vanderpump Rules: Lisa Las Vegas",
+    "poster": "https://image.tmdb.org/t/p/w500/e0eX28mqJ2GEH8D85felMO6EqIm.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fBhJtIQZwR9oVRRDOhVRVn0wPjA.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/332204"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1813555",
+    "type": "movie",
+    "name": "Urgent Care",
+    "poster": "https://image.tmdb.org/t/p/w500/AgbAweb5d817JENJ4YSVyFUQiK5.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1813555"
+      }
+    ]
+  }
+}

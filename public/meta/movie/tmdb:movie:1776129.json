@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1776129",
+    "type": "movie",
+    "name": "Gloria",
+    "poster": "https://image.tmdb.org/t/p/w500/30rONXlNTT1K9u5NbKkFCOeEXvh.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1776129"
+      }
+    ]
+  }
+}

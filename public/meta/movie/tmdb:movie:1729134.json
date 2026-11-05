@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1729134",
+    "type": "movie",
+    "name": "Holiday Touchdown: A Bears Love Story",
+    "poster": "https://image.tmdb.org/t/p/w500/gEa1lZxMoxWakkcdYll9444Mf88.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hNRVmsj9XHuxHLvJTrkduDXzmMl.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1729134"
+      }
+    ]
+  }
+}

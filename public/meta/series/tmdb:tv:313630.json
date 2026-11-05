@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:313630",
+    "type": "series",
+    "name": "Eternally Yours",
+    "poster": "https://image.tmdb.org/t/p/w500/gMKJJtwOnTkhkbdQabyo7OKTosb.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1bmsSexBYKUlkst0TgHZCdf4EvH.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "8.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/313630"
+      }
+    ]
+  }
+}

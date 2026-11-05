@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1798741",
+    "type": "movie",
+    "name": "Hands, trees, heads, scars",
+    "poster": "https://image.tmdb.org/t/p/w500/AuECzDI197v5HepE6eACaohZK6I.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1798741"
+      }
+    ]
+  }
+}

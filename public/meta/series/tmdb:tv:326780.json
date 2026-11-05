@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:326780",
+    "type": "series",
+    "name": "Wanted : Attrape-moi si tu peux !",
+    "poster": "https://image.tmdb.org/t/p/w500/gCU7FO2PSElst0UQgamdDgrTJ3P.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/czEopXjOExMlnymzrwxGVtL6Lso.jpg",
+    "description": "16 célébrités, devenues les « fugitifs » devront tout faire pour ne pas se faire attraper par les trois célébrités « gardiens ». Privés d’argent, de téléphone et de tous leurs repères, les « fugitifs » devront se déplacer, se nourrir, se cacher et « survivre ». Dans une ambiance aussi fun que survoltée, « les gardiens » pourront compter sur un véhicule équipé de tous les outils technologiques mais aussi, et surtout… de vous ! Car pour la première fois en France, les téléspectateurs deviennent acteurs du jeu, en choisissant, via un numéro dédié, d’aider les gardiens… ou de protéger les fugitifs.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/326780"
+      }
+    ]
+  }
+}

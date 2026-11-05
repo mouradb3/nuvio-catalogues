@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1729010",
+    "type": "movie",
+    "name": "Le pacte des innocentes",
+    "poster": "https://image.tmdb.org/t/p/w500/7SS3Hspxj19h0e3pRrbgv6Vqj2s.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/Y30JqkSUjaCXDRfXqFy1hPSBFb.jpg",
+    "description": "Ellie, Jessica, Kendall et Lily sont quatre lycéennes inséparables. Lorsque la mère d'Ellie annonce leur déménagement, la jeune fille prévoit de s'enfuir avec son petit ami Caleb après une fête. Mais la soirée tourne mal lorsqu'elle apprend que Caleb l'aurait trompée. Quelques heures plus tard, Ellie disparaît sans laisser de trace. Tandis que des photos compromettantes de Jessica circulent dans le lycée, les soupçons se multiplient. Déterminée à retrouver sa fille, Tina, la mère d'Ellie, mène l'enquête avec le lieutenant Patel. Très vite, secrets, jalousies et trahisons menacent de faire éclater le groupe d'amies.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1729010"
+      }
+    ]
+  }
+}

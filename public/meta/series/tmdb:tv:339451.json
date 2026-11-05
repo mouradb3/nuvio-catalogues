@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339451",
+    "type": "series",
+    "name": "La bataille de Harvard",
+    "poster": "https://image.tmdb.org/t/p/w500/nNIDu5SztHHQPctoW1Q9miyWxSg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6Y2EVxaEAdskw3yEJeIHhKIJJmC.jpg",
+    "description": "Comment Harvard, haut-lieu de l'élite académique américaine, est-elle devenue le symbole de l'opposition aux offensives idéologiques du mouvement Maga ? Ce documentaire en trois parties nous plonge dans les coulisses d'Harvard et décrit un tournant historique : le déclin fulgurant des institutions intellectuelles dans une démocratie confrontée à la montée de l'autoritarisme.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339451"
+      }
+    ]
+  }
+}

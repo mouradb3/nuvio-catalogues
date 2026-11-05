@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336973",
+    "type": "series",
+    "name": "Hometown Giants",
+    "poster": "https://image.tmdb.org/t/p/w500/3aFyknHefFWZmV4tDUGgGYExHIG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4FNexVx1UJTBEqanRHQnaQkk3bB.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336973"
+      }
+    ]
+  }
+}

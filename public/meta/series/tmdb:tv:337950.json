@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:337950",
+    "type": "series",
+    "name": "La Messagerie du Diable",
+    "poster": "https://image.tmdb.org/t/p/w500/lMaSCFbCUbwR80DEAcxPe2nUFHv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/VYzYnfdpWeSyQcoOdZRObrt3H2.jpg",
+    "description": "Sky ECC, une application cryptée réputée inviolable, devient le refuge sûr de la pègre, jusqu'à ce que des enquêteurs français parviennent à la pirater.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/337950"
+      }
+    ]
+  }
+}

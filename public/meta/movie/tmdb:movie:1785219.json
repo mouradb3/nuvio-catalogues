@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1785219",
+    "type": "movie",
+    "name": "Route 66, une légende américaine",
+    "poster": "https://image.tmdb.org/t/p/w500/Avnhwbud3Fsh8Hua864tKH38iBv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kFOOi6HlDtGROdVvAxGN3DTB8Li.jpg",
+    "description": "Tracée entre Chicago et Los Angeles, la route 66 déroule près de quatre mille kilomètres à travers huit Etats, du Midwest aux rives du Pacifique, en passant par les plaines de l'Oklahoma et les déserts de l'Arizona. Mais ce film n'est ni un guide de voyage ni un documentaire historique au sens classique, il raconte comment un ruban d'asphalte est devenu une véritable fiction américaine. Rayée des registres fédéraux en 1985, la route se transforme en patrimoine avec l'Historic Route 66 mais c'est surtout par les images qu'elle survit. Un siècle après sa création, elle demeure une fiction collective, assez puissante pour continuer à raconter l'Amérique, ses rêves de liberté comme ses contradictions.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1785219"
+      }
+    ]
+  }
+}

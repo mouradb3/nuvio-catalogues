@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1807926",
+    "type": "movie",
+    "name": "Lara vs Escobar, une tragédie colombienne",
+    "poster": "https://image.tmdb.org/t/p/w500/bD1axNzUONxX7jodVaeSpDNVsO0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sv4iTEWQkDGKlbXINFfcnokfUtG.jpg",
+    "description": "Après près de trente ans d’exil, Jorge Lara retourne en Colombie pour découvrir quels hommes politiques sont impliqués dans l’assassinat de son père, Rodrigo Lara Bonilla, ministre colombien de la Justice, tué sur ordre du narcotrafiquant Pablo Escobar. Animé par un désir de justice et de vengeance, Jorge voit sa quête prendre une tournure inattendue lorsqu’il rencontre Juan Escobar, le fils du célèbre baron de la drogue. Confrontés aux blessures héritées de leurs pères et aux conséquences de leurs actes, les deux hommes découvrent des souffrances communes. Jorge doit alors reconsidérer sa quête de vengeance et envisager la possibilité d’une réconciliation.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1807926"
+      }
+    ]
+  }
+}

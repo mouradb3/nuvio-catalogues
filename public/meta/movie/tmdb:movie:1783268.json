@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1783268",
+    "type": "movie",
+    "name": "The Teenage Vampire",
+    "poster": "https://image.tmdb.org/t/p/w500/hhbcC4lUcaU7YW3Miq4XzUVEJY8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8O4JRME9XyFGRcaNbJ2HIffuYDR.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1783268"
+      }
+    ]
+  }
+}

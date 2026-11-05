@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1629356",
+    "type": "movie",
+    "name": "Capturing Bigfoot",
+    "poster": "https://image.tmdb.org/t/p/w500/t1ACTBkvJu6RrSmWIwOvmGvDbi1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tFP1ckHdNhrv8NK3nXF7L5sNngm.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1629356"
+      }
+    ]
+  }
+}

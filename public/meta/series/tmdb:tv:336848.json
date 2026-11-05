@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336848",
+    "type": "series",
+    "name": "Aux origines des terrorismes",
+    "poster": "https://image.tmdb.org/t/p/w500/gDDL64GcPKrGsRgcdkize1m8ll5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wlwp6ahdUJjNnTDZciTimhhEeAL.jpg",
+    "description": "Le terrorisme fait chaque année des milliers de morts dans le monde, des morts connus et inconnus.  Dans l’Antiquité, au Moyen Âge, à une époque où le mot terrorisme n’existait pas, on faisait déjà un usage démesuré de la terreur, a fortiori avec les guerres de religion.\n\nLe terrorisme a une histoire, et une préhistoire, qui a frappé tous les pays et qui éclaire tous les attentats d’aujourd’hui, que nous allons vous raconter avec les meilleurs spécialistes.\n\nJohann Chapoutot (professeur émérite à l’Université de Strasbourg), Gilles Ferragu (maître de conférences à Paris Nanterre et Sciences Po Paris), Asiem Difraoui (politologue, Candid Fondation), Nicole Bachanan (politologue française spécialiste des États-Unis)…",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336848"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340106",
+    "type": "series",
+    "name": "Love Island Australia: Unseen. Uncut.",
+    "poster": "https://image.tmdb.org/t/p/w500/e6VN49hyQGuY5oQ1ZRQWX9aHhJ5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/b9PMHHHqyOjYIOCjA8Vb2QiYe1R.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340106"
+      }
+    ]
+  }
+}

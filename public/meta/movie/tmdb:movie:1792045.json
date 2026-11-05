@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1792045",
+    "type": "movie",
+    "name": "Falaises de Bonifacio : érosion inévitable ?",
+    "poster": "https://image.tmdb.org/t/p/w500/6qQIaqVEOFiCU7CA0LNVeUVyck3.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/yoNxztVCSKU8HmQgaDi5LWVMMk0.jpg",
+    "description": "Perchée sur ses falaises calcaires à plus de 80 mètres au-dessus de la Méditerranée, Bonifacio fascine depuis le XIIe siècle. Derrière cette image de carte postale se cache une menace bien réelle. Soumises aux assauts incessants de la mer et fragilisées par les infiltrations d'eau de pluie, les falaises s'érodent progressivement. En 2022, le danger est monté d'un cran : plusieurs habitations ont été visées par des arrêtés préfectoraux en raison des risques d'effondrement. Sur place, scientifiques et géologues cherchent à comprendre l'évolution de ce phénomène et à anticiper les prochains éboulements. À travers leurs recherches, la cité, conçue à l'origine comme une forteresse imprenable, révèle son extrême fragilité. Jusqu'où l'érosion pourrait-elle mettre en péril l'avenir de Bonifacio ?",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1792045"
+      }
+    ]
+  }
+}

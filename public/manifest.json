@@ -1,0 +1,112 @@
+{
+  "id": "org.nuvio.streaming.fr",
+  "version": "1.2.0",
+  "name": "Nuvio — Nouveautés FR + Canada",
+  "description": "Nouveautés et changements de disponibilité France et Canada via TMDB/JustWatch. Les offres canadiennes ne garantissent pas une piste VFQ.",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "nuvio-streaming-new-movies",
+      "name": "Nouveautés streaming — Films (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-streaming-new-series",
+      "name": "Nouveautés streaming — Séries (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-streaming-canada-movies",
+      "name": "Sorties récentes — Films (Canada, VFQ possible)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-streaming-canada-series",
+      "name": "Sorties récentes — Séries (Canada, VFQ possible)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-streaming-removed-movies",
+      "name": "Récemment retirés — Films (90 jours)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-streaming-removed-series",
+      "name": "Récemment retirés — Séries (90 jours)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-streaming-trending-movies",
+      "name": "Tendances — Films disponibles en France",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-streaming-trending-series",
+      "name": "Tendances — Séries disponibles en France",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "tmdb:movie:",
+    "tmdb:tv:"
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false
+  }
+}

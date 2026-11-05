@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1797387",
+    "type": "movie",
+    "name": "Les nouveaux influenceurs, quand le savoir devient viral",
+    "poster": "https://image.tmdb.org/t/p/w500/s8ggEApPKkJ8Z0iTAE8mQbTIOPt.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/i42yGgNegwMKAgRyiBBUfMPXQY1.jpg",
+    "description": "Quel est le point commun entre une radiologue, un vulgarisateur scientifique, un permaculteur, une vétérinaire et un kinésithérapeute ? Ils sont tous devenus créateurs de contenus sur les réseaux sociaux. Ni artistes, ni chanteurs, ces professionnels deviennent des figures publiques malgré eux. Quand le savoir rencontre la viralité : enquête.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1797387"
+      }
+    ]
+  }
+}

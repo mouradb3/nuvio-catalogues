@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1805036",
+    "type": "movie",
+    "name": "Zombies - La fascination des morts-vivants",
+    "poster": "https://image.tmdb.org/t/p/w500/lSkBWGvPInLgguDlA3YBtZHgOic.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fVKwLtuQIYrGx0S5KEUif2ZBS1F.jpg",
+    "description": "Parce qu'ils nous captivent autant qu'ils nous effraient, les zombies ont colonisé nos angoisses les plus profondes. Retour sur l'histoire de ces hordes sauvages qui, de près ou de loin, nous ressemblent quand même furieusement. Frissons garantis.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1805036"
+      }
+    ]
+  }
+}

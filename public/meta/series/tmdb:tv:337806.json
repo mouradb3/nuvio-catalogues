@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:337806",
+    "type": "series",
+    "name": "Least Eligible Bachelor",
+    "poster": "https://image.tmdb.org/t/p/w500/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/y7jCp3fZuKEyw6F3I8tseyJyl2L.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/337806"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:286171",
+    "type": "series",
+    "name": "尚公主",
+    "poster": "https://image.tmdb.org/t/p/w500/bgPVGcFIlY2vetjneDXQ1WQbJRD.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+    "description": "Cette histoire raconte celle de Mu Wanyao, une jeune fille issue de la noblesse qui refuse d'accepter son destin, et de Yan Shang, un jeune homme brillant issu d'un milieu modeste. Ensemble, ils se battent pour bâtir un monde pacifique. Au milieu du chaos d'une époque troublée, leurs rêves pourront-ils se réaliser ?",
+    "releaseInfo": "2026",
+    "imdbRating": "9.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/286171"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:334703",
+    "type": "series",
+    "name": "Couldn't Agree Less with Allison & Isaac",
+    "poster": "https://image.tmdb.org/t/p/w500/bm5X8IbXWEfxtYFUEOazKTJ1UhG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xwHi0s6GHldlSf4KUYmgWXyqvYm.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/334703"
+      }
+    ]
+  }
+}

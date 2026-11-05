@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339733",
+    "type": "series",
+    "name": "Vendée Globe, seuls autour du monde",
+    "poster": "https://image.tmdb.org/t/p/w500/fZBtPc9A5KuQK0ck5DX2gld5Rdi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/135dMDMd2v1dwwjUniiT2yFp1GT.jpg",
+    "description": "Une immersion totale au cœur de la 10e édition (2024-2025) du Vendée Globe. Grâce à des caméras embarquées, la série suit le quotidien extrême de six skippers (Jérémie Beyou, Conrad Colman, Clarisse Crémer, Violette Dorange, Pip Hare et Thomas Ruyant), mais aussi l'angoisse de leurs familles restées à terre et les coulisses de la direction de course.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339733"
+      }
+    ]
+  }
+}

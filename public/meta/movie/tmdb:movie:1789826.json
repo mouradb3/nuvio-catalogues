@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1789826",
+    "type": "movie",
+    "name": "Confessions d'une accro à Noël",
+    "poster": "https://image.tmdb.org/t/p/w500/rzByMC9x3FdKp4u4DrThqyLxQpY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9ApCYxqPSr9OKuxaCeNMxuo4wnd.jpg",
+    "description": "Mélanie Patterson est une passionnée des fêtes de fin d'année, qui met une petite touche de Noël, dans tous les évènements qu'elle organise. Son seul problème : elle dépense toujours trop... Ce qui lui vaut de perdre son emploi. Elle décide alors de se mettre à son compte et de lancer sa nouvelle carrière, à l'occasion du réveillon qu'elle organise chaque année pour tous les habitants de son quartier.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1789826"
+      }
+    ]
+  }
+}

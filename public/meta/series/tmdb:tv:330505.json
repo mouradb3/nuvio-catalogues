@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:330505",
+    "type": "series",
+    "name": "Uncle's Obsession with Cute Things",
+    "poster": "https://image.tmdb.org/t/p/w500/e5SBbNvz6Fz0jfOXm8yI0CdPZYe.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kn0Vt7Zft7cDIp5YKwLkoNWJbJy.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/330505"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1290062",
+    "type": "movie",
+    "name": "Land of Shadows",
+    "poster": "https://image.tmdb.org/t/p/w500/jnKUmaR661bXpVDFh6xMFcs6LyA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iFYgthtJa8XusX3ZKZiRrolz5Im.jpg",
+    "description": "Suite à un événement tragique qui a bouleversé sa vie, la célèbre écrivaine Alice Chevalier peine à retrouver un sens à son existence. En quête de réponses et d’un signe du destin, elle rencontre Thomas, un homme énigmatique qui lui propose une expérience défiant les limites du réel. Poussée par l’espoir de se reconstruire, Alice s’engage dans un voyage mystique, telle une astronaute explorant les confins de l’inconnu.",
+    "releaseInfo": "2026",
+    "imdbRating": "9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1290062"
+      }
+    ]
+  }
+}

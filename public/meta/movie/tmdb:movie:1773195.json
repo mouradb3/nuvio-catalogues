@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1773195",
+    "type": "movie",
+    "name": "Winter Wonderlanes",
+    "poster": "https://image.tmdb.org/t/p/w500/yNCm44kxZ938J7XrNWawGUVXaUf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/maXw6aS1ot5SpBFwJIt7HjV9xdp.jpg",
+    "description": "Audrey Bell est une restauratrice éphémère globe-trotteuse qui rentre chez elle pour Thanksgiving en apprenant que le bowling adoré de son défunt grand-père, Wonderlanes, sera vendu. Audrey accepte de rester pour une dernière saison des fêtes à Wonderlanes et décide de relancer son emblématique tournoi de bowling pour jeunes Winter Wonderlanes. Pour faire de la publicité pour l'événement, elle s'associe à contrecœur à Jason Miller , un journaliste local, et à son petit ami de lycée...",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1773195"
+      }
+    ]
+  }
+}

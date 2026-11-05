@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1786184",
+    "type": "movie",
+    "name": "Un Soir d'Été sous la Tour Eiffel avec la Maîtrise de Radio France",
+    "poster": "https://image.tmdb.org/t/p/w500/eze74kjUq8XC9JEao7adS7imim0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9t5nP6Plv7uDvVBovo08GvxcMNt.jpg",
+    "description": "Le 13 juillet 2026, la Maîtrise de Radio France a offert un concert en plein air sur l'esplanade du Champ-de-Mars, au pied de la tour Eiffel illuminée, accompagnée des pianistes Thomas Tacquet et Julien Joubert et de la violoncelliste franco-brésilienne Dom La Nena. Fondée il y a 80 ans, la Maîtrise de Radio France, dirigée par Sofi Jeannin, est le choeur d'enfants le plus célèbre du pays. C'est une école de chant et de musique qui forme environ 160 enfants et adolescents venus de toute la France à Paris et aussi à Bondy, en Seine-Saint-Denis. La Maîtrise de Radio France, avec son répertoire varié, a su, lors de cette soirée d'été, captiver le public et offrir un spectacle inoubliable. Captation le 13 juillet 2026 au pied de la Tour Eiffel à Paris 7ème.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1786184"
+      }
+    ]
+  }
+}

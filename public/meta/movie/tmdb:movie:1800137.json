@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1800137",
+    "type": "movie",
+    "name": "Ma vie Maga",
+    "poster": "https://image.tmdb.org/t/p/w500/cuVbGopYRL7pLWszwgpP0pma1DV.jpg",
+    "description": "Plongée schizophrénique dans une Amérique aux deux visages, entre les stars de la galaxie Maga et les habitants d’un quartier latino de Washington. À travers un récit personnel, le reportage raconte la violence sur les vies, sur les mots et décrypte les stratégies qui transforment durablement le regard des Américains sur la réalité.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1800137"
+      }
+    ]
+  }
+}

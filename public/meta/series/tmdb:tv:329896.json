@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:329896",
+    "type": "series",
+    "name": "Locker Diaries: Coven Academy",
+    "poster": "https://image.tmdb.org/t/p/w500/v5BziDsE1ZFRYNWR72iPz4aWjkI.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wIy2AbWhq92iVyc0LQ3GifKylnK.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/329896"
+      }
+    ]
+  }
+}

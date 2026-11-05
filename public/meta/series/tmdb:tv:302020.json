@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:302020",
+    "type": "series",
+    "name": "Tetsuryō! Meet With Railroad Girls",
+    "poster": "https://image.tmdb.org/t/p/w500/vHXCic8xST3Htbb7O98RKQR1pSv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
+    "description": "Misaki, jeune étudiante en quête de repères, traverse des journées incertaines sans savoir ce que l’avenir lui réserve. Mais son quotidien bascule lorsqu’elle découvre le club universitaire de voyages ferroviaires, le club « Tetsuryo » ! Aux côtés de nouvelles camarades, elle s’embarque dans des expéditions à travers le Japon, portée par la magie des rails et l’envie de trouver ce qui la fait vraiment vibrer au fond d’elle. Chaque trajet devient l’occasion d’explorer de nouveaux horizons, de tisser des liens et de transformer l’ordinaire en souvenirs inoubliables…",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/302020"
+      }
+    ]
+  }
+}

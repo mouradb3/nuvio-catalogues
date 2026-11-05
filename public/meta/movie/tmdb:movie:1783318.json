@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1783318",
+    "type": "movie",
+    "name": "Droit ou pas droit ?",
+    "poster": "https://image.tmdb.org/t/p/w500/mDMZ2jssdlgQTqbm77KHuX21Vzr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/60vrEPh5rHgWXamqCIKo4BlyDcc.jpg",
+    "description": "Chaque année, et depuis 2017, à l'occasion de l'anniversaire de la Constitution de 1958, se tient sur l'ensemble du territoire national la Nuit du droit. A cette occasion, Anne-Elisabeth Lemoine présente \"Droit ou pas droit ?\", un jeu qui éclaire l'importance du droit dans notre quotidien. Plusieurs candidats, jeunes avocats, doivent répondre à des questions sur différents types de droits concernant aussi bien la vie quotidienne que la vie citoyenne. Entourée d'experts reconnus, Anne-Elisabeth Lemoine, avec la complicité de Caroline Vigneaux et de nombreuses personnalités, aura aussi pour mission de démontrer que le droit est précieux pour la démocratie.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1783318"
+      }
+    ]
+  }
+}

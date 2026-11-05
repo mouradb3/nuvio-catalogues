@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:311648",
+    "type": "series",
+    "name": "내가 떨릴 수 있게",
+    "poster": "https://image.tmdb.org/t/p/w500/aGX71DFozG55achSbKd225LHGMj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
+    "description": "Yeon-su a grandi dans une famille conservatrice, où la courtoisie et la discipline priment sur tout, ce qui lui a quelque peu compliqué la découverte de sa véritable personnalité. Un jour, elle se retrouve impliquée dans une entreprise spécialisée dans les jouets érotiques et fait la connaissance de Dokgo Dal, qui lui ouvre les portes d’un tout autre univers. Alors que leur amour s’épanouit, Yeon-su découvre non seulement ses émotions, mais prend également conscience de l’importance du désir physique, ce qui l’amène à atteindre une véritable maturité.",
+    "releaseInfo": "2026",
+    "imdbRating": "9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/311648"
+      }
+    ]
+  }
+}

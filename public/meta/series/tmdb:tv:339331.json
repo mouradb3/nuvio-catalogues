@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339331",
+    "type": "series",
+    "name": "Snapped: Killer Moms",
+    "poster": "https://image.tmdb.org/t/p/w500/hzK3n44hwSrXbHSp82F8C6K9LhW.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339331"
+      }
+    ]
+  }
+}

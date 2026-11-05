@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:320754",
+    "type": "series",
+    "name": "Les Affaires organisées",
+    "poster": "https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+    "description": "Lorsqu'une carte légendaire tombe entre les mains d'un célèbre escroc, il décide de monter une dernière arnaque avant d'arrêter pour de bon.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/320754"
+      }
+    ]
+  }
+}

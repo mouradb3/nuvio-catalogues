@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340755",
+    "type": "series",
+    "name": "L'Influence de Cocottee",
+    "poster": "https://image.tmdb.org/t/p/w500/eKLzvALsetbTD3SZ5hAWxfWbe4e.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340755"
+      }
+    ]
+  }
+}

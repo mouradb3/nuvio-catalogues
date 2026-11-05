@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "tmdb:tv:337332",
+    "type": "series",
+    "name": "Fauchées",
+    "description": "Un héritage, deux cousines, huit péripéties ! Pour rembourser leurs dettes, Suzanne et Mona vendent les objets de leur grand-mère. Entre acheteurs loufoques, arnaques et souvenirs, chaque vente se transforme en aventure...",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/337332"
+      }
+    ]
+  }
+}

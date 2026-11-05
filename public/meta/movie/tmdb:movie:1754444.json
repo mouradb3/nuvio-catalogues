@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1754444",
+    "type": "movie",
+    "name": "Torus",
+    "poster": "https://image.tmdb.org/t/p/w500/a9LIVxjVMnJqtwdBbs9Kl1ZX9er.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1754444"
+      }
+    ]
+  }
+}

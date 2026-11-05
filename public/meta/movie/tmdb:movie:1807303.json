@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1807303",
+    "type": "movie",
+    "name": "Pining for Douglas",
+    "poster": "https://image.tmdb.org/t/p/w500/bXKj4rQtcRbkdP8xqmgzXmTg3kc.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1807303"
+      }
+    ]
+  }
+}

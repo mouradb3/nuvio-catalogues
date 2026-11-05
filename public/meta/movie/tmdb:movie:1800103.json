@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1800103",
+    "type": "movie",
+    "name": "Brésil, le pouvoir des évangéliques",
+    "poster": "https://image.tmdb.org/t/p/w500/reJHLRz7EwagFEUfrus7vKPSadY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oI8JoW6P4GSJaG5m1NulghmoFw3.jpg",
+    "description": "Entre mégaéglises et favelas, médias et Chambre des députés, un captivant tour d'horizon d'une \"planète\" évangélique brésilienne, ralliée en majorité à l'extrême droite à l’approche des élections générales des 4 et 25 octobre.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1800103"
+      }
+    ]
+  }
+}

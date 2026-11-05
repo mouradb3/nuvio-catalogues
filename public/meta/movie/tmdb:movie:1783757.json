@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1783757",
+    "type": "movie",
+    "name": "Mellem Bjerge",
+    "poster": "https://image.tmdb.org/t/p/w500/kH3el8JpFUhvUl7d0LRVZVmNUIl.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1783757"
+      }
+    ]
+  }
+}

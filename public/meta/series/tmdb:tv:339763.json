@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339763",
+    "type": "series",
+    "name": "The Last Drive-In with Joe Bob Briggs: Joe Bob's Halloween House Party",
+    "poster": "https://image.tmdb.org/t/p/w500/ycq1nK1Z69z2dcZ0grDxLrbu2i2.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339763"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1436979",
+    "type": "movie",
+    "name": "LOOT: A Story of Crime and Redemption",
+    "poster": "https://image.tmdb.org/t/p/w500/xU7dPM144JTluqeuELZyHjcWElo.jpg",
+    "description": "",
+    "releaseInfo": "2025",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1436979"
+      }
+    ]
+  }
+}

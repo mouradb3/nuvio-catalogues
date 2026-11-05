@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:335951",
+    "type": "series",
+    "name": "여름방학",
+    "poster": "https://image.tmdb.org/t/p/w500/n6di6hbhC2vQZmFOrfieQLHU8MI.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tXSbEP4vGLOBpJtFg2Vsmm6aStx.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/335951"
+      }
+    ]
+  }
+}

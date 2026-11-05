@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:313137",
+    "type": "series",
+    "name": "The Golden Life",
+    "poster": "https://image.tmdb.org/t/p/w500/e7OGE2mfvhfDCd1jJNju5G155hX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pnWDLePHuMROfNN0a13asDpUr7I.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/313137"
+      }
+    ]
+  }
+}

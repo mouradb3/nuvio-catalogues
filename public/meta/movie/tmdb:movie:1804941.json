@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1804941",
+    "type": "movie",
+    "name": "Mike Tyson: Return of the Mike",
+    "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1804941"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1810062",
+    "type": "movie",
+    "name": "La musique hongroise : essentielle et existentielle",
+    "poster": "https://image.tmdb.org/t/p/w500/ory7uc3wPP6qyPwlQXkwHYPifY2.jpg",
+    "description": "Une évocation de l’histoire mouvementée de la Hongrie au XXe siècle à travers les destins de ses grands compositeurs : Bela Bartok, György Ligeti, mais aussi György Kurtag, légende vivante aujourd’hui centenaire.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1810062"
+      }
+    ]
+  }
+}

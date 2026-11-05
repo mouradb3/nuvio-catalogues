@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336770",
+    "type": "series",
+    "name": "Just One Before I Die",
+    "poster": "https://image.tmdb.org/t/p/w500/iFUUUhnknowUI1JBaJZ9OOsdIhA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/31ODENurhjSSsbw7O1oAoSYtR2h.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336770"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1749825",
+    "type": "movie",
+    "name": "Ebenezer Scrooge: A Christmas Carol Horror",
+    "poster": "https://image.tmdb.org/t/p/w500/AgmA793SvgZidRwYJvba5MjK3m1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qRgZvZ1auGg2pWaQdMQtSu0vdik.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1749825"
+      }
+    ]
+  }
+}

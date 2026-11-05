@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:339413",
+    "type": "series",
+    "name": "Au service de la mafia",
+    "poster": "https://image.tmdb.org/t/p/w500/ePdEobfr2K97ZaephabcAj15Zu4.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iLV3SiMtihGituLJKXLNy3ifplb.jpg",
+    "description": "Un couple ordinaire, une maison de banlieue et la mafia en toile de fond. Une descente vertigineuse dans l'engrenage du crime organisé.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/339413"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1805615",
+    "type": "movie",
+    "name": "GTA, le jeu no limit",
+    "poster": "https://image.tmdb.org/t/p/w500/8afN9cOWn4chAxnlFso15FkBvRm.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5q0wDT7LlYpeujPch6VS3x7akRZ.jpg",
+    "description": "Alors que GTA 6, le jeu vidéo le plus attendu de l’histoire déferlera sur la planète en ce mois de novembre 2026, plongez au cœur de l’histoire d’un titan de la pop culture ! En trente ans, Grand Theft Auto, désormais connu sous l'acronyme GTA, est passé du statut de paria rejeté par la classe politique et les médias à celui d’œuvre iconique incontournable.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1805615"
+      }
+    ]
+  }
+}

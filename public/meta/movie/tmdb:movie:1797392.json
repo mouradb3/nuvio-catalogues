@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1797392",
+    "type": "movie",
+    "name": "Kordell Stewart / Slash & Burn",
+    "poster": "https://image.tmdb.org/t/p/w500/wVZXTyC92jRU7lwn5QjhDs7FORk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oTMqOh1FPl7bdlrlp4YUHfGz6TR.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1797392"
+      }
+    ]
+  }
+}

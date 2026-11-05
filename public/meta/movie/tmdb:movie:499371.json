@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:499371",
+    "type": "movie",
+    "name": "டைட்டானிக்",
+    "poster": "https://image.tmdb.org/t/p/w500/96HzElhMpJ1FxMNwWFULRiE49kX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mKqBgSkWbU1TH3kYTSFJz1SGJOj.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/499371"
+      }
+    ]
+  }
+}

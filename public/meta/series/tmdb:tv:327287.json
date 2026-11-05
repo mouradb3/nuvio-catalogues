@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:327287",
+    "type": "series",
+    "name": "Doula: A True Crime",
+    "poster": "https://image.tmdb.org/t/p/w500/iXazgzljqIwHn9l2fSt5cr5HHUl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6WvsrwAOSehdERi8pbqcBSXw02h.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/327287"
+      }
+    ]
+  }
+}

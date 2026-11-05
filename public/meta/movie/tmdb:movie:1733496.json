@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1733496",
+    "type": "movie",
+    "name": "Pat & Mat: Zpátky na venkově",
+    "poster": "https://image.tmdb.org/t/p/w500/4dqaAiwD901V0JjnJqgbf8TdQrx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5PtsnmlnL1x7j3oZFc4eiTuMlgt.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1733496"
+      }
+    ]
+  }
+}

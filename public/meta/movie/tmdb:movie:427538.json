@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:427538",
+    "type": "movie",
+    "name": "My Happy End",
+    "poster": "https://image.tmdb.org/t/p/w500/1QbcrDqQ9QUKddVYaNXyOrW43ei.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/w9qnmKLVBQxfcHm4x40gKtLxduy.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/427538"
+      }
+    ]
+  }
+}

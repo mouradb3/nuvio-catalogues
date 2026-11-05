@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1282159",
+    "type": "movie",
+    "name": "Let's Have Kids!",
+    "poster": "https://image.tmdb.org/t/p/w500/cY78RP8wjO7Kct4dFiYOYLg2Rxw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/A42JE6WJDMsICN3NU6XkUyYEF5F.jpg",
+    "description": "Les amies d'enfance Emma et Phoebe ont le pacte de tomber enceintes en même temps, persuadées de pouvoir affronter la maternité ensemble. Mais quand leur plan plonge dans le chaos, ce qui devait les rapprocher menace de les séparer. Alors que leurs vies s'éloignent, elles doivent lutter pour protéger l'amitié qui les a fait traverser toutes les épreuves.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1282159"
+      }
+    ]
+  }
+}

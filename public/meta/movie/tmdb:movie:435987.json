@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:435987",
+    "type": "movie",
+    "name": "Un dessert pour Constance",
+    "poster": "https://image.tmdb.org/t/p/w500/oRAr4RyqMHoLz7s5JoBbCpHYD9g.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bKwTNbtBl7Brtfo3GNc0REd8ohS.jpg",
+    "description": "Pour nombre de personnes bien intentionnées, les immigrés Africains étaient (à l’époque des « Trente Glorieuses ») tout juste bon à ramasser nos ordures. Ici, deux éboueurs trouvent un livre de cuisine jetée aux ordures. À sa lecture, ils se prennent de passion pour la cuisine française. Ce qui n’était qu’un passe-temps pour deux hommes fauchés mais gourmands va devenir un vrai savoir. A défaut de bons repas, ils dévorent le contenu d’un livre beau comme un roman d’aventures ! Exotiques, à leurs yeux ! Au point qu’il se présentent à un jeu télévisé et réussissent si bien qu’ils sont en passe de gagner la somme dont ils ont besoin pour sauver un de leurs amis atteint d’une grave maladie...",
+    "releaseInfo": "1981",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/435987"
+      }
+    ]
+  }
+}
