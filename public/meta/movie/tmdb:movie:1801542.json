@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1801542",
+    "type": "movie",
+    "name": "Sommes-nous tous accros aux écrans ?",
+    "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
+    "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1801542"
+      }
+    ]
+  }
+}

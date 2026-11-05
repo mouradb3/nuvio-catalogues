@@ -25,7 +25,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
       "description": "Une jeune mécanicienne accepte de jouer la fiancée d'un champion automobile en pleine disgrâce, en apparence pour aider à redorer l'image du pilote, en secret pour s'offrir sa chance au volant. Mais le mensonge menace bientôt de tout détruire, y compris ce qui est devenu bien plus qu'un simple arrangement…",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -39,7 +39,7 @@
       "type": "movie",
       "name": "La Légende de Derry",
       "poster": "https://image.tmdb.org/t/p/w500/95jDCfMC1MNXowaXxPpHuWP5zAr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
       "description": "Des centaines d’années avant Pennywise, trois jeunes s’aventurent dans la forêt de l’Ouest où ils rencontrent un esprit ancien terrifiant.",
       "releaseInfo": "2026",
       "imdbRating": "6.9",
@@ -52,14 +52,31 @@
       ]
     },
     {
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1294189"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1571955",
       "type": "movie",
       "name": "Colisión",
       "poster": "https://image.tmdb.org/t/p/w500/fO0urhdE9nNycAfBdwtLt80uKoi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xDw1Qm73qioQKCOx2VP5w4CBusL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "description": "En pleine crise économique, un groupe de cambrioleurs s'introduit dans une banque à Madrid, déclenchant une série d'événements imprévisibles. Ce qui s'apparentait au départ à un simple braquage se transforme en un jeu de dupes et de peur où tout est affaire de survie : chaque décision compte, chaque geste cache quelque chose et chacun cherche à échapper à un châtiment pire que la prison.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -144,7 +161,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
       "description": "Quand un voleur légendaire jette son dévolu sur La Joconde, il recrute deux jeunes inconnus pour l'aider (Chiara, une experte italienne du cybercrime et Jay, un spécialiste français des explosifs) avant de leur révéler qu'il est leur père. Au milieu de retrouvailles chaotiques, cette nouvelle famille devra apprendre à collaborer et éviter de s'entretuer si elle veut réussir le casse du siècle.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -171,6 +188,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1570488"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1789549",
       "type": "movie",
       "name": "Le Cadeau D'anniversaire",
@@ -178,7 +212,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -279,7 +313,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
       "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -514,6 +548,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
       "description": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé : elle leur demande de ne pas plaider coupable. Gisèle va faire ce qui n’a jamais été fait auparavant, elle va accuser et attaquer la loi, au risque de tout perdre. Au nom de toutes.",
       "releaseInfo": "2026",
+      "imdbRating": "10",
       "links": [
         {
           "name": "TMDB",
@@ -600,6 +635,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1789315"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1801542",
+      "type": "movie",
+      "name": "Sommes-nous tous accros aux écrans ?",
+      "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
+      "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1801542"
         }
       ]
     },
@@ -1454,6 +1506,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1812753",
+      "type": "movie",
+      "name": "Poutine : Après l’Ukraine, l’Europe ?",
+      "poster": "https://image.tmdb.org/t/p/w500/rcD8PXg4OJREIn0qo5regXFt4hC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tUtDBa77cz3PDLgpXBO5ChMBuSp.jpg",
+      "description": "La guerre en Ukraine a bouleversé les équilibres sécuritaires en Europe. Alors que la Russie renforce ses capacités militaires, les pays de l’Otan revoient leurs stratégies de défense et envisagent de nouveaux scénarios. Entre dissuasion et préparation à la guerre, où en est l’Europe ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1812753"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1796392",
       "type": "movie",
       "name": "Tisuće metara, stotine sati",
@@ -1577,67 +1646,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1807947"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1796655",
-      "type": "movie",
-      "name": "Struck",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1796655"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1797393",
-      "type": "movie",
-      "name": "La folle histoire de Barbie",
-      "poster": "https://image.tmdb.org/t/p/w500/hKJtMzqjuH32oAkfl64fIXjF2Fw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/v1ZrG2jXivqAkESAzhmJsZwy9OG.jpg",
-      "description": "Depuis plus de soixante-cinq ans, Barbie traverse les générations. Peu épargnée par la pop culture, elle connaît une nouvelle consécration avec le blockbuster de 2023 porté par Margot Robbie. Quels ont été les ingrédients de ce succès, et comment sa créatrice Ruth Handler les a-t-elle trouvés ? Surtout, comment Barbie a-t-elle traversé les décennies sans disparaître ?",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1797393"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1786229",
-      "type": "movie",
-      "name": "Barrage de la Rance : le défi des marées",
-      "poster": "https://image.tmdb.org/t/p/w500/9RUcBn7Z14WhwFKw0L9O6drVJSp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zzVFFWolEyfdCuSXvjNdmDf6sKZ.jpg",
-      "description": "Entre Saint-Malo et Dinard, l'usine marémotrice de la Rance, mise en service il y a 60 ans, est un défi fou lancé aux éléments, dans l'une des régions du monde où les marées sont les plus puissantes. Six décennies plus tard, le barrage reste une référence mondiale. Plongeon dans les entrailles de ce barrage hors norme.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1786229"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1792396",
-      "type": "movie",
-      "name": "Free Zone",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1792396"
         }
       ]
     }

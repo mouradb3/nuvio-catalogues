@@ -1,5 +1,140 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:305935",
+      "type": "series",
+      "name": "Les Disparus des Argonnes",
+      "poster": "https://image.tmdb.org/t/p/w500/7FfddTLaRDNI91W6uhrdlUURis2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4xXazUotfm3Hotm4pi3ELC8fOfS.jpg",
+      "description": "Le combat de Jocelyne Veyrades, une mère de famille modeste dont le fils, Gilles, disparaît en 1981 lors d’une permission pendant son service militaire. Les autorités évoquent une désertion, mais Jocelyne refuse de croire à cette explication. Elle pense que quelque chose de beaucoup plus grave s’est produit. Au fil des années, d’autres jeunes appelés disparaissent dans des circonstances similaires. Face au silence de l’institution militaire et à l’inaction de la justice, Jocelyne rejoint d'autres familles frappées par le même drame. Ensemble, elles brisent le mur de l’indifférence et mènent une lutte acharnée pour faire entendre leur voix.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305935"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:305935",
+      "type": "series",
+      "name": "Les Disparus des Argonnes",
+      "poster": "https://image.tmdb.org/t/p/w500/7FfddTLaRDNI91W6uhrdlUURis2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4xXazUotfm3Hotm4pi3ELC8fOfS.jpg",
+      "description": "Le combat de Jocelyne Veyrades, une mère de famille modeste dont le fils, Gilles, disparaît en 1981 lors d’une permission pendant son service militaire. Les autorités évoquent une désertion, mais Jocelyne refuse de croire à cette explication. Elle pense que quelque chose de beaucoup plus grave s’est produit. Au fil des années, d’autres jeunes appelés disparaissent dans des circonstances similaires. Face au silence de l’institution militaire et à l’inaction de la justice, Jocelyne rejoint d'autres familles frappées par le même drame. Ensemble, elles brisent le mur de l’indifférence et mènent une lutte acharnée pour faire entendre leur voix.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305935"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

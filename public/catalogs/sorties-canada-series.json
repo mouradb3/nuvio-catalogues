@@ -1,5 +1,190 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:tv:334351",
+      "type": "series",
+      "name": "十六夜膳房",
+      "poster": "https://image.tmdb.org/t/p/w500/zDNTcpvyWeOUetZFUmRxGKUuZJm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qTcqDMXpSAwjtnYQiaYM33ZzjCC.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334351"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:334351",
+      "type": "series",
+      "name": "十六夜膳房",
+      "poster": "https://image.tmdb.org/t/p/w500/zDNTcpvyWeOUetZFUmRxGKUuZJm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qTcqDMXpSAwjtnYQiaYM33ZzjCC.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334351"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:340754",
+      "type": "series",
+      "name": "L'Influence de Fred",
+      "poster": "https://image.tmdb.org/t/p/w500/1InnDKKQJdZTZdN9A5mTE7zkpvx.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/340754"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:279246",
+      "type": "series",
+      "name": "L'impératrice remariée",
+      "poster": "https://image.tmdb.org/t/p/w500/1TKAhnnicIIV5k2L8bquwnU1B0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "description": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/279246"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:340366",
+      "type": "series",
+      "name": "Salvatoré : une recette de famille",
+      "poster": "https://image.tmdb.org/t/p/w500/g2pydRpY8tdMHsS8TIoWle7EiW7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vYWevDMYD46bMvkIfWX8x3pGdVV.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/340366"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

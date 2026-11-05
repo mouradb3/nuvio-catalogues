@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1815546",
+    "type": "movie",
+    "name": "A Vision for Vision",
+    "poster": "https://image.tmdb.org/t/p/w500/aIEz68tBuGfXLknxIKPr3YFrNsv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lNfd3Lkf8xdJMPNWyUMy0STMyea.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1815546"
+      }
+    ]
+  }
+}

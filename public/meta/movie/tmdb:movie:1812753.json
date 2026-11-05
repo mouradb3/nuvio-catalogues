@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1812753",
+    "type": "movie",
+    "name": "Poutine : Après l’Ukraine, l’Europe ?",
+    "poster": "https://image.tmdb.org/t/p/w500/rcD8PXg4OJREIn0qo5regXFt4hC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tUtDBa77cz3PDLgpXBO5ChMBuSp.jpg",
+    "description": "La guerre en Ukraine a bouleversé les équilibres sécuritaires en Europe. Alors que la Russie renforce ses capacités militaires, les pays de l’Otan revoient leurs stratégies de défense et envisagent de nouveaux scénarios. Entre dissuasion et préparation à la guerre, où en est l’Europe ?",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1812753"
+      }
+    ]
+  }
+}

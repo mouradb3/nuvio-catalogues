@@ -1,6 +1,301 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1801244",
+      "type": "movie",
+      "name": "Haití Deportation Crisis",
+      "poster": "https://image.tmdb.org/t/p/w500/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1801244"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1814426",
+      "type": "movie",
+      "name": "Tammy Pescatelli: Mrs. Saturday Night",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1814426"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1814426",
+      "type": "movie",
+      "name": "Tammy Pescatelli: Mrs. Saturday Night",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1814426"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1427540",
+      "type": "movie",
+      "name": "Free at Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1427540"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1427540",
+      "type": "movie",
+      "name": "Free at Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1427540"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1813276",
+      "type": "movie",
+      "name": "Stories That Made Us with George Stroumboulopoulos",
+      "poster": "https://image.tmdb.org/t/p/w500/tec8EvZdxih8cY4XsoSf2BIxaJ6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4B8umHEwSRX2KrA0o81qqnAyKgv.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1813276"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1773368",
+      "type": "movie",
+      "name": "A Danish Christmas",
+      "poster": "https://image.tmdb.org/t/p/w500/1fdNNzXLhFW0uXfbK88bJGUi8HP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v9Fl90gwiw1OoQlyXpoaAMULyik.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1773368"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1815546",
+      "type": "movie",
+      "name": "A Vision for Vision",
+      "poster": "https://image.tmdb.org/t/p/w500/aIEz68tBuGfXLknxIKPr3YFrNsv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lNfd3Lkf8xdJMPNWyUMy0STMyea.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1815546"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1815546",
+      "type": "movie",
+      "name": "A Vision for Vision",
+      "poster": "https://image.tmdb.org/t/p/w500/aIEz68tBuGfXLknxIKPr3YFrNsv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lNfd3Lkf8xdJMPNWyUMy0STMyea.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1815546"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1794189",
+      "type": "movie",
+      "name": "صديق لم يعد هنا",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1794189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797367",
+      "type": "movie",
+      "name": "Murmurs in the Distance",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797367"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797370",
+      "type": "movie",
+      "name": "Dotuk",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797370"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797373",
+      "type": "movie",
+      "name": "Lassiguili",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797373"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1294189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1294189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1815857"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1815857"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1570488"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1570488"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1282159",
       "type": "movie",
       "name": "Let's Have Kids!",

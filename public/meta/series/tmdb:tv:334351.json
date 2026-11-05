@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:tv:334351",
+    "type": "series",
+    "name": "十六夜膳房",
+    "poster": "https://image.tmdb.org/t/p/w500/zDNTcpvyWeOUetZFUmRxGKUuZJm.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qTcqDMXpSAwjtnYQiaYM33ZzjCC.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/334351"
+      }
+    ]
+  }
+}

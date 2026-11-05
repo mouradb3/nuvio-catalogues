@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1801244",
+    "type": "movie",
+    "name": "Haití Deportation Crisis",
+    "poster": "https://image.tmdb.org/t/p/w500/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1801244"
+      }
+    ]
+  }
+}

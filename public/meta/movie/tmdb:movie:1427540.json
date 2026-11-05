@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1427540",
+    "type": "movie",
+    "name": "Free at Heart",
+    "poster": "https://image.tmdb.org/t/p/w500/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1427540"
+      }
+    ]
+  }
+}

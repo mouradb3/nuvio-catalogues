@@ -127,7 +127,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
       "description": "Wei Rao, jeune femme noble, est obligée de se marier avec le prince Lu Zuo, alors que celui-ci est dans le coma et proche de la mort. Elle force alors Ah Chou, une jeune fille ordinaire dont la seule caractéristique est sa ressemblance frappante avec Wei Rao, à prendre sa place au mariage. Mais Lu Zuo se réveille précisément le jour des noces... Ah Chou doit maintenant faire face à Wei Rao, qui veut récupérer sa place, à Lu Zuo, qui la prend pour cette vipère de Wei Rao, mais aussi à toute la demeure du prince qui est pleine de pièges et de complots.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -218,6 +218,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/298550"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
         }
       ]
     },
@@ -433,12 +450,29 @@
       "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
       "description": "Un échange de maisons de rêve entre la Sicile et Stockholm tourne mal quand deux couples fortunés sont soudain prêts à tout pour se protéger. Et pour protéger leurs secrets.",
       "releaseInfo": "2026",
-      "imdbRating": "4.3",
+      "imdbRating": "4.4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/336240"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
         }
       ]
     },
@@ -889,7 +923,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
       "description": "Et si des légendes urbaines devenaient réalité ? Fushigi, un garçon vêtu d'une capuche rouge, parcourt le pays pour rassembler ces rumeurs dans son carnet. Son objectif est d'attraper Himitsu, la jeune fille qui donne vie à ces légendes. Accompagné de son partenaire Jimmy, un chien au visage humain, plus il se rapproche de Himitsu, plus Fushigi est confronté à des phénomènes surnaturels.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "8.7",
       "links": [
         {
           "name": "TMDB",
@@ -1030,6 +1064,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/323937"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
         }
       ]
     },
@@ -1539,7 +1590,7 @@
       "name": "Vendée Globe, seuls autour du monde",
       "poster": "https://image.tmdb.org/t/p/w500/fZBtPc9A5KuQK0ck5DX2gld5Rdi.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/135dMDMd2v1dwwjUniiT2yFp1GT.jpg",
-      "description": "Une immersion totale au cœur de la 10e édition (2024-2025) du Vendée Globe. Grâce à des caméras embarquées, la série suit le quotidien extrême de six skippers (Jérémie Beyou, Conrad Colman, Clarisse Crémer, Violette Dorange, Pip Hare et Thomas Ruyant), mais aussi l'angoisse de leurs familles restées à terre et les coulisses de la direction de course.",
+      "description": "Une plongée au cœur de l’aventure humaine et sportive moderne la plus intense, entre terre et mer, entre larmes de frustration et explosions de joie",
       "releaseInfo": "2026",
       "links": [
         {
@@ -1625,55 +1676,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/337332"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:336453",
-      "type": "series",
-      "name": "Alerte à l'hôtel : 30 jours pour tout relancer",
-      "poster": "https://image.tmdb.org/t/p/w500/g3MXM5ixfiDFFzRTO44pK9mINg8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lkcj9IKfF4LylYT5qrz6wTC7hog.jpg",
-      "description": "Pendant 30 jours, deux experts en hôtellerie, Fred Sirieix et Pauline Petta, viennent en aide à des patrons d'hôtel en crise pour les aider à redresser la barre. Cash, exigeant mais bienveillant, le binôme s'installe à l'hôtel et passe tout au crible afin de proposer un plan d'action aux propriétaires pour relancer leur hôtel et améliorer les relations humaines au sein de l'entreprise. Face à des vérités parfois difficiles à entendre, les hôteliers n'ont qu'un seul choix : se remettre en question et transformer leur établissement !",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/336453"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:339451",
-      "type": "series",
-      "name": "La bataille de Harvard",
-      "poster": "https://image.tmdb.org/t/p/w500/nNIDu5SztHHQPctoW1Q9miyWxSg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6Y2EVxaEAdskw3yEJeIHhKIJJmC.jpg",
-      "description": "Comment Harvard, haut-lieu de l'élite académique américaine, est-elle devenue le symbole de l'opposition aux offensives idéologiques du mouvement Maga ? Ce documentaire en trois parties nous plonge dans les coulisses d'Harvard et décrit un tournant historique : le déclin fulgurant des institutions intellectuelles dans une démocratie confrontée à la montée de l'autoritarisme.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/339451"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:336851",
-      "type": "series",
-      "name": "Après la colère",
-      "poster": "https://image.tmdb.org/t/p/w500/vZ9RRnJOuq12h0MVOF39cj1V0Wj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ez5peDFk7wiTqTb4v5duVaB2tQ.jpg",
-      "description": "Cette collection documentaire inédite ausculte la société française et les fractures qui la fragilisent, à travers les grandes histoires d’actualité récentes qui les ont révélées. Une série documentaire-enquête, à la croisée du polar et de l’analyse sociologique, qui poursuit la double ambition d'étudier l'anatomie d’un événement et de conduire ses protagonistes que tout oppose à renouer le dialogue.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/336851"
         }
       ]
     }

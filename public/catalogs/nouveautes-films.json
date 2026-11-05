@@ -1,5 +1,230 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:movie:1794189",
+      "type": "movie",
+      "name": "صديق لم يعد هنا",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1794189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797367",
+      "type": "movie",
+      "name": "Murmurs in the Distance",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797367"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797370",
+      "type": "movie",
+      "name": "Dotuk",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797370"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797373",
+      "type": "movie",
+      "name": "Lassiguili",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797373"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1801542",
+      "type": "movie",
+      "name": "Sommes-nous tous accros aux écrans ?",
+      "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
+      "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1801542"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1805615",
+      "type": "movie",
+      "name": "GTA, le jeu no limit",
+      "poster": "https://image.tmdb.org/t/p/w500/8afN9cOWn4chAxnlFso15FkBvRm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5q0wDT7LlYpeujPch6VS3x7akRZ.jpg",
+      "description": "Alors que GTA 6, le jeu vidéo le plus attendu de l’histoire déferlera sur la planète en ce mois de novembre 2026, plongez au cœur de l’histoire d’un titan de la pop culture ! En trente ans, Grand Theft Auto, désormais connu sous l'acronyme GTA, est passé du statut de paria rejeté par la classe politique et les médias à celui d’œuvre iconique incontournable.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1805615"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1812753",
+      "type": "movie",
+      "name": "Poutine : Après l’Ukraine, l’Europe ?",
+      "poster": "https://image.tmdb.org/t/p/w500/rcD8PXg4OJREIn0qo5regXFt4hC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tUtDBa77cz3PDLgpXBO5ChMBuSp.jpg",
+      "description": "La guerre en Ukraine a bouleversé les équilibres sécuritaires en Europe. Alors que la Russie renforce ses capacités militaires, les pays de l’Otan revoient leurs stratégies de défense et envisagent de nouveaux scénarios. Entre dissuasion et préparation à la guerre, où en est l’Europe ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1812753"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1801526",
+      "type": "movie",
+      "name": "Le luxe, un pouvoir français",
+      "poster": "https://image.tmdb.org/t/p/w500/rjRq3MQECnur892fk8lNmealTVB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ig9rHZV312y3W8pr3uP2U2mFtiQ.jpg",
+      "description": "Sur l'échiquier géopolitique mondial, un sac Dior, une robe Chanel ou un carré Hermès semblent à priori dérisoires face aux barils de pétrole ou aux contrats d'armement. Pourtant, la haute couture française a bâti le système d'influence le plus puissant et le plus viral de notre époque. Depuis 20 ans, les maisons de haute couture françaises sont devenues des empires mondiaux avec LVMH et Kering. En difficultés financières, ces groupes doivent gagner la bataille de l'image et du \"like\" en organisant des défilés hors norme. A l'ère du tout Instagram, une marque est capable de débourser un demi million d'euros pendant la Fashion Week pour avoir les plus grandes stars au premier rang de son défilé.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1801526"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1294189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1294189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1815857"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1815857"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1570488"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1570488"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

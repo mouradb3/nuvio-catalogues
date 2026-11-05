@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340366",
+    "type": "series",
+    "name": "Salvatoré : une recette de famille",
+    "poster": "https://image.tmdb.org/t/p/w500/g2pydRpY8tdMHsS8TIoWle7EiW7.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vYWevDMYD46bMvkIfWX8x3pGdVV.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340366"
+      }
+    ]
+  }
+}

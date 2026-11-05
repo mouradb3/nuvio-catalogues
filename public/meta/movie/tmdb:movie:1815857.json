@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1815857",
+    "type": "movie",
+    "name": "Amazon Music Live: Doja Cat",
+    "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1815857"
+      }
+    ]
+  }
+}

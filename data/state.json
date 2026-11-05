@@ -9,6 +9,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
       "description": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé : elle leur demande de ne pas plaider coupable. Gisèle va faire ce qui n’a jamais été fait auparavant, elle va accuser et attaquer la loi, au risque de tout perdre. Au nom de toutes.",
       "releaseInfo": "2026",
+      "imdbRating": "10",
       "tmdbId": 1003494,
       "mediaType": "movie",
       "releaseDate": "2026-11-04",
@@ -22,8 +23,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:30.081Z",
-      "lastAvailableAt": "2026-11-05T10:57:30.081Z"
+      "lastChecked": "2026-11-05T19:57:42.802Z",
+      "lastAvailableAt": "2026-11-05T19:57:42.802Z"
     },
     "movie:1807947": {
       "id": "tmdb:movie:1807947",
@@ -46,8 +47,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:30.542Z",
-      "lastAvailableAt": "2026-11-05T10:57:30.542Z"
+      "lastChecked": "2026-11-05T19:57:43.224Z",
+      "lastAvailableAt": "2026-11-05T19:57:43.224Z"
     },
     "movie:1804941": {
       "id": "tmdb:movie:1804941",
@@ -89,8 +90,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:31.002Z",
-      "lastAvailableAt": "2026-11-05T10:57:31.002Z"
+      "lastChecked": "2026-11-05T19:57:43.645Z",
+      "lastAvailableAt": "2026-11-05T19:57:43.645Z"
     },
     "movie:1807243": {
       "id": "tmdb:movie:1807243",
@@ -113,8 +114,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:31.471Z",
-      "lastAvailableAt": "2026-11-05T10:57:31.471Z"
+      "lastChecked": "2026-11-05T19:57:44.063Z",
+      "lastAvailableAt": "2026-11-05T19:57:44.063Z"
     },
     "movie:1806253": {
       "id": "tmdb:movie:1806253",
@@ -137,8 +138,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:31.952Z",
-      "lastAvailableAt": "2026-11-05T10:57:31.952Z"
+      "lastChecked": "2026-11-05T19:57:44.480Z",
+      "lastAvailableAt": "2026-11-05T19:57:44.480Z"
     },
     "movie:1806212": {
       "id": "tmdb:movie:1806212",
@@ -167,15 +168,15 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:32.416Z",
-      "lastAvailableAt": "2026-11-05T10:57:32.416Z"
+      "lastChecked": "2026-11-05T19:57:44.900Z",
+      "lastAvailableAt": "2026-11-05T19:57:44.900Z"
     },
     "movie:1813355": {
       "id": "tmdb:movie:1813355",
       "type": "movie",
       "name": "La Légende de Derry",
       "poster": "https://image.tmdb.org/t/p/w500/95jDCfMC1MNXowaXxPpHuWP5zAr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
       "description": "Des centaines d’années avant Pennywise, trois jeunes s’aventurent dans la forêt de l’Ouest où ils rencontrent un esprit ancien terrifiant.",
       "releaseInfo": "2026",
       "imdbRating": "6.9",
@@ -210,8 +211,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:32.885Z",
-      "lastAvailableAt": "2026-11-05T10:57:32.885Z"
+      "lastChecked": "2026-11-05T19:57:45.331Z",
+      "lastAvailableAt": "2026-11-05T19:57:45.331Z"
     },
     "movie:1760311": {
       "id": "tmdb:movie:1760311",
@@ -253,8 +254,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:33.354Z",
-      "lastAvailableAt": "2026-11-05T10:57:33.354Z"
+      "lastChecked": "2026-11-05T19:57:45.782Z",
+      "lastAvailableAt": "2026-11-05T19:57:45.782Z"
     },
     "movie:1802464": {
       "id": "tmdb:movie:1802464",
@@ -295,8 +296,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:33.823Z",
-      "lastAvailableAt": "2026-11-05T10:57:33.823Z"
+      "lastChecked": "2026-11-05T19:57:46.658Z",
+      "lastAvailableAt": "2026-11-05T19:57:46.658Z"
     },
     "movie:1796392": {
       "id": "tmdb:movie:1796392",
@@ -325,8 +326,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:34.283Z",
-      "lastAvailableAt": "2026-11-05T10:57:34.283Z"
+      "lastChecked": "2026-11-05T19:57:47.106Z",
+      "lastAvailableAt": "2026-11-05T19:57:47.106Z"
     },
     "movie:1794267": {
       "id": "tmdb:movie:1794267",
@@ -355,8 +356,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:34.754Z",
-      "lastAvailableAt": "2026-11-05T10:57:34.755Z"
+      "lastChecked": "2026-11-05T19:57:47.539Z",
+      "lastAvailableAt": "2026-11-05T19:57:47.539Z"
     },
     "movie:1789549": {
       "id": "tmdb:movie:1789549",
@@ -366,7 +367,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.2",
       "tmdbId": 1789549,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
@@ -398,8 +399,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:35.216Z",
-      "lastAvailableAt": "2026-11-05T10:57:35.216Z"
+      "lastChecked": "2026-11-05T19:57:47.970Z",
+      "lastAvailableAt": "2026-11-05T19:57:47.970Z"
     },
     "movie:1756307": {
       "id": "tmdb:movie:1756307",
@@ -441,18 +442,18 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:35.679Z",
-      "lastAvailableAt": "2026-11-05T10:57:35.679Z"
+      "lastChecked": "2026-11-05T19:57:48.402Z",
+      "lastAvailableAt": "2026-11-05T19:57:48.402Z"
     },
     "movie:1571955": {
       "id": "tmdb:movie:1571955",
       "type": "movie",
       "name": "Colisión",
       "poster": "https://image.tmdb.org/t/p/w500/fO0urhdE9nNycAfBdwtLt80uKoi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xDw1Qm73qioQKCOx2VP5w4CBusL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "description": "En pleine crise économique, un groupe de cambrioleurs s'introduit dans une banque à Madrid, déclenchant une série d'événements imprévisibles. Ce qui s'apparentait au départ à un simple braquage se transforme en un jeu de dupes et de peur où tout est affaire de survie : chaque décision compte, chaque geste cache quelque chose et chacun cherche à échapper à un châtiment pire que la prison.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "tmdbId": 1571955,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
@@ -484,8 +485,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:36.151Z",
-      "lastAvailableAt": "2026-11-05T10:57:36.151Z"
+      "lastChecked": "2026-11-05T19:57:48.820Z",
+      "lastAvailableAt": "2026-11-05T19:57:48.820Z"
     },
     "movie:1811741": {
       "id": "tmdb:movie:1811741",
@@ -527,8 +528,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:36.616Z",
-      "lastAvailableAt": "2026-11-05T10:57:36.616Z"
+      "lastChecked": "2026-11-05T19:57:49.249Z",
+      "lastAvailableAt": "2026-11-05T19:57:49.249Z"
     },
     "movie:1792914": {
       "id": "tmdb:movie:1792914",
@@ -563,8 +564,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:37.076Z",
-      "lastAvailableAt": "2026-11-05T10:57:37.076Z"
+      "lastChecked": "2026-11-05T19:57:49.669Z",
+      "lastAvailableAt": "2026-11-05T19:57:49.669Z"
     },
     "movie:1541477": {
       "id": "tmdb:movie:1541477",
@@ -606,8 +607,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:37.546Z",
-      "lastAvailableAt": "2026-11-05T10:57:37.546Z"
+      "lastChecked": "2026-11-05T19:57:50.099Z",
+      "lastAvailableAt": "2026-11-05T19:57:50.099Z"
     },
     "movie:1807796": {
       "id": "tmdb:movie:1807796",
@@ -678,8 +679,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:38.013Z",
-      "lastAvailableAt": "2026-11-05T10:57:38.013Z"
+      "lastChecked": "2026-11-05T19:57:50.959Z",
+      "lastAvailableAt": "2026-11-05T19:57:50.959Z"
     },
     "movie:1792396": {
       "id": "tmdb:movie:1792396",
@@ -720,8 +721,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:38.481Z",
-      "lastAvailableAt": "2026-11-05T10:57:38.481Z"
+      "lastChecked": "2026-11-05T19:57:51.398Z",
+      "lastAvailableAt": "2026-11-05T19:57:51.398Z"
     },
     "movie:1809199": {
       "id": "tmdb:movie:1809199",
@@ -763,8 +764,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:38.942Z",
-      "lastAvailableAt": "2026-11-05T10:57:38.942Z"
+      "lastChecked": "2026-11-05T19:57:51.817Z",
+      "lastAvailableAt": "2026-11-05T19:57:51.817Z"
     },
     "movie:1801526": {
       "id": "tmdb:movie:1801526",
@@ -783,13 +784,19 @@
       "offers": [
         {
           "region": "FR",
+          "providerId": 193,
+          "provider": "SFR Play",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
           "providerId": 2535,
           "provider": "France TV Amazon Channel",
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:39.410Z",
-      "lastAvailableAt": "2026-11-05T10:57:39.410Z"
+      "lastChecked": "2026-11-05T19:57:52.242Z",
+      "lastAvailableAt": "2026-11-05T19:57:52.242Z"
     },
     "movie:1797392": {
       "id": "tmdb:movie:1797392",
@@ -830,8 +837,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:39.886Z",
-      "lastAvailableAt": "2026-11-05T10:57:39.886Z"
+      "lastChecked": "2026-11-05T19:57:52.664Z",
+      "lastAvailableAt": "2026-11-05T19:57:52.664Z"
     },
     "movie:1796638": {
       "id": "tmdb:movie:1796638",
@@ -860,8 +867,8 @@
           "monetization": "rent"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:40.354Z",
-      "lastAvailableAt": "2026-11-05T10:57:40.354Z"
+      "lastChecked": "2026-11-05T19:57:53.086Z",
+      "lastAvailableAt": "2026-11-05T19:57:53.086Z"
     },
     "movie:1792372": {
       "id": "tmdb:movie:1792372",
@@ -902,8 +909,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:40.821Z",
-      "lastAvailableAt": "2026-11-05T10:57:40.821Z"
+      "lastChecked": "2026-11-05T19:57:53.503Z",
+      "lastAvailableAt": "2026-11-05T19:57:53.503Z"
     },
     "movie:1596275": {
       "id": "tmdb:movie:1596275",
@@ -913,7 +920,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
       "description": "Une jeune mécanicienne accepte de jouer la fiancée d'un champion automobile en pleine disgrâce, en apparence pour aider à redorer l'image du pilote, en secret pour s'offrir sa chance au volant. Mais le mensonge menace bientôt de tout détruire, y compris ce qui est devenu bien plus qu'un simple arrangement…",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "tmdbId": 1596275,
       "mediaType": "movie",
       "releaseDate": "2026-10-28",
@@ -945,8 +952,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:41.285Z",
-      "lastAvailableAt": "2026-11-05T10:57:41.285Z"
+      "lastChecked": "2026-11-05T19:57:53.923Z",
+      "lastAvailableAt": "2026-11-05T19:57:53.923Z"
     },
     "movie:1800670": {
       "id": "tmdb:movie:1800670",
@@ -969,8 +976,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:41.751Z",
-      "lastAvailableAt": "2026-11-05T10:57:41.751Z"
+      "lastChecked": "2026-11-05T19:57:54.782Z",
+      "lastAvailableAt": "2026-11-05T19:57:54.782Z"
     },
     "movie:1789826": {
       "id": "tmdb:movie:1789826",
@@ -1012,8 +1019,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:42.278Z",
-      "lastAvailableAt": "2026-11-05T10:57:42.278Z"
+      "lastChecked": "2026-11-05T19:57:55.203Z",
+      "lastAvailableAt": "2026-11-05T19:57:55.203Z"
     },
     "movie:1628116": {
       "id": "tmdb:movie:1628116",
@@ -1055,8 +1062,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:42.743Z",
-      "lastAvailableAt": "2026-11-05T10:57:42.743Z"
+      "lastChecked": "2026-11-05T19:57:55.633Z",
+      "lastAvailableAt": "2026-11-05T19:57:55.633Z"
     },
     "movie:1809843": {
       "id": "tmdb:movie:1809843",
@@ -1151,8 +1158,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:43.211Z",
-      "lastAvailableAt": "2026-11-05T10:57:43.211Z"
+      "lastChecked": "2026-11-05T19:57:56.063Z",
+      "lastAvailableAt": "2026-11-05T19:57:56.063Z"
     },
     "movie:1805036": {
       "id": "tmdb:movie:1805036",
@@ -1176,8 +1183,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:43.677Z",
-      "lastAvailableAt": "2026-11-05T10:57:43.677Z"
+      "lastChecked": "2026-11-05T19:57:56.480Z",
+      "lastAvailableAt": "2026-11-05T19:57:56.480Z"
     },
     "movie:1805027": {
       "id": "tmdb:movie:1805027",
@@ -1201,8 +1208,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:44.142Z",
-      "lastAvailableAt": "2026-11-05T10:57:44.142Z"
+      "lastChecked": "2026-11-05T19:57:56.898Z",
+      "lastAvailableAt": "2026-11-05T19:57:56.898Z"
     },
     "movie:1805693": {
       "id": "tmdb:movie:1805693",
@@ -1226,8 +1233,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:44.609Z",
-      "lastAvailableAt": "2026-11-05T10:57:44.609Z"
+      "lastChecked": "2026-11-05T19:57:57.335Z",
+      "lastAvailableAt": "2026-11-05T19:57:57.335Z"
     },
     "movie:1805615": {
       "id": "tmdb:movie:1805615",
@@ -1246,13 +1253,19 @@
       "offers": [
         {
           "region": "FR",
+          "providerId": 193,
+          "provider": "SFR Play",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
           "providerId": 2535,
           "provider": "France TV Amazon Channel",
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:45.074Z",
-      "lastAvailableAt": "2026-11-05T10:57:45.074Z"
+      "lastChecked": "2026-11-05T19:57:57.761Z",
+      "lastAvailableAt": "2026-11-05T19:57:57.761Z"
     },
     "movie:1780005": {
       "id": "tmdb:movie:1780005",
@@ -1294,8 +1307,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:45.547Z",
-      "lastAvailableAt": "2026-11-05T10:57:45.547Z"
+      "lastChecked": "2026-11-05T19:57:58.207Z",
+      "lastAvailableAt": "2026-11-05T19:57:58.207Z"
     },
     "movie:1592134": {
       "id": "tmdb:movie:1592134",
@@ -1324,8 +1337,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:46.020Z",
-      "lastAvailableAt": "2026-11-05T10:57:46.020Z"
+      "lastChecked": "2026-11-05T19:57:58.659Z",
+      "lastAvailableAt": "2026-11-05T19:57:58.659Z"
     },
     "movie:1537659": {
       "id": "tmdb:movie:1537659",
@@ -1355,8 +1368,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:46.487Z",
-      "lastAvailableAt": "2026-11-05T10:57:46.487Z"
+      "lastChecked": "2026-11-05T19:57:59.080Z",
+      "lastAvailableAt": "2026-11-05T19:57:59.081Z"
     },
     "movie:1453407": {
       "id": "tmdb:movie:1453407",
@@ -1398,8 +1411,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:46.952Z",
-      "lastAvailableAt": "2026-11-05T10:57:46.952Z"
+      "lastChecked": "2026-11-05T19:57:59.500Z",
+      "lastAvailableAt": "2026-11-05T19:57:59.500Z"
     },
     "movie:1797393": {
       "id": "tmdb:movie:1797393",
@@ -1423,8 +1436,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:47.417Z",
-      "lastAvailableAt": "2026-11-05T10:57:47.417Z"
+      "lastChecked": "2026-11-05T19:57:59.928Z",
+      "lastAvailableAt": "2026-11-05T19:57:59.928Z"
     },
     "movie:1797387": {
       "id": "tmdb:movie:1797387",
@@ -1447,8 +1460,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:47.916Z",
-      "lastAvailableAt": "2026-11-05T10:57:47.916Z"
+      "lastChecked": "2026-11-05T19:58:00.359Z",
+      "lastAvailableAt": "2026-11-05T19:58:00.359Z"
     },
     "movie:1729010": {
       "id": "tmdb:movie:1729010",
@@ -1501,8 +1514,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:48.383Z",
-      "lastAvailableAt": "2026-11-05T10:57:48.383Z"
+      "lastChecked": "2026-11-05T19:58:00.784Z",
+      "lastAvailableAt": "2026-11-05T19:58:00.784Z"
     },
     "movie:1727734": {
       "id": "tmdb:movie:1727734",
@@ -1544,8 +1557,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:48.856Z",
-      "lastAvailableAt": "2026-11-05T10:57:48.856Z"
+      "lastChecked": "2026-11-05T19:58:01.201Z",
+      "lastAvailableAt": "2026-11-05T19:58:01.201Z"
     },
     "movie:1802058": {
       "id": "tmdb:movie:1802058",
@@ -1575,8 +1588,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:49.323Z",
-      "lastAvailableAt": "2026-11-05T10:57:49.323Z"
+      "lastChecked": "2026-11-05T19:58:01.623Z",
+      "lastAvailableAt": "2026-11-05T19:58:01.623Z"
     },
     "movie:1480856": {
       "id": "tmdb:movie:1480856",
@@ -1744,8 +1757,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:49.795Z",
-      "lastAvailableAt": "2026-11-05T10:57:49.795Z"
+      "lastChecked": "2026-11-05T19:58:02.058Z",
+      "lastAvailableAt": "2026-11-05T19:58:02.058Z"
     },
     "movie:1813555": {
       "id": "tmdb:movie:1813555",
@@ -1810,8 +1823,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:50.265Z",
-      "lastAvailableAt": "2026-11-05T10:57:50.265Z"
+      "lastChecked": "2026-11-05T19:58:02.490Z",
+      "lastAvailableAt": "2026-11-05T19:58:02.490Z"
     },
     "movie:1802674": {
       "id": "tmdb:movie:1802674",
@@ -1821,7 +1834,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
       "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "tmdbId": 1802674,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
@@ -1853,8 +1866,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:50.730Z",
-      "lastAvailableAt": "2026-11-05T10:57:50.730Z"
+      "lastChecked": "2026-11-05T19:58:02.921Z",
+      "lastAvailableAt": "2026-11-05T19:58:02.921Z"
     },
     "movie:1795934": {
       "id": "tmdb:movie:1795934",
@@ -1896,8 +1909,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:51.270Z",
-      "lastAvailableAt": "2026-11-05T10:57:51.270Z"
+      "lastChecked": "2026-11-05T19:58:03.368Z",
+      "lastAvailableAt": "2026-11-05T19:58:03.368Z"
     },
     "movie:1795723": {
       "id": "tmdb:movie:1795723",
@@ -1920,8 +1933,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:51.747Z",
-      "lastAvailableAt": "2026-11-05T10:57:51.747Z"
+      "lastChecked": "2026-11-05T19:58:03.790Z",
+      "lastAvailableAt": "2026-11-05T19:58:03.790Z"
     },
     "movie:1754444": {
       "id": "tmdb:movie:1754444",
@@ -1950,8 +1963,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:52.221Z",
-      "lastAvailableAt": "2026-11-05T10:57:52.221Z"
+      "lastChecked": "2026-11-05T19:58:04.217Z",
+      "lastAvailableAt": "2026-11-05T19:58:04.217Z"
     },
     "movie:1801884": {
       "id": "tmdb:movie:1801884",
@@ -1975,8 +1988,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:52.681Z",
-      "lastAvailableAt": "2026-11-05T10:57:52.681Z"
+      "lastChecked": "2026-11-05T19:58:04.652Z",
+      "lastAvailableAt": "2026-11-05T19:58:04.652Z"
     },
     "movie:1771323": {
       "id": "tmdb:movie:1771323",
@@ -2006,8 +2019,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:53.153Z",
-      "lastAvailableAt": "2026-11-05T10:57:53.153Z"
+      "lastChecked": "2026-11-05T19:58:05.078Z",
+      "lastAvailableAt": "2026-11-05T19:58:05.078Z"
     },
     "movie:435987": {
       "id": "tmdb:movie:435987",
@@ -2048,8 +2061,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:53.625Z",
-      "lastAvailableAt": "2026-11-05T10:57:53.625Z"
+      "lastChecked": "2026-11-05T19:58:05.499Z",
+      "lastAvailableAt": "2026-11-05T19:58:05.499Z"
     },
     "movie:1798741": {
       "id": "tmdb:movie:1798741",
@@ -2078,8 +2091,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:54.090Z",
-      "lastAvailableAt": "2026-11-05T10:57:54.090Z"
+      "lastChecked": "2026-11-05T19:58:06.381Z",
+      "lastAvailableAt": "2026-11-05T19:58:06.381Z"
     },
     "movie:1792045": {
       "id": "tmdb:movie:1792045",
@@ -2103,8 +2116,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:54.553Z",
-      "lastAvailableAt": "2026-11-05T10:57:54.553Z"
+      "lastChecked": "2026-11-05T19:58:06.807Z",
+      "lastAvailableAt": "2026-11-05T19:58:06.807Z"
     },
     "movie:1773759": {
       "id": "tmdb:movie:1773759",
@@ -2146,8 +2159,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:55.015Z",
-      "lastAvailableAt": "2026-11-05T10:57:55.015Z"
+      "lastChecked": "2026-11-05T19:58:07.226Z",
+      "lastAvailableAt": "2026-11-05T19:58:07.226Z"
     },
     "movie:1771844": {
       "id": "tmdb:movie:1771844",
@@ -2189,8 +2202,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:55.472Z",
-      "lastAvailableAt": "2026-11-05T10:57:55.472Z"
+      "lastChecked": "2026-11-05T19:58:07.662Z",
+      "lastAvailableAt": "2026-11-05T19:58:07.662Z"
     },
     "movie:1620918": {
       "id": "tmdb:movie:1620918",
@@ -2232,8 +2245,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:55.932Z",
-      "lastAvailableAt": "2026-11-05T10:57:55.932Z"
+      "lastChecked": "2026-11-05T19:58:08.102Z",
+      "lastAvailableAt": "2026-11-05T19:58:08.102Z"
     },
     "movie:1561726": {
       "id": "tmdb:movie:1561726",
@@ -2243,7 +2256,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
       "description": "Quand un voleur légendaire jette son dévolu sur La Joconde, il recrute deux jeunes inconnus pour l'aider (Chiara, une experte italienne du cybercrime et Jay, un spécialiste français des explosifs) avant de leur révéler qu'il est leur père. Au milieu de retrouvailles chaotiques, cette nouvelle famille devra apprendre à collaborer et éviter de s'entretuer si elle veut réussir le casse du siècle.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "tmdbId": 1561726,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
@@ -2275,8 +2288,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:56.396Z",
-      "lastAvailableAt": "2026-11-05T10:57:56.396Z"
+      "lastChecked": "2026-11-05T19:58:08.523Z",
+      "lastAvailableAt": "2026-11-05T19:58:08.523Z"
     },
     "movie:1512493": {
       "id": "tmdb:movie:1512493",
@@ -2323,8 +2336,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:56.862Z",
-      "lastAvailableAt": "2026-11-05T10:57:56.862Z"
+      "lastChecked": "2026-11-05T19:58:08.954Z",
+      "lastAvailableAt": "2026-11-05T19:58:08.954Z"
     },
     "movie:1799804": {
       "id": "tmdb:movie:1799804",
@@ -2360,8 +2373,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:57.323Z",
-      "lastAvailableAt": "2026-11-05T10:57:57.323Z"
+      "lastChecked": "2026-11-05T19:58:09.423Z",
+      "lastAvailableAt": "2026-11-05T19:58:09.423Z"
     },
     "movie:1642600": {
       "id": "tmdb:movie:1642600",
@@ -2403,8 +2416,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:57.796Z",
-      "lastAvailableAt": "2026-11-05T10:57:57.796Z"
+      "lastChecked": "2026-11-05T19:58:09.839Z",
+      "lastAvailableAt": "2026-11-05T19:58:09.839Z"
     },
     "movie:1623256": {
       "id": "tmdb:movie:1623256",
@@ -2446,8 +2459,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:58.330Z",
-      "lastAvailableAt": "2026-11-05T10:57:58.330Z"
+      "lastChecked": "2026-11-05T19:58:10.265Z",
+      "lastAvailableAt": "2026-11-05T19:58:10.265Z"
     },
     "movie:427538": {
       "id": "tmdb:movie:427538",
@@ -2476,8 +2489,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:58.799Z",
-      "lastAvailableAt": "2026-11-05T10:57:58.799Z"
+      "lastChecked": "2026-11-05T19:58:10.689Z",
+      "lastAvailableAt": "2026-11-05T19:58:10.689Z"
     },
     "movie:1810062": {
       "id": "tmdb:movie:1810062",
@@ -2500,8 +2513,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:59.254Z",
-      "lastAvailableAt": "2026-11-05T10:57:59.254Z"
+      "lastChecked": "2026-11-05T19:58:11.106Z",
+      "lastAvailableAt": "2026-11-05T19:58:11.106Z"
     },
     "movie:1788682": {
       "id": "tmdb:movie:1788682",
@@ -2543,8 +2556,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:57:59.720Z",
-      "lastAvailableAt": "2026-11-05T10:57:59.720Z"
+      "lastChecked": "2026-11-05T19:58:12.828Z",
+      "lastAvailableAt": "2026-11-05T19:58:12.828Z"
     },
     "movie:1796655": {
       "id": "tmdb:movie:1796655",
@@ -2573,8 +2586,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:00.184Z",
-      "lastAvailableAt": "2026-11-05T10:58:00.184Z"
+      "lastChecked": "2026-11-05T19:58:13.251Z",
+      "lastAvailableAt": "2026-11-05T19:58:13.251Z"
     },
     "movie:1783629": {
       "id": "tmdb:movie:1783629",
@@ -2604,8 +2617,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:00.648Z",
-      "lastAvailableAt": "2026-11-05T10:58:00.648Z"
+      "lastChecked": "2026-11-05T19:58:14.117Z",
+      "lastAvailableAt": "2026-11-05T19:58:14.117Z"
     },
     "movie:1790935": {
       "id": "tmdb:movie:1790935",
@@ -2647,8 +2660,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:01.111Z",
-      "lastAvailableAt": "2026-11-05T10:58:01.111Z"
+      "lastChecked": "2026-11-05T19:58:14.552Z",
+      "lastAvailableAt": "2026-11-05T19:58:14.552Z"
     },
     "movie:1785219": {
       "id": "tmdb:movie:1785219",
@@ -2678,8 +2691,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:01.655Z",
-      "lastAvailableAt": "2026-11-05T10:58:01.655Z"
+      "lastChecked": "2026-11-05T19:58:14.972Z",
+      "lastAvailableAt": "2026-11-05T19:58:14.972Z"
     },
     "movie:1776531": {
       "id": "tmdb:movie:1776531",
@@ -2709,8 +2722,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:02.118Z",
-      "lastAvailableAt": "2026-11-05T10:58:02.118Z"
+      "lastChecked": "2026-11-05T19:58:15.407Z",
+      "lastAvailableAt": "2026-11-05T19:58:15.407Z"
     },
     "movie:1737740": {
       "id": "tmdb:movie:1737740",
@@ -2752,8 +2765,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:02.580Z",
-      "lastAvailableAt": "2026-11-05T10:58:02.580Z"
+      "lastChecked": "2026-11-05T19:58:15.827Z",
+      "lastAvailableAt": "2026-11-05T19:58:15.827Z"
     },
     "movie:1545690": {
       "id": "tmdb:movie:1545690",
@@ -2795,8 +2808,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:03.044Z",
-      "lastAvailableAt": "2026-11-05T10:58:03.044Z"
+      "lastChecked": "2026-11-05T19:58:16.246Z",
+      "lastAvailableAt": "2026-11-05T19:58:16.246Z"
     },
     "movie:1794627": {
       "id": "tmdb:movie:1794627",
@@ -2820,8 +2833,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:03.509Z",
-      "lastAvailableAt": "2026-11-05T10:58:03.509Z"
+      "lastChecked": "2026-11-05T19:58:16.691Z",
+      "lastAvailableAt": "2026-11-05T19:58:16.691Z"
     },
     "movie:1786229": {
       "id": "tmdb:movie:1786229",
@@ -2844,8 +2857,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:03.987Z",
-      "lastAvailableAt": "2026-11-05T10:58:03.987Z"
+      "lastChecked": "2026-11-05T19:58:17.113Z",
+      "lastAvailableAt": "2026-11-05T19:58:17.113Z"
     },
     "movie:1786184": {
       "id": "tmdb:movie:1786184",
@@ -2874,8 +2887,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:04.460Z",
-      "lastAvailableAt": "2026-11-05T10:58:04.460Z"
+      "lastChecked": "2026-11-05T19:58:17.531Z",
+      "lastAvailableAt": "2026-11-05T19:58:17.531Z"
     },
     "movie:1596285": {
       "id": "tmdb:movie:1596285",
@@ -2917,8 +2930,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:04.924Z",
-      "lastAvailableAt": "2026-11-05T10:58:04.924Z"
+      "lastChecked": "2026-11-05T19:58:17.957Z",
+      "lastAvailableAt": "2026-11-05T19:58:17.957Z"
     },
     "movie:1507696": {
       "id": "tmdb:movie:1507696",
@@ -2960,8 +2973,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:05.390Z",
-      "lastAvailableAt": "2026-11-05T10:58:05.390Z"
+      "lastChecked": "2026-11-05T19:58:18.374Z",
+      "lastAvailableAt": "2026-11-05T19:58:18.374Z"
     },
     "movie:1389172": {
       "id": "tmdb:movie:1389172",
@@ -3003,8 +3016,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:05.858Z",
-      "lastAvailableAt": "2026-11-05T10:58:05.858Z"
+      "lastChecked": "2026-11-05T19:58:18.807Z",
+      "lastAvailableAt": "2026-11-05T19:58:18.807Z"
     },
     "movie:1288069": {
       "id": "tmdb:movie:1288069",
@@ -3046,8 +3059,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:06.328Z",
-      "lastAvailableAt": "2026-11-05T10:58:06.328Z"
+      "lastChecked": "2026-11-05T19:58:19.249Z",
+      "lastAvailableAt": "2026-11-05T19:58:19.249Z"
     },
     "movie:1241046": {
       "id": "tmdb:movie:1241046",
@@ -3173,8 +3186,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:06.792Z",
-      "lastAvailableAt": "2026-11-05T10:58:06.793Z"
+      "lastChecked": "2026-11-05T19:58:19.668Z",
+      "lastAvailableAt": "2026-11-05T19:58:19.668Z"
     },
     "movie:1236045": {
       "id": "tmdb:movie:1236045",
@@ -3216,8 +3229,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:07.255Z",
-      "lastAvailableAt": "2026-11-05T10:58:07.255Z"
+      "lastChecked": "2026-11-05T19:58:20.088Z",
+      "lastAvailableAt": "2026-11-05T19:58:20.088Z"
     },
     "movie:1791526": {
       "id": "tmdb:movie:1791526",
@@ -3276,8 +3289,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:07.716Z",
-      "lastAvailableAt": "2026-11-05T10:58:07.716Z"
+      "lastChecked": "2026-11-05T19:58:20.537Z",
+      "lastAvailableAt": "2026-11-05T19:58:20.537Z"
     },
     "movie:1733496": {
       "id": "tmdb:movie:1733496",
@@ -3349,8 +3362,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:08.181Z",
-      "lastAvailableAt": "2026-11-05T10:58:08.182Z"
+      "lastChecked": "2026-11-05T19:58:20.970Z",
+      "lastAvailableAt": "2026-11-05T19:58:20.970Z"
     },
     "movie:1662627": {
       "id": "tmdb:movie:1662627",
@@ -3380,8 +3393,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:08.713Z",
-      "lastAvailableAt": "2026-11-05T10:58:08.713Z"
+      "lastChecked": "2026-11-05T19:58:21.389Z",
+      "lastAvailableAt": "2026-11-05T19:58:21.389Z"
     },
     "movie:1611384": {
       "id": "tmdb:movie:1611384",
@@ -3422,8 +3435,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:09.169Z",
-      "lastAvailableAt": "2026-11-05T10:58:09.169Z"
+      "lastChecked": "2026-11-05T19:58:21.807Z",
+      "lastAvailableAt": "2026-11-05T19:58:21.807Z"
     },
     "movie:1487317": {
       "id": "tmdb:movie:1487317",
@@ -3465,8 +3478,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:09.633Z",
-      "lastAvailableAt": "2026-11-05T10:58:09.633Z"
+      "lastChecked": "2026-11-05T19:58:22.237Z",
+      "lastAvailableAt": "2026-11-05T19:58:22.237Z"
     },
     "movie:1783833": {
       "id": "tmdb:movie:1783833",
@@ -3495,8 +3508,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:10.090Z",
-      "lastAvailableAt": "2026-11-05T10:58:10.090Z"
+      "lastChecked": "2026-11-05T19:58:22.656Z",
+      "lastAvailableAt": "2026-11-05T19:58:22.656Z"
     },
     "movie:1781653": {
       "id": "tmdb:movie:1781653",
@@ -3526,8 +3539,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:10.561Z",
-      "lastAvailableAt": "2026-11-05T10:58:10.561Z"
+      "lastChecked": "2026-11-05T19:58:23.089Z",
+      "lastAvailableAt": "2026-11-05T19:58:23.089Z"
     },
     "movie:1756138": {
       "id": "tmdb:movie:1756138",
@@ -3569,8 +3582,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:11.029Z",
-      "lastAvailableAt": "2026-11-05T10:58:11.029Z"
+      "lastChecked": "2026-11-05T19:58:23.510Z",
+      "lastAvailableAt": "2026-11-05T19:58:23.510Z"
     },
     "movie:1381078": {
       "id": "tmdb:movie:1381078",
@@ -3612,8 +3625,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:11.500Z",
-      "lastAvailableAt": "2026-11-05T10:58:11.500Z"
+      "lastChecked": "2026-11-05T19:58:23.936Z",
+      "lastAvailableAt": "2026-11-05T19:58:23.936Z"
     },
     "movie:1800103": {
       "id": "tmdb:movie:1800103",
@@ -3643,8 +3656,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:11.964Z",
-      "lastAvailableAt": "2026-11-05T10:58:11.964Z"
+      "lastChecked": "2026-11-05T19:58:24.357Z",
+      "lastAvailableAt": "2026-11-05T19:58:24.357Z"
     },
     "movie:1789554": {
       "id": "tmdb:movie:1789554",
@@ -3686,8 +3699,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:12.427Z",
-      "lastAvailableAt": "2026-11-05T10:58:12.427Z"
+      "lastChecked": "2026-11-05T19:58:24.797Z",
+      "lastAvailableAt": "2026-11-05T19:58:24.797Z"
     },
     "movie:1454834": {
       "id": "tmdb:movie:1454834",
@@ -4100,8 +4113,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:17.074Z",
-      "lastAvailableAt": "2026-11-05T10:58:17.074Z"
+      "lastChecked": "2026-11-05T19:58:25.224Z",
+      "lastAvailableAt": "2026-11-05T19:58:25.224Z"
     },
     "movie:1805527": {
       "id": "tmdb:movie:1805527",
@@ -4130,8 +4143,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:17.541Z",
-      "lastAvailableAt": "2026-11-05T10:58:17.541Z"
+      "lastChecked": "2026-11-05T19:58:26.071Z",
+      "lastAvailableAt": "2026-11-05T19:58:26.071Z"
     },
     "movie:1382316": {
       "id": "tmdb:movie:1382316",
@@ -4172,8 +4185,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:18.004Z",
-      "lastAvailableAt": "2026-11-05T10:58:18.004Z"
+      "lastChecked": "2026-11-05T19:58:26.488Z",
+      "lastAvailableAt": "2026-11-05T19:58:26.488Z"
     },
     "movie:1773368": {
       "id": "tmdb:movie:1773368",
@@ -4191,13 +4204,19 @@
       "offers": [
         {
           "region": "CA",
+          "providerId": 606,
+          "provider": "StackTV Amazon Channel",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
           "providerId": 449,
           "provider": "Global TV",
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:18.469Z",
-      "lastAvailableAt": "2026-11-05T10:58:18.469Z"
+      "lastChecked": "2026-11-05T19:58:26.905Z",
+      "lastAvailableAt": "2026-11-05T19:58:26.905Z"
     },
     "movie:1814761": {
       "id": "tmdb:movie:1814761",
@@ -4226,8 +4245,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:18.929Z",
-      "lastAvailableAt": "2026-11-05T10:58:18.929Z"
+      "lastChecked": "2026-11-05T19:58:27.323Z",
+      "lastAvailableAt": "2026-11-05T19:58:27.323Z"
     },
     "movie:1773374": {
       "id": "tmdb:movie:1773374",
@@ -4256,8 +4275,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:19.388Z",
-      "lastAvailableAt": "2026-11-05T10:58:19.388Z"
+      "lastChecked": "2026-11-05T19:58:27.750Z",
+      "lastAvailableAt": "2026-11-05T19:58:27.750Z"
     },
     "movie:1293266": {
       "id": "tmdb:movie:1293266",
@@ -4292,8 +4311,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:19.848Z",
-      "lastAvailableAt": "2026-11-05T10:58:19.848Z"
+      "lastChecked": "2026-11-05T19:58:28.166Z",
+      "lastAvailableAt": "2026-11-05T19:58:28.166Z"
     },
     "movie:1807303": {
       "id": "tmdb:movie:1807303",
@@ -4316,8 +4335,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:20.325Z",
-      "lastAvailableAt": "2026-11-05T10:58:20.325Z"
+      "lastChecked": "2026-11-05T19:58:29.012Z",
+      "lastAvailableAt": "2026-11-05T19:58:29.012Z"
     },
     "movie:1783757": {
       "id": "tmdb:movie:1783757",
@@ -4352,8 +4371,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:20.799Z",
-      "lastAvailableAt": "2026-11-05T10:58:20.799Z"
+      "lastChecked": "2026-11-05T19:58:29.439Z",
+      "lastAvailableAt": "2026-11-05T19:58:29.439Z"
     },
     "movie:1749825": {
       "id": "tmdb:movie:1749825",
@@ -4377,8 +4396,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:21.261Z",
-      "lastAvailableAt": "2026-11-05T10:58:21.261Z"
+      "lastChecked": "2026-11-05T19:58:29.859Z",
+      "lastAvailableAt": "2026-11-05T19:58:29.859Z"
     },
     "movie:1713304": {
       "id": "tmdb:movie:1713304",
@@ -4401,8 +4420,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:21.723Z",
-      "lastAvailableAt": "2026-11-05T10:58:21.723Z"
+      "lastChecked": "2026-11-05T19:58:30.277Z",
+      "lastAvailableAt": "2026-11-05T19:58:30.277Z"
     },
     "movie:1417842": {
       "id": "tmdb:movie:1417842",
@@ -4431,8 +4450,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:22.184Z",
-      "lastAvailableAt": "2026-11-05T10:58:22.184Z"
+      "lastChecked": "2026-11-05T19:58:30.695Z",
+      "lastAvailableAt": "2026-11-05T19:58:30.695Z"
     },
     "movie:164328": {
       "id": "tmdb:movie:164328",
@@ -4461,8 +4480,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:22.649Z",
-      "lastAvailableAt": "2026-11-05T10:58:22.649Z"
+      "lastChecked": "2026-11-05T19:58:31.116Z",
+      "lastAvailableAt": "2026-11-05T19:58:31.116Z"
     },
     "movie:1759826": {
       "id": "tmdb:movie:1759826",
@@ -4497,8 +4516,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:23.116Z",
-      "lastAvailableAt": "2026-11-05T10:58:23.116Z"
+      "lastChecked": "2026-11-05T19:58:31.572Z",
+      "lastAvailableAt": "2026-11-05T19:58:31.572Z"
     },
     "movie:1287846": {
       "id": "tmdb:movie:1287846",
@@ -4527,8 +4546,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:23.577Z",
-      "lastAvailableAt": "2026-11-05T10:58:23.577Z"
+      "lastChecked": "2026-11-05T19:58:32.863Z",
+      "lastAvailableAt": "2026-11-05T19:58:32.863Z"
     },
     "movie:1810122": {
       "id": "tmdb:movie:1810122",
@@ -4551,8 +4570,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:24.086Z",
-      "lastAvailableAt": "2026-11-05T10:58:24.086Z"
+      "lastChecked": "2026-11-05T19:58:33.282Z",
+      "lastAvailableAt": "2026-11-05T19:58:33.282Z"
     },
     "movie:1783268": {
       "id": "tmdb:movie:1783268",
@@ -4612,8 +4631,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:24.554Z",
-      "lastAvailableAt": "2026-11-05T10:58:24.554Z"
+      "lastChecked": "2026-11-05T19:58:33.701Z",
+      "lastAvailableAt": "2026-11-05T19:58:33.701Z"
     },
     "movie:1807970": {
       "id": "tmdb:movie:1807970",
@@ -4643,8 +4662,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:25.034Z",
-      "lastAvailableAt": "2026-11-05T10:58:25.034Z"
+      "lastChecked": "2026-11-05T19:58:34.145Z",
+      "lastAvailableAt": "2026-11-05T19:58:34.145Z"
     },
     "movie:1807926": {
       "id": "tmdb:movie:1807926",
@@ -4674,8 +4693,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:25.494Z",
-      "lastAvailableAt": "2026-11-05T10:58:25.494Z"
+      "lastChecked": "2026-11-05T19:58:34.562Z",
+      "lastAvailableAt": "2026-11-05T19:58:34.562Z"
     },
     "movie:1773380": {
       "id": "tmdb:movie:1773380",
@@ -4699,8 +4718,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:25.959Z",
-      "lastAvailableAt": "2026-11-05T10:58:25.959Z"
+      "lastChecked": "2026-11-05T19:58:35.027Z",
+      "lastAvailableAt": "2026-11-05T19:58:35.027Z"
     },
     "movie:1529126": {
       "id": "tmdb:movie:1529126",
@@ -4729,8 +4748,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:26.424Z",
-      "lastAvailableAt": "2026-11-05T10:58:26.424Z"
+      "lastChecked": "2026-11-05T19:58:35.456Z",
+      "lastAvailableAt": "2026-11-05T19:58:35.456Z"
     },
     "movie:1773382": {
       "id": "tmdb:movie:1773382",
@@ -4754,8 +4773,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:26.887Z",
-      "lastAvailableAt": "2026-11-05T10:58:26.887Z"
+      "lastChecked": "2026-11-05T19:58:35.875Z",
+      "lastAvailableAt": "2026-11-05T19:58:35.875Z"
     },
     "movie:1728002": {
       "id": "tmdb:movie:1728002",
@@ -4784,8 +4803,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:27.345Z",
-      "lastAvailableAt": "2026-11-05T10:58:27.345Z"
+      "lastChecked": "2026-11-05T19:58:36.292Z",
+      "lastAvailableAt": "2026-11-05T19:58:36.292Z"
     },
     "movie:1693160": {
       "id": "tmdb:movie:1693160",
@@ -4832,8 +4851,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:27.816Z",
-      "lastAvailableAt": "2026-11-05T10:58:27.816Z"
+      "lastChecked": "2026-11-05T19:58:36.714Z",
+      "lastAvailableAt": "2026-11-05T19:58:36.714Z"
     },
     "movie:1773195": {
       "id": "tmdb:movie:1773195",
@@ -4856,8 +4875,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:28.280Z",
-      "lastAvailableAt": "2026-11-05T10:58:28.280Z"
+      "lastChecked": "2026-11-05T19:58:37.159Z",
+      "lastAvailableAt": "2026-11-05T19:58:37.159Z"
     },
     "movie:1768182": {
       "id": "tmdb:movie:1768182",
@@ -4886,8 +4905,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:28.738Z",
-      "lastAvailableAt": "2026-11-05T10:58:28.738Z"
+      "lastChecked": "2026-11-05T19:58:37.592Z",
+      "lastAvailableAt": "2026-11-05T19:58:37.592Z"
     },
     "movie:1393398": {
       "id": "tmdb:movie:1393398",
@@ -4917,8 +4936,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:29.197Z",
-      "lastAvailableAt": "2026-11-05T10:58:29.197Z"
+      "lastChecked": "2026-11-05T19:58:38.021Z",
+      "lastAvailableAt": "2026-11-05T19:58:38.021Z"
     },
     "movie:499371": {
       "id": "tmdb:movie:499371",
@@ -4941,8 +4960,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:29.671Z",
-      "lastAvailableAt": "2026-11-05T10:58:29.671Z"
+      "lastChecked": "2026-11-05T19:58:38.451Z",
+      "lastAvailableAt": "2026-11-05T19:58:38.451Z"
     },
     "movie:1805031": {
       "id": "tmdb:movie:1805031",
@@ -4965,8 +4984,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:30.143Z",
-      "lastAvailableAt": "2026-11-05T10:58:30.143Z"
+      "lastChecked": "2026-11-05T19:58:38.872Z",
+      "lastAvailableAt": "2026-11-05T19:58:38.872Z"
     },
     "movie:1803635": {
       "id": "tmdb:movie:1803635",
@@ -4995,8 +5014,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:30.609Z",
-      "lastAvailableAt": "2026-11-05T10:58:30.609Z"
+      "lastChecked": "2026-11-05T19:58:39.294Z",
+      "lastAvailableAt": "2026-11-05T19:58:39.294Z"
     },
     "movie:1805213": {
       "id": "tmdb:movie:1805213",
@@ -5019,8 +5038,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:31.074Z",
-      "lastAvailableAt": "2026-11-05T10:58:31.074Z"
+      "lastChecked": "2026-11-05T19:58:39.714Z",
+      "lastAvailableAt": "2026-11-05T19:58:39.714Z"
     },
     "movie:1744839": {
       "id": "tmdb:movie:1744839",
@@ -5043,8 +5062,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:31.530Z",
-      "lastAvailableAt": "2026-11-05T10:58:31.530Z"
+      "lastChecked": "2026-11-05T19:58:40.567Z",
+      "lastAvailableAt": "2026-11-05T19:58:40.567Z"
     },
     "movie:1629356": {
       "id": "tmdb:movie:1629356",
@@ -5074,8 +5093,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:31.995Z",
-      "lastAvailableAt": "2026-11-05T10:58:31.995Z"
+      "lastChecked": "2026-11-05T19:58:40.989Z",
+      "lastAvailableAt": "2026-11-05T19:58:40.989Z"
     },
     "movie:1799196": {
       "id": "tmdb:movie:1799196",
@@ -5098,8 +5117,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:32.457Z",
-      "lastAvailableAt": "2026-11-05T10:58:32.457Z"
+      "lastChecked": "2026-11-05T19:58:41.410Z",
+      "lastAvailableAt": "2026-11-05T19:58:41.410Z"
     },
     "movie:1722652": {
       "id": "tmdb:movie:1722652",
@@ -5129,8 +5148,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:32.914Z",
-      "lastAvailableAt": "2026-11-05T10:58:32.914Z"
+      "lastChecked": "2026-11-05T19:58:41.835Z",
+      "lastAvailableAt": "2026-11-05T19:58:41.835Z"
     },
     "movie:1400940": {
       "id": "tmdb:movie:1400940",
@@ -5154,8 +5173,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:33.380Z",
-      "lastAvailableAt": "2026-11-05T10:58:33.380Z"
+      "lastChecked": "2026-11-05T19:58:42.254Z",
+      "lastAvailableAt": "2026-11-05T19:58:42.254Z"
     },
     "movie:1773006": {
       "id": "tmdb:movie:1773006",
@@ -5179,8 +5198,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:33.850Z",
-      "lastAvailableAt": "2026-11-05T10:58:33.850Z"
+      "lastChecked": "2026-11-05T19:58:42.676Z",
+      "lastAvailableAt": "2026-11-05T19:58:42.676Z"
     },
     "movie:1800137": {
       "id": "tmdb:movie:1800137",
@@ -5204,8 +5223,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:34.317Z",
-      "lastAvailableAt": "2026-11-05T10:58:34.317Z"
+      "lastChecked": "2026-11-05T19:58:43.094Z",
+      "lastAvailableAt": "2026-11-05T19:58:43.094Z"
     },
     "movie:1729134": {
       "id": "tmdb:movie:1729134",
@@ -5229,8 +5248,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:34.785Z",
-      "lastAvailableAt": "2026-11-05T10:58:34.785Z"
+      "lastChecked": "2026-11-05T19:58:43.511Z",
+      "lastAvailableAt": "2026-11-05T19:58:43.511Z"
     },
     "movie:810101": {
       "id": "tmdb:movie:810101",
@@ -5271,8 +5290,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:35.258Z",
-      "lastAvailableAt": "2026-11-05T10:58:35.258Z"
+      "lastChecked": "2026-11-05T19:58:43.935Z",
+      "lastAvailableAt": "2026-11-05T19:58:43.935Z"
     },
     "movie:1775352": {
       "id": "tmdb:movie:1775352",
@@ -5301,8 +5320,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:35.723Z",
-      "lastAvailableAt": "2026-11-05T10:58:35.723Z"
+      "lastChecked": "2026-11-05T19:58:44.362Z",
+      "lastAvailableAt": "2026-11-05T19:58:44.362Z"
     },
     "movie:1772765": {
       "id": "tmdb:movie:1772765",
@@ -5332,8 +5351,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:36.184Z",
-      "lastAvailableAt": "2026-11-05T10:58:36.184Z"
+      "lastChecked": "2026-11-05T19:58:44.776Z",
+      "lastAvailableAt": "2026-11-05T19:58:44.776Z"
     },
     "movie:1582437": {
       "id": "tmdb:movie:1582437",
@@ -5375,8 +5394,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:36.645Z",
-      "lastAvailableAt": "2026-11-05T10:58:36.645Z"
+      "lastChecked": "2026-11-05T19:58:45.235Z",
+      "lastAvailableAt": "2026-11-05T19:58:45.235Z"
     },
     "movie:1472210": {
       "id": "tmdb:movie:1472210",
@@ -5448,8 +5467,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:37.107Z",
-      "lastAvailableAt": "2026-11-05T10:58:37.107Z"
+      "lastChecked": "2026-11-05T19:58:45.654Z",
+      "lastAvailableAt": "2026-11-05T19:58:45.654Z"
     },
     "movie:1452110": {
       "id": "tmdb:movie:1452110",
@@ -5497,8 +5516,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:37.569Z",
-      "lastAvailableAt": "2026-11-05T10:58:37.569Z"
+      "lastChecked": "2026-11-05T19:58:46.079Z",
+      "lastAvailableAt": "2026-11-05T19:58:46.079Z"
     },
     "movie:1436979": {
       "id": "tmdb:movie:1436979",
@@ -5521,8 +5540,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:38.034Z",
-      "lastAvailableAt": "2026-11-05T10:58:38.034Z"
+      "lastChecked": "2026-11-05T19:58:46.498Z",
+      "lastAvailableAt": "2026-11-05T19:58:46.498Z"
     },
     "movie:1771719": {
       "id": "tmdb:movie:1771719",
@@ -5546,8 +5565,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:38.498Z",
-      "lastAvailableAt": "2026-11-05T10:58:38.498Z"
+      "lastChecked": "2026-11-05T19:58:46.917Z",
+      "lastAvailableAt": "2026-11-05T19:58:46.917Z"
     },
     "movie:1794750": {
       "id": "tmdb:movie:1794750",
@@ -5824,10 +5843,22 @@
           "providerId": 2535,
           "provider": "France TV Amazon Channel",
           "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 58,
+          "provider": "Canal VOD",
+          "monetization": "rent"
+        },
+        {
+          "region": "FR",
+          "providerId": 58,
+          "provider": "Canal VOD",
+          "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:44.923Z",
-      "lastAvailableAt": "2026-11-05T10:58:44.923Z"
+      "lastChecked": "2026-11-05T19:58:50.545Z",
+      "lastAvailableAt": "2026-11-05T19:58:50.545Z"
     },
     "tv:314271": {
       "id": "tmdb:tv:314271",
@@ -5869,8 +5900,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:45.404Z",
-      "lastAvailableAt": "2026-11-05T10:58:45.404Z"
+      "lastChecked": "2026-11-05T19:58:51.402Z",
+      "lastAvailableAt": "2026-11-05T19:58:51.402Z"
     },
     "tv:336241": {
       "id": "tmdb:tv:336241",
@@ -5912,8 +5943,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:45.868Z",
-      "lastAvailableAt": "2026-11-05T10:58:45.868Z"
+      "lastChecked": "2026-11-05T19:58:51.828Z",
+      "lastAvailableAt": "2026-11-05T19:58:51.828Z"
     },
     "tv:336240": {
       "id": "tmdb:tv:336240",
@@ -5923,7 +5954,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
       "description": "Un échange de maisons de rêve entre la Sicile et Stockholm tourne mal quand deux couples fortunés sont soudain prêts à tout pour se protéger. Et pour protéger leurs secrets.",
       "releaseInfo": "2026",
-      "imdbRating": "4.3",
+      "imdbRating": "4.4",
       "tmdbId": 336240,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
@@ -5955,8 +5986,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:46.331Z",
-      "lastAvailableAt": "2026-11-05T10:58:46.331Z"
+      "lastChecked": "2026-11-05T19:58:52.256Z",
+      "lastAvailableAt": "2026-11-05T19:58:52.256Z"
     },
     "tv:311853": {
       "id": "tmdb:tv:311853",
@@ -5998,8 +6029,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:46.797Z",
-      "lastAvailableAt": "2026-11-05T10:58:46.797Z"
+      "lastChecked": "2026-11-05T19:58:52.683Z",
+      "lastAvailableAt": "2026-11-05T19:58:52.683Z"
     },
     "tv:307478": {
       "id": "tmdb:tv:307478",
@@ -6047,8 +6078,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:47.261Z",
-      "lastAvailableAt": "2026-11-05T10:58:47.261Z"
+      "lastChecked": "2026-11-05T19:58:53.103Z",
+      "lastAvailableAt": "2026-11-05T19:58:53.103Z"
     },
     "tv:289517": {
       "id": "tmdb:tv:289517",
@@ -6090,8 +6121,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:47.719Z",
-      "lastAvailableAt": "2026-11-05T10:58:47.719Z"
+      "lastChecked": "2026-11-05T19:58:53.525Z",
+      "lastAvailableAt": "2026-11-05T19:58:53.525Z"
     },
     "tv:243555": {
       "id": "tmdb:tv:243555",
@@ -6121,8 +6152,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:48.194Z",
-      "lastAvailableAt": "2026-11-05T10:58:48.194Z"
+      "lastChecked": "2026-11-05T19:58:53.957Z",
+      "lastAvailableAt": "2026-11-05T19:58:53.957Z"
     },
     "tv:338689": {
       "id": "tmdb:tv:338689",
@@ -6164,8 +6195,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:48.654Z",
-      "lastAvailableAt": "2026-11-05T10:58:48.654Z"
+      "lastChecked": "2026-11-05T19:58:54.388Z",
+      "lastAvailableAt": "2026-11-05T19:58:54.388Z"
     },
     "tv:313699": {
       "id": "tmdb:tv:313699",
@@ -6207,8 +6238,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:49.130Z",
-      "lastAvailableAt": "2026-11-05T10:58:49.130Z"
+      "lastChecked": "2026-11-05T19:58:54.819Z",
+      "lastAvailableAt": "2026-11-05T19:58:54.819Z"
     },
     "tv:292741": {
       "id": "tmdb:tv:292741",
@@ -6262,8 +6293,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:49.605Z",
-      "lastAvailableAt": "2026-11-05T10:58:49.605Z"
+      "lastChecked": "2026-11-05T19:58:55.237Z",
+      "lastAvailableAt": "2026-11-05T19:58:55.237Z"
     },
     "tv:334700": {
       "id": "tmdb:tv:334700",
@@ -6305,8 +6336,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:50.081Z",
-      "lastAvailableAt": "2026-11-05T10:58:50.081Z"
+      "lastChecked": "2026-11-05T19:58:55.653Z",
+      "lastAvailableAt": "2026-11-05T19:58:55.653Z"
     },
     "tv:339670": {
       "id": "tmdb:tv:339670",
@@ -6335,8 +6366,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:50.541Z",
-      "lastAvailableAt": "2026-11-05T10:58:50.541Z"
+      "lastChecked": "2026-11-05T19:58:56.100Z",
+      "lastAvailableAt": "2026-11-05T19:58:56.100Z"
     },
     "tv:339451": {
       "id": "tmdb:tv:339451",
@@ -6366,8 +6397,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:51.005Z",
-      "lastAvailableAt": "2026-11-05T10:58:51.005Z"
+      "lastChecked": "2026-11-05T19:58:56.530Z",
+      "lastAvailableAt": "2026-11-05T19:58:56.530Z"
     },
     "tv:333533": {
       "id": "tmdb:tv:333533",
@@ -6409,8 +6440,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:51.531Z",
-      "lastAvailableAt": "2026-11-05T10:58:51.531Z"
+      "lastChecked": "2026-11-05T19:58:56.947Z",
+      "lastAvailableAt": "2026-11-05T19:58:56.947Z"
     },
     "tv:340106": {
       "id": "tmdb:tv:340106",
@@ -6457,8 +6488,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:51.994Z",
-      "lastAvailableAt": "2026-11-05T10:58:51.994Z"
+      "lastChecked": "2026-11-05T19:58:57.367Z",
+      "lastAvailableAt": "2026-11-05T19:58:57.367Z"
     },
     "tv:334887": {
       "id": "tmdb:tv:334887",
@@ -6488,8 +6519,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:52.457Z",
-      "lastAvailableAt": "2026-11-05T10:58:52.457Z"
+      "lastChecked": "2026-11-05T19:58:57.783Z",
+      "lastAvailableAt": "2026-11-05T19:58:57.783Z"
     },
     "tv:321221": {
       "id": "tmdb:tv:321221",
@@ -6531,8 +6562,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:52.919Z",
-      "lastAvailableAt": "2026-11-05T10:58:52.919Z"
+      "lastChecked": "2026-11-05T19:58:58.202Z",
+      "lastAvailableAt": "2026-11-05T19:58:58.202Z"
     },
     "tv:316702": {
       "id": "tmdb:tv:316702",
@@ -6574,8 +6605,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:53.462Z",
-      "lastAvailableAt": "2026-11-05T10:58:53.462Z"
+      "lastChecked": "2026-11-05T19:58:58.622Z",
+      "lastAvailableAt": "2026-11-05T19:58:58.622Z"
     },
     "tv:339733": {
       "id": "tmdb:tv:339733",
@@ -6583,7 +6614,7 @@
       "name": "Vendée Globe, seuls autour du monde",
       "poster": "https://image.tmdb.org/t/p/w500/fZBtPc9A5KuQK0ck5DX2gld5Rdi.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/135dMDMd2v1dwwjUniiT2yFp1GT.jpg",
-      "description": "Une immersion totale au cœur de la 10e édition (2024-2025) du Vendée Globe. Grâce à des caméras embarquées, la série suit le quotidien extrême de six skippers (Jérémie Beyou, Conrad Colman, Clarisse Crémer, Violette Dorange, Pip Hare et Thomas Ruyant), mais aussi l'angoisse de leurs familles restées à terre et les coulisses de la direction de course.",
+      "description": "Une plongée au cœur de l’aventure humaine et sportive moderne la plus intense, entre terre et mer, entre larmes de frustration et explosions de joie",
       "releaseInfo": "2026",
       "tmdbId": 339733,
       "mediaType": "tv",
@@ -6604,8 +6635,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:53.924Z",
-      "lastAvailableAt": "2026-11-05T10:58:53.924Z"
+      "lastChecked": "2026-11-05T19:58:59.041Z",
+      "lastAvailableAt": "2026-11-05T19:58:59.041Z"
     },
     "tv:338918": {
       "id": "tmdb:tv:338918",
@@ -6646,8 +6677,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:54.389Z",
-      "lastAvailableAt": "2026-11-05T10:58:54.389Z"
+      "lastChecked": "2026-11-05T19:58:59.475Z",
+      "lastAvailableAt": "2026-11-05T19:58:59.475Z"
     },
     "tv:337950": {
       "id": "tmdb:tv:337950",
@@ -6676,8 +6707,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:54.851Z",
-      "lastAvailableAt": "2026-11-05T10:58:54.851Z"
+      "lastChecked": "2026-11-05T19:58:59.895Z",
+      "lastAvailableAt": "2026-11-05T19:58:59.895Z"
     },
     "tv:335535": {
       "id": "tmdb:tv:335535",
@@ -6719,8 +6750,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:55.314Z",
-      "lastAvailableAt": "2026-11-05T10:58:55.314Z"
+      "lastChecked": "2026-11-05T19:59:00.317Z",
+      "lastAvailableAt": "2026-11-05T19:59:00.317Z"
     },
     "tv:332649": {
       "id": "tmdb:tv:332649",
@@ -6762,8 +6793,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:55.777Z",
-      "lastAvailableAt": "2026-11-05T10:58:55.777Z"
+      "lastChecked": "2026-11-05T19:59:00.735Z",
+      "lastAvailableAt": "2026-11-05T19:59:00.735Z"
     },
     "tv:314360": {
       "id": "tmdb:tv:314360",
@@ -6805,8 +6836,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:56.254Z",
-      "lastAvailableAt": "2026-11-05T10:58:56.254Z"
+      "lastChecked": "2026-11-05T19:59:01.157Z",
+      "lastAvailableAt": "2026-11-05T19:59:01.157Z"
     },
     "tv:306163": {
       "id": "tmdb:tv:306163",
@@ -6836,8 +6867,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:56.724Z",
-      "lastAvailableAt": "2026-11-05T10:58:56.724Z"
+      "lastChecked": "2026-11-05T19:59:01.572Z",
+      "lastAvailableAt": "2026-11-05T19:59:01.572Z"
     },
     "tv:337800": {
       "id": "tmdb:tv:337800",
@@ -6867,8 +6898,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:57.194Z",
-      "lastAvailableAt": "2026-11-05T10:58:57.194Z"
+      "lastChecked": "2026-11-05T19:59:01.991Z",
+      "lastAvailableAt": "2026-11-05T19:59:01.991Z"
     },
     "tv:337609": {
       "id": "tmdb:tv:337609",
@@ -6898,8 +6929,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:57.656Z",
-      "lastAvailableAt": "2026-11-05T10:58:57.656Z"
+      "lastChecked": "2026-11-05T19:59:02.443Z",
+      "lastAvailableAt": "2026-11-05T19:59:02.443Z"
     },
     "tv:336936": {
       "id": "tmdb:tv:336936",
@@ -6922,8 +6953,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:58.136Z",
-      "lastAvailableAt": "2026-11-05T10:58:58.136Z"
+      "lastChecked": "2026-11-05T19:59:02.863Z",
+      "lastAvailableAt": "2026-11-05T19:59:02.863Z"
     },
     "tv:334703": {
       "id": "tmdb:tv:334703",
@@ -6964,8 +6995,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:58.604Z",
-      "lastAvailableAt": "2026-11-05T10:58:58.604Z"
+      "lastChecked": "2026-11-05T19:59:03.286Z",
+      "lastAvailableAt": "2026-11-05T19:59:03.286Z"
     },
     "tv:326780": {
       "id": "tmdb:tv:326780",
@@ -6994,8 +7025,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:59.071Z",
-      "lastAvailableAt": "2026-11-05T10:58:59.071Z"
+      "lastChecked": "2026-11-05T19:59:03.710Z",
+      "lastAvailableAt": "2026-11-05T19:59:03.710Z"
     },
     "tv:300527": {
       "id": "tmdb:tv:300527",
@@ -7037,8 +7068,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:58:59.539Z",
-      "lastAvailableAt": "2026-11-05T10:58:59.539Z"
+      "lastChecked": "2026-11-05T19:59:04.139Z",
+      "lastAvailableAt": "2026-11-05T19:59:04.139Z"
     },
     "tv:299249": {
       "id": "tmdb:tv:299249",
@@ -7074,8 +7105,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:00.003Z",
-      "lastAvailableAt": "2026-11-05T10:59:00.003Z"
+      "lastChecked": "2026-11-05T19:59:04.558Z",
+      "lastAvailableAt": "2026-11-05T19:59:04.558Z"
     },
     "tv:335319": {
       "id": "tmdb:tv:335319",
@@ -7117,8 +7148,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:00.476Z",
-      "lastAvailableAt": "2026-11-05T10:59:00.476Z"
+      "lastChecked": "2026-11-05T19:59:04.977Z",
+      "lastAvailableAt": "2026-11-05T19:59:04.977Z"
     },
     "tv:332204": {
       "id": "tmdb:tv:332204",
@@ -7177,8 +7208,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:00.943Z",
-      "lastAvailableAt": "2026-11-05T10:59:00.943Z"
+      "lastChecked": "2026-11-05T19:59:05.394Z",
+      "lastAvailableAt": "2026-11-05T19:59:05.394Z"
     },
     "tv:275139": {
       "id": "tmdb:tv:275139",
@@ -7208,8 +7239,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:01.403Z",
-      "lastAvailableAt": "2026-11-05T10:59:01.403Z"
+      "lastChecked": "2026-11-05T19:59:05.832Z",
+      "lastAvailableAt": "2026-11-05T19:59:05.832Z"
     },
     "tv:332713": {
       "id": "tmdb:tv:332713",
@@ -7251,8 +7282,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:01.869Z",
-      "lastAvailableAt": "2026-11-05T10:59:01.869Z"
+      "lastChecked": "2026-11-05T19:59:06.247Z",
+      "lastAvailableAt": "2026-11-05T19:59:06.247Z"
     },
     "tv:303745": {
       "id": "tmdb:tv:303745",
@@ -7294,8 +7325,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:02.333Z",
-      "lastAvailableAt": "2026-11-05T10:59:02.333Z"
+      "lastChecked": "2026-11-05T19:59:06.666Z",
+      "lastAvailableAt": "2026-11-05T19:59:06.666Z"
     },
     "tv:336916": {
       "id": "tmdb:tv:336916",
@@ -7331,8 +7362,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:02.795Z",
-      "lastAvailableAt": "2026-11-05T10:59:02.795Z"
+      "lastChecked": "2026-11-05T19:59:07.096Z",
+      "lastAvailableAt": "2026-11-05T19:59:07.096Z"
     },
     "tv:204084": {
       "id": "tmdb:tv:204084",
@@ -7385,8 +7416,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:03.255Z",
-      "lastAvailableAt": "2026-11-05T10:59:03.255Z"
+      "lastChecked": "2026-11-05T19:59:07.539Z",
+      "lastAvailableAt": "2026-11-05T19:59:07.539Z"
     },
     "tv:336973": {
       "id": "tmdb:tv:336973",
@@ -7427,8 +7458,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:03.718Z",
-      "lastAvailableAt": "2026-11-05T10:59:03.718Z"
+      "lastChecked": "2026-11-05T19:59:07.967Z",
+      "lastAvailableAt": "2026-11-05T19:59:07.967Z"
     },
     "tv:329490": {
       "id": "tmdb:tv:329490",
@@ -7470,8 +7501,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:04.193Z",
-      "lastAvailableAt": "2026-11-05T10:59:04.193Z"
+      "lastChecked": "2026-11-05T19:59:08.395Z",
+      "lastAvailableAt": "2026-11-05T19:59:08.395Z"
     },
     "tv:320754": {
       "id": "tmdb:tv:320754",
@@ -7513,8 +7544,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:04.656Z",
-      "lastAvailableAt": "2026-11-05T10:59:04.656Z"
+      "lastChecked": "2026-11-05T19:59:08.817Z",
+      "lastAvailableAt": "2026-11-05T19:59:08.817Z"
     },
     "tv:300146": {
       "id": "tmdb:tv:300146",
@@ -7524,7 +7555,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
       "description": "Wei Rao, jeune femme noble, est obligée de se marier avec le prince Lu Zuo, alors que celui-ci est dans le coma et proche de la mort. Elle force alors Ah Chou, une jeune fille ordinaire dont la seule caractéristique est sa ressemblance frappante avec Wei Rao, à prendre sa place au mariage. Mais Lu Zuo se réveille précisément le jour des noces... Ah Chou doit maintenant faire face à Wei Rao, qui veut récupérer sa place, à Lu Zuo, qui la prend pour cette vipère de Wei Rao, mais aussi à toute la demeure du prince qui est pleine de pièges et de complots.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "6.7",
       "tmdbId": 300146,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
@@ -7556,8 +7587,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:05.118Z",
-      "lastAvailableAt": "2026-11-05T10:59:05.118Z"
+      "lastChecked": "2026-11-05T19:59:09.245Z",
+      "lastAvailableAt": "2026-11-05T19:59:09.245Z"
     },
     "tv:298550": {
       "id": "tmdb:tv:298550",
@@ -7599,8 +7630,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:05.579Z",
-      "lastAvailableAt": "2026-11-05T10:59:05.579Z"
+      "lastChecked": "2026-11-05T19:59:09.662Z",
+      "lastAvailableAt": "2026-11-05T19:59:09.662Z"
     },
     "tv:296466": {
       "id": "tmdb:tv:296466",
@@ -7642,8 +7673,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:06.042Z",
-      "lastAvailableAt": "2026-11-05T10:59:06.042Z"
+      "lastChecked": "2026-11-05T19:59:10.080Z",
+      "lastAvailableAt": "2026-11-05T19:59:10.080Z"
     },
     "tv:337911": {
       "id": "tmdb:tv:337911",
@@ -7673,8 +7704,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:06.499Z",
-      "lastAvailableAt": "2026-11-05T10:59:06.499Z"
+      "lastChecked": "2026-11-05T19:59:10.525Z",
+      "lastAvailableAt": "2026-11-05T19:59:10.525Z"
     },
     "tv:336453": {
       "id": "tmdb:tv:336453",
@@ -7697,8 +7728,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:06.966Z",
-      "lastAvailableAt": "2026-11-05T10:59:06.966Z"
+      "lastChecked": "2026-11-05T19:59:10.943Z",
+      "lastAvailableAt": "2026-11-05T19:59:10.943Z"
     },
     "tv:286183": {
       "id": "tmdb:tv:286183",
@@ -7740,8 +7771,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:07.430Z",
-      "lastAvailableAt": "2026-11-05T10:59:07.430Z"
+      "lastChecked": "2026-11-05T19:59:11.375Z",
+      "lastAvailableAt": "2026-11-05T19:59:11.375Z"
     },
     "tv:213562": {
       "id": "tmdb:tv:213562",
@@ -7783,8 +7814,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:07.889Z",
-      "lastAvailableAt": "2026-11-05T10:59:07.889Z"
+      "lastChecked": "2026-11-05T19:59:11.808Z",
+      "lastAvailableAt": "2026-11-05T19:59:11.808Z"
     },
     "tv:306565": {
       "id": "tmdb:tv:306565",
@@ -7825,8 +7856,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:08.347Z",
-      "lastAvailableAt": "2026-11-05T10:59:08.347Z"
+      "lastChecked": "2026-11-05T19:59:12.223Z",
+      "lastAvailableAt": "2026-11-05T19:59:12.223Z"
     },
     "tv:335536": {
       "id": "tmdb:tv:335536",
@@ -7868,8 +7899,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:08.807Z",
-      "lastAvailableAt": "2026-11-05T10:59:08.807Z"
+      "lastChecked": "2026-11-05T19:59:12.640Z",
+      "lastAvailableAt": "2026-11-05T19:59:12.640Z"
     },
     "tv:283371": {
       "id": "tmdb:tv:283371",
@@ -7911,8 +7942,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:09.267Z",
-      "lastAvailableAt": "2026-11-05T10:59:09.267Z"
+      "lastChecked": "2026-11-05T19:59:13.085Z",
+      "lastAvailableAt": "2026-11-05T19:59:13.085Z"
     },
     "tv:213375": {
       "id": "tmdb:tv:213375",
@@ -7942,8 +7973,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:09.726Z",
-      "lastAvailableAt": "2026-11-05T10:59:09.726Z"
+      "lastChecked": "2026-11-05T19:59:13.544Z",
+      "lastAvailableAt": "2026-11-05T19:59:13.544Z"
     },
     "tv:338193": {
       "id": "tmdb:tv:338193",
@@ -7972,8 +8003,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:10.187Z",
-      "lastAvailableAt": "2026-11-05T10:59:10.187Z"
+      "lastChecked": "2026-11-05T19:59:14.017Z",
+      "lastAvailableAt": "2026-11-05T19:59:14.017Z"
     },
     "tv:336418": {
       "id": "tmdb:tv:336418",
@@ -8015,8 +8046,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:10.649Z",
-      "lastAvailableAt": "2026-11-05T10:59:10.649Z"
+      "lastChecked": "2026-11-05T19:59:14.446Z",
+      "lastAvailableAt": "2026-11-05T19:59:14.446Z"
     },
     "tv:312359": {
       "id": "tmdb:tv:312359",
@@ -8106,8 +8137,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:11.114Z",
-      "lastAvailableAt": "2026-11-05T10:59:11.114Z"
+      "lastChecked": "2026-11-05T19:59:14.862Z",
+      "lastAvailableAt": "2026-11-05T19:59:14.862Z"
     },
     "tv:288588": {
       "id": "tmdb:tv:288588",
@@ -8148,8 +8179,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:11.579Z",
-      "lastAvailableAt": "2026-11-05T10:59:11.579Z"
+      "lastChecked": "2026-11-05T19:59:15.277Z",
+      "lastAvailableAt": "2026-11-05T19:59:15.277Z"
     },
     "tv:328035": {
       "id": "tmdb:tv:328035",
@@ -8185,8 +8216,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:12.040Z",
-      "lastAvailableAt": "2026-11-05T10:59:12.040Z"
+      "lastChecked": "2026-11-05T19:59:15.691Z",
+      "lastAvailableAt": "2026-11-05T19:59:15.691Z"
     },
     "tv:311955": {
       "id": "tmdb:tv:311955",
@@ -8228,8 +8259,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:12.577Z",
-      "lastAvailableAt": "2026-11-05T10:59:12.577Z"
+      "lastChecked": "2026-11-05T19:59:16.115Z",
+      "lastAvailableAt": "2026-11-05T19:59:16.115Z"
     },
     "tv:307903": {
       "id": "tmdb:tv:307903",
@@ -8239,7 +8270,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/9SR35fCLp6VmuPPxRjfPQLucyU5.jpg",
       "description": "Et si des légendes urbaines devenaient réalité ? Fushigi, un garçon vêtu d'une capuche rouge, parcourt le pays pour rassembler ces rumeurs dans son carnet. Son objectif est d'attraper Himitsu, la jeune fille qui donne vie à ces légendes. Accompagné de son partenaire Jimmy, un chien au visage humain, plus il se rapproche de Himitsu, plus Fushigi est confronté à des phénomènes surnaturels.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "8.7",
       "tmdbId": 307903,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
@@ -8271,8 +8302,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:13.051Z",
-      "lastAvailableAt": "2026-11-05T10:59:13.051Z"
+      "lastChecked": "2026-11-05T19:59:16.536Z",
+      "lastAvailableAt": "2026-11-05T19:59:16.536Z"
     },
     "tv:295420": {
       "id": "tmdb:tv:295420",
@@ -8314,8 +8345,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:13.508Z",
-      "lastAvailableAt": "2026-11-05T10:59:13.508Z"
+      "lastChecked": "2026-11-05T19:59:16.953Z",
+      "lastAvailableAt": "2026-11-05T19:59:16.953Z"
     },
     "tv:293607": {
       "id": "tmdb:tv:293607",
@@ -8357,8 +8388,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:13.972Z",
-      "lastAvailableAt": "2026-11-05T10:59:13.972Z"
+      "lastChecked": "2026-11-05T19:59:17.382Z",
+      "lastAvailableAt": "2026-11-05T19:59:17.382Z"
     },
     "tv:320909": {
       "id": "tmdb:tv:320909",
@@ -8400,8 +8431,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:14.433Z",
-      "lastAvailableAt": "2026-11-05T10:59:14.433Z"
+      "lastChecked": "2026-11-05T19:59:17.810Z",
+      "lastAvailableAt": "2026-11-05T19:59:17.810Z"
     },
     "tv:293610": {
       "id": "tmdb:tv:293610",
@@ -8431,8 +8462,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:14.906Z",
-      "lastAvailableAt": "2026-11-05T10:59:14.906Z"
+      "lastChecked": "2026-11-05T19:59:18.226Z",
+      "lastAvailableAt": "2026-11-05T19:59:18.226Z"
     },
     "tv:289423": {
       "id": "tmdb:tv:289423",
@@ -8474,8 +8505,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:15.370Z",
-      "lastAvailableAt": "2026-11-05T10:59:15.370Z"
+      "lastChecked": "2026-11-05T19:59:18.639Z",
+      "lastAvailableAt": "2026-11-05T19:59:18.639Z"
     },
     "tv:284833": {
       "id": "tmdb:tv:284833",
@@ -8547,8 +8578,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:15.830Z",
-      "lastAvailableAt": "2026-11-05T10:59:15.830Z"
+      "lastChecked": "2026-11-05T19:59:19.066Z",
+      "lastAvailableAt": "2026-11-05T19:59:19.066Z"
     },
     "tv:284580": {
       "id": "tmdb:tv:284580",
@@ -8590,8 +8621,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:16.296Z",
-      "lastAvailableAt": "2026-11-05T10:59:16.296Z"
+      "lastChecked": "2026-11-05T19:59:19.499Z",
+      "lastAvailableAt": "2026-11-05T19:59:19.499Z"
     },
     "tv:323937": {
       "id": "tmdb:tv:323937",
@@ -8633,8 +8664,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:16.754Z",
-      "lastAvailableAt": "2026-11-05T10:59:16.754Z"
+      "lastChecked": "2026-11-05T19:59:19.918Z",
+      "lastAvailableAt": "2026-11-05T19:59:19.918Z"
     },
     "tv:285322": {
       "id": "tmdb:tv:285322",
@@ -8676,8 +8707,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:17.223Z",
-      "lastAvailableAt": "2026-11-05T10:59:17.223Z"
+      "lastChecked": "2026-11-05T19:59:20.337Z",
+      "lastAvailableAt": "2026-11-05T19:59:20.337Z"
     },
     "tv:337700": {
       "id": "tmdb:tv:337700",
@@ -8737,8 +8768,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:17.683Z",
-      "lastAvailableAt": "2026-11-05T10:59:17.683Z"
+      "lastChecked": "2026-11-05T19:59:20.754Z",
+      "lastAvailableAt": "2026-11-05T19:59:20.754Z"
     },
     "tv:332261": {
       "id": "tmdb:tv:332261",
@@ -8780,8 +8811,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:18.207Z",
-      "lastAvailableAt": "2026-11-05T10:59:18.207Z"
+      "lastChecked": "2026-11-05T19:59:21.175Z",
+      "lastAvailableAt": "2026-11-05T19:59:21.175Z"
     },
     "tv:321518": {
       "id": "tmdb:tv:321518",
@@ -8823,8 +8854,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:18.666Z",
-      "lastAvailableAt": "2026-11-05T10:59:18.666Z"
+      "lastChecked": "2026-11-05T19:59:21.598Z",
+      "lastAvailableAt": "2026-11-05T19:59:21.598Z"
     },
     "tv:313346": {
       "id": "tmdb:tv:313346",
@@ -8866,8 +8897,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:19.127Z",
-      "lastAvailableAt": "2026-11-05T10:59:19.127Z"
+      "lastChecked": "2026-11-05T19:59:22.026Z",
+      "lastAvailableAt": "2026-11-05T19:59:22.026Z"
     },
     "tv:305551": {
       "id": "tmdb:tv:305551",
@@ -8897,8 +8928,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:19.587Z",
-      "lastAvailableAt": "2026-11-05T10:59:19.587Z"
+      "lastChecked": "2026-11-05T19:59:22.446Z",
+      "lastAvailableAt": "2026-11-05T19:59:22.446Z"
     },
     "tv:303272": {
       "id": "tmdb:tv:303272",
@@ -8970,8 +9001,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:20.048Z",
-      "lastAvailableAt": "2026-11-05T10:59:20.048Z"
+      "lastChecked": "2026-11-05T19:59:22.905Z",
+      "lastAvailableAt": "2026-11-05T19:59:22.905Z"
     },
     "tv:290233": {
       "id": "tmdb:tv:290233",
@@ -9013,8 +9044,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:20.510Z",
-      "lastAvailableAt": "2026-11-05T10:59:20.510Z"
+      "lastChecked": "2026-11-05T19:59:23.322Z",
+      "lastAvailableAt": "2026-11-05T19:59:23.322Z"
     },
     "tv:288673": {
       "id": "tmdb:tv:288673",
@@ -9056,8 +9087,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:20.978Z",
-      "lastAvailableAt": "2026-11-05T10:59:20.978Z"
+      "lastChecked": "2026-11-05T19:59:23.739Z",
+      "lastAvailableAt": "2026-11-05T19:59:23.739Z"
     },
     "tv:336880": {
       "id": "tmdb:tv:336880",
@@ -9087,8 +9118,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:21.452Z",
-      "lastAvailableAt": "2026-11-05T10:59:21.452Z"
+      "lastChecked": "2026-11-05T19:59:24.154Z",
+      "lastAvailableAt": "2026-11-05T19:59:24.154Z"
     },
     "tv:336851": {
       "id": "tmdb:tv:336851",
@@ -9111,8 +9142,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:21.918Z",
-      "lastAvailableAt": "2026-11-05T10:59:21.918Z"
+      "lastChecked": "2026-11-05T19:59:24.588Z",
+      "lastAvailableAt": "2026-11-05T19:59:24.588Z"
     },
     "tv:327765": {
       "id": "tmdb:tv:327765",
@@ -9154,8 +9185,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:22.378Z",
-      "lastAvailableAt": "2026-11-05T10:59:22.378Z"
+      "lastChecked": "2026-11-05T19:59:25.006Z",
+      "lastAvailableAt": "2026-11-05T19:59:25.006Z"
     },
     "tv:316891": {
       "id": "tmdb:tv:316891",
@@ -9196,8 +9227,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:22.929Z",
-      "lastAvailableAt": "2026-11-05T10:59:22.929Z"
+      "lastChecked": "2026-11-05T19:59:25.434Z",
+      "lastAvailableAt": "2026-11-05T19:59:25.434Z"
     },
     "tv:316551": {
       "id": "tmdb:tv:316551",
@@ -9239,8 +9270,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:23.392Z",
-      "lastAvailableAt": "2026-11-05T10:59:23.392Z"
+      "lastChecked": "2026-11-05T19:59:25.858Z",
+      "lastAvailableAt": "2026-11-05T19:59:25.858Z"
     },
     "tv:312850": {
       "id": "tmdb:tv:312850",
@@ -9288,8 +9319,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:23.852Z",
-      "lastAvailableAt": "2026-11-05T10:59:23.852Z"
+      "lastChecked": "2026-11-05T19:59:26.288Z",
+      "lastAvailableAt": "2026-11-05T19:59:26.288Z"
     },
     "tv:337456": {
       "id": "tmdb:tv:337456",
@@ -9318,8 +9349,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:24.310Z",
-      "lastAvailableAt": "2026-11-05T10:59:24.310Z"
+      "lastChecked": "2026-11-05T19:59:26.708Z",
+      "lastAvailableAt": "2026-11-05T19:59:26.708Z"
     },
     "tv:337332": {
       "id": "tmdb:tv:337332",
@@ -9468,8 +9499,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:24.768Z",
-      "lastAvailableAt": "2026-11-05T10:59:24.768Z"
+      "lastChecked": "2026-11-05T19:59:27.140Z",
+      "lastAvailableAt": "2026-11-05T19:59:27.140Z"
     },
     "tv:336654": {
       "id": "tmdb:tv:336654",
@@ -9499,8 +9530,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:25.232Z",
-      "lastAvailableAt": "2026-11-05T10:59:25.232Z"
+      "lastChecked": "2026-11-05T19:59:27.572Z",
+      "lastAvailableAt": "2026-11-05T19:59:27.572Z"
     },
     "tv:334779": {
       "id": "tmdb:tv:334779",
@@ -9524,8 +9555,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:25.697Z",
-      "lastAvailableAt": "2026-11-05T10:59:25.697Z"
+      "lastChecked": "2026-11-05T19:59:27.989Z",
+      "lastAvailableAt": "2026-11-05T19:59:27.989Z"
     },
     "tv:329096": {
       "id": "tmdb:tv:329096",
@@ -9567,8 +9598,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:26.160Z",
-      "lastAvailableAt": "2026-11-05T10:59:26.160Z"
+      "lastChecked": "2026-11-05T19:59:28.404Z",
+      "lastAvailableAt": "2026-11-05T19:59:28.404Z"
     },
     "tv:316694": {
       "id": "tmdb:tv:316694",
@@ -9610,8 +9641,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:26.618Z",
-      "lastAvailableAt": "2026-11-05T10:59:26.618Z"
+      "lastChecked": "2026-11-05T19:59:28.823Z",
+      "lastAvailableAt": "2026-11-05T19:59:28.823Z"
     },
     "tv:313068": {
       "id": "tmdb:tv:313068",
@@ -9653,8 +9684,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:27.087Z",
-      "lastAvailableAt": "2026-11-05T10:59:27.087Z"
+      "lastChecked": "2026-11-05T19:59:29.256Z",
+      "lastAvailableAt": "2026-11-05T19:59:29.256Z"
     },
     "tv:297903": {
       "id": "tmdb:tv:297903",
@@ -9696,8 +9727,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:27.548Z",
-      "lastAvailableAt": "2026-11-05T10:59:27.548Z"
+      "lastChecked": "2026-11-05T19:59:29.673Z",
+      "lastAvailableAt": "2026-11-05T19:59:29.673Z"
     },
     "tv:336848": {
       "id": "tmdb:tv:336848",
@@ -9721,8 +9752,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:28.023Z",
-      "lastAvailableAt": "2026-11-05T10:59:28.023Z"
+      "lastChecked": "2026-11-05T19:59:30.135Z",
+      "lastAvailableAt": "2026-11-05T19:59:30.135Z"
     },
     "tv:335194": {
       "id": "tmdb:tv:335194",
@@ -9764,8 +9795,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:28.502Z",
-      "lastAvailableAt": "2026-11-05T10:59:28.502Z"
+      "lastChecked": "2026-11-05T19:59:30.581Z",
+      "lastAvailableAt": "2026-11-05T19:59:30.581Z"
     },
     "tv:333622": {
       "id": "tmdb:tv:333622",
@@ -9807,8 +9838,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:28.965Z",
-      "lastAvailableAt": "2026-11-05T10:59:28.965Z"
+      "lastChecked": "2026-11-05T19:59:31.030Z",
+      "lastAvailableAt": "2026-11-05T19:59:31.030Z"
     },
     "tv:330505": {
       "id": "tmdb:tv:330505",
@@ -9837,8 +9868,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:29.429Z",
-      "lastAvailableAt": "2026-11-05T10:59:29.429Z"
+      "lastChecked": "2026-11-05T19:59:31.446Z",
+      "lastAvailableAt": "2026-11-05T19:59:31.446Z"
     },
     "tv:303060": {
       "id": "tmdb:tv:303060",
@@ -9880,8 +9911,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:29.888Z",
-      "lastAvailableAt": "2026-11-05T10:59:29.888Z"
+      "lastChecked": "2026-11-05T19:59:31.864Z",
+      "lastAvailableAt": "2026-11-05T19:59:31.864Z"
     },
     "tv:283938": {
       "id": "tmdb:tv:283938",
@@ -10039,8 +10070,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:31.747Z",
-      "lastAvailableAt": "2026-11-05T10:59:31.747Z"
+      "lastChecked": "2026-11-05T19:59:32.740Z",
+      "lastAvailableAt": "2026-11-05T19:59:32.740Z"
     },
     "tv:340755": {
       "id": "tmdb:tv:340755",
@@ -10063,8 +10094,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:32.214Z",
-      "lastAvailableAt": "2026-11-05T10:59:32.214Z"
+      "lastChecked": "2026-11-05T19:59:33.586Z",
+      "lastAvailableAt": "2026-11-05T19:59:33.586Z"
     },
     "tv:340754": {
       "id": "tmdb:tv:340754",
@@ -10085,10 +10116,16 @@
           "providerId": 230,
           "provider": "Crave",
           "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 2604,
+          "provider": "Crave Amazon Channel",
+          "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:32.682Z",
-      "lastAvailableAt": "2026-11-05T10:59:32.682Z"
+      "lastChecked": "2026-11-05T19:59:34.018Z",
+      "lastAvailableAt": "2026-11-05T19:59:34.018Z"
     },
     "tv:339618": {
       "id": "tmdb:tv:339618",
@@ -10111,8 +10148,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:33.146Z",
-      "lastAvailableAt": "2026-11-05T10:59:33.146Z"
+      "lastChecked": "2026-11-05T19:59:34.438Z",
+      "lastAvailableAt": "2026-11-05T19:59:34.438Z"
     },
     "tv:335951": {
       "id": "tmdb:tv:335951",
@@ -10141,8 +10178,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:33.607Z",
-      "lastAvailableAt": "2026-11-05T10:59:33.607Z"
+      "lastChecked": "2026-11-05T19:59:34.860Z",
+      "lastAvailableAt": "2026-11-05T19:59:34.860Z"
     },
     "tv:340187": {
       "id": "tmdb:tv:340187",
@@ -10171,8 +10208,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:34.088Z",
-      "lastAvailableAt": "2026-11-05T10:59:34.088Z"
+      "lastChecked": "2026-11-05T19:59:35.286Z",
+      "lastAvailableAt": "2026-11-05T19:59:35.286Z"
     },
     "tv:335481": {
       "id": "tmdb:tv:335481",
@@ -10220,8 +10257,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:34.552Z",
-      "lastAvailableAt": "2026-11-05T10:59:34.552Z"
+      "lastChecked": "2026-11-05T19:59:35.704Z",
+      "lastAvailableAt": "2026-11-05T19:59:35.704Z"
     },
     "tv:339763": {
       "id": "tmdb:tv:339763",
@@ -10274,8 +10311,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:35.110Z",
-      "lastAvailableAt": "2026-11-05T10:59:35.110Z"
+      "lastChecked": "2026-11-05T19:59:36.125Z",
+      "lastAvailableAt": "2026-11-05T19:59:36.125Z"
     },
     "tv:339754": {
       "id": "tmdb:tv:339754",
@@ -10305,8 +10342,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:35.776Z",
-      "lastAvailableAt": "2026-11-05T10:59:35.776Z"
+      "lastChecked": "2026-11-05T19:59:36.541Z",
+      "lastAvailableAt": "2026-11-05T19:59:36.541Z"
     },
     "tv:322267": {
       "id": "tmdb:tv:322267",
@@ -10342,8 +10379,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:36.233Z",
-      "lastAvailableAt": "2026-11-05T10:59:36.233Z"
+      "lastChecked": "2026-11-05T19:59:36.984Z",
+      "lastAvailableAt": "2026-11-05T19:59:36.984Z"
     },
     "tv:286171": {
       "id": "tmdb:tv:286171",
@@ -10367,8 +10404,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:36.700Z",
-      "lastAvailableAt": "2026-11-05T10:59:36.700Z"
+      "lastChecked": "2026-11-05T19:59:37.407Z",
+      "lastAvailableAt": "2026-11-05T19:59:37.407Z"
     },
     "tv:334470": {
       "id": "tmdb:tv:334470",
@@ -10398,8 +10435,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:37.236Z",
-      "lastAvailableAt": "2026-11-05T10:59:37.236Z"
+      "lastChecked": "2026-11-05T19:59:37.837Z",
+      "lastAvailableAt": "2026-11-05T19:59:37.837Z"
     },
     "tv:339474": {
       "id": "tmdb:tv:339474",
@@ -10429,8 +10466,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:37.700Z",
-      "lastAvailableAt": "2026-11-05T10:59:37.700Z"
+      "lastChecked": "2026-11-05T19:59:38.285Z",
+      "lastAvailableAt": "2026-11-05T19:59:38.285Z"
     },
     "tv:339413": {
       "id": "tmdb:tv:339413",
@@ -10459,8 +10496,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:38.167Z",
-      "lastAvailableAt": "2026-11-05T10:59:38.167Z"
+      "lastChecked": "2026-11-05T19:59:38.701Z",
+      "lastAvailableAt": "2026-11-05T19:59:38.701Z"
     },
     "tv:337061": {
       "id": "tmdb:tv:337061",
@@ -10483,8 +10520,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:38.633Z",
-      "lastAvailableAt": "2026-11-05T10:59:38.633Z"
+      "lastChecked": "2026-11-05T19:59:39.227Z",
+      "lastAvailableAt": "2026-11-05T19:59:39.227Z"
     },
     "tv:336770": {
       "id": "tmdb:tv:336770",
@@ -10507,8 +10544,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:39.096Z",
-      "lastAvailableAt": "2026-11-05T10:59:39.096Z"
+      "lastChecked": "2026-11-05T19:59:39.662Z",
+      "lastAvailableAt": "2026-11-05T19:59:39.662Z"
     },
     "tv:307831": {
       "id": "tmdb:tv:307831",
@@ -10531,8 +10568,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:39.579Z",
-      "lastAvailableAt": "2026-11-05T10:59:39.579Z"
+      "lastChecked": "2026-11-05T19:59:40.083Z",
+      "lastAvailableAt": "2026-11-05T19:59:40.083Z"
     },
     "tv:313137": {
       "id": "tmdb:tv:313137",
@@ -10573,8 +10610,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:40.080Z",
-      "lastAvailableAt": "2026-11-05T10:59:40.080Z"
+      "lastChecked": "2026-11-05T19:59:40.506Z",
+      "lastAvailableAt": "2026-11-05T19:59:40.506Z"
     },
     "tv:334321": {
       "id": "tmdb:tv:334321",
@@ -10603,8 +10640,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:40.545Z",
-      "lastAvailableAt": "2026-11-05T10:59:40.545Z"
+      "lastChecked": "2026-11-05T19:59:40.934Z",
+      "lastAvailableAt": "2026-11-05T19:59:40.934Z"
     },
     "tv:339333": {
       "id": "tmdb:tv:339333",
@@ -10633,8 +10670,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:41.009Z",
-      "lastAvailableAt": "2026-11-05T10:59:41.009Z"
+      "lastChecked": "2026-11-05T19:59:41.353Z",
+      "lastAvailableAt": "2026-11-05T19:59:41.353Z"
     },
     "tv:339331": {
       "id": "tmdb:tv:339331",
@@ -10663,8 +10700,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:41.471Z",
-      "lastAvailableAt": "2026-11-05T10:59:41.471Z"
+      "lastChecked": "2026-11-05T19:59:41.770Z",
+      "lastAvailableAt": "2026-11-05T19:59:41.770Z"
     },
     "tv:339010": {
       "id": "tmdb:tv:339010",
@@ -10694,8 +10731,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:41.939Z",
-      "lastAvailableAt": "2026-11-05T10:59:41.939Z"
+      "lastChecked": "2026-11-05T19:59:42.196Z",
+      "lastAvailableAt": "2026-11-05T19:59:42.196Z"
     },
     "tv:329896": {
       "id": "tmdb:tv:329896",
@@ -10718,8 +10755,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:42.401Z",
-      "lastAvailableAt": "2026-11-05T10:59:42.401Z"
+      "lastChecked": "2026-11-05T19:59:42.610Z",
+      "lastAvailableAt": "2026-11-05T19:59:42.610Z"
     },
     "tv:339727": {
       "id": "tmdb:tv:339727",
@@ -10754,8 +10791,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:42.880Z",
-      "lastAvailableAt": "2026-11-05T10:59:42.880Z"
+      "lastChecked": "2026-11-05T19:59:43.039Z",
+      "lastAvailableAt": "2026-11-05T19:59:43.039Z"
     },
     "tv:338844": {
       "id": "tmdb:tv:338844",
@@ -10778,8 +10815,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:43.342Z",
-      "lastAvailableAt": "2026-11-05T10:59:43.342Z"
+      "lastChecked": "2026-11-05T19:59:43.460Z",
+      "lastAvailableAt": "2026-11-05T19:59:43.460Z"
     },
     "tv:338823": {
       "id": "tmdb:tv:338823",
@@ -10802,8 +10839,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:43.835Z",
-      "lastAvailableAt": "2026-11-05T10:59:43.835Z"
+      "lastChecked": "2026-11-05T19:59:43.878Z",
+      "lastAvailableAt": "2026-11-05T19:59:43.878Z"
     },
     "tv:311648": {
       "id": "tmdb:tv:311648",
@@ -10833,8 +10870,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:44.303Z",
-      "lastAvailableAt": "2026-11-05T10:59:44.303Z"
+      "lastChecked": "2026-11-05T19:59:44.294Z",
+      "lastAvailableAt": "2026-11-05T19:59:44.294Z"
     },
     "tv:338973": {
       "id": "tmdb:tv:338973",
@@ -10864,8 +10901,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:44.769Z",
-      "lastAvailableAt": "2026-11-05T10:59:44.769Z"
+      "lastChecked": "2026-11-05T19:59:44.742Z",
+      "lastAvailableAt": "2026-11-05T19:59:44.742Z"
     },
     "tv:334678": {
       "id": "tmdb:tv:334678",
@@ -10895,8 +10932,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:45.235Z",
-      "lastAvailableAt": "2026-11-05T10:59:45.235Z"
+      "lastChecked": "2026-11-05T19:59:45.174Z",
+      "lastAvailableAt": "2026-11-05T19:59:45.174Z"
     },
     "tv:338103": {
       "id": "tmdb:tv:338103",
@@ -10926,8 +10963,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:45.700Z",
-      "lastAvailableAt": "2026-11-05T10:59:45.700Z"
+      "lastChecked": "2026-11-05T19:59:46.028Z",
+      "lastAvailableAt": "2026-11-05T19:59:46.028Z"
     },
     "tv:304452": {
       "id": "tmdb:tv:304452",
@@ -10957,8 +10994,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:46.157Z",
-      "lastAvailableAt": "2026-11-05T10:59:46.157Z"
+      "lastChecked": "2026-11-05T19:59:46.454Z",
+      "lastAvailableAt": "2026-11-05T19:59:46.454Z"
     },
     "tv:337249": {
       "id": "tmdb:tv:337249",
@@ -10981,8 +11018,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:46.631Z",
-      "lastAvailableAt": "2026-11-05T10:59:46.631Z"
+      "lastChecked": "2026-11-05T19:59:46.872Z",
+      "lastAvailableAt": "2026-11-05T19:59:46.872Z"
     },
     "tv:337921": {
       "id": "tmdb:tv:337921",
@@ -11011,8 +11048,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:47.100Z",
-      "lastAvailableAt": "2026-11-05T10:59:47.100Z"
+      "lastChecked": "2026-11-05T19:59:47.290Z",
+      "lastAvailableAt": "2026-11-05T19:59:47.290Z"
     },
     "tv:337806": {
       "id": "tmdb:tv:337806",
@@ -11042,8 +11079,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:47.563Z",
-      "lastAvailableAt": "2026-11-05T10:59:47.563Z"
+      "lastChecked": "2026-11-05T19:59:47.708Z",
+      "lastAvailableAt": "2026-11-05T19:59:47.708Z"
     },
     "tv:302020": {
       "id": "tmdb:tv:302020",
@@ -11067,8 +11104,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:48.030Z",
-      "lastAvailableAt": "2026-11-05T10:59:48.030Z"
+      "lastChecked": "2026-11-05T19:59:48.128Z",
+      "lastAvailableAt": "2026-11-05T19:59:48.128Z"
     },
     "tv:294446": {
       "id": "tmdb:tv:294446",
@@ -11092,8 +11129,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:48.499Z",
-      "lastAvailableAt": "2026-11-05T10:59:48.499Z"
+      "lastChecked": "2026-11-05T19:59:48.551Z",
+      "lastAvailableAt": "2026-11-05T19:59:48.551Z"
     },
     "tv:337104": {
       "id": "tmdb:tv:337104",
@@ -11116,8 +11153,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:48.968Z",
-      "lastAvailableAt": "2026-11-05T10:59:48.968Z"
+      "lastChecked": "2026-11-05T19:59:48.973Z",
+      "lastAvailableAt": "2026-11-05T19:59:48.973Z"
     },
     "tv:334323": {
       "id": "tmdb:tv:334323",
@@ -11146,8 +11183,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:49.432Z",
-      "lastAvailableAt": "2026-11-05T10:59:49.432Z"
+      "lastChecked": "2026-11-05T19:59:49.402Z",
+      "lastAvailableAt": "2026-11-05T19:59:49.402Z"
     },
     "tv:313630": {
       "id": "tmdb:tv:313630",
@@ -11213,8 +11250,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T10:59:49.894Z",
-      "lastAvailableAt": "2026-11-05T10:59:49.894Z"
+      "lastChecked": "2026-11-05T19:59:49.825Z",
+      "lastAvailableAt": "2026-11-05T19:59:49.825Z"
     },
     "tv:303630": {
       "id": "tmdb:tv:303630",
@@ -11306,6 +11343,651 @@
       ],
       "lastChecked": "2026-11-05T10:59:50.811Z",
       "lastAvailableAt": "2026-11-05T10:59:50.811Z"
+    },
+    "movie:1570488": {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 1570488,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 51.6633,
+      "firstSeen": "2026-11-05T19:57:42.383Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:57:42.383Z",
+      "lastAvailableAt": "2026-11-05T19:57:42.383Z"
+    },
+    "movie:1815857": {
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815857,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.2655,
+      "firstSeen": "2026-11-05T19:57:46.214Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:57:46.214Z",
+      "lastAvailableAt": "2026-11-05T19:57:46.214Z"
+    },
+    "movie:1294189": {
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 1294189,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 197.1989,
+      "firstSeen": "2026-11-05T19:57:50.533Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:57:50.533Z",
+      "lastAvailableAt": "2026-11-05T19:57:50.533Z"
+    },
+    "movie:1812753": {
+      "id": "tmdb:movie:1812753",
+      "type": "movie",
+      "name": "Poutine : Après l’Ukraine, l’Europe ?",
+      "poster": "https://image.tmdb.org/t/p/w500/rcD8PXg4OJREIn0qo5regXFt4hC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tUtDBa77cz3PDLgpXBO5ChMBuSp.jpg",
+      "description": "La guerre en Ukraine a bouleversé les équilibres sécuritaires en Europe. Alors que la Russie renforce ses capacités militaires, les pays de l’Otan revoient leurs stratégies de défense et envisagent de nouveaux scénarios. Entre dissuasion et préparation à la guerre, où en est l’Europe ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 1812753,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-26",
+      "popularity": 0.4329,
+      "firstSeen": "2026-11-05T19:57:54.355Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 193,
+          "provider": "SFR Play",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:57:54.355Z",
+      "lastAvailableAt": "2026-11-05T19:57:54.355Z"
+    },
+    "movie:1801542": {
+      "id": "tmdb:movie:1801542",
+      "type": "movie",
+      "name": "Sommes-nous tous accros aux écrans ?",
+      "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
+      "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 1801542,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-16",
+      "popularity": 2.3934,
+      "firstSeen": "2026-11-05T19:58:05.961Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 193,
+          "provider": "SFR Play",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:05.961Z",
+      "lastAvailableAt": "2026-11-05T19:58:05.961Z"
+    },
+    "movie:1797373": {
+      "id": "tmdb:movie:1797373",
+      "type": "movie",
+      "name": "Lassiguili",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797373,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.3372,
+      "firstSeen": "2026-11-05T19:58:11.543Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:11.543Z",
+      "lastAvailableAt": "2026-11-05T19:58:11.543Z"
+    },
+    "movie:1797370": {
+      "id": "tmdb:movie:1797370",
+      "type": "movie",
+      "name": "Dotuk",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797370,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.2292,
+      "firstSeen": "2026-11-05T19:58:11.975Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:11.975Z",
+      "lastAvailableAt": "2026-11-05T19:58:11.975Z"
+    },
+    "movie:1797367": {
+      "id": "tmdb:movie:1797367",
+      "type": "movie",
+      "name": "Murmurs in the Distance",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797367,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.2215,
+      "firstSeen": "2026-11-05T19:58:12.409Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:12.409Z",
+      "lastAvailableAt": "2026-11-05T19:58:12.409Z"
+    },
+    "movie:1794189": {
+      "id": "tmdb:movie:1794189",
+      "type": "movie",
+      "name": "صديق لم يعد هنا",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1794189,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-13",
+      "popularity": 0.2275,
+      "firstSeen": "2026-11-05T19:58:13.685Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 569,
+          "provider": "DocAlliance Films",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:13.685Z",
+      "lastAvailableAt": "2026-11-05T19:58:13.685Z"
+    },
+    "movie:1815546": {
+      "id": "tmdb:movie:1815546",
+      "type": "movie",
+      "name": "A Vision for Vision",
+      "poster": "https://image.tmdb.org/t/p/w500/aIEz68tBuGfXLknxIKPr3YFrNsv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lNfd3Lkf8xdJMPNWyUMy0STMyea.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815546,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-03",
+      "popularity": 0.3755,
+      "firstSeen": "2026-11-05T19:58:25.652Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 2,
+          "provider": "Apple TV Store",
+          "monetization": "rent"
+        },
+        {
+          "region": "CA",
+          "providerId": 2,
+          "provider": "Apple TV Store",
+          "monetization": "buy"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:25.652Z",
+      "lastAvailableAt": "2026-11-05T19:58:25.652Z"
+    },
+    "movie:1813276": {
+      "id": "tmdb:movie:1813276",
+      "type": "movie",
+      "name": "Stories That Made Us with George Stroumboulopoulos",
+      "poster": "https://image.tmdb.org/t/p/w500/tec8EvZdxih8cY4XsoSf2BIxaJ6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4B8umHEwSRX2KrA0o81qqnAyKgv.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1813276,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.976,
+      "firstSeen": "2026-11-05T19:58:28.592Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 314,
+          "provider": "CBC Gem",
+          "monetization": "ads"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:28.592Z",
+      "lastAvailableAt": "2026-11-05T19:58:28.592Z"
+    },
+    "movie:1427540": {
+      "id": "tmdb:movie:1427540",
+      "type": "movie",
+      "name": "Free at Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1427540,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-29",
+      "popularity": 2.4306,
+      "firstSeen": "2026-11-05T19:58:32.004Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 10,
+          "provider": "Amazon Video",
+          "monetization": "rent"
+        },
+        {
+          "region": "CA",
+          "providerId": 10,
+          "provider": "Amazon Video",
+          "monetization": "buy"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:32.004Z",
+      "lastAvailableAt": "2026-11-05T19:58:32.004Z"
+    },
+    "movie:1814426": {
+      "id": "tmdb:movie:1814426",
+      "type": "movie",
+      "name": "Tammy Pescatelli: Mrs. Saturday Night",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1814426,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-28",
+      "popularity": 0.069,
+      "firstSeen": "2026-11-05T19:58:32.436Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 2,
+          "provider": "Apple TV Store",
+          "monetization": "rent"
+        },
+        {
+          "region": "CA",
+          "providerId": 2,
+          "provider": "Apple TV Store",
+          "monetization": "buy"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:32.436Z",
+      "lastAvailableAt": "2026-11-05T19:58:32.436Z"
+    },
+    "movie:1801244": {
+      "id": "tmdb:movie:1801244",
+      "type": "movie",
+      "name": "Haití Deportation Crisis",
+      "poster": "https://image.tmdb.org/t/p/w500/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801244,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-20",
+      "popularity": 0.3125,
+      "firstSeen": "2026-11-05T19:58:40.141Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 2430,
+          "provider": "PBS Documentaries Amazon Channel",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:40.141Z",
+      "lastAvailableAt": "2026-11-05T19:58:40.141Z"
+    },
+    "tv:338684": {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 338684,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 8.0986,
+      "firstSeen": "2026-11-05T19:58:49.700Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:49.700Z",
+      "lastAvailableAt": "2026-11-05T19:58:49.700Z"
+    },
+    "tv:312006": {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "tmdbId": 312006,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 20.3124,
+      "firstSeen": "2026-11-05T19:58:50.130Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:50.130Z",
+      "lastAvailableAt": "2026-11-05T19:58:50.130Z"
+    },
+    "tv:258989": {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "tmdbId": 258989,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 36.4781,
+      "firstSeen": "2026-11-05T19:58:50.975Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:58:50.975Z",
+      "lastAvailableAt": "2026-11-05T19:58:50.975Z"
+    },
+    "tv:340366": {
+      "id": "tmdb:tv:340366",
+      "type": "series",
+      "name": "Salvatoré : une recette de famille",
+      "poster": "https://image.tmdb.org/t/p/w500/g2pydRpY8tdMHsS8TIoWle7EiW7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vYWevDMYD46bMvkIfWX8x3pGdVV.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 340366,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 0.7655,
+      "firstSeen": "2026-11-05T19:59:32.315Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 2604,
+          "provider": "Crave Amazon Channel",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:59:32.315Z",
+      "lastAvailableAt": "2026-11-05T19:59:32.315Z"
+    },
+    "tv:279246": {
+      "id": "tmdb:tv:279246",
+      "type": "series",
+      "name": "L'impératrice remariée",
+      "poster": "https://image.tmdb.org/t/p/w500/1TKAhnnicIIV5k2L8bquwnU1B0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "description": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 279246,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-03",
+      "popularity": 109.3984,
+      "firstSeen": "2026-11-05T19:59:33.170Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 337,
+          "provider": "Disney Plus",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:59:33.170Z",
+      "lastAvailableAt": "2026-11-05T19:59:33.170Z"
+    },
+    "tv:334351": {
+      "id": "tmdb:tv:334351",
+      "type": "series",
+      "name": "十六夜膳房",
+      "poster": "https://image.tmdb.org/t/p/w500/zDNTcpvyWeOUetZFUmRxGKUuZJm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qTcqDMXpSAwjtnYQiaYM33ZzjCC.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 334351,
+      "mediaType": "tv",
+      "releaseDate": "2026-10-13",
+      "popularity": 2.1845,
+      "firstSeen": "2026-11-05T19:59:45.599Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "CA",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-05T19:59:45.599Z",
+      "lastAvailableAt": "2026-11-05T19:59:45.599Z"
     }
   },
   "events": [
@@ -11348,8 +12030,1023 @@
       "provider": "CosmoGo",
       "monetization": "buy",
       "detectedAt": "2026-11-05T10:05:13.770Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 1570488,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 51.6633,
+      "region": "FR",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:42.383Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 1570488,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 51.6633,
+      "region": "FR",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:42.383Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 1570488,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 51.6633,
+      "region": "CA",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:42.383Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 1570488,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 51.6633,
+      "region": "CA",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:42.383Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815857,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.2655,
+      "region": "FR",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:46.214Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815857,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.2655,
+      "region": "FR",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:46.214Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815857,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.2655,
+      "region": "CA",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:46.214Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815857",
+      "type": "movie",
+      "name": "Amazon Music Live: Doja Cat",
+      "poster": "https://image.tmdb.org/t/p/w500/qp45mlBNr3brxjjymVG8GGhQJkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rM6GrS4cq6mKI97iZQgR61esRKU.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815857,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.2655,
+      "region": "CA",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:46.214Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 1294189,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 197.1989,
+      "region": "FR",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:50.533Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 1294189,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 197.1989,
+      "region": "FR",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:50.533Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 1294189,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 197.1989,
+      "region": "CA",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:50.533Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1294189",
+      "type": "movie",
+      "name": "The Mongoose",
+      "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+      "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 1294189,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-04",
+      "popularity": 197.1989,
+      "region": "CA",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:50.533Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801526",
+      "type": "movie",
+      "name": "Le luxe, un pouvoir français",
+      "poster": "https://image.tmdb.org/t/p/w500/rjRq3MQECnur892fk8lNmealTVB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ig9rHZV312y3W8pr3uP2U2mFtiQ.jpg",
+      "description": "Sur l'échiquier géopolitique mondial, un sac Dior, une robe Chanel ou un carré Hermès semblent à priori dérisoires face aux barils de pétrole ou aux contrats d'armement. Pourtant, la haute couture française a bâti le système d'influence le plus puissant et le plus viral de notre époque. Depuis 20 ans, les maisons de haute couture françaises sont devenues des empires mondiaux avec LVMH et Kering. En difficultés financières, ces groupes doivent gagner la bataille de l'image et du \"like\" en organisant des défilés hors norme. A l'ère du tout Instagram, une marque est capable de débourser un demi million d'euros pendant la Fashion Week pour avoir les plus grandes stars au premier rang de son défilé.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 1801526,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-27",
+      "popularity": 1.1915,
+      "region": "FR",
+      "providerId": 193,
+      "provider": "SFR Play",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:52.242Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1812753",
+      "type": "movie",
+      "name": "Poutine : Après l’Ukraine, l’Europe ?",
+      "poster": "https://image.tmdb.org/t/p/w500/rcD8PXg4OJREIn0qo5regXFt4hC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tUtDBa77cz3PDLgpXBO5ChMBuSp.jpg",
+      "description": "La guerre en Ukraine a bouleversé les équilibres sécuritaires en Europe. Alors que la Russie renforce ses capacités militaires, les pays de l’Otan revoient leurs stratégies de défense et envisagent de nouveaux scénarios. Entre dissuasion et préparation à la guerre, où en est l’Europe ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 1812753,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-26",
+      "popularity": 0.4329,
+      "region": "FR",
+      "providerId": 193,
+      "provider": "SFR Play",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:54.355Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1805615",
+      "type": "movie",
+      "name": "GTA, le jeu no limit",
+      "poster": "https://image.tmdb.org/t/p/w500/8afN9cOWn4chAxnlFso15FkBvRm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5q0wDT7LlYpeujPch6VS3x7akRZ.jpg",
+      "description": "Alors que GTA 6, le jeu vidéo le plus attendu de l’histoire déferlera sur la planète en ce mois de novembre 2026, plongez au cœur de l’histoire d’un titan de la pop culture ! En trente ans, Grand Theft Auto, désormais connu sous l'acronyme GTA, est passé du statut de paria rejeté par la classe politique et les médias à celui d’œuvre iconique incontournable.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 1805615,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-23",
+      "popularity": 0.4841,
+      "region": "FR",
+      "providerId": 193,
+      "provider": "SFR Play",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:57:57.761Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801542",
+      "type": "movie",
+      "name": "Sommes-nous tous accros aux écrans ?",
+      "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
+      "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 1801542,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-16",
+      "popularity": 2.3934,
+      "region": "FR",
+      "providerId": 193,
+      "provider": "SFR Play",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:05.961Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1797373",
+      "type": "movie",
+      "name": "Lassiguili",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797373,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.3372,
+      "region": "FR",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:11.543Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1797373",
+      "type": "movie",
+      "name": "Lassiguili",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797373,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.3372,
+      "region": "CA",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:11.543Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1797370",
+      "type": "movie",
+      "name": "Dotuk",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797370,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.2292,
+      "region": "FR",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:11.975Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1797370",
+      "type": "movie",
+      "name": "Dotuk",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797370,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.2292,
+      "region": "CA",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:11.975Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1797367",
+      "type": "movie",
+      "name": "Murmurs in the Distance",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797367,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.2215,
+      "region": "FR",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:12.409Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1797367",
+      "type": "movie",
+      "name": "Murmurs in the Distance",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1797367,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-14",
+      "popularity": 0.2215,
+      "region": "CA",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:12.409Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1794189",
+      "type": "movie",
+      "name": "صديق لم يعد هنا",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1794189,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-13",
+      "popularity": 0.2275,
+      "region": "FR",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:13.685Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1794189",
+      "type": "movie",
+      "name": "صديق لم يعد هنا",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1794189,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-13",
+      "popularity": 0.2275,
+      "region": "CA",
+      "providerId": 569,
+      "provider": "DocAlliance Films",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:13.685Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815546",
+      "type": "movie",
+      "name": "A Vision for Vision",
+      "poster": "https://image.tmdb.org/t/p/w500/aIEz68tBuGfXLknxIKPr3YFrNsv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lNfd3Lkf8xdJMPNWyUMy0STMyea.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815546,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-03",
+      "popularity": 0.3755,
+      "region": "CA",
+      "providerId": 2,
+      "provider": "Apple TV Store",
+      "monetization": "rent",
+      "detectedAt": "2026-11-05T19:58:25.652Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815546",
+      "type": "movie",
+      "name": "A Vision for Vision",
+      "poster": "https://image.tmdb.org/t/p/w500/aIEz68tBuGfXLknxIKPr3YFrNsv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lNfd3Lkf8xdJMPNWyUMy0STMyea.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815546,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-03",
+      "popularity": 0.3755,
+      "region": "CA",
+      "providerId": 2,
+      "provider": "Apple TV Store",
+      "monetization": "buy",
+      "detectedAt": "2026-11-05T19:58:25.652Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1773368",
+      "type": "movie",
+      "name": "A Danish Christmas",
+      "poster": "https://image.tmdb.org/t/p/w500/1fdNNzXLhFW0uXfbK88bJGUi8HP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v9Fl90gwiw1OoQlyXpoaAMULyik.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1773368,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-01",
+      "popularity": 3.0267,
+      "region": "CA",
+      "providerId": 606,
+      "provider": "StackTV Amazon Channel",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:26.905Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1813276",
+      "type": "movie",
+      "name": "Stories That Made Us with George Stroumboulopoulos",
+      "poster": "https://image.tmdb.org/t/p/w500/tec8EvZdxih8cY4XsoSf2BIxaJ6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4B8umHEwSRX2KrA0o81qqnAyKgv.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1813276,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-30",
+      "popularity": 0.976,
+      "region": "CA",
+      "providerId": 314,
+      "provider": "CBC Gem",
+      "monetization": "ads",
+      "detectedAt": "2026-11-05T19:58:28.592Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1427540",
+      "type": "movie",
+      "name": "Free at Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1427540,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-29",
+      "popularity": 2.4306,
+      "region": "CA",
+      "providerId": 10,
+      "provider": "Amazon Video",
+      "monetization": "rent",
+      "detectedAt": "2026-11-05T19:58:32.004Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1427540",
+      "type": "movie",
+      "name": "Free at Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/o3AQLEPNkdeib4Men0WSNs1ELIy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2nH7Enpai65oTZoEJGQ57mWmSpg.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1427540,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-29",
+      "popularity": 2.4306,
+      "region": "CA",
+      "providerId": 10,
+      "provider": "Amazon Video",
+      "monetization": "buy",
+      "detectedAt": "2026-11-05T19:58:32.004Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1814426",
+      "type": "movie",
+      "name": "Tammy Pescatelli: Mrs. Saturday Night",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1814426,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-28",
+      "popularity": 0.069,
+      "region": "CA",
+      "providerId": 2,
+      "provider": "Apple TV Store",
+      "monetization": "rent",
+      "detectedAt": "2026-11-05T19:58:32.436Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1814426",
+      "type": "movie",
+      "name": "Tammy Pescatelli: Mrs. Saturday Night",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1814426,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-28",
+      "popularity": 0.069,
+      "region": "CA",
+      "providerId": 2,
+      "provider": "Apple TV Store",
+      "monetization": "buy",
+      "detectedAt": "2026-11-05T19:58:32.436Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801244",
+      "type": "movie",
+      "name": "Haití Deportation Crisis",
+      "poster": "https://image.tmdb.org/t/p/w500/4fww5rQSpDm90yaPd022Yj9F4xG.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801244,
+      "mediaType": "movie",
+      "releaseDate": "2026-10-20",
+      "popularity": 0.3125,
+      "region": "CA",
+      "providerId": 2430,
+      "provider": "PBS Documentaries Amazon Channel",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:40.141Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 338684,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 8.0986,
+      "region": "FR",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:49.700Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 338684,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 8.0986,
+      "region": "FR",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:49.700Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 338684,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 8.0986,
+      "region": "CA",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:49.700Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "tmdbId": 338684,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 8.0986,
+      "region": "CA",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:49.700Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "tmdbId": 312006,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 20.3124,
+      "region": "FR",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.130Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "tmdbId": 312006,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 20.3124,
+      "region": "FR",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.130Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "tmdbId": 312006,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 20.3124,
+      "region": "CA",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.130Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "tmdbId": 312006,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 20.3124,
+      "region": "CA",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.130Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:305935",
+      "type": "series",
+      "name": "Les Disparus des Argonnes",
+      "poster": "https://image.tmdb.org/t/p/w500/7FfddTLaRDNI91W6uhrdlUURis2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4xXazUotfm3Hotm4pi3ELC8fOfS.jpg",
+      "description": "Le combat de Jocelyne Veyrades, une mère de famille modeste dont le fils, Gilles, disparaît en 1981 lors d’une permission pendant son service militaire. Les autorités évoquent une désertion, mais Jocelyne refuse de croire à cette explication. Elle pense que quelque chose de beaucoup plus grave s’est produit. Au fil des années, d’autres jeunes appelés disparaissent dans des circonstances similaires. Face au silence de l’institution militaire et à l’inaction de la justice, Jocelyne rejoint d'autres familles frappées par le même drame. Ensemble, elles brisent le mur de l’indifférence et mènent une lutte acharnée pour faire entendre leur voix.",
+      "releaseInfo": "2026",
+      "tmdbId": 305935,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 4.7822,
+      "region": "FR",
+      "providerId": 58,
+      "provider": "Canal VOD",
+      "monetization": "rent",
+      "detectedAt": "2026-11-05T19:58:50.545Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:305935",
+      "type": "series",
+      "name": "Les Disparus des Argonnes",
+      "poster": "https://image.tmdb.org/t/p/w500/7FfddTLaRDNI91W6uhrdlUURis2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4xXazUotfm3Hotm4pi3ELC8fOfS.jpg",
+      "description": "Le combat de Jocelyne Veyrades, une mère de famille modeste dont le fils, Gilles, disparaît en 1981 lors d’une permission pendant son service militaire. Les autorités évoquent une désertion, mais Jocelyne refuse de croire à cette explication. Elle pense que quelque chose de beaucoup plus grave s’est produit. Au fil des années, d’autres jeunes appelés disparaissent dans des circonstances similaires. Face au silence de l’institution militaire et à l’inaction de la justice, Jocelyne rejoint d'autres familles frappées par le même drame. Ensemble, elles brisent le mur de l’indifférence et mènent une lutte acharnée pour faire entendre leur voix.",
+      "releaseInfo": "2026",
+      "tmdbId": 305935,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 4.7822,
+      "region": "FR",
+      "providerId": 58,
+      "provider": "Canal VOD",
+      "monetization": "buy",
+      "detectedAt": "2026-11-05T19:58:50.545Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "tmdbId": 258989,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 36.4781,
+      "region": "FR",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.975Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "tmdbId": 258989,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 36.4781,
+      "region": "FR",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.975Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "tmdbId": 258989,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 36.4781,
+      "region": "CA",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.975Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "tmdbId": 258989,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 36.4781,
+      "region": "CA",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:58:50.975Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:340366",
+      "type": "series",
+      "name": "Salvatoré : une recette de famille",
+      "poster": "https://image.tmdb.org/t/p/w500/g2pydRpY8tdMHsS8TIoWle7EiW7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vYWevDMYD46bMvkIfWX8x3pGdVV.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 340366,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-04",
+      "popularity": 0.7655,
+      "region": "CA",
+      "providerId": 2604,
+      "provider": "Crave Amazon Channel",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:59:32.315Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:279246",
+      "type": "series",
+      "name": "L'impératrice remariée",
+      "poster": "https://image.tmdb.org/t/p/w500/1TKAhnnicIIV5k2L8bquwnU1B0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "description": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "tmdbId": 279246,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-03",
+      "popularity": 109.3984,
+      "region": "CA",
+      "providerId": 337,
+      "provider": "Disney Plus",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:59:33.170Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:340754",
+      "type": "series",
+      "name": "L'Influence de Fred",
+      "poster": "https://image.tmdb.org/t/p/w500/1InnDKKQJdZTZdN9A5mTE7zkpvx.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 340754,
+      "mediaType": "tv",
+      "releaseDate": "2026-11-02",
+      "popularity": 0.264,
+      "region": "CA",
+      "providerId": 2604,
+      "provider": "Crave Amazon Channel",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:59:34.018Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:334351",
+      "type": "series",
+      "name": "十六夜膳房",
+      "poster": "https://image.tmdb.org/t/p/w500/zDNTcpvyWeOUetZFUmRxGKUuZJm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qTcqDMXpSAwjtnYQiaYM33ZzjCC.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 334351,
+      "mediaType": "tv",
+      "releaseDate": "2026-10-13",
+      "popularity": 2.1845,
+      "region": "CA",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:59:45.599Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:tv:334351",
+      "type": "series",
+      "name": "十六夜膳房",
+      "poster": "https://image.tmdb.org/t/p/w500/zDNTcpvyWeOUetZFUmRxGKUuZJm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qTcqDMXpSAwjtnYQiaYM33ZzjCC.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "tmdbId": 334351,
+      "mediaType": "tv",
+      "releaseDate": "2026-10-13",
+      "popularity": 2.1845,
+      "region": "CA",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-05T19:59:45.599Z"
     }
   ],
-  "lastRun": "2026-11-05T10:59:50.819Z",
+  "lastRun": "2026-11-05T19:59:49.834Z",
   "bootstrapped": true
 }
