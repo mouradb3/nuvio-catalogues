@@ -18,6 +18,23 @@
       ]
     },
     {
+      "id": "tmdb:tv:279246",
+      "type": "series",
+      "name": "L'impératrice remariée",
+      "poster": "https://image.tmdb.org/t/p/w500/1TKAhnnicIIV5k2L8bquwnU1B0s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "description": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/279246"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:289517",
       "type": "series",
       "name": "Un job mortel",
@@ -110,7 +127,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
       "description": "Wei Rao, jeune femme noble, est obligée de se marier avec le prince Lu Zuo, alors que celui-ci est dans le coma et proche de la mort. Elle force alors Ah Chou, une jeune fille ordinaire dont la seule caractéristique est sa ressemblance frappante avec Wei Rao, à prendre sa place au mariage. Mais Lu Zuo se réveille précisément le jour des noces... Ah Chou doit maintenant faire face à Wei Rao, qui veut récupérer sa place, à Lu Zuo, qui la prend pour cette vipère de Wei Rao, mais aussi à toute la demeure du prince qui est pleine de pièges et de complots.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -477,6 +494,23 @@
       ]
     },
     {
+      "id": "tmdb:tv:303044",
+      "type": "series",
+      "name": "Campus Drivers",
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "description": "Loïs intègre Belrose aux côtés de Max, son grand amour. Lane créateur de Campus Drivers, l'application la plus en vogue du campus est célèbre pour son incapacité à s'attacher. Leurs chemins n'auraient jamais dû se croiser. Mais certaines rencontres bouleversent tout... jusqu'à réveiller des blessures enfouies. Et quand l'amour s'invite sans prévenir, plus rien n'est certain.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303044"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:295420",
       "type": "series",
       "name": "The Vermilion Mask",
@@ -681,7 +715,7 @@
       "id": "tmdb:tv:332649",
       "type": "series",
       "name": "真田十勇士 SHADOWS OF THE TEN NINJA",
-      "poster": "https://image.tmdb.org/t/p/w500/ax5C1W79usiYKDJkgTOAZrDKwmj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qGyypl0Kkk7GkZPVUSrEOLEOo1B.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
       "description": "",
       "releaseInfo": "2026",
@@ -736,7 +770,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/2wjP481Z3G6NlXoUFutN5vcnqzC.jpg",
       "description": "Les cours ont repris à Hollywood Arts ! L'icône autoproclamée Trina Vega revient pour guider des adolescents talentueux vers la gloire, entre ambition et chaos hilarant.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -1160,7 +1194,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
       "description": "Prêt à tout pour vendre son manoir en ruines, un marquis déchu veut plier l'affaire avec une mystérieuse et charmante millionnaire. Mais celle-ci a ses propres projets...",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -1646,38 +1680,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/337456"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:336453",
-      "type": "series",
-      "name": "Alerte à l'hôtel : 30 jours pour tout relancer",
-      "poster": "https://image.tmdb.org/t/p/w500/g3MXM5ixfiDFFzRTO44pK9mINg8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lkcj9IKfF4LylYT5qrz6wTC7hog.jpg",
-      "description": "Pendant 30 jours, deux experts en hôtellerie, Fred Sirieix et Pauline Petta, viennent en aide à des patrons d'hôtel en crise pour les aider à redresser la barre. Cash, exigeant mais bienveillant, le binôme s'installe à l'hôtel et passe tout au crible afin de proposer un plan d'action aux propriétaires pour relancer leur hôtel et améliorer les relations humaines au sein de l'entreprise. Face à des vérités parfois difficiles à entendre, les hôteliers n'ont qu'un seul choix : se remettre en question et transformer leur établissement !",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/336453"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:334703",
-      "type": "series",
-      "name": "Couldn't Agree Less with Allison & Isaac",
-      "poster": "https://image.tmdb.org/t/p/w500/bm5X8IbXWEfxtYFUEOazKTJ1UhG.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xwHi0s6GHldlSf4KUYmgWXyqvYm.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/334703"
         }
       ]
     }

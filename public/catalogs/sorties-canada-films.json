@@ -1,6 +1,157 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1777750",
+      "type": "movie",
+      "name": "Détective Conan : L'affaire du meurtre n°30",
+      "poster": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+      "description": "L'intrigue commence par la découverte d'un faux billet de 10 000 yens sur les lieux d'un meurtre. Ce qui ressemble à une simple affaire locale prend rapidement une ampleur nationale. Conan Edogawa, Heiji Hattori et un grand rassemblement de forces de police et de détectives de toute la série se mobilisent pour contrer ce vaste réseau de contrefaçon.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1777750"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1630420",
+      "type": "movie",
+      "name": "แก๊งโอเวอร์",
+      "poster": "https://image.tmdb.org/t/p/w500/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1630420"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1630420",
+      "type": "movie",
+      "name": "แก๊งโอเวอร์",
+      "poster": "https://image.tmdb.org/t/p/w500/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1630420"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1480158",
+      "type": "movie",
+      "name": "Terrell & T.O.",
+      "poster": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1480158"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1480158",
+      "type": "movie",
+      "name": "Terrell & T.O.",
+      "poster": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1480158"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1654940",
+      "type": "movie",
+      "name": "Un an à vivre, un homme à acheter",
+      "poster": "https://image.tmdb.org/t/p/w500/sioCMNEoeZsrcig6aMtJ4FleStg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Yui Katakura,40 ans, est une célibataire qui passe son temps à faire des économies. Elle se constitue patiemment un pécule pour sa retraite, jusqu'au jour où un dépistage gratuit du cancer bouleverse sa vie bien rangée. Il révèle qu'il ne lui resterait qu'un an à vivre. Encore sous le choc, elle voit surgir Yoshitaka Sena, alias Ryuma, un hôte séduisant aux cheveux roses, qui lui demande si elle pourrait lui prêter de l'argent. Puisqu'elle va mourir, à quoi bon continuer d'économiser ? Yui accepte cette demande osée et \"achète\" Sena pour 720 000 yens. Leur étrange relation prend alors une tournure inattendue.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1654940"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1654940",
+      "type": "movie",
+      "name": "Un an à vivre, un homme à acheter",
+      "poster": "https://image.tmdb.org/t/p/w500/sioCMNEoeZsrcig6aMtJ4FleStg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Yui Katakura,40 ans, est une célibataire qui passe son temps à faire des économies. Elle se constitue patiemment un pécule pour sa retraite, jusqu'au jour où un dépistage gratuit du cancer bouleverse sa vie bien rangée. Il révèle qu'il ne lui resterait qu'un an à vivre. Encore sous le choc, elle voit surgir Yoshitaka Sena, alias Ryuma, un hôte séduisant aux cheveux roses, qui lui demande si elle pourrait lui prêter de l'argent. Puisqu'elle va mourir, à quoi bon continuer d'économiser ? Yui accepte cette demande osée et \"achète\" Sena pour 720 000 yens. Leur étrange relation prend alors une tournure inattendue.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1654940"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1810711",
+      "type": "movie",
+      "name": "Dilwali Diwali",
+      "poster": "https://image.tmdb.org/t/p/w500/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1810711"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1810711",
+      "type": "movie",
+      "name": "Dilwali Diwali",
+      "poster": "https://image.tmdb.org/t/p/w500/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1810711"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1024362",
       "type": "movie",
       "name": "The Grizzlie Truth",

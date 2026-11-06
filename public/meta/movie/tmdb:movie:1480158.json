@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1480158",
+    "type": "movie",
+    "name": "Terrell & T.O.",
+    "poster": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1480158"
+      }
+    ]
+  }
+}

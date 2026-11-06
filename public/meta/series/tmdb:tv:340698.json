@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340698",
+    "type": "series",
+    "name": "Surviving Alaska: Women of the Wild",
+    "poster": "https://image.tmdb.org/t/p/w500/jtTlGF96Sblyu7hr56R0yL1g2iA.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340698"
+      }
+    ]
+  }
+}

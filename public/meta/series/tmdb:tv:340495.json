@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340495",
+    "type": "series",
+    "name": "Précoce",
+    "poster": "https://image.tmdb.org/t/p/w500/klf5lTY3LEEfceR0zIbVaD4H68R.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340495"
+      }
+    ]
+  }
+}

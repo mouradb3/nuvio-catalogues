@@ -8,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
       "description": "Depuis l'apparition du virus TSJ, les îles Canaries sont devenues le dernier refuge en Europe. Alors qu'une unité part chercher du ravitaillement à Madrid, Roberto se joint à elle avec des intentions troubles. Cernés par les infectés et partagés entre des loyautés contradictoires, ils doivent survivre tout en affrontant un dilemme : suivre les ordres ou tout risquer pour ce qui reste d'humanité.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -22,7 +22,7 @@
       "type": "movie",
       "name": "La Légende de Derry",
       "poster": "https://image.tmdb.org/t/p/w500/95jDCfMC1MNXowaXxPpHuWP5zAr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
       "description": "Des centaines d’années avant Pennywise, trois jeunes s’aventurent dans la forêt de l’Ouest où ils rencontrent un esprit ancien terrifiant.",
       "releaseInfo": "2026",
       "imdbRating": "7",
@@ -39,10 +39,10 @@
       "type": "movie",
       "name": "The Mongoose",
       "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
       "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "5.9",
       "links": [
         {
           "name": "TMDB",
@@ -76,7 +76,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "description": "En pleine crise économique, un groupe de cambrioleurs s'introduit dans une banque à Madrid, déclenchant une série d'événements imprévisibles. Ce qui s'apparentait au départ à un simple braquage se transforme en un jeu de dupes et de peur où tout est affaire de survie : chaque décision compte, chaque geste cache quelque chose et chacun cherche à échapper à un châtiment pire que la prison.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -127,7 +127,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
       "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -158,10 +158,10 @@
       "type": "movie",
       "name": "Ali G : J'suis qui ?",
       "poster": "https://image.tmdb.org/t/p/w500/xRieId2D3sqKeyhfwO7iJzjbojb.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h7gas4rrcaSitLgF2ODry3Wz9KZ.jpg",
       "description": "Après vingt ans passés à \"se la couler douce, fumer et s'envoyer en l'air\", Ali G découvre que sa petite amie de longue date, Julie, est enceinte de 8 mois. Face à une bouche de plus à nourrir, il se bouge enfin et part aux États-Unis pour retrouver sa gloire d'antan. Mais il se heurte vite à des ennemis qui vont menacer son existence et celle de son enfant.",
       "releaseInfo": "2026",
-      "imdbRating": "5.8",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -243,7 +243,7 @@
       "type": "movie",
       "name": "Tenzing : à la conquête de l’Everest",
       "poster": "https://image.tmdb.org/t/p/w500/yjeqiDKgOyrTROU5X4Rck01ldGF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tKvVgMfM6GS4AGZn2KhP8bX1mJm.jpg",
       "description": "Un homme déterminé se lance dans une aventure périlleuse - et brave des obstacles apparemment insurmontables - pour réaliser son rêve d'être le premier à atteindre le sommet de l'Everest.",
       "releaseInfo": "2026",
       "imdbRating": "8.3",
@@ -286,6 +286,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1541477"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1654940",
+      "type": "movie",
+      "name": "Un an à vivre, un homme à acheter",
+      "poster": "https://image.tmdb.org/t/p/w500/sioCMNEoeZsrcig6aMtJ4FleStg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Yui Katakura,40 ans, est une célibataire qui passe son temps à faire des économies. Elle se constitue patiemment un pécule pour sa retraite, jusqu'au jour où un dépistage gratuit du cancer bouleverse sa vie bien rangée. Il révèle qu'il ne lui resterait qu'un an à vivre. Encore sous le choc, elle voit surgir Yoshitaka Sena, alias Ryuma, un hôte séduisant aux cheveux roses, qui lui demande si elle pourrait lui prêter de l'argent. Puisqu'elle va mourir, à quoi bon continuer d'économiser ? Yui accepte cette demande osée et \"achète\" Sena pour 720 000 yens. Leur étrange relation prend alors une tournure inattendue.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1654940"
         }
       ]
     },
@@ -340,6 +357,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1630420",
+      "type": "movie",
+      "name": "แก๊งโอเวอร์",
+      "poster": "https://image.tmdb.org/t/p/w500/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1630420"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1802464",
       "type": "movie",
       "name": "मीठे में क्या है",
@@ -363,7 +397,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
       "description": "Pour ses 45 ans, Filip convie ses proches à dîner dans la somptueuse ferme qu'il vient d'acheter avec sa femme dans le nord de la Suède. Ce qu'ils ignorent, c'est qu'une violente tempête approche, et que tous vont se retrouver pris au piège. Peu à peu, les masques tombent et la tension monte. Alors que la panique s'installe et que la gravité de la situation devient évidente, les murs se resserrent, les secrets se dévoilent… et des sentiments inattendus émergent.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -419,6 +453,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1776531"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1810711",
+      "type": "movie",
+      "name": "Dilwali Diwali",
+      "poster": "https://image.tmdb.org/t/p/w500/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1810711"
         }
       ]
     },
@@ -565,7 +616,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
       "description": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé : elle leur demande de ne pas plaider coupable. Gisèle va faire ce qui n’a jamais été fait auparavant, elle va accuser et attaquer la loi, au risque de tout perdre. Au nom de toutes.",
       "releaseInfo": "2026",
-      "imdbRating": "10",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -625,6 +676,22 @@
       ]
     },
     {
+      "id": "tmdb:movie:1480158",
+      "type": "movie",
+      "name": "Terrell & T.O.",
+      "poster": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1480158"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1806212",
       "type": "movie",
       "name": "Trahisons, l'art de rompre en politique",
@@ -679,7 +746,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
       "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -938,6 +1005,22 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1537659"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1754364",
+      "type": "movie",
+      "name": "Making Marie Antoinette",
+      "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x0jpUyJ5ETwRn5LmAKvDzEVHgb7.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1754364"
         }
       ]
     },
@@ -1570,81 +1653,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1798741"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1796638",
-      "type": "movie",
-      "name": "Song Bird",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1796638"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1797367",
-      "type": "movie",
-      "name": "Murmurs in the Distance",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1797367"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1800103",
-      "type": "movie",
-      "name": "Brésil, le pouvoir des évangéliques",
-      "poster": "https://image.tmdb.org/t/p/w500/reJHLRz7EwagFEUfrus7vKPSadY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oI8JoW6P4GSJaG5m1NulghmoFw3.jpg",
-      "description": "Entre mégaéglises et favelas, médias et Chambre des députés, un captivant tour d'horizon d'une \"planète\" évangélique brésilienne, ralliée en majorité à l'extrême droite à l’approche des élections générales des 4 et 25 octobre.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1800103"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1797387",
-      "type": "movie",
-      "name": "Les nouveaux influenceurs, quand le savoir devient viral",
-      "poster": "https://image.tmdb.org/t/p/w500/s8ggEApPKkJ8Z0iTAE8mQbTIOPt.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i42yGgNegwMKAgRyiBBUfMPXQY1.jpg",
-      "description": "Quel est le point commun entre une radiologue, un vulgarisateur scientifique, un permaculteur, une vétérinaire et un kinésithérapeute ? Ils sont tous devenus créateurs de contenus sur les réseaux sociaux. Ni artistes, ni chanteurs, ces professionnels deviennent des figures publiques malgré eux. Quand le savoir rencontre la viralité : enquête.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1797387"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1797373",
-      "type": "movie",
-      "name": "Lassiguili",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1797373"
         }
       ]
     }

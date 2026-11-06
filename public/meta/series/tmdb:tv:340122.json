@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340122",
+    "type": "series",
+    "name": "Un micro à la DGSE : La vie secrète des espions",
+    "poster": "https://image.tmdb.org/t/p/w500/fmm5pOGTP1EAuXl98YPmEFXkPly.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sIYHGvfnJm2STmqYMMqBKxMALbb.jpg",
+    "description": "Loin des fantasmes de l'espionnage et des récits opérationnels, la série s'intéresse avant tout aux femmes et aux hommes qui ont choisi de vivre dans le secret. Au fil de six épisodes, ils racontent au présent leur quotidien, leurs missions, mais aussi leurs doutes, leurs peurs et leurs contradictions. Comment apprend-on à manipuler ? Comment vit-on sous une fausse identité ? Comment construire une famille lorsqu'on ne peut jamais révéler qui l'on est réellement ? De la formation des recrues aux opérations clandestines les plus sensibles, en passant par la surveillance, le doute, l'action et la peur, cette série offre un accès exceptionnel à un univers verrouillé.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340122"
+      }
+    ]
+  }
+}

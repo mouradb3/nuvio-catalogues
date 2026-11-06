@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1754364",
+    "type": "movie",
+    "name": "Making Marie Antoinette",
+    "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x0jpUyJ5ETwRn5LmAKvDzEVHgb7.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1754364"
+      }
+    ]
+  }
+}

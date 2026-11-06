@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1777750",
+    "type": "movie",
+    "name": "Détective Conan : L'affaire du meurtre n°30",
+    "poster": "https://image.tmdb.org/t/p/w500/pT9RIHf4K9OyOB3eqYj97E5h0YA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/v0T74v8LPZBSL247oGeTOp06tnm.jpg",
+    "description": "L'intrigue commence par la découverte d'un faux billet de 10 000 yens sur les lieux d'un meurtre. Ce qui ressemble à une simple affaire locale prend rapidement une ampleur nationale. Conan Edogawa, Heiji Hattori et un grand rassemblement de forces de police et de détectives de toute la série se mobilisent pour contrer ce vaste réseau de contrefaçon.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1777750"
+      }
+    ]
+  }
+}

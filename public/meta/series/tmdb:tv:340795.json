@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340795",
+    "type": "series",
+    "name": "Pièces à Conviction",
+    "poster": "https://image.tmdb.org/t/p/w500/5AdtWOU0Lu3ER1NVBEGyZD50bky.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lggGEQawPaoRmI9wtNediByuMYT.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340795"
+      }
+    ]
+  }
+}
