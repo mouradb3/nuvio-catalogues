@@ -18,23 +18,6 @@
       ]
     },
     {
-      "id": "tmdb:movie:1596275",
-      "type": "movie",
-      "name": "Drive – The Pretenders",
-      "poster": "https://image.tmdb.org/t/p/w500/bLDFCD3vMxeJJ5o8F4FOksnb0Fd.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "description": "Une jeune mécanicienne accepte de jouer la fiancée d'un champion automobile en pleine disgrâce, en apparence pour aider à redorer l'image du pilote, en secret pour s'offrir sa chance au volant. Mais le mensonge menace bientôt de tout détruire, y compris ce qui est devenu bien plus qu'un simple arrangement…",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1596275"
-        }
-      ]
-    },
-    {
       "id": "tmdb:movie:1813355",
       "type": "movie",
       "name": "La Légende de Derry",
@@ -59,12 +42,29 @@
       "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
       "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1294189"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1596275",
+      "type": "movie",
+      "name": "Drive – The Pretenders",
+      "poster": "https://image.tmdb.org/t/p/w500/bLDFCD3vMxeJJ5o8F4FOksnb0Fd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "description": "Une jeune mécanicienne accepte de jouer la fiancée d'un champion automobile en pleine disgrâce, en apparence pour aider à redorer l'image du pilote, en secret pour s'offrir sa chance au volant. Mais le mensonge menace bientôt de tout détruire, y compris ce qui est devenu bien plus qu'un simple arrangement…",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1596275"
         }
       ]
     },
@@ -120,6 +120,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1570488",
+      "type": "movie",
+      "name": "Mon beau Noël de chien",
+      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1570488"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1453407",
       "type": "movie",
       "name": "Gajab Raat",
@@ -154,6 +171,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1236045",
+      "type": "movie",
+      "name": "Animals",
+      "poster": "https://image.tmdb.org/t/p/w500/33MhDOKB0S5VwuaD9lZyV0v0st0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "description": "Quand leur fils est enlevé, un candidat à la mairie de Los Angeles et sa femme s'efforcent de réunir l'argent de la rançon et font des choix qui pourraient bouleverser leur vie.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1236045"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1561726",
       "type": "movie",
       "name": "Masterplan",
@@ -167,57 +201,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1561726"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1236045",
-      "type": "movie",
-      "name": "Animals",
-      "poster": "https://image.tmdb.org/t/p/w500/33MhDOKB0S5VwuaD9lZyV0v0st0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "description": "Quand leur fils est enlevé, un candidat à la mairie de Los Angeles et sa femme s'efforcent de réunir l'argent de la rançon et font des choix qui pourraient bouleverser leur vie.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1236045"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1570488",
-      "type": "movie",
-      "name": "Mon beau Noël de chien",
-      "poster": "https://image.tmdb.org/t/p/w500/wuFfq29NUhaksIIxg5EV24J3n2b.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1570488"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1789549",
-      "type": "movie",
-      "name": "Le Cadeau D'anniversaire",
-      "poster": "https://image.tmdb.org/t/p/w500/jks3cfCwBFkAxq2rj2SENF6OiDE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
-      "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1789549"
         }
       ]
     },
@@ -239,6 +222,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1789549",
+      "type": "movie",
+      "name": "Le Cadeau D'anniversaire",
+      "poster": "https://image.tmdb.org/t/p/w500/jks3cfCwBFkAxq2rj2SENF6OiDE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+      "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1789549"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1288069",
       "type": "movie",
       "name": "Tenzing : à la conquête de l’Everest",
@@ -252,23 +252,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1288069"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1541477",
-      "type": "movie",
-      "name": "Toi, Moi, Nous",
-      "poster": "https://image.tmdb.org/t/p/w500/kw0sXl9LAikT65wq7NwY3y9g45K.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
-      "description": "Simone, un homme organisé et profondément attaché aux valeurs familiales, partage sa vie avec Lucia, une femme indépendante qui a toujours rejeté l'idée de devenir mère. Malgré leurs différences, leur couple repose sur un amour solide et de perpétuelles négociations. Mais lorsqu'ils décident d'adopter un enfant, leurs convictions et leurs désirs contradictoires refont surface, mettant leur relation à l'épreuve.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1541477"
         }
       ]
     },
@@ -290,6 +273,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1541477",
+      "type": "movie",
+      "name": "Toi, Moi, Nous",
+      "poster": "https://image.tmdb.org/t/p/w500/kw0sXl9LAikT65wq7NwY3y9g45K.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
+      "description": "Simone, un homme organisé et profondément attaché aux valeurs familiales, partage sa vie avec Lucia, une femme indépendante qui a toujours rejeté l'idée de devenir mère. Malgré leurs différences, leur couple repose sur un amour solide et de perpétuelles négociations. Mais lorsqu'ils décident d'adopter un enfant, leurs convictions et leurs désirs contradictoires refont surface, mettant leur relation à l'épreuve.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1541477"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1792914",
       "type": "movie",
       "name": "Log 15",
@@ -302,23 +302,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1792914"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1802674",
-      "type": "movie",
-      "name": "Hot Wheels La course est lancée! L'attaque du T-Rex",
-      "poster": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1802674"
         }
       ]
     },
@@ -336,6 +319,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1760311"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1802674",
+      "type": "movie",
+      "name": "Hot Wheels La course est lancée! L'attaque du T-Rex",
+      "poster": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1802674"
         }
       ]
     },
@@ -440,6 +440,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1773759",
+      "type": "movie",
+      "name": "Seriously Single Too",
+      "poster": "https://image.tmdb.org/t/p/w500/ocSY3cX4g6hxy4EkQWXPjrrdzCI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "4.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1773759"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1756307",
       "type": "movie",
       "name": "SCTV: The Greatest Show You've Never Heard Of",
@@ -470,23 +487,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1480856"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1773759",
-      "type": "movie",
-      "name": "Seriously Single Too",
-      "poster": "https://image.tmdb.org/t/p/w500/ocSY3cX4g6hxy4EkQWXPjrrdzCI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "4.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1773759"
         }
       ]
     },
@@ -537,6 +537,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1811964"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1642600",
+      "type": "movie",
+      "name": "Harceleurs",
+      "poster": "https://image.tmdb.org/t/p/w500/yHE9nlvMq8f7YzSrYTi1CDAtMrT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dOxiqjaYzhnYw06zAQGvTxeqyP3.jpg",
+      "description": "Camille est professeure dans un collège d'une ville pavillonnaire, son fils Mathias est en 3e dans le même établissement. Des faits de harcèlement lui sont signalés et, avant qu'elle n'ait le temps d'en comprendre l'ampleur et d'agir, l'élève harcelé fait une tentative de suicide et tombe dans le coma. Les parents, les autres élèves, tout le monde est sous le choc. En attendant le verdict autour du sort de la victime, les efforts se concentrent sur la recherche du coupable, et tout tend à croire que c'est le fils de Camille. Qui est vraiment son fils, que cache-t-il ? Comment gérer la situation ? Et surtout pourquoi n'a-t-elle rien vu ? Camille se retrouve prise en étau entre son rôle de professeure et de mère...",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1642600"
         }
       ]
     },
@@ -592,22 +609,6 @@
       ]
     },
     {
-      "id": "tmdb:movie:1806212",
-      "type": "movie",
-      "name": "Trahisons, l'art de rompre en politique",
-      "poster": "https://image.tmdb.org/t/p/w500/35P4HYNWQbMRcbXDdfJ1HuaCVOR.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dG0Y0lQlkU5LPYC9CtpBKrGMN0n.jpg",
-      "description": "En politique, les fidélités ne durent parfois que le temps d'une ambition. Derrière les grandes batailles électorales se jouent aussi des histoires intimes de confiance, d'humiliation et de revanche. De l'ascension fulgurante d'Emmanuel Macron, qui s'émancipe de François Hollande, à la guerre fratricide qui oppose Jacques Chirac à Edouard Balladur en 1995 ; de la rupture de Bruno Mégret avec Jean-Marie Le Pen à la volte-face d'Eric Besson, passé du Parti socialiste à Nicolas Sarkozy en pleine campagne présidentielle de 2007, quatre histoires de fidélités brisées qui ont marqué la vie politique française sont racontées par ceux qui les ont vécues au plus près.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1806212"
-        }
-      ]
-    },
-    {
       "id": "tmdb:movie:1611384",
       "type": "movie",
       "name": "Pasteur et prédateur",
@@ -620,6 +621,22 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1611384"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1806212",
+      "type": "movie",
+      "name": "Trahisons, l'art de rompre en politique",
+      "poster": "https://image.tmdb.org/t/p/w500/35P4HYNWQbMRcbXDdfJ1HuaCVOR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dG0Y0lQlkU5LPYC9CtpBKrGMN0n.jpg",
+      "description": "En politique, les fidélités ne durent parfois que le temps d'une ambition. Derrière les grandes batailles électorales se jouent aussi des histoires intimes de confiance, d'humiliation et de revanche. De l'ascension fulgurante d'Emmanuel Macron, qui s'émancipe de François Hollande, à la guerre fratricide qui oppose Jacques Chirac à Edouard Balladur en 1995 ; de la rupture de Bruno Mégret avec Jean-Marie Le Pen à la volte-face d'Eric Besson, passé du Parti socialiste à Nicolas Sarkozy en pleine campagne présidentielle de 2007, quatre histoires de fidélités brisées qui ont marqué la vie politique française sont racontées par ceux qui les ont vécues au plus près.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1806212"
         }
       ]
     },
@@ -639,19 +656,18 @@
       ]
     },
     {
-      "id": "tmdb:movie:1801542",
+      "id": "tmdb:movie:1797392",
       "type": "movie",
-      "name": "Sommes-nous tous accros aux écrans ?",
-      "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
-      "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
+      "name": "Kordell Stewart / Slash & Burn",
+      "poster": "https://image.tmdb.org/t/p/w500/wVZXTyC92jRU7lwn5QjhDs7FORk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oTMqOh1FPl7bdlrlp4YUHfGz6TR.jpg",
+      "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1801542"
+          "url": "https://www.themoviedb.org/movie/1797392"
         }
       ]
     },
@@ -673,18 +689,19 @@
       ]
     },
     {
-      "id": "tmdb:movie:1729010",
+      "id": "tmdb:movie:1628116",
       "type": "movie",
-      "name": "Le pacte des innocentes",
-      "poster": "https://image.tmdb.org/t/p/w500/7SS3Hspxj19h0e3pRrbgv6Vqj2s.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/Y30JqkSUjaCXDRfXqFy1hPSBFb.jpg",
-      "description": "Ellie, Jessica, Kendall et Lily sont quatre lycéennes inséparables. Lorsque la mère d'Ellie annonce leur déménagement, la jeune fille prévoit de s'enfuir avec son petit ami Caleb après une fête. Mais la soirée tourne mal lorsqu'elle apprend que Caleb l'aurait trompée. Quelques heures plus tard, Ellie disparaît sans laisser de trace. Tandis que des photos compromettantes de Jessica circulent dans le lycée, les soupçons se multiplient. Déterminée à retrouver sa fille, Tina, la mère d'Ellie, mène l'enquête avec le lieutenant Patel. Très vite, secrets, jalousies et trahisons menacent de faire éclater le groupe d'amies.",
+      "name": "BTS : Le Retour",
+      "poster": "https://image.tmdb.org/t/p/w500/kEAoi6WiFG1eH8q8l8mADgxuxKf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg",
+      "description": "Les BTS sont de retour et à l'aube d'une nouvelle ère ! Ce documentaire offre un accès inédit au groupe, réuni à Los Angeles pour enregistrer l'album « Arirang ».",
       "releaseInfo": "2026",
+      "imdbRating": "10",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1729010"
+          "url": "https://www.themoviedb.org/movie/1628116"
         }
       ]
     },
@@ -706,6 +723,23 @@
       ]
     },
     {
+      "id": "tmdb:movie:1241046",
+      "type": "movie",
+      "name": "A Prayer for the Dying",
+      "poster": "https://image.tmdb.org/t/p/w500/VuimSXLB2U6t8txrWSpYaIM3m7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yMqBFMvAGPw5aM4azNN07kSjNM0.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1241046"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1811741",
       "type": "movie",
       "name": "Instadocs : Jane Doe contre Cornell",
@@ -723,35 +757,35 @@
       ]
     },
     {
-      "id": "tmdb:movie:1628116",
+      "id": "tmdb:movie:1729010",
       "type": "movie",
-      "name": "BTS : Le Retour",
-      "poster": "https://image.tmdb.org/t/p/w500/kEAoi6WiFG1eH8q8l8mADgxuxKf.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg",
-      "description": "Les BTS sont de retour et à l'aube d'une nouvelle ère ! Ce documentaire offre un accès inédit au groupe, réuni à Los Angeles pour enregistrer l'album « Arirang ».",
+      "name": "Le pacte des innocentes",
+      "poster": "https://image.tmdb.org/t/p/w500/7SS3Hspxj19h0e3pRrbgv6Vqj2s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/Y30JqkSUjaCXDRfXqFy1hPSBFb.jpg",
+      "description": "Ellie, Jessica, Kendall et Lily sont quatre lycéennes inséparables. Lorsque la mère d'Ellie annonce leur déménagement, la jeune fille prévoit de s'enfuir avec son petit ami Caleb après une fête. Mais la soirée tourne mal lorsqu'elle apprend que Caleb l'aurait trompée. Quelques heures plus tard, Ellie disparaît sans laisser de trace. Tandis que des photos compromettantes de Jessica circulent dans le lycée, les soupçons se multiplient. Déterminée à retrouver sa fille, Tina, la mère d'Ellie, mène l'enquête avec le lieutenant Patel. Très vite, secrets, jalousies et trahisons menacent de faire éclater le groupe d'amies.",
       "releaseInfo": "2026",
-      "imdbRating": "10",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1628116"
+          "url": "https://www.themoviedb.org/movie/1729010"
         }
       ]
     },
     {
-      "id": "tmdb:movie:1797392",
+      "id": "tmdb:movie:1801542",
       "type": "movie",
-      "name": "Kordell Stewart / Slash & Burn",
-      "poster": "https://image.tmdb.org/t/p/w500/wVZXTyC92jRU7lwn5QjhDs7FORk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oTMqOh1FPl7bdlrlp4YUHfGz6TR.jpg",
-      "description": "",
+      "name": "Sommes-nous tous accros aux écrans ?",
+      "poster": "https://image.tmdb.org/t/p/w500/yM8GQZI7sJpzetsy0dQ26Ic25m1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1n6NvlQg0Y3GThoPMYr7EWPApqP.jpg",
+      "description": "La surexposition aux écrans est devenue un véritable enjeu de santé publique et certains spécialistes n'hésitent plus à parler d'addiction. Mais si les conséquences d'un usage excessif sont désormais bien connues, qu'en est-il des causes ? Cette 3e déclinaison du format \"Sommes-nous tous… ?\" tente d'y répondre. Bien sûr, derrière l'écran se cache une dépendance aux contenus générés par les réseaux sociaux, les algorithmes de recommandation, les jeux vidéo, les IA, etc. Les développeurs des Big Tech eux-mêmes ne nient pas que leurs méthodes s'appuient sur les apports de la psychologie cognitive, dans le but commercial d'influencer le comportement des utilisateurs. Qu'est-ce qui explique, dans le fonctionnement du cerveau, cette cyberdépendance qui touche désormais les seniors autant que les jeunes ?",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1797392"
+          "url": "https://www.themoviedb.org/movie/1801542"
         }
       ]
     },
@@ -773,36 +807,19 @@
       ]
     },
     {
-      "id": "tmdb:movie:1241046",
+      "id": "tmdb:movie:1771844",
       "type": "movie",
-      "name": "A Prayer for the Dying",
-      "poster": "https://image.tmdb.org/t/p/w500/VuimSXLB2U6t8txrWSpYaIM3m7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/yMqBFMvAGPw5aM4azNN07kSjNM0.jpg",
+      "name": "Kate Berlant: Parmesan",
+      "poster": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7C22EDwURBWO1fuLuNBkGLzZVoN.jpg",
       "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1241046"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1642600",
-      "type": "movie",
-      "name": "Harceleurs",
-      "poster": "https://image.tmdb.org/t/p/w500/yHE9nlvMq8f7YzSrYTi1CDAtMrT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dOxiqjaYzhnYw06zAQGvTxeqyP3.jpg",
-      "description": "Camille est professeure dans un collège d'une ville pavillonnaire, son fils Mathias est en 3e dans le même établissement. Des faits de harcèlement lui sont signalés et, avant qu'elle n'ait le temps d'en comprendre l'ampleur et d'agir, l'élève harcelé fait une tentative de suicide et tombe dans le coma. Les parents, les autres élèves, tout le monde est sous le choc. En attendant le verdict autour du sort de la victime, les efforts se concentrent sur la recherche du coupable, et tout tend à croire que c'est le fils de Camille. Qui est vraiment son fils, que cache-t-il ? Comment gérer la situation ? Et surtout pourquoi n'a-t-elle rien vu ? Camille se retrouve prise en étau entre son rôle de professeure et de mère...",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1642600"
+          "url": "https://www.themoviedb.org/movie/1771844"
         }
       ]
     },
@@ -824,23 +841,6 @@
       ]
     },
     {
-      "id": "tmdb:movie:1545690",
-      "type": "movie",
-      "name": "WWE Money in the Bank 2026",
-      "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vdwmT1oZcDgkjvmyu7OYw1z6GYx.jpg",
-      "description": "L'édition 2026 de Money in the Bank (commercialisé sous le nom de Money in the Bank: New Orleans) est un Premium Live Event de catch (lutte professionnelle) produit par la World Wrestling Entertainment, une fédération de catch américaine qui est télédiffusée et visible en paiement à la séance sur Netflix. L'événement aura lieu le 10 octobre 2026 au Smoothie King Center à la Nouvelle-Orléans (Louisiane). Il s'agit de la 17e édition de Money in the Bank.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1545690"
-        }
-      ]
-    },
-    {
       "id": "tmdb:movie:1756138",
       "type": "movie",
       "name": "Who Is Martin Mull?",
@@ -858,101 +858,19 @@
       ]
     },
     {
-      "id": "tmdb:movie:1789826",
+      "id": "tmdb:movie:1545690",
       "type": "movie",
-      "name": "Confessions d'une accro à Noël",
-      "poster": "https://image.tmdb.org/t/p/w500/rzByMC9x3FdKp4u4DrThqyLxQpY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9ApCYxqPSr9OKuxaCeNMxuo4wnd.jpg",
-      "description": "Mélanie Patterson est une passionnée des fêtes de fin d'année, qui met une petite touche de Noël, dans tous les évènements qu'elle organise. Son seul problème : elle dépense toujours trop... Ce qui lui vaut de perdre son emploi. Elle décide alors de se mettre à son compte et de lancer sa nouvelle carrière, à l'occasion du réveillon qu'elle organise chaque année pour tous les habitants de son quartier.",
+      "name": "WWE Money in the Bank 2026",
+      "poster": "https://image.tmdb.org/t/p/w500/wRFDnH3XzwDKV9QU3DTYNU8XX2R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vdwmT1oZcDgkjvmyu7OYw1z6GYx.jpg",
+      "description": "L'édition 2026 de Money in the Bank (commercialisé sous le nom de Money in the Bank: New Orleans) est un Premium Live Event de catch (lutte professionnelle) produit par la World Wrestling Entertainment, une fédération de catch américaine qui est télédiffusée et visible en paiement à la séance sur Netflix. L'événement aura lieu le 10 octobre 2026 au Smoothie King Center à la Nouvelle-Orléans (Louisiane). Il s'agit de la 17e édition de Money in the Bank.",
       "releaseInfo": "2026",
-      "imdbRating": "5.5",
+      "imdbRating": "5.9",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1789826"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1791526",
-      "type": "movie",
-      "name": "Pacifico",
-      "poster": "https://image.tmdb.org/t/p/w500/2cyYr8nWZ4CaWhpDttOm82ghr9M.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/u7QQMcfzis1UWEVrT239pJoP0hn.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1791526"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1771844",
-      "type": "movie",
-      "name": "Kate Berlant: Parmesan",
-      "poster": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7C22EDwURBWO1fuLuNBkGLzZVoN.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1771844"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1794627",
-      "type": "movie",
-      "name": "Bilal Hassani, bats-toi comme une fille mon fils",
-      "poster": "https://image.tmdb.org/t/p/w500/jZSsQiB1UJIdQaGg756pxbbkjIq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eDyskvUVijsxDAgNIw5vBhsJOF2.jpg",
-      "description": "Le grand public a découvert Bilal Hassani lors de l'Eurovision 2019 et sa chanson \"Roi\", véritable hymne à la différence qui a déclenché des vagues d'amour mais aussi de haine sur les réseaux. Très vite, le jeune garçon s'est emparé avec courage de la question de l'identité de genre, dans une exploration personnelle et artistique, n'hésitant pas à nous faire partager ses doutes, ses blessures mais aussi sa propre évolution. Ce documentaire propose d'embrasser plusieurs thématiques qui résonnent fortement : l'homosexualité, l'homophobie, le cyberharcèlement et la justice, le racisme mais aussi les racines marocaines, l'amour et le choix d'une mère qui se libère du poids culturel pour l'épanouissement de son fils, la célébrité et bien entendu l'identité et le genre.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1794627"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:435987",
-      "type": "movie",
-      "name": "Un dessert pour Constance",
-      "poster": "https://image.tmdb.org/t/p/w500/oRAr4RyqMHoLz7s5JoBbCpHYD9g.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bKwTNbtBl7Brtfo3GNc0REd8ohS.jpg",
-      "description": "Pour nombre de personnes bien intentionnées, les immigrés Africains étaient (à l’époque des « Trente Glorieuses ») tout juste bon à ramasser nos ordures. Ici, deux éboueurs trouvent un livre de cuisine jetée aux ordures. À sa lecture, ils se prennent de passion pour la cuisine française. Ce qui n’était qu’un passe-temps pour deux hommes fauchés mais gourmands va devenir un vrai savoir. A défaut de bons repas, ils dévorent le contenu d’un livre beau comme un roman d’aventures ! Exotiques, à leurs yeux ! Au point qu’il se présentent à un jeu télévisé et réussissent si bien qu’ils sont en passe de gagner la somme dont ils ont besoin pour sauver un de leurs amis atteint d’une grave maladie...",
-      "releaseInfo": "1981",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/435987"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1809199",
-      "type": "movie",
-      "name": "Zainab Johnson: Toxically Optimistic",
-      "poster": "https://image.tmdb.org/t/p/w500/45aRvdvuLz2mooiHAe3j1bCFfHL.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1809199"
+          "url": "https://www.themoviedb.org/movie/1545690"
         }
       ]
     },
@@ -974,36 +892,35 @@
       ]
     },
     {
-      "id": "tmdb:movie:1785219",
+      "id": "tmdb:movie:1789826",
       "type": "movie",
-      "name": "Route 66, une légende américaine",
-      "poster": "https://image.tmdb.org/t/p/w500/Avnhwbud3Fsh8Hua864tKH38iBv.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/kFOOi6HlDtGROdVvAxGN3DTB8Li.jpg",
-      "description": "Tracée entre Chicago et Los Angeles, la route 66 déroule près de quatre mille kilomètres à travers huit Etats, du Midwest aux rives du Pacifique, en passant par les plaines de l'Oklahoma et les déserts de l'Arizona. Mais ce film n'est ni un guide de voyage ni un documentaire historique au sens classique, il raconte comment un ruban d'asphalte est devenu une véritable fiction américaine. Rayée des registres fédéraux en 1985, la route se transforme en patrimoine avec l'Historic Route 66 mais c'est surtout par les images qu'elle survit. Un siècle après sa création, elle demeure une fiction collective, assez puissante pour continuer à raconter l'Amérique, ses rêves de liberté comme ses contradictions.",
+      "name": "Confessions d'une accro à Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/rzByMC9x3FdKp4u4DrThqyLxQpY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9ApCYxqPSr9OKuxaCeNMxuo4wnd.jpg",
+      "description": "Mélanie Patterson est une passionnée des fêtes de fin d'année, qui met une petite touche de Noël, dans tous les évènements qu'elle organise. Son seul problème : elle dépense toujours trop... Ce qui lui vaut de perdre son emploi. Elle décide alors de se mettre à son compte et de lancer sa nouvelle carrière, à l'occasion du réveillon qu'elle organise chaque année pour tous les habitants de son quartier.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1785219"
+          "url": "https://www.themoviedb.org/movie/1789826"
         }
       ]
     },
     {
-      "id": "tmdb:movie:1781653",
+      "id": "tmdb:movie:1058588",
       "type": "movie",
-      "name": "Jamie Foxx : Prends soin de toi",
-      "poster": "https://image.tmdb.org/t/p/w500/lVMY9gUcGpYozb4WVEJTNuUG2fN.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9dP8mdJrdvvYLDNw75ioarb2SlZ.jpg",
-      "description": "Jamie Foxx livre une comédie honnête sur les soins personnels dans « Take Care of Yourself ». Il se joint à la formation « Hularious » avec Hannah Berner, Ralph Barbosa, Bill Burr, Chris Distefano, Jim Gaffigan, Zarna Garg, Nikki Glaser, Ilana Glazer et d'autres.",
+      "name": "The Invisible Guest",
+      "poster": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+      "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "4.8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1781653"
+          "url": "https://www.themoviedb.org/movie/1058588"
         }
       ]
     },
@@ -1025,36 +942,149 @@
       ]
     },
     {
-      "id": "tmdb:movie:1662627",
+      "id": "tmdb:movie:435987",
       "type": "movie",
-      "name": "On aboie en silence",
-      "poster": "https://image.tmdb.org/t/p/w500/xonXMZ6vK4kIpsRUcy615xHfet8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ua4XrCA5xaqVKmCaj8Pi5kJzUHq.jpg",
-      "description": "À 17 ans, Jérémy rêve de devenir cinéaste et partage une relation fusionnelle avec son grand frère Théo, rappeur en pleine ascension. Mais l’apparition de troubles psychotiques fait vaciller l’équilibre familial. Entre déni, crises et tentatives de création commune, les deux frères luttent pour préserver leur lien. Jérémy doit accepter la maladie, vivre avec et finalement renoncer à une vie qu’il imaginait.",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
+      "name": "Un dessert pour Constance",
+      "poster": "https://image.tmdb.org/t/p/w500/oRAr4RyqMHoLz7s5JoBbCpHYD9g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bKwTNbtBl7Brtfo3GNc0REd8ohS.jpg",
+      "description": "Pour nombre de personnes bien intentionnées, les immigrés Africains étaient (à l’époque des « Trente Glorieuses ») tout juste bon à ramasser nos ordures. Ici, deux éboueurs trouvent un livre de cuisine jetée aux ordures. À sa lecture, ils se prennent de passion pour la cuisine française. Ce qui n’était qu’un passe-temps pour deux hommes fauchés mais gourmands va devenir un vrai savoir. A défaut de bons repas, ils dévorent le contenu d’un livre beau comme un roman d’aventures ! Exotiques, à leurs yeux ! Au point qu’il se présentent à un jeu télévisé et réussissent si bien qu’ils sont en passe de gagner la somme dont ils ont besoin pour sauver un de leurs amis atteint d’une grave maladie...",
+      "releaseInfo": "1981",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1662627"
+          "url": "https://www.themoviedb.org/movie/435987"
         }
       ]
     },
     {
-      "id": "tmdb:movie:1802058",
+      "id": "tmdb:movie:1781653",
       "type": "movie",
-      "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
-      "poster": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/v6tYpZAxvdxqVKrHFlbTOaHollr.jpg",
-      "description": "",
+      "name": "Jamie Foxx : Prends soin de toi",
+      "poster": "https://image.tmdb.org/t/p/w500/lVMY9gUcGpYozb4WVEJTNuUG2fN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9dP8mdJrdvvYLDNw75ioarb2SlZ.jpg",
+      "description": "Jamie Foxx livre une comédie honnête sur les soins personnels dans « Take Care of Yourself ». Il se joint à la formation « Hularious » avec Hannah Berner, Ralph Barbosa, Bill Burr, Chris Distefano, Jim Gaffigan, Zarna Garg, Nikki Glaser, Ilana Glazer et d'autres.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "4.8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1802058"
+          "url": "https://www.themoviedb.org/movie/1781653"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1791526",
+      "type": "movie",
+      "name": "Pacifico",
+      "poster": "https://image.tmdb.org/t/p/w500/2cyYr8nWZ4CaWhpDttOm82ghr9M.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u7QQMcfzis1UWEVrT239pJoP0hn.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1791526"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1783833",
+      "type": "movie",
+      "name": "Renaud, 50 ans de chansons",
+      "poster": "https://image.tmdb.org/t/p/w500/jwpwjhpkTnJdsCmePpMDms9wV0R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1qlqHniFPucTSDtujZMqZtxiHP9.jpg",
+      "description": "Pour célébrer cinquante ans de chansons, Renaud retrace, sur la scène du Zénith de Paris, les plus grands moments de sa carrière accompagné de grands noms de la chanson française lors d'un concert exceptionnel. Entouré de 23 artistes invités, tels qu'Axelle Red, Alain Souchon, Francis Cabrel ou Olivia Ruiz, il revisite les plus grands titres de son répertoire, entre duos, reprises et moments inédits. De génération en génération, chacun vient rendre hommage à l'une des figures majeures de la chanson française, pour une rétrospective riche en émotions, en souvenirs et en surprises. Captation les 15 et 16 mai 2026 au Zénith de Paris 19ème.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1783833"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1794627",
+      "type": "movie",
+      "name": "Bilal Hassani, bats-toi comme une fille mon fils",
+      "poster": "https://image.tmdb.org/t/p/w500/jZSsQiB1UJIdQaGg756pxbbkjIq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eDyskvUVijsxDAgNIw5vBhsJOF2.jpg",
+      "description": "Le grand public a découvert Bilal Hassani lors de l'Eurovision 2019 et sa chanson \"Roi\", véritable hymne à la différence qui a déclenché des vagues d'amour mais aussi de haine sur les réseaux. Très vite, le jeune garçon s'est emparé avec courage de la question de l'identité de genre, dans une exploration personnelle et artistique, n'hésitant pas à nous faire partager ses doutes, ses blessures mais aussi sa propre évolution. Ce documentaire propose d'embrasser plusieurs thématiques qui résonnent fortement : l'homosexualité, l'homophobie, le cyberharcèlement et la justice, le racisme mais aussi les racines marocaines, l'amour et le choix d'une mère qui se libère du poids culturel pour l'épanouissement de son fils, la célébrité et bien entendu l'identité et le genre.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1794627"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1809199",
+      "type": "movie",
+      "name": "Zainab Johnson: Toxically Optimistic",
+      "poster": "https://image.tmdb.org/t/p/w500/45aRvdvuLz2mooiHAe3j1bCFfHL.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1809199"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1783318",
+      "type": "movie",
+      "name": "Droit ou pas droit ?",
+      "poster": "https://image.tmdb.org/t/p/w500/mDMZ2jssdlgQTqbm77KHuX21Vzr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/60vrEPh5rHgWXamqCIKo4BlyDcc.jpg",
+      "description": "Chaque année, et depuis 2017, à l'occasion de l'anniversaire de la Constitution de 1958, se tient sur l'ensemble du territoire national la Nuit du droit. A cette occasion, Anne-Elisabeth Lemoine présente \"Droit ou pas droit ?\", un jeu qui éclaire l'importance du droit dans notre quotidien. Plusieurs candidats, jeunes avocats, doivent répondre à des questions sur différents types de droits concernant aussi bien la vie quotidienne que la vie citoyenne. Entourée d'experts reconnus, Anne-Elisabeth Lemoine, avec la complicité de Caroline Vigneaux et de nombreuses personnalités, aura aussi pour mission de démontrer que le droit est précieux pour la démocratie.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1783318"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1786184",
+      "type": "movie",
+      "name": "Un Soir d'Été sous la Tour Eiffel avec la Maîtrise de Radio France",
+      "poster": "https://image.tmdb.org/t/p/w500/eze74kjUq8XC9JEao7adS7imim0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9t5nP6Plv7uDvVBovo08GvxcMNt.jpg",
+      "description": "Le 13 juillet 2026, la Maîtrise de Radio France a offert un concert en plein air sur l'esplanade du Champ-de-Mars, au pied de la tour Eiffel illuminée, accompagnée des pianistes Thomas Tacquet et Julien Joubert et de la violoncelliste franco-brésilienne Dom La Nena. Fondée il y a 80 ans, la Maîtrise de Radio France, dirigée par Sofi Jeannin, est le choeur d'enfants le plus célèbre du pays. C'est une école de chant et de musique qui forme environ 160 enfants et adolescents venus de toute la France à Paris et aussi à Bondy, en Seine-Saint-Denis. La Maîtrise de Radio France, avec son répertoire varié, a su, lors de cette soirée d'été, captiver le public et offrir un spectacle inoubliable. Captation le 13 juillet 2026 au pied de la Tour Eiffel à Paris 7ème.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1786184"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1785219",
+      "type": "movie",
+      "name": "Route 66, une légende américaine",
+      "poster": "https://image.tmdb.org/t/p/w500/Avnhwbud3Fsh8Hua864tKH38iBv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kFOOi6HlDtGROdVvAxGN3DTB8Li.jpg",
+      "description": "Tracée entre Chicago et Los Angeles, la route 66 déroule près de quatre mille kilomètres à travers huit Etats, du Midwest aux rives du Pacifique, en passant par les plaines de l'Oklahoma et les déserts de l'Arizona. Mais ce film n'est ni un guide de voyage ni un documentaire historique au sens classique, il raconte comment un ruban d'asphalte est devenu une véritable fiction américaine. Rayée des registres fédéraux en 1985, la route se transforme en patrimoine avec l'Historic Route 66 mais c'est surtout par les images qu'elle survit. Un siècle après sa création, elle demeure une fiction collective, assez puissante pour continuer à raconter l'Amérique, ses rêves de liberté comme ses contradictions.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1785219"
         }
       ]
     },
@@ -1076,101 +1106,19 @@
       ]
     },
     {
-      "id": "tmdb:movie:1786184",
+      "id": "tmdb:movie:1662627",
       "type": "movie",
-      "name": "Un Soir d'Été sous la Tour Eiffel avec la Maîtrise de Radio France",
-      "poster": "https://image.tmdb.org/t/p/w500/eze74kjUq8XC9JEao7adS7imim0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9t5nP6Plv7uDvVBovo08GvxcMNt.jpg",
-      "description": "Le 13 juillet 2026, la Maîtrise de Radio France a offert un concert en plein air sur l'esplanade du Champ-de-Mars, au pied de la tour Eiffel illuminée, accompagnée des pianistes Thomas Tacquet et Julien Joubert et de la violoncelliste franco-brésilienne Dom La Nena. Fondée il y a 80 ans, la Maîtrise de Radio France, dirigée par Sofi Jeannin, est le choeur d'enfants le plus célèbre du pays. C'est une école de chant et de musique qui forme environ 160 enfants et adolescents venus de toute la France à Paris et aussi à Bondy, en Seine-Saint-Denis. La Maîtrise de Radio France, avec son répertoire varié, a su, lors de cette soirée d'été, captiver le public et offrir un spectacle inoubliable. Captation le 13 juillet 2026 au pied de la Tour Eiffel à Paris 7ème.",
+      "name": "On aboie en silence",
+      "poster": "https://image.tmdb.org/t/p/w500/xonXMZ6vK4kIpsRUcy615xHfet8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ua4XrCA5xaqVKmCaj8Pi5kJzUHq.jpg",
+      "description": "À 17 ans, Jérémy rêve de devenir cinéaste et partage une relation fusionnelle avec son grand frère Théo, rappeur en pleine ascension. Mais l’apparition de troubles psychotiques fait vaciller l’équilibre familial. Entre déni, crises et tentatives de création commune, les deux frères luttent pour préserver leur lien. Jérémy doit accepter la maladie, vivre avec et finalement renoncer à une vie qu’il imaginait.",
       "releaseInfo": "2026",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1786184"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1783318",
-      "type": "movie",
-      "name": "Droit ou pas droit ?",
-      "poster": "https://image.tmdb.org/t/p/w500/mDMZ2jssdlgQTqbm77KHuX21Vzr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/60vrEPh5rHgWXamqCIKo4BlyDcc.jpg",
-      "description": "Chaque année, et depuis 2017, à l'occasion de l'anniversaire de la Constitution de 1958, se tient sur l'ensemble du territoire national la Nuit du droit. A cette occasion, Anne-Elisabeth Lemoine présente \"Droit ou pas droit ?\", un jeu qui éclaire l'importance du droit dans notre quotidien. Plusieurs candidats, jeunes avocats, doivent répondre à des questions sur différents types de droits concernant aussi bien la vie quotidienne que la vie citoyenne. Entourée d'experts reconnus, Anne-Elisabeth Lemoine, avec la complicité de Caroline Vigneaux et de nombreuses personnalités, aura aussi pour mission de démontrer que le droit est précieux pour la démocratie.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1783318"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1805027",
-      "type": "movie",
-      "name": "Dracula : la véritable histoire",
-      "poster": "https://image.tmdb.org/t/p/w500/7twfmxzLWIERt27DbdtwMQ1MsBQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/shvPAi56WfezkA8oldtKm7pRyyE.jpg",
-      "description": "Qui était l’homme qui a inspiré le vampire de Bram Stoker ? Guidé par des chercheurs, un voyage captivant sur les traces de Vlad Tepes (\"l’empaleur\"), ce prince roumain du XVe siècle pris en tenaille entre Occident chrétien et Orient musulman, qui terrifia ses contemporains par les sévices cruels qu’il infligeait à ses ennemis.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1805027"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1805036",
-      "type": "movie",
-      "name": "Zombies - La fascination des morts-vivants",
-      "poster": "https://image.tmdb.org/t/p/w500/lSkBWGvPInLgguDlA3YBtZHgOic.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fVKwLtuQIYrGx0S5KEUif2ZBS1F.jpg",
-      "description": "Parce qu'ils nous captivent autant qu'ils nous effraient, les zombies ont colonisé nos angoisses les plus profondes. Retour sur l'histoire de ces hordes sauvages qui, de près ou de loin, nous ressemblent quand même furieusement. Frissons garantis.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1805036"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1801526",
-      "type": "movie",
-      "name": "Le luxe, un pouvoir français",
-      "poster": "https://image.tmdb.org/t/p/w500/rjRq3MQECnur892fk8lNmealTVB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ig9rHZV312y3W8pr3uP2U2mFtiQ.jpg",
-      "description": "Sur l'échiquier géopolitique mondial, un sac Dior, une robe Chanel ou un carré Hermès semblent à priori dérisoires face aux barils de pétrole ou aux contrats d'armement. Pourtant, la haute couture française a bâti le système d'influence le plus puissant et le plus viral de notre époque. Depuis 20 ans, les maisons de haute couture françaises sont devenues des empires mondiaux avec LVMH et Kering. En difficultés financières, ces groupes doivent gagner la bataille de l'image et du \"like\" en organisant des défilés hors norme. A l'ère du tout Instagram, une marque est capable de débourser un demi million d'euros pendant la Fashion Week pour avoir les plus grandes stars au premier rang de son défilé.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1801526"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1783833",
-      "type": "movie",
-      "name": "Renaud, 50 ans de chansons",
-      "poster": "https://image.tmdb.org/t/p/w500/jwpwjhpkTnJdsCmePpMDms9wV0R.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1qlqHniFPucTSDtujZMqZtxiHP9.jpg",
-      "description": "Pour célébrer cinquante ans de chansons, Renaud retrace, sur la scène du Zénith de Paris, les plus grands moments de sa carrière accompagné de grands noms de la chanson française lors d'un concert exceptionnel. Entouré de 23 artistes invités, tels qu'Axelle Red, Alain Souchon, Francis Cabrel ou Olivia Ruiz, il revisite les plus grands titres de son répertoire, entre duos, reprises et moments inédits. De génération en génération, chacun vient rendre hommage à l'une des figures majeures de la chanson française, pour une rétrospective riche en émotions, en souvenirs et en surprises. Captation les 15 et 16 mai 2026 au Zénith de Paris 19ème.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1783833"
+          "url": "https://www.themoviedb.org/movie/1662627"
         }
       ]
     },
@@ -1192,17 +1140,34 @@
       ]
     },
     {
-      "id": "tmdb:movie:1754444",
+      "id": "tmdb:movie:1805036",
       "type": "movie",
-      "name": "Torus",
-      "poster": "https://image.tmdb.org/t/p/w500/a9LIVxjVMnJqtwdBbs9Kl1ZX9er.jpg",
+      "name": "Zombies - La fascination des morts-vivants",
+      "poster": "https://image.tmdb.org/t/p/w500/lSkBWGvPInLgguDlA3YBtZHgOic.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fVKwLtuQIYrGx0S5KEUif2ZBS1F.jpg",
+      "description": "Parce qu'ils nous captivent autant qu'ils nous effraient, les zombies ont colonisé nos angoisses les plus profondes. Retour sur l'histoire de ces hordes sauvages qui, de près ou de loin, nous ressemblent quand même furieusement. Frissons garantis.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1805036"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1809843",
+      "type": "movie",
+      "name": "Galia",
+      "poster": "https://image.tmdb.org/t/p/w500/pXjNbvOhKTlSLWMmFmlBYxdPOyV.jpg",
       "description": "",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1754444"
+          "url": "https://www.themoviedb.org/movie/1809843"
         }
       ]
     },
@@ -1224,34 +1189,98 @@
       ]
     },
     {
-      "id": "tmdb:movie:1806253",
+      "id": "tmdb:movie:1802058",
       "type": "movie",
-      "name": "La foil histoire de la Route du Rhum",
-      "poster": "https://image.tmdb.org/t/p/w500/5QqYXl9ksVqYVpELn0T3YeZKgbu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iX3qza4Jk3UilanGk0LoS1tQNzG.jpg",
-      "description": "Depuis quelques années, une aile invisible soulève la mer. Le foil, une lame d'ingénierie, permet aux bateaux de ne plus flotter, mais de voler au-dessus des vagues. Et en quelques années, la Route du Rhum est devenue un laboratoire de l'avenir où la mer se dématérialise et où le marin devient pilote. L'édition 2026 sera le rendez-vous des bateaux volants : 70 % des bateaux inscrits au départ seront équipés de foils. Retour sur cette métamorphose spectaculaire du temps des marins poètes aux pilotes d'aujourd'hui, en suivant la trace de ceux qui ont fait basculer la légende.",
+      "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
+      "poster": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v6tYpZAxvdxqVKrHFlbTOaHollr.jpg",
+      "description": "",
       "releaseInfo": "2026",
+      "imdbRating": "9",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1806253"
+          "url": "https://www.themoviedb.org/movie/1802058"
         }
       ]
     },
     {
-      "id": "tmdb:movie:1801884",
+      "id": "tmdb:movie:1805027",
       "type": "movie",
-      "name": "Chroniques de l'arbre mort",
-      "poster": "https://image.tmdb.org/t/p/w500/rXWP4tiMbOnR4apQeoen4oUFivU.jpg",
-      "description": "Comment un vieil hêtre défunt, héros de ce documentaire, fourmille d'une vie insoupçonnée. Un gros plan sur le rôle clé que joue le bois \"mort\" pour garantir la biodiversité et la vitalité de la forêt.",
+      "name": "Dracula : la véritable histoire",
+      "poster": "https://image.tmdb.org/t/p/w500/7twfmxzLWIERt27DbdtwMQ1MsBQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/shvPAi56WfezkA8oldtKm7pRyyE.jpg",
+      "description": "Qui était l’homme qui a inspiré le vampire de Bram Stoker ? Guidé par des chercheurs, un voyage captivant sur les traces de Vlad Tepes (\"l’empaleur\"), ce prince roumain du XVe siècle pris en tenaille entre Occident chrétien et Orient musulman, qui terrifia ses contemporains par les sévices cruels qu’il infligeait à ses ennemis.",
       "releaseInfo": "2026",
       "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1801884"
+          "url": "https://www.themoviedb.org/movie/1805027"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1801526",
+      "type": "movie",
+      "name": "Le luxe, un pouvoir français",
+      "poster": "https://image.tmdb.org/t/p/w500/rjRq3MQECnur892fk8lNmealTVB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ig9rHZV312y3W8pr3uP2U2mFtiQ.jpg",
+      "description": "Sur l'échiquier géopolitique mondial, un sac Dior, une robe Chanel ou un carré Hermès semblent à priori dérisoires face aux barils de pétrole ou aux contrats d'armement. Pourtant, la haute couture française a bâti le système d'influence le plus puissant et le plus viral de notre époque. Depuis 20 ans, les maisons de haute couture françaises sont devenues des empires mondiaux avec LVMH et Kering. En difficultés financières, ces groupes doivent gagner la bataille de l'image et du \"like\" en organisant des défilés hors norme. A l'ère du tout Instagram, une marque est capable de débourser un demi million d'euros pendant la Fashion Week pour avoir les plus grandes stars au premier rang de son défilé.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1801526"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1813555",
+      "type": "movie",
+      "name": "Urgent Care",
+      "poster": "https://image.tmdb.org/t/p/w500/AgbAweb5d817JENJ4YSVyFUQiK5.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1813555"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1754444",
+      "type": "movie",
+      "name": "Torus",
+      "poster": "https://image.tmdb.org/t/p/w500/a9LIVxjVMnJqtwdBbs9Kl1ZX9er.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1754444"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1665638",
+      "type": "movie",
+      "name": "Les Homards",
+      "poster": "https://image.tmdb.org/t/p/w500/4Aztj0zNbQOXyZn4KyaSG3nk58G.jpg",
+      "description": "Entouré de ses meilleurs amis pour enterrer sa vie de garçon dans la maison de vacances familiale, Sami croise une amie d’enfance qui l’accuse d’avoir d’abusé d’elle quelques années plus tôt. Tout au long du weekend, Sami navigue à travers sa conscience, parfois mal avisé, parfois bousculé par ses amis. Pour reconnaitre la vérité, il va devoir briser et abandonner sa carapace.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1665638"
         }
       ]
     },
@@ -1290,48 +1319,18 @@
       ]
     },
     {
-      "id": "tmdb:movie:1809843",
+      "id": "tmdb:movie:1801884",
       "type": "movie",
-      "name": "Galia",
-      "poster": "https://image.tmdb.org/t/p/w500/pXjNbvOhKTlSLWMmFmlBYxdPOyV.jpg",
-      "description": "",
+      "name": "Chroniques de l'arbre mort",
+      "poster": "https://image.tmdb.org/t/p/w500/rXWP4tiMbOnR4apQeoen4oUFivU.jpg",
+      "description": "Comment un vieil hêtre défunt, héros de ce documentaire, fourmille d'une vie insoupçonnée. Un gros plan sur le rôle clé que joue le bois \"mort\" pour garantir la biodiversité et la vitalité de la forêt.",
       "releaseInfo": "2026",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1809843"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1795723",
-      "type": "movie",
-      "name": "Diane Segard - Parades",
-      "poster": "https://image.tmdb.org/t/p/w500/qa3LiVguZjVdQf5BBYzmQL4iv4a.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zWIyOzJcUqVDkJbn7RUk8AgO8X2.jpg",
-      "description": "Après avoir conquis des millions d'internautes avec ses vidéos, Diane Segard monte sur scène avec \"Parades\", un show démesuré où l'humour se mêle à l'émotion, l'absurde au vrai, et la scène à la vie. Sur fond de musique, de chorégraphies, de personnages hauts en couleur et d'interventions aussi délirantes qu'inattendues, Diane explore les peurs et les parades inventées pour les apprivoiser. Ce spectacle est une comédie chorale portée par une seule artiste, une performance qui fait rire aux éclats, parfois grincer des dents, et qui touche droit au coeur. Captation les 17 et 18 avril 2026 au Dôme de Paris à Paris 15ème.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1795723"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1813555",
-      "type": "movie",
-      "name": "Urgent Care",
-      "poster": "https://image.tmdb.org/t/p/w500/AgbAweb5d817JENJ4YSVyFUQiK5.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1813555"
+          "url": "https://www.themoviedb.org/movie/1801884"
         }
       ]
     },
@@ -1352,33 +1351,18 @@
       ]
     },
     {
-      "id": "tmdb:movie:1794267",
+      "id": "tmdb:movie:1795723",
       "type": "movie",
-      "name": "The Whistling Game",
-      "poster": "https://image.tmdb.org/t/p/w500/56DCMhPl45B78y4Mo8GquugW3w9.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8QatTNaQlI2ZPki50pqJNwVfJyS.jpg",
-      "description": "",
+      "name": "Diane Segard - Parades",
+      "poster": "https://image.tmdb.org/t/p/w500/qa3LiVguZjVdQf5BBYzmQL4iv4a.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zWIyOzJcUqVDkJbn7RUk8AgO8X2.jpg",
+      "description": "Après avoir conquis des millions d'internautes avec ses vidéos, Diane Segard monte sur scène avec \"Parades\", un show démesuré où l'humour se mêle à l'émotion, l'absurde au vrai, et la scène à la vie. Sur fond de musique, de chorégraphies, de personnages hauts en couleur et d'interventions aussi délirantes qu'inattendues, Diane explore les peurs et les parades inventées pour les apprivoiser. Ce spectacle est une comédie chorale portée par une seule artiste, une performance qui fait rire aux éclats, parfois grincer des dents, et qui touche droit au coeur. Captation les 17 et 18 avril 2026 au Dôme de Paris à Paris 15ème.",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1794267"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1798741",
-      "type": "movie",
-      "name": "Hands, trees, heads, scars",
-      "poster": "https://image.tmdb.org/t/p/w500/AuECzDI197v5HepE6eACaohZK6I.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1798741"
+          "url": "https://www.themoviedb.org/movie/1795723"
         }
       ]
     },
@@ -1414,94 +1398,18 @@
       ]
     },
     {
-      "id": "tmdb:movie:1592134",
+      "id": "tmdb:movie:1806253",
       "type": "movie",
-      "name": "La Fille à la recherche de la cabane",
-      "poster": "https://image.tmdb.org/t/p/w500/zukJ3fLnfz4zilSdcRmTA0v7p4Q.jpg",
-      "description": "",
+      "name": "La foil histoire de la Route du Rhum",
+      "poster": "https://image.tmdb.org/t/p/w500/5QqYXl9ksVqYVpELn0T3YeZKgbu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iX3qza4Jk3UilanGk0LoS1tQNzG.jpg",
+      "description": "Depuis quelques années, une aile invisible soulève la mer. Le foil, une lame d'ingénierie, permet aux bateaux de ne plus flotter, mais de voler au-dessus des vagues. Et en quelques années, la Route du Rhum est devenue un laboratoire de l'avenir où la mer se dématérialise et où le marin devient pilote. L'édition 2026 sera le rendez-vous des bateaux volants : 70 % des bateaux inscrits au départ seront équipés de foils. Retour sur cette métamorphose spectaculaire du temps des marins poètes aux pilotes d'aujourd'hui, en suivant la trace de ceux qui ont fait basculer la légende.",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1592134"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1805615",
-      "type": "movie",
-      "name": "GTA, le jeu no limit",
-      "poster": "https://image.tmdb.org/t/p/w500/8afN9cOWn4chAxnlFso15FkBvRm.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5q0wDT7LlYpeujPch6VS3x7akRZ.jpg",
-      "description": "Alors que GTA 6, le jeu vidéo le plus attendu de l’histoire déferlera sur la planète en ce mois de novembre 2026, plongez au cœur de l’histoire d’un titan de la pop culture ! En trente ans, Grand Theft Auto, désormais connu sous l'acronyme GTA, est passé du statut de paria rejeté par la classe politique et les médias à celui d’œuvre iconique incontournable.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1805615"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1792372",
-      "type": "movie",
-      "name": "Glaube Sitte Heimat",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1792372"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1807243",
-      "type": "movie",
-      "name": "Chambord : les derniers trésors d'un géant de pierre",
-      "background": "https://image.tmdb.org/t/p/w1280/tylCXWiOtZORypEMwgc0JbJ0okv.jpg",
-      "description": "Le château de Chambord, chef-d'oeuvre architectural de François Ier, incarne la Renaissance française. Pourtant, derrière sa perfection géométrique apparente, ce monument de 440 pièces dissimule d'étranges anomalies. Aujourd'hui, historiens et scientifiques explorent ses espaces cachés pour percer les ultimes secrets de sa construction et découvrir si Léonard de Vinci a participé à sa conception.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1807243"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1796638",
-      "type": "movie",
-      "name": "Song Bird",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1796638"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1792045",
-      "type": "movie",
-      "name": "Falaises de Bonifacio : érosion inévitable ?",
-      "poster": "https://image.tmdb.org/t/p/w500/6qQIaqVEOFiCU7CA0LNVeUVyck3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/yoNxztVCSKU8HmQgaDi5LWVMMk0.jpg",
-      "description": "Perchée sur ses falaises calcaires à plus de 80 mètres au-dessus de la Méditerranée, Bonifacio fascine depuis le XIIe siècle. Derrière cette image de carte postale se cache une menace bien réelle. Soumises aux assauts incessants de la mer et fragilisées par les infiltrations d'eau de pluie, les falaises s'érodent progressivement. En 2022, le danger est monté d'un cran : plusieurs habitations ont été visées par des arrêtés préfectoraux en raison des risques d'effondrement. Sur place, scientifiques et géologues cherchent à comprendre l'évolution de ce phénomène et à anticiper les prochains éboulements. À travers leurs recherches, la cité, conçue à l'origine comme une forteresse imprenable, révèle son extrême fragilité. Jusqu'où l'érosion pourrait-elle mettre en péril l'avenir de Bonifacio ?",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1792045"
+          "url": "https://www.themoviedb.org/movie/1806253"
         }
       ]
     },
@@ -1523,32 +1431,19 @@
       ]
     },
     {
-      "id": "tmdb:movie:1796392",
+      "id": "tmdb:movie:1805615",
       "type": "movie",
-      "name": "Tisuće metara, stotine sati",
-      "poster": "https://image.tmdb.org/t/p/w500/ofaxzyLkBnRL9UNwriLFppjSnuR.jpg",
-      "description": "",
+      "name": "GTA, le jeu no limit",
+      "poster": "https://image.tmdb.org/t/p/w500/8afN9cOWn4chAxnlFso15FkBvRm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5q0wDT7LlYpeujPch6VS3x7akRZ.jpg",
+      "description": "Alors que GTA 6, le jeu vidéo le plus attendu de l’histoire déferlera sur la planète en ce mois de novembre 2026, plongez au cœur de l’histoire d’un titan de la pop culture ! En trente ans, Grand Theft Auto, désormais connu sous l'acronyme GTA, est passé du statut de paria rejeté par la classe politique et les médias à celui d’œuvre iconique incontournable.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1796392"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:movie:1776129",
-      "type": "movie",
-      "name": "Gloria",
-      "poster": "https://image.tmdb.org/t/p/w500/30rONXlNTT1K9u5NbKkFCOeEXvh.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1776129"
+          "url": "https://www.themoviedb.org/movie/1805615"
         }
       ]
     },
@@ -1564,6 +1459,85 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/movie/1807796"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1807243",
+      "type": "movie",
+      "name": "Chambord : les derniers trésors d'un géant de pierre",
+      "background": "https://image.tmdb.org/t/p/w1280/tylCXWiOtZORypEMwgc0JbJ0okv.jpg",
+      "description": "Le château de Chambord, chef-d'oeuvre architectural de François Ier, incarne la Renaissance française. Pourtant, derrière sa perfection géométrique apparente, ce monument de 440 pièces dissimule d'étranges anomalies. Aujourd'hui, historiens et scientifiques explorent ses espaces cachés pour percer les ultimes secrets de sa construction et découvrir si Léonard de Vinci a participé à sa conception.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1807243"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1792045",
+      "type": "movie",
+      "name": "Falaises de Bonifacio : érosion inévitable ?",
+      "poster": "https://image.tmdb.org/t/p/w500/6qQIaqVEOFiCU7CA0LNVeUVyck3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yoNxztVCSKU8HmQgaDi5LWVMMk0.jpg",
+      "description": "Perchée sur ses falaises calcaires à plus de 80 mètres au-dessus de la Méditerranée, Bonifacio fascine depuis le XIIe siècle. Derrière cette image de carte postale se cache une menace bien réelle. Soumises aux assauts incessants de la mer et fragilisées par les infiltrations d'eau de pluie, les falaises s'érodent progressivement. En 2022, le danger est monté d'un cran : plusieurs habitations ont été visées par des arrêtés préfectoraux en raison des risques d'effondrement. Sur place, scientifiques et géologues cherchent à comprendre l'évolution de ce phénomène et à anticiper les prochains éboulements. À travers leurs recherches, la cité, conçue à l'origine comme une forteresse imprenable, révèle son extrême fragilité. Jusqu'où l'érosion pourrait-elle mettre en péril l'avenir de Bonifacio ?",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1792045"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1807947",
+      "type": "movie",
+      "name": "Les grands buffets, bouillon : les coulisses des plus grands restaurants",
+      "poster": "https://image.tmdb.org/t/p/w500/kdsrLTy27gblKEmbS9ERh7I9Pug.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3fKZKjCMDQ99Aqc3Gu2iomZZPXv.jpg",
+      "description": "Plongeon dans les coulisses des Grands Buffets de Narbonne et des Bouillons, deux institutions de la restauration française. Coups de feu, coups de mou, coups de sang et coups de théâtre : la caméra suit minute par minute la vie de ces maisons. En cuisine comme en salle, chaque seconde compte.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1807947"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1794267",
+      "type": "movie",
+      "name": "The Whistling Game",
+      "poster": "https://image.tmdb.org/t/p/w500/56DCMhPl45B78y4Mo8GquugW3w9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8QatTNaQlI2ZPki50pqJNwVfJyS.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1794267"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1776129",
+      "type": "movie",
+      "name": "Gloria",
+      "poster": "https://image.tmdb.org/t/p/w500/30rONXlNTT1K9u5NbKkFCOeEXvh.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1776129"
         }
       ]
     },
@@ -1585,34 +1559,45 @@
       ]
     },
     {
-      "id": "tmdb:movie:1797387",
+      "id": "tmdb:movie:1798741",
       "type": "movie",
-      "name": "Les nouveaux influenceurs, quand le savoir devient viral",
-      "poster": "https://image.tmdb.org/t/p/w500/s8ggEApPKkJ8Z0iTAE8mQbTIOPt.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i42yGgNegwMKAgRyiBBUfMPXQY1.jpg",
-      "description": "Quel est le point commun entre une radiologue, un vulgarisateur scientifique, un permaculteur, une vétérinaire et un kinésithérapeute ? Ils sont tous devenus créateurs de contenus sur les réseaux sociaux. Ni artistes, ni chanteurs, ces professionnels deviennent des figures publiques malgré eux. Quand le savoir rencontre la viralité : enquête.",
+      "name": "Hands, trees, heads, scars",
+      "poster": "https://image.tmdb.org/t/p/w500/AuECzDI197v5HepE6eACaohZK6I.jpg",
+      "description": "",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1797387"
+          "url": "https://www.themoviedb.org/movie/1798741"
         }
       ]
     },
     {
-      "id": "tmdb:movie:1805693",
+      "id": "tmdb:movie:1796638",
       "type": "movie",
-      "name": "Hollywood face à l'apocalypse",
-      "poster": "https://image.tmdb.org/t/p/w500/85174paNj45V7mkTZRqxlKGIw05.jpg",
-      "description": "Depuis les années 1950, la science-fiction reflète la paranoïa de la guerre froide et la peur d'une attaque. Des films affrontent le spectre de l'anéantissement nucléaire, dénonçant la bombe tout en habituant le public à cette menace. Dans les années 1980, la peur évolue avec l'idée d'une guerre...",
+      "name": "Song Bird",
+      "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1805693"
+          "url": "https://www.themoviedb.org/movie/1796638"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797367",
+      "type": "movie",
+      "name": "Murmurs in the Distance",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797367"
         }
       ]
     },
@@ -1634,18 +1619,32 @@
       ]
     },
     {
-      "id": "tmdb:movie:1807947",
+      "id": "tmdb:movie:1797387",
       "type": "movie",
-      "name": "Les grands buffets, bouillon : les coulisses des plus grands restaurants",
-      "poster": "https://image.tmdb.org/t/p/w500/kdsrLTy27gblKEmbS9ERh7I9Pug.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3fKZKjCMDQ99Aqc3Gu2iomZZPXv.jpg",
-      "description": "Plongeon dans les coulisses des Grands Buffets de Narbonne et des Bouillons, deux institutions de la restauration française. Coups de feu, coups de mou, coups de sang et coups de théâtre : la caméra suit minute par minute la vie de ces maisons. En cuisine comme en salle, chaque seconde compte.",
+      "name": "Les nouveaux influenceurs, quand le savoir devient viral",
+      "poster": "https://image.tmdb.org/t/p/w500/s8ggEApPKkJ8Z0iTAE8mQbTIOPt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i42yGgNegwMKAgRyiBBUfMPXQY1.jpg",
+      "description": "Quel est le point commun entre une radiologue, un vulgarisateur scientifique, un permaculteur, une vétérinaire et un kinésithérapeute ? Ils sont tous devenus créateurs de contenus sur les réseaux sociaux. Ni artistes, ni chanteurs, ces professionnels deviennent des figures publiques malgré eux. Quand le savoir rencontre la viralité : enquête.",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1807947"
+          "url": "https://www.themoviedb.org/movie/1797387"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1797373",
+      "type": "movie",
+      "name": "Lassiguili",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1797373"
         }
       ]
     }

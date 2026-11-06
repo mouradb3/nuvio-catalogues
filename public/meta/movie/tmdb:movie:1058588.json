@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1058588",
+    "type": "movie",
+    "name": "The Invisible Guest",
+    "poster": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1058588"
+      }
+    ]
+  }
+}

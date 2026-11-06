@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1665638",
+    "type": "movie",
+    "name": "Les Homards",
+    "poster": "https://image.tmdb.org/t/p/w500/4Aztj0zNbQOXyZn4KyaSG3nk58G.jpg",
+    "description": "Entouré de ses meilleurs amis pour enterrer sa vie de garçon dans la maison de vacances familiale, Sami croise une amie d’enfance qui l’accuse d’avoir d’abusé d’elle quelques années plus tôt. Tout au long du weekend, Sami navigue à travers sa conscience, parfois mal avisé, parfois bousculé par ses amis. Pour reconnaitre la vérité, il va devoir briser et abandonner sa carapace.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1665638"
+      }
+    ]
+  }
+}

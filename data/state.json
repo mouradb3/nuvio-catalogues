@@ -13,7 +13,7 @@
       "tmdbId": 1003494,
       "mediaType": "movie",
       "releaseDate": "2026-11-04",
-      "popularity": 3.2903,
+      "popularity": 3.5202,
       "firstSeen": "2026-11-05T09:40:50.337Z",
       "offers": [
         {
@@ -23,8 +23,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:42.802Z",
-      "lastAvailableAt": "2026-11-05T19:57:42.802Z"
+      "lastChecked": "2026-11-06T01:34:28.754Z",
+      "lastAvailableAt": "2026-11-06T01:34:28.754Z"
     },
     "movie:1807947": {
       "id": "tmdb:movie:1807947",
@@ -37,7 +37,7 @@
       "tmdbId": 1807947,
       "mediaType": "movie",
       "releaseDate": "2026-11-03",
-      "popularity": 0.3433,
+      "popularity": 0.414,
       "firstSeen": "2026-11-05T09:40:50.741Z",
       "offers": [
         {
@@ -47,8 +47,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:43.224Z",
-      "lastAvailableAt": "2026-11-05T19:57:43.224Z"
+      "lastChecked": "2026-11-06T01:34:29.240Z",
+      "lastAvailableAt": "2026-11-06T01:34:29.240Z"
     },
     "movie:1804941": {
       "id": "tmdb:movie:1804941",
@@ -62,7 +62,7 @@
       "tmdbId": 1804941,
       "mediaType": "movie",
       "releaseDate": "2026-11-03",
-      "popularity": 5.0458,
+      "popularity": 4.5755,
       "firstSeen": "2026-11-05T09:40:51.144Z",
       "offers": [
         {
@@ -90,8 +90,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:43.645Z",
-      "lastAvailableAt": "2026-11-05T19:57:43.645Z"
+      "lastChecked": "2026-11-06T01:34:29.718Z",
+      "lastAvailableAt": "2026-11-06T01:34:29.718Z"
     },
     "movie:1807243": {
       "id": "tmdb:movie:1807243",
@@ -104,7 +104,7 @@
       "tmdbId": 1807243,
       "mediaType": "movie",
       "releaseDate": "2026-11-02",
-      "popularity": 0.4595,
+      "popularity": 0.4533,
       "firstSeen": "2026-11-05T09:40:51.554Z",
       "offers": [
         {
@@ -114,8 +114,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:44.063Z",
-      "lastAvailableAt": "2026-11-05T19:57:44.063Z"
+      "lastChecked": "2026-11-06T01:34:30.213Z",
+      "lastAvailableAt": "2026-11-06T01:34:30.213Z"
     },
     "movie:1806253": {
       "id": "tmdb:movie:1806253",
@@ -128,7 +128,7 @@
       "tmdbId": 1806253,
       "mediaType": "movie",
       "releaseDate": "2026-11-01",
-      "popularity": 0.8631,
+      "popularity": 0.5591,
       "firstSeen": "2026-11-05T09:40:51.958Z",
       "offers": [
         {
@@ -138,8 +138,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:44.480Z",
-      "lastAvailableAt": "2026-11-05T19:57:44.480Z"
+      "lastChecked": "2026-11-06T01:34:30.693Z",
+      "lastAvailableAt": "2026-11-06T01:34:30.693Z"
     },
     "movie:1806212": {
       "id": "tmdb:movie:1806212",
@@ -152,7 +152,7 @@
       "tmdbId": 1806212,
       "mediaType": "movie",
       "releaseDate": "2026-11-01",
-      "popularity": 2.6994,
+      "popularity": 2.5752,
       "firstSeen": "2026-11-05T09:40:52.363Z",
       "offers": [
         {
@@ -168,8 +168,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:44.900Z",
-      "lastAvailableAt": "2026-11-05T19:57:44.900Z"
+      "lastChecked": "2026-11-06T01:34:31.171Z",
+      "lastAvailableAt": "2026-11-06T01:34:31.171Z"
     },
     "movie:1813355": {
       "id": "tmdb:movie:1813355",
@@ -183,7 +183,7 @@
       "tmdbId": 1813355,
       "mediaType": "movie",
       "releaseDate": "2026-10-31",
-      "popularity": 231.1489,
+      "popularity": 240.9913,
       "firstSeen": "2026-11-05T09:40:52.789Z",
       "offers": [
         {
@@ -211,8 +211,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:45.331Z",
-      "lastAvailableAt": "2026-11-05T19:57:45.331Z"
+      "lastChecked": "2026-11-06T01:34:31.646Z",
+      "lastAvailableAt": "2026-11-06T01:34:31.646Z"
     },
     "movie:1760311": {
       "id": "tmdb:movie:1760311",
@@ -226,7 +226,7 @@
       "tmdbId": 1760311,
       "mediaType": "movie",
       "releaseDate": "2026-10-31",
-      "popularity": 17.555,
+      "popularity": 20.2721,
       "firstSeen": "2026-11-05T09:40:53.192Z",
       "offers": [
         {
@@ -254,8 +254,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:45.782Z",
-      "lastAvailableAt": "2026-11-05T19:57:45.782Z"
+      "lastChecked": "2026-11-06T01:34:32.124Z",
+      "lastAvailableAt": "2026-11-06T01:34:32.124Z"
     },
     "movie:1802464": {
       "id": "tmdb:movie:1802464",
@@ -268,7 +268,7 @@
       "tmdbId": 1802464,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 14.9318,
+      "popularity": 15.5776,
       "firstSeen": "2026-11-05T09:40:53.598Z",
       "offers": [
         {
@@ -296,8 +296,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:46.658Z",
-      "lastAvailableAt": "2026-11-05T19:57:46.658Z"
+      "lastChecked": "2026-11-06T01:34:33.079Z",
+      "lastAvailableAt": "2026-11-06T01:34:33.079Z"
     },
     "movie:1796392": {
       "id": "tmdb:movie:1796392",
@@ -310,7 +310,7 @@
       "tmdbId": 1796392,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 0.4164,
+      "popularity": 0.2983,
       "firstSeen": "2026-11-05T09:40:54.006Z",
       "offers": [
         {
@@ -326,8 +326,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:47.106Z",
-      "lastAvailableAt": "2026-11-05T19:57:47.106Z"
+      "lastChecked": "2026-11-06T01:34:33.554Z",
+      "lastAvailableAt": "2026-11-06T01:34:33.554Z"
     },
     "movie:1794267": {
       "id": "tmdb:movie:1794267",
@@ -340,7 +340,7 @@
       "tmdbId": 1794267,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 0.6485,
+      "popularity": 0.4072,
       "firstSeen": "2026-11-05T09:40:54.415Z",
       "offers": [
         {
@@ -356,8 +356,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:47.539Z",
-      "lastAvailableAt": "2026-11-05T19:57:47.539Z"
+      "lastChecked": "2026-11-06T01:34:34.037Z",
+      "lastAvailableAt": "2026-11-06T01:34:34.037Z"
     },
     "movie:1789549": {
       "id": "tmdb:movie:1789549",
@@ -371,7 +371,7 @@
       "tmdbId": 1789549,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 42.3726,
+      "popularity": 39.5308,
       "firstSeen": "2026-11-05T09:40:54.818Z",
       "offers": [
         {
@@ -399,8 +399,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:47.970Z",
-      "lastAvailableAt": "2026-11-05T19:57:47.970Z"
+      "lastChecked": "2026-11-06T01:34:34.512Z",
+      "lastAvailableAt": "2026-11-06T01:34:34.512Z"
     },
     "movie:1756307": {
       "id": "tmdb:movie:1756307",
@@ -414,7 +414,7 @@
       "tmdbId": 1756307,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 5.8774,
+      "popularity": 5.2518,
       "firstSeen": "2026-11-05T09:40:55.247Z",
       "offers": [
         {
@@ -442,8 +442,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:48.402Z",
-      "lastAvailableAt": "2026-11-05T19:57:48.402Z"
+      "lastChecked": "2026-11-06T01:34:34.988Z",
+      "lastAvailableAt": "2026-11-06T01:34:34.988Z"
     },
     "movie:1571955": {
       "id": "tmdb:movie:1571955",
@@ -457,7 +457,7 @@
       "tmdbId": 1571955,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 158.3856,
+      "popularity": 153.9563,
       "firstSeen": "2026-11-05T09:40:55.653Z",
       "offers": [
         {
@@ -485,8 +485,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:48.820Z",
-      "lastAvailableAt": "2026-11-05T19:57:48.820Z"
+      "lastChecked": "2026-11-06T01:34:35.464Z",
+      "lastAvailableAt": "2026-11-06T01:34:35.464Z"
     },
     "movie:1811741": {
       "id": "tmdb:movie:1811741",
@@ -500,7 +500,7 @@
       "tmdbId": 1811741,
       "mediaType": "movie",
       "releaseDate": "2026-10-29",
-      "popularity": 2.3105,
+      "popularity": 2.3497,
       "firstSeen": "2026-11-05T09:40:56.059Z",
       "offers": [
         {
@@ -528,8 +528,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:49.249Z",
-      "lastAvailableAt": "2026-11-05T19:57:49.249Z"
+      "lastChecked": "2026-11-06T01:34:35.977Z",
+      "lastAvailableAt": "2026-11-06T01:34:35.977Z"
     },
     "movie:1792914": {
       "id": "tmdb:movie:1792914",
@@ -542,7 +542,7 @@
       "tmdbId": 1792914,
       "mediaType": "movie",
       "releaseDate": "2026-10-29",
-      "popularity": 24.1809,
+      "popularity": 20.3024,
       "firstSeen": "2026-11-05T09:40:56.469Z",
       "offers": [
         {
@@ -564,8 +564,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:49.669Z",
-      "lastAvailableAt": "2026-11-05T19:57:49.669Z"
+      "lastChecked": "2026-11-06T01:34:36.452Z",
+      "lastAvailableAt": "2026-11-06T01:34:36.452Z"
     },
     "movie:1541477": {
       "id": "tmdb:movie:1541477",
@@ -575,11 +575,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
       "description": "Simone, un homme organisé et profondément attaché aux valeurs familiales, partage sa vie avec Lucia, une femme indépendante qui a toujours rejeté l'idée de devenir mère. Malgré leurs différences, leur couple repose sur un amour solide et de perpétuelles négociations. Mais lorsqu'ils décident d'adopter un enfant, leurs convictions et leurs désirs contradictoires refont surface, mettant leur relation à l'épreuve.",
       "releaseInfo": "2026",
-      "imdbRating": "5.9",
+      "imdbRating": "6",
       "tmdbId": 1541477,
       "mediaType": "movie",
       "releaseDate": "2026-10-29",
-      "popularity": 33.9647,
+      "popularity": 28.4333,
       "firstSeen": "2026-11-05T09:40:56.874Z",
       "offers": [
         {
@@ -607,8 +607,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:50.099Z",
-      "lastAvailableAt": "2026-11-05T19:57:50.099Z"
+      "lastChecked": "2026-11-06T01:34:36.931Z",
+      "lastAvailableAt": "2026-11-06T01:34:36.931Z"
     },
     "movie:1807796": {
       "id": "tmdb:movie:1807796",
@@ -621,7 +621,7 @@
       "tmdbId": 1807796,
       "mediaType": "movie",
       "releaseDate": "2026-10-28",
-      "popularity": 0.3848,
+      "popularity": 0.4541,
       "firstSeen": "2026-11-05T09:40:57.282Z",
       "offers": [
         {
@@ -679,8 +679,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:50.959Z",
-      "lastAvailableAt": "2026-11-05T19:57:50.959Z"
+      "lastChecked": "2026-11-06T01:34:37.889Z",
+      "lastAvailableAt": "2026-11-06T01:34:37.889Z"
     },
     "movie:1792396": {
       "id": "tmdb:movie:1792396",
@@ -693,7 +693,7 @@
       "tmdbId": 1792396,
       "mediaType": "movie",
       "releaseDate": "2026-10-28",
-      "popularity": 0.1927,
+      "popularity": 0.1659,
       "firstSeen": "2026-11-05T09:40:57.688Z",
       "offers": [
         {
@@ -721,8 +721,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:51.398Z",
-      "lastAvailableAt": "2026-11-05T19:57:51.398Z"
+      "lastChecked": "2026-11-06T01:34:38.367Z",
+      "lastAvailableAt": "2026-11-06T01:34:38.367Z"
     },
     "movie:1809199": {
       "id": "tmdb:movie:1809199",
@@ -736,7 +736,7 @@
       "tmdbId": 1809199,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 1.5609,
+      "popularity": 1.3673,
       "firstSeen": "2026-11-05T09:40:58.098Z",
       "offers": [
         {
@@ -764,8 +764,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:51.817Z",
-      "lastAvailableAt": "2026-11-05T19:57:51.817Z"
+      "lastChecked": "2026-11-06T01:34:38.846Z",
+      "lastAvailableAt": "2026-11-06T01:34:38.846Z"
     },
     "movie:1801526": {
       "id": "tmdb:movie:1801526",
@@ -779,7 +779,7 @@
       "tmdbId": 1801526,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 1.1915,
+      "popularity": 0.9736,
       "firstSeen": "2026-11-05T09:40:58.522Z",
       "offers": [
         {
@@ -795,8 +795,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:52.242Z",
-      "lastAvailableAt": "2026-11-05T19:57:52.242Z"
+      "lastChecked": "2026-11-06T01:34:39.323Z",
+      "lastAvailableAt": "2026-11-06T01:34:39.323Z"
     },
     "movie:1797392": {
       "id": "tmdb:movie:1797392",
@@ -809,7 +809,7 @@
       "tmdbId": 1797392,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 2.243,
+      "popularity": 2.4774,
       "firstSeen": "2026-11-05T09:40:58.927Z",
       "offers": [
         {
@@ -837,8 +837,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:52.664Z",
-      "lastAvailableAt": "2026-11-05T19:57:52.664Z"
+      "lastChecked": "2026-11-06T01:34:39.848Z",
+      "lastAvailableAt": "2026-11-06T01:34:39.848Z"
     },
     "movie:1796638": {
       "id": "tmdb:movie:1796638",
@@ -851,7 +851,7 @@
       "tmdbId": 1796638,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 0.4534,
+      "popularity": 0.3585,
       "firstSeen": "2026-11-05T09:40:59.338Z",
       "offers": [
         {
@@ -867,8 +867,8 @@
           "monetization": "rent"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:53.086Z",
-      "lastAvailableAt": "2026-11-05T19:57:53.086Z"
+      "lastChecked": "2026-11-06T01:34:40.333Z",
+      "lastAvailableAt": "2026-11-06T01:34:40.333Z"
     },
     "movie:1792372": {
       "id": "tmdb:movie:1792372",
@@ -881,7 +881,7 @@
       "tmdbId": 1792372,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 0.4748,
+      "popularity": 0.2902,
       "firstSeen": "2026-11-05T09:40:59.740Z",
       "offers": [
         {
@@ -909,8 +909,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:53.503Z",
-      "lastAvailableAt": "2026-11-05T19:57:53.503Z"
+      "lastChecked": "2026-11-06T01:34:40.868Z",
+      "lastAvailableAt": "2026-11-06T01:34:40.868Z"
     },
     "movie:1596275": {
       "id": "tmdb:movie:1596275",
@@ -924,7 +924,7 @@
       "tmdbId": 1596275,
       "mediaType": "movie",
       "releaseDate": "2026-10-28",
-      "popularity": 231.4612,
+      "popularity": 195.8774,
       "firstSeen": "2026-11-05T09:41:00.150Z",
       "offers": [
         {
@@ -952,8 +952,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:53.923Z",
-      "lastAvailableAt": "2026-11-05T19:57:53.923Z"
+      "lastChecked": "2026-11-06T01:34:41.346Z",
+      "lastAvailableAt": "2026-11-06T01:34:41.346Z"
     },
     "movie:1800670": {
       "id": "tmdb:movie:1800670",
@@ -966,7 +966,7 @@
       "tmdbId": 1800670,
       "mediaType": "movie",
       "releaseDate": "2026-10-26",
-      "popularity": 0.6268,
+      "popularity": 0.6109,
       "firstSeen": "2026-11-05T09:41:00.561Z",
       "offers": [
         {
@@ -976,8 +976,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:54.782Z",
-      "lastAvailableAt": "2026-11-05T19:57:54.782Z"
+      "lastChecked": "2026-11-06T01:34:42.341Z",
+      "lastAvailableAt": "2026-11-06T01:34:42.341Z"
     },
     "movie:1789826": {
       "id": "tmdb:movie:1789826",
@@ -991,7 +991,7 @@
       "tmdbId": 1789826,
       "mediaType": "movie",
       "releaseDate": "2026-10-29",
-      "popularity": 1.8436,
+      "popularity": 1.6239,
       "firstSeen": "2026-11-05T09:41:00.985Z",
       "offers": [
         {
@@ -1019,8 +1019,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:55.203Z",
-      "lastAvailableAt": "2026-11-05T19:57:55.203Z"
+      "lastChecked": "2026-11-06T01:34:42.816Z",
+      "lastAvailableAt": "2026-11-06T01:34:42.816Z"
     },
     "movie:1628116": {
       "id": "tmdb:movie:1628116",
@@ -1034,7 +1034,7 @@
       "tmdbId": 1628116,
       "mediaType": "movie",
       "releaseDate": "2026-03-27",
-      "popularity": 2.2629,
+      "popularity": 2.4325,
       "firstSeen": "2026-11-05T09:41:01.389Z",
       "offers": [
         {
@@ -1062,8 +1062,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:55.633Z",
-      "lastAvailableAt": "2026-11-05T19:57:55.633Z"
+      "lastChecked": "2026-11-06T01:34:43.334Z",
+      "lastAvailableAt": "2026-11-06T01:34:43.334Z"
     },
     "movie:1809843": {
       "id": "tmdb:movie:1809843",
@@ -1076,7 +1076,7 @@
       "tmdbId": 1809843,
       "mediaType": "movie",
       "releaseDate": "2026-10-24",
-      "popularity": 0.7576,
+      "popularity": 1.0679,
       "firstSeen": "2026-11-05T09:41:01.794Z",
       "offers": [
         {
@@ -1158,8 +1158,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:56.063Z",
-      "lastAvailableAt": "2026-11-05T19:57:56.063Z"
+      "lastChecked": "2026-11-06T01:34:43.811Z",
+      "lastAvailableAt": "2026-11-06T01:34:43.811Z"
     },
     "movie:1805036": {
       "id": "tmdb:movie:1805036",
@@ -1173,7 +1173,7 @@
       "tmdbId": 1805036,
       "mediaType": "movie",
       "releaseDate": "2026-10-24",
-      "popularity": 1.2365,
+      "popularity": 1.1021,
       "firstSeen": "2026-11-05T09:41:02.200Z",
       "offers": [
         {
@@ -1183,8 +1183,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:56.480Z",
-      "lastAvailableAt": "2026-11-05T19:57:56.480Z"
+      "lastChecked": "2026-11-06T01:34:44.330Z",
+      "lastAvailableAt": "2026-11-06T01:34:44.330Z"
     },
     "movie:1805027": {
       "id": "tmdb:movie:1805027",
@@ -1198,7 +1198,7 @@
       "tmdbId": 1805027,
       "mediaType": "movie",
       "releaseDate": "2026-10-24",
-      "popularity": 1.2498,
+      "popularity": 1.0139,
       "firstSeen": "2026-11-05T09:41:02.605Z",
       "offers": [
         {
@@ -1208,8 +1208,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:56.898Z",
-      "lastAvailableAt": "2026-11-05T19:57:56.898Z"
+      "lastChecked": "2026-11-06T01:34:44.810Z",
+      "lastAvailableAt": "2026-11-06T01:34:44.810Z"
     },
     "movie:1805693": {
       "id": "tmdb:movie:1805693",
@@ -1223,7 +1223,7 @@
       "tmdbId": 1805693,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 0.3511,
+      "popularity": 0.2859,
       "firstSeen": "2026-11-05T09:41:03.014Z",
       "offers": [
         {
@@ -1233,8 +1233,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:57.335Z",
-      "lastAvailableAt": "2026-11-05T19:57:57.335Z"
+      "lastChecked": "2026-11-06T01:34:45.289Z",
+      "lastAvailableAt": "2026-11-06T01:34:45.289Z"
     },
     "movie:1805615": {
       "id": "tmdb:movie:1805615",
@@ -1248,7 +1248,7 @@
       "tmdbId": 1805615,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 0.4841,
+      "popularity": 0.4565,
       "firstSeen": "2026-11-05T09:41:03.423Z",
       "offers": [
         {
@@ -1264,8 +1264,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:57.761Z",
-      "lastAvailableAt": "2026-11-05T19:57:57.761Z"
+      "lastChecked": "2026-11-06T01:34:45.771Z",
+      "lastAvailableAt": "2026-11-06T01:34:45.771Z"
     },
     "movie:1780005": {
       "id": "tmdb:movie:1780005",
@@ -1279,7 +1279,7 @@
       "tmdbId": 1780005,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 108.7977,
+      "popularity": 103.9806,
       "firstSeen": "2026-11-05T09:41:03.826Z",
       "offers": [
         {
@@ -1307,8 +1307,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:58.207Z",
-      "lastAvailableAt": "2026-11-05T19:57:58.207Z"
+      "lastChecked": "2026-11-06T01:34:46.251Z",
+      "lastAvailableAt": "2026-11-06T01:34:46.251Z"
     },
     "movie:1592134": {
       "id": "tmdb:movie:1592134",
@@ -1321,7 +1321,7 @@
       "tmdbId": 1592134,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 0.6081,
+      "popularity": 0.3091,
       "firstSeen": "2026-11-05T09:41:04.232Z",
       "offers": [
         {
@@ -1337,8 +1337,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:58.659Z",
-      "lastAvailableAt": "2026-11-05T19:57:58.659Z"
+      "lastChecked": "2026-11-06T01:34:46.785Z",
+      "lastAvailableAt": "2026-11-06T01:34:46.785Z"
     },
     "movie:1537659": {
       "id": "tmdb:movie:1537659",
@@ -1352,7 +1352,7 @@
       "tmdbId": 1537659,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 1.4724,
+      "popularity": 1.4656,
       "firstSeen": "2026-11-05T09:41:04.640Z",
       "offers": [
         {
@@ -1368,8 +1368,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:59.080Z",
-      "lastAvailableAt": "2026-11-05T19:57:59.081Z"
+      "lastChecked": "2026-11-06T01:34:47.264Z",
+      "lastAvailableAt": "2026-11-06T01:34:47.264Z"
     },
     "movie:1453407": {
       "id": "tmdb:movie:1453407",
@@ -1383,7 +1383,7 @@
       "tmdbId": 1453407,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 91.8659,
+      "popularity": 83.7954,
       "firstSeen": "2026-11-05T09:41:05.045Z",
       "offers": [
         {
@@ -1411,8 +1411,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:59.500Z",
-      "lastAvailableAt": "2026-11-05T19:57:59.500Z"
+      "lastChecked": "2026-11-06T01:34:47.740Z",
+      "lastAvailableAt": "2026-11-06T01:34:47.740Z"
     },
     "movie:1797393": {
       "id": "tmdb:movie:1797393",
@@ -1426,7 +1426,7 @@
       "tmdbId": 1797393,
       "mediaType": "movie",
       "releaseDate": "2026-10-22",
-      "popularity": 0.3129,
+      "popularity": 0.2428,
       "firstSeen": "2026-11-05T09:41:05.456Z",
       "offers": [
         {
@@ -1436,8 +1436,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:59.928Z",
-      "lastAvailableAt": "2026-11-05T19:57:59.928Z"
+      "lastChecked": "2026-11-06T01:34:48.259Z",
+      "lastAvailableAt": "2026-11-06T01:34:48.259Z"
     },
     "movie:1797387": {
       "id": "tmdb:movie:1797387",
@@ -1450,7 +1450,7 @@
       "tmdbId": 1797387,
       "mediaType": "movie",
       "releaseDate": "2026-10-22",
-      "popularity": 0.3605,
+      "popularity": 0.3319,
       "firstSeen": "2026-11-05T09:41:05.867Z",
       "offers": [
         {
@@ -1460,8 +1460,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:00.359Z",
-      "lastAvailableAt": "2026-11-05T19:58:00.359Z"
+      "lastChecked": "2026-11-06T01:34:48.736Z",
+      "lastAvailableAt": "2026-11-06T01:34:48.736Z"
     },
     "movie:1729010": {
       "id": "tmdb:movie:1729010",
@@ -1474,7 +1474,7 @@
       "tmdbId": 1729010,
       "mediaType": "movie",
       "releaseDate": "2026-09-14",
-      "popularity": 2.317,
+      "popularity": 2.1142,
       "firstSeen": "2026-11-05T09:41:06.272Z",
       "offers": [
         {
@@ -1514,8 +1514,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:00.784Z",
-      "lastAvailableAt": "2026-11-05T19:58:00.784Z"
+      "lastChecked": "2026-11-06T01:34:49.213Z",
+      "lastAvailableAt": "2026-11-06T01:34:49.214Z"
     },
     "movie:1727734": {
       "id": "tmdb:movie:1727734",
@@ -1529,7 +1529,7 @@
       "tmdbId": 1727734,
       "mediaType": "movie",
       "releaseDate": "2026-10-28",
-      "popularity": 83.769,
+      "popularity": 69.7106,
       "firstSeen": "2026-11-05T09:41:06.676Z",
       "offers": [
         {
@@ -1557,8 +1557,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:01.201Z",
-      "lastAvailableAt": "2026-11-05T19:58:01.201Z"
+      "lastChecked": "2026-11-06T01:34:49.690Z",
+      "lastAvailableAt": "2026-11-06T01:34:49.690Z"
     },
     "movie:1802058": {
       "id": "tmdb:movie:1802058",
@@ -1572,7 +1572,7 @@
       "tmdbId": 1802058,
       "mediaType": "movie",
       "releaseDate": "2026-10-21",
-      "popularity": 1.3821,
+      "popularity": 1.0494,
       "firstSeen": "2026-11-05T09:41:07.084Z",
       "offers": [
         {
@@ -1588,8 +1588,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:01.623Z",
-      "lastAvailableAt": "2026-11-05T19:58:01.623Z"
+      "lastChecked": "2026-11-06T01:34:50.164Z",
+      "lastAvailableAt": "2026-11-06T01:34:50.164Z"
     },
     "movie:1480856": {
       "id": "tmdb:movie:1480856",
@@ -1603,7 +1603,7 @@
       "tmdbId": 1480856,
       "mediaType": "movie",
       "releaseDate": "2026-10-21",
-      "popularity": 5.4553,
+      "popularity": 4.9432,
       "firstSeen": "2026-11-05T09:41:07.493Z",
       "offers": [
         {
@@ -1757,8 +1757,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:02.058Z",
-      "lastAvailableAt": "2026-11-05T19:58:02.058Z"
+      "lastChecked": "2026-11-06T01:34:50.639Z",
+      "lastAvailableAt": "2026-11-06T01:34:50.639Z"
     },
     "movie:1813555": {
       "id": "tmdb:movie:1813555",
@@ -1771,7 +1771,7 @@
       "tmdbId": 1813555,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 0.6838,
+      "popularity": 0.8956,
       "firstSeen": "2026-11-05T09:41:07.912Z",
       "offers": [
         {
@@ -1823,8 +1823,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:02.490Z",
-      "lastAvailableAt": "2026-11-05T19:58:02.490Z"
+      "lastChecked": "2026-11-06T01:34:51.114Z",
+      "lastAvailableAt": "2026-11-06T01:34:51.114Z"
     },
     "movie:1802674": {
       "id": "tmdb:movie:1802674",
@@ -1838,7 +1838,7 @@
       "tmdbId": 1802674,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 21.4535,
+      "popularity": 20.1501,
       "firstSeen": "2026-11-05T09:41:08.319Z",
       "offers": [
         {
@@ -1866,8 +1866,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:02.921Z",
-      "lastAvailableAt": "2026-11-05T19:58:02.921Z"
+      "lastChecked": "2026-11-06T01:34:51.588Z",
+      "lastAvailableAt": "2026-11-06T01:34:51.588Z"
     },
     "movie:1795934": {
       "id": "tmdb:movie:1795934",
@@ -1881,7 +1881,7 @@
       "tmdbId": 1795934,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 1.3504,
+      "popularity": 1.2225,
       "firstSeen": "2026-11-05T09:41:08.726Z",
       "offers": [
         {
@@ -1909,8 +1909,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:03.368Z",
-      "lastAvailableAt": "2026-11-05T19:58:03.368Z"
+      "lastChecked": "2026-11-06T01:34:52.075Z",
+      "lastAvailableAt": "2026-11-06T01:34:52.075Z"
     },
     "movie:1795723": {
       "id": "tmdb:movie:1795723",
@@ -1923,7 +1923,7 @@
       "tmdbId": 1795723,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 0.7206,
+      "popularity": 0.6153,
       "firstSeen": "2026-11-05T09:41:09.132Z",
       "offers": [
         {
@@ -1933,8 +1933,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:03.790Z",
-      "lastAvailableAt": "2026-11-05T19:58:03.790Z"
+      "lastChecked": "2026-11-06T01:34:52.552Z",
+      "lastAvailableAt": "2026-11-06T01:34:52.552Z"
     },
     "movie:1754444": {
       "id": "tmdb:movie:1754444",
@@ -1947,7 +1947,7 @@
       "tmdbId": 1754444,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 1.1297,
+      "popularity": 0.8863,
       "firstSeen": "2026-11-05T09:41:09.541Z",
       "offers": [
         {
@@ -1963,8 +1963,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:04.217Z",
-      "lastAvailableAt": "2026-11-05T19:58:04.217Z"
+      "lastChecked": "2026-11-06T01:34:53.032Z",
+      "lastAvailableAt": "2026-11-06T01:34:53.032Z"
     },
     "movie:1801884": {
       "id": "tmdb:movie:1801884",
@@ -1978,7 +1978,7 @@
       "tmdbId": 1801884,
       "mediaType": "movie",
       "releaseDate": "2026-10-19",
-      "popularity": 0.8541,
+      "popularity": 0.7908,
       "firstSeen": "2026-11-05T09:41:09.973Z",
       "offers": [
         {
@@ -1988,8 +1988,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:04.652Z",
-      "lastAvailableAt": "2026-11-05T19:58:04.652Z"
+      "lastChecked": "2026-11-06T01:34:53.545Z",
+      "lastAvailableAt": "2026-11-06T01:34:53.545Z"
     },
     "movie:1771323": {
       "id": "tmdb:movie:1771323",
@@ -2003,7 +2003,7 @@
       "tmdbId": 1771323,
       "mediaType": "movie",
       "releaseDate": "2026-10-17",
-      "popularity": 2.1247,
+      "popularity": 2.0782,
       "firstSeen": "2026-11-05T09:41:10.378Z",
       "offers": [
         {
@@ -2019,8 +2019,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:05.078Z",
-      "lastAvailableAt": "2026-11-05T19:58:05.078Z"
+      "lastChecked": "2026-11-06T01:34:54.030Z",
+      "lastAvailableAt": "2026-11-06T01:34:54.030Z"
     },
     "movie:435987": {
       "id": "tmdb:movie:435987",
@@ -2033,7 +2033,7 @@
       "tmdbId": 435987,
       "mediaType": "movie",
       "releaseDate": "1981-03-12",
-      "popularity": 1.6386,
+      "popularity": 1.4611,
       "firstSeen": "2026-11-05T09:41:10.785Z",
       "offers": [
         {
@@ -2061,8 +2061,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:05.499Z",
-      "lastAvailableAt": "2026-11-05T19:58:05.499Z"
+      "lastChecked": "2026-11-06T01:34:54.507Z",
+      "lastAvailableAt": "2026-11-06T01:34:54.507Z"
     },
     "movie:1798741": {
       "id": "tmdb:movie:1798741",
@@ -2075,7 +2075,7 @@
       "tmdbId": 1798741,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 0.6478,
+      "popularity": 0.3704,
       "firstSeen": "2026-11-05T09:41:11.190Z",
       "offers": [
         {
@@ -2091,8 +2091,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:06.381Z",
-      "lastAvailableAt": "2026-11-05T19:58:06.381Z"
+      "lastChecked": "2026-11-06T01:34:55.500Z",
+      "lastAvailableAt": "2026-11-06T01:34:55.500Z"
     },
     "movie:1792045": {
       "id": "tmdb:movie:1792045",
@@ -2106,7 +2106,7 @@
       "tmdbId": 1792045,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 0.4487,
+      "popularity": 0.4175,
       "firstSeen": "2026-11-05T09:41:11.596Z",
       "offers": [
         {
@@ -2116,8 +2116,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:06.807Z",
-      "lastAvailableAt": "2026-11-05T19:58:06.807Z"
+      "lastChecked": "2026-11-06T01:34:55.979Z",
+      "lastAvailableAt": "2026-11-06T01:34:55.979Z"
     },
     "movie:1773759": {
       "id": "tmdb:movie:1773759",
@@ -2131,7 +2131,7 @@
       "tmdbId": 1773759,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 5.3271,
+      "popularity": 5.6131,
       "firstSeen": "2026-11-05T09:41:12.001Z",
       "offers": [
         {
@@ -2159,8 +2159,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:07.226Z",
-      "lastAvailableAt": "2026-11-05T19:58:07.226Z"
+      "lastChecked": "2026-11-06T01:34:56.456Z",
+      "lastAvailableAt": "2026-11-06T01:34:56.456Z"
     },
     "movie:1771844": {
       "id": "tmdb:movie:1771844",
@@ -2174,7 +2174,7 @@
       "tmdbId": 1771844,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 1.755,
+      "popularity": 2.0739,
       "firstSeen": "2026-11-05T09:41:12.404Z",
       "offers": [
         {
@@ -2202,8 +2202,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:07.662Z",
-      "lastAvailableAt": "2026-11-05T19:58:07.662Z"
+      "lastChecked": "2026-11-06T01:34:56.933Z",
+      "lastAvailableAt": "2026-11-06T01:34:56.933Z"
     },
     "movie:1620918": {
       "id": "tmdb:movie:1620918",
@@ -2217,7 +2217,7 @@
       "tmdbId": 1620918,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 2.3106,
+      "popularity": 2.4159,
       "firstSeen": "2026-11-05T09:41:12.804Z",
       "offers": [
         {
@@ -2245,8 +2245,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:08.102Z",
-      "lastAvailableAt": "2026-11-05T19:58:08.102Z"
+      "lastChecked": "2026-11-06T01:34:57.450Z",
+      "lastAvailableAt": "2026-11-06T01:34:57.450Z"
     },
     "movie:1561726": {
       "id": "tmdb:movie:1561726",
@@ -2260,7 +2260,7 @@
       "tmdbId": 1561726,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 69.2294,
+      "popularity": 61.1684,
       "firstSeen": "2026-11-05T09:41:13.210Z",
       "offers": [
         {
@@ -2288,8 +2288,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:08.523Z",
-      "lastAvailableAt": "2026-11-05T19:58:08.523Z"
+      "lastChecked": "2026-11-06T01:34:57.927Z",
+      "lastAvailableAt": "2026-11-06T01:34:57.927Z"
     },
     "movie:1512493": {
       "id": "tmdb:movie:1512493",
@@ -2302,7 +2302,7 @@
       "tmdbId": 1512493,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 9.798,
+      "popularity": 9.4528,
       "firstSeen": "2026-11-05T09:41:13.616Z",
       "offers": [
         {
@@ -2336,8 +2336,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:08.954Z",
-      "lastAvailableAt": "2026-11-05T19:58:08.954Z"
+      "lastChecked": "2026-11-06T01:34:58.442Z",
+      "lastAvailableAt": "2026-11-06T01:34:58.442Z"
     },
     "movie:1799804": {
       "id": "tmdb:movie:1799804",
@@ -2351,7 +2351,7 @@
       "tmdbId": 1799804,
       "mediaType": "movie",
       "releaseDate": "2026-10-25",
-      "popularity": 1.5442,
+      "popularity": 1.7013,
       "firstSeen": "2026-11-05T09:41:14.022Z",
       "offers": [
         {
@@ -2373,8 +2373,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:09.423Z",
-      "lastAvailableAt": "2026-11-05T19:58:09.423Z"
+      "lastChecked": "2026-11-06T01:34:58.924Z",
+      "lastAvailableAt": "2026-11-06T01:34:58.924Z"
     },
     "movie:1642600": {
       "id": "tmdb:movie:1642600",
@@ -2388,7 +2388,7 @@
       "tmdbId": 1642600,
       "mediaType": "movie",
       "releaseDate": "2026-10-15",
-      "popularity": 1.9749,
+      "popularity": 3.5483,
       "firstSeen": "2026-11-05T09:41:14.425Z",
       "offers": [
         {
@@ -2416,8 +2416,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:09.839Z",
-      "lastAvailableAt": "2026-11-05T19:58:09.839Z"
+      "lastChecked": "2026-11-06T01:34:59.401Z",
+      "lastAvailableAt": "2026-11-06T01:34:59.401Z"
     },
     "movie:1623256": {
       "id": "tmdb:movie:1623256",
@@ -2431,7 +2431,7 @@
       "tmdbId": 1623256,
       "mediaType": "movie",
       "releaseDate": "2026-10-15",
-      "popularity": 11.3798,
+      "popularity": 10.7433,
       "firstSeen": "2026-11-05T09:41:14.830Z",
       "offers": [
         {
@@ -2459,8 +2459,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:10.265Z",
-      "lastAvailableAt": "2026-11-05T19:58:10.265Z"
+      "lastChecked": "2026-11-06T01:34:59.880Z",
+      "lastAvailableAt": "2026-11-06T01:34:59.880Z"
     },
     "movie:427538": {
       "id": "tmdb:movie:427538",
@@ -2473,7 +2473,7 @@
       "tmdbId": 427538,
       "mediaType": "movie",
       "releaseDate": "2026-10-15",
-      "popularity": 0.6817,
+      "popularity": 0.6332,
       "firstSeen": "2026-11-05T09:41:15.234Z",
       "offers": [
         {
@@ -2489,8 +2489,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:10.689Z",
-      "lastAvailableAt": "2026-11-05T19:58:10.689Z"
+      "lastChecked": "2026-11-06T01:35:00.356Z",
+      "lastAvailableAt": "2026-11-06T01:35:00.356Z"
     },
     "movie:1810062": {
       "id": "tmdb:movie:1810062",
@@ -2503,7 +2503,7 @@
       "tmdbId": 1810062,
       "mediaType": "movie",
       "releaseDate": "2026-10-14",
-      "popularity": 0.6221,
+      "popularity": 0.565,
       "firstSeen": "2026-11-05T09:41:15.645Z",
       "offers": [
         {
@@ -2513,8 +2513,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:11.106Z",
-      "lastAvailableAt": "2026-11-05T19:58:11.106Z"
+      "lastChecked": "2026-11-06T01:35:00.838Z",
+      "lastAvailableAt": "2026-11-06T01:35:00.838Z"
     },
     "movie:1788682": {
       "id": "tmdb:movie:1788682",
@@ -2528,7 +2528,7 @@
       "tmdbId": 1788682,
       "mediaType": "movie",
       "releaseDate": "2026-10-14",
-      "popularity": 1.0698,
+      "popularity": 1.0547,
       "firstSeen": "2026-11-05T09:41:16.068Z",
       "offers": [
         {
@@ -2556,8 +2556,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:12.828Z",
-      "lastAvailableAt": "2026-11-05T19:58:12.828Z"
+      "lastChecked": "2026-11-06T01:35:02.787Z",
+      "lastAvailableAt": "2026-11-06T01:35:02.787Z"
     },
     "movie:1796655": {
       "id": "tmdb:movie:1796655",
@@ -2570,7 +2570,7 @@
       "tmdbId": 1796655,
       "mediaType": "movie",
       "releaseDate": "2026-10-13",
-      "popularity": 0.3194,
+      "popularity": 0.1864,
       "firstSeen": "2026-11-05T09:41:16.481Z",
       "offers": [
         {
@@ -2586,8 +2586,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:13.251Z",
-      "lastAvailableAt": "2026-11-05T19:58:13.251Z"
+      "lastChecked": "2026-11-06T01:35:03.363Z",
+      "lastAvailableAt": "2026-11-06T01:35:03.363Z"
     },
     "movie:1783629": {
       "id": "tmdb:movie:1783629",
@@ -2601,7 +2601,7 @@
       "tmdbId": 1783629,
       "mediaType": "movie",
       "releaseDate": "2026-10-13",
-      "popularity": 2.3793,
+      "popularity": 2.4365,
       "firstSeen": "2026-11-05T09:41:16.887Z",
       "offers": [
         {
@@ -2617,8 +2617,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:14.117Z",
-      "lastAvailableAt": "2026-11-05T19:58:14.117Z"
+      "lastChecked": "2026-11-06T01:35:04.348Z",
+      "lastAvailableAt": "2026-11-06T01:35:04.348Z"
     },
     "movie:1790935": {
       "id": "tmdb:movie:1790935",
@@ -2632,7 +2632,7 @@
       "tmdbId": 1790935,
       "mediaType": "movie",
       "releaseDate": "2026-10-12",
-      "popularity": 4.3931,
+      "popularity": 4.3898,
       "firstSeen": "2026-11-05T09:41:17.294Z",
       "offers": [
         {
@@ -2660,8 +2660,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:14.552Z",
-      "lastAvailableAt": "2026-11-05T19:58:14.552Z"
+      "lastChecked": "2026-11-06T01:35:04.828Z",
+      "lastAvailableAt": "2026-11-06T01:35:04.828Z"
     },
     "movie:1785219": {
       "id": "tmdb:movie:1785219",
@@ -2675,7 +2675,7 @@
       "tmdbId": 1785219,
       "mediaType": "movie",
       "releaseDate": "2026-10-12",
-      "popularity": 1.5334,
+      "popularity": 1.2298,
       "firstSeen": "2026-11-05T09:41:17.699Z",
       "offers": [
         {
@@ -2691,8 +2691,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:14.972Z",
-      "lastAvailableAt": "2026-11-05T19:58:14.972Z"
+      "lastChecked": "2026-11-06T01:35:05.305Z",
+      "lastAvailableAt": "2026-11-06T01:35:05.305Z"
     },
     "movie:1776531": {
       "id": "tmdb:movie:1776531",
@@ -2706,7 +2706,7 @@
       "tmdbId": 1776531,
       "mediaType": "movie",
       "releaseDate": "2026-10-12",
-      "popularity": 7.874,
+      "popularity": 7.9296,
       "firstSeen": "2026-11-05T09:41:18.099Z",
       "offers": [
         {
@@ -2722,8 +2722,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:15.407Z",
-      "lastAvailableAt": "2026-11-05T19:58:15.407Z"
+      "lastChecked": "2026-11-06T01:35:05.800Z",
+      "lastAvailableAt": "2026-11-06T01:35:05.800Z"
     },
     "movie:1737740": {
       "id": "tmdb:movie:1737740",
@@ -2737,7 +2737,7 @@
       "tmdbId": 1737740,
       "mediaType": "movie",
       "releaseDate": "2026-10-12",
-      "popularity": 3.1487,
+      "popularity": 3.2343,
       "firstSeen": "2026-11-05T09:41:18.505Z",
       "offers": [
         {
@@ -2765,8 +2765,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:15.827Z",
-      "lastAvailableAt": "2026-11-05T19:58:15.827Z"
+      "lastChecked": "2026-11-06T01:35:06.276Z",
+      "lastAvailableAt": "2026-11-06T01:35:06.276Z"
     },
     "movie:1545690": {
       "id": "tmdb:movie:1545690",
@@ -2780,7 +2780,7 @@
       "tmdbId": 1545690,
       "mediaType": "movie",
       "releaseDate": "2026-10-10",
-      "popularity": 1.926,
+      "popularity": 1.762,
       "firstSeen": "2026-11-05T09:41:18.907Z",
       "offers": [
         {
@@ -2808,8 +2808,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:16.246Z",
-      "lastAvailableAt": "2026-11-05T19:58:16.246Z"
+      "lastChecked": "2026-11-06T01:35:06.754Z",
+      "lastAvailableAt": "2026-11-06T01:35:06.754Z"
     },
     "movie:1794627": {
       "id": "tmdb:movie:1794627",
@@ -2823,7 +2823,7 @@
       "tmdbId": 1794627,
       "mediaType": "movie",
       "releaseDate": "2026-10-09",
-      "popularity": 1.6915,
+      "popularity": 1.3742,
       "firstSeen": "2026-11-05T09:41:19.314Z",
       "offers": [
         {
@@ -2833,8 +2833,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:16.691Z",
-      "lastAvailableAt": "2026-11-05T19:58:16.691Z"
+      "lastChecked": "2026-11-06T01:35:07.241Z",
+      "lastAvailableAt": "2026-11-06T01:35:07.241Z"
     },
     "movie:1786229": {
       "id": "tmdb:movie:1786229",
@@ -2847,7 +2847,7 @@
       "tmdbId": 1786229,
       "mediaType": "movie",
       "releaseDate": "2026-10-09",
-      "popularity": 0.3047,
+      "popularity": 0.23,
       "firstSeen": "2026-11-05T09:41:19.723Z",
       "offers": [
         {
@@ -2857,8 +2857,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:17.113Z",
-      "lastAvailableAt": "2026-11-05T19:58:17.113Z"
+      "lastChecked": "2026-11-06T01:35:07.741Z",
+      "lastAvailableAt": "2026-11-06T01:35:07.741Z"
     },
     "movie:1786184": {
       "id": "tmdb:movie:1786184",
@@ -2871,7 +2871,7 @@
       "tmdbId": 1786184,
       "mediaType": "movie",
       "releaseDate": "2026-10-09",
-      "popularity": 1.3455,
+      "popularity": 1.2693,
       "firstSeen": "2026-11-05T09:41:20.126Z",
       "offers": [
         {
@@ -2887,8 +2887,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:17.531Z",
-      "lastAvailableAt": "2026-11-05T19:58:17.531Z"
+      "lastChecked": "2026-11-06T01:35:08.215Z",
+      "lastAvailableAt": "2026-11-06T01:35:08.215Z"
     },
     "movie:1596285": {
       "id": "tmdb:movie:1596285",
@@ -2902,7 +2902,7 @@
       "tmdbId": 1596285,
       "mediaType": "movie",
       "releaseDate": "2026-10-09",
-      "popularity": 2.9545,
+      "popularity": 2.6447,
       "firstSeen": "2026-11-05T09:41:20.532Z",
       "offers": [
         {
@@ -2930,8 +2930,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:17.957Z",
-      "lastAvailableAt": "2026-11-05T19:58:17.957Z"
+      "lastChecked": "2026-11-06T01:35:08.688Z",
+      "lastAvailableAt": "2026-11-06T01:35:08.688Z"
     },
     "movie:1507696": {
       "id": "tmdb:movie:1507696",
@@ -2945,7 +2945,7 @@
       "tmdbId": 1507696,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 373.8924,
+      "popularity": 377.9712,
       "firstSeen": "2026-11-05T09:41:20.943Z",
       "offers": [
         {
@@ -2973,8 +2973,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:18.374Z",
-      "lastAvailableAt": "2026-11-05T19:58:18.374Z"
+      "lastChecked": "2026-11-06T01:35:09.204Z",
+      "lastAvailableAt": "2026-11-06T01:35:09.204Z"
     },
     "movie:1389172": {
       "id": "tmdb:movie:1389172",
@@ -2988,7 +2988,7 @@
       "tmdbId": 1389172,
       "mediaType": "movie",
       "releaseDate": "2026-10-09",
-      "popularity": 30.1546,
+      "popularity": 28.5774,
       "firstSeen": "2026-11-05T09:41:21.369Z",
       "offers": [
         {
@@ -3016,8 +3016,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:18.807Z",
-      "lastAvailableAt": "2026-11-05T19:58:18.807Z"
+      "lastChecked": "2026-11-06T01:35:09.679Z",
+      "lastAvailableAt": "2026-11-06T01:35:09.679Z"
     },
     "movie:1288069": {
       "id": "tmdb:movie:1288069",
@@ -3031,7 +3031,7 @@
       "tmdbId": 1288069,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 35.7656,
+      "popularity": 32.3401,
       "firstSeen": "2026-11-05T09:41:21.802Z",
       "offers": [
         {
@@ -3059,8 +3059,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:19.249Z",
-      "lastAvailableAt": "2026-11-05T19:58:19.249Z"
+      "lastChecked": "2026-11-06T01:35:10.153Z",
+      "lastAvailableAt": "2026-11-06T01:35:10.153Z"
     },
     "movie:1241046": {
       "id": "tmdb:movie:1241046",
@@ -3074,7 +3074,7 @@
       "tmdbId": 1241046,
       "mediaType": "movie",
       "releaseDate": "2026-09-08",
-      "popularity": 2.1013,
+      "popularity": 2.4108,
       "firstSeen": "2026-11-05T09:41:22.204Z",
       "offers": [
         {
@@ -3186,8 +3186,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:19.668Z",
-      "lastAvailableAt": "2026-11-05T19:58:19.668Z"
+      "lastChecked": "2026-11-06T01:35:10.627Z",
+      "lastAvailableAt": "2026-11-06T01:35:10.627Z"
     },
     "movie:1236045": {
       "id": "tmdb:movie:1236045",
@@ -3197,11 +3197,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
       "description": "Quand leur fils est enlevé, un candidat à la mairie de Los Angeles et sa femme s'efforcent de réunir l'argent de la rançon et font des choix qui pourraient bouleverser leur vie.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.9",
       "tmdbId": 1236045,
       "mediaType": "movie",
       "releaseDate": "2026-10-09",
-      "popularity": 66.0868,
+      "popularity": 62.0574,
       "firstSeen": "2026-11-05T09:41:22.608Z",
       "offers": [
         {
@@ -3229,8 +3229,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:20.088Z",
-      "lastAvailableAt": "2026-11-05T19:58:20.088Z"
+      "lastChecked": "2026-11-06T01:35:11.102Z",
+      "lastAvailableAt": "2026-11-06T01:35:11.102Z"
     },
     "movie:1791526": {
       "id": "tmdb:movie:1791526",
@@ -3243,7 +3243,7 @@
       "tmdbId": 1791526,
       "mediaType": "movie",
       "releaseDate": "2026-10-08",
-      "popularity": 1.8292,
+      "popularity": 1.4265,
       "firstSeen": "2026-11-05T09:41:23.019Z",
       "offers": [
         {
@@ -3289,8 +3289,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:20.537Z",
-      "lastAvailableAt": "2026-11-05T19:58:20.537Z"
+      "lastChecked": "2026-11-06T01:35:11.578Z",
+      "lastAvailableAt": "2026-11-06T01:35:11.578Z"
     },
     "movie:1733496": {
       "id": "tmdb:movie:1733496",
@@ -3304,7 +3304,7 @@
       "tmdbId": 1733496,
       "mediaType": "movie",
       "releaseDate": "2026-10-08",
-      "popularity": 0.7716,
+      "popularity": 0.8075,
       "firstSeen": "2026-11-05T09:41:23.448Z",
       "offers": [
         {
@@ -3362,8 +3362,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:20.970Z",
-      "lastAvailableAt": "2026-11-05T19:58:20.970Z"
+      "lastChecked": "2026-11-06T01:35:12.093Z",
+      "lastAvailableAt": "2026-11-06T01:35:12.093Z"
     },
     "movie:1662627": {
       "id": "tmdb:movie:1662627",
@@ -3377,7 +3377,7 @@
       "tmdbId": 1662627,
       "mediaType": "movie",
       "releaseDate": "2026-10-08",
-      "popularity": 1.4616,
+      "popularity": 1.1975,
       "firstSeen": "2026-11-05T09:41:23.874Z",
       "offers": [
         {
@@ -3393,8 +3393,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:21.389Z",
-      "lastAvailableAt": "2026-11-05T19:58:21.389Z"
+      "lastChecked": "2026-11-06T01:35:12.565Z",
+      "lastAvailableAt": "2026-11-06T01:35:12.565Z"
     },
     "movie:1611384": {
       "id": "tmdb:movie:1611384",
@@ -3407,7 +3407,7 @@
       "tmdbId": 1611384,
       "mediaType": "movie",
       "releaseDate": "2026-09-21",
-      "popularity": 2.6001,
+      "popularity": 2.6024,
       "firstSeen": "2026-11-05T09:41:24.280Z",
       "offers": [
         {
@@ -3435,8 +3435,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:21.807Z",
-      "lastAvailableAt": "2026-11-05T19:58:21.807Z"
+      "lastChecked": "2026-11-06T01:35:13.083Z",
+      "lastAvailableAt": "2026-11-06T01:35:13.083Z"
     },
     "movie:1487317": {
       "id": "tmdb:movie:1487317",
@@ -3450,7 +3450,7 @@
       "tmdbId": 1487317,
       "mediaType": "movie",
       "releaseDate": "2026-10-08",
-      "popularity": 8.4836,
+      "popularity": 7.9452,
       "firstSeen": "2026-11-05T09:41:24.682Z",
       "offers": [
         {
@@ -3478,8 +3478,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:22.237Z",
-      "lastAvailableAt": "2026-11-05T19:58:22.237Z"
+      "lastChecked": "2026-11-06T01:35:13.556Z",
+      "lastAvailableAt": "2026-11-06T01:35:13.556Z"
     },
     "movie:1783833": {
       "id": "tmdb:movie:1783833",
@@ -3492,7 +3492,7 @@
       "tmdbId": 1783833,
       "mediaType": "movie",
       "releaseDate": "2026-10-07",
-      "popularity": 1.1613,
+      "popularity": 1.4099,
       "firstSeen": "2026-11-05T09:41:25.089Z",
       "offers": [
         {
@@ -3508,8 +3508,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:22.656Z",
-      "lastAvailableAt": "2026-11-05T19:58:22.656Z"
+      "lastChecked": "2026-11-06T01:35:14.039Z",
+      "lastAvailableAt": "2026-11-06T01:35:14.039Z"
     },
     "movie:1781653": {
       "id": "tmdb:movie:1781653",
@@ -3523,7 +3523,7 @@
       "tmdbId": 1781653,
       "mediaType": "movie",
       "releaseDate": "2026-10-07",
-      "popularity": 1.5023,
+      "popularity": 1.4419,
       "firstSeen": "2026-11-05T09:41:25.492Z",
       "offers": [
         {
@@ -3539,8 +3539,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:23.089Z",
-      "lastAvailableAt": "2026-11-05T19:58:23.089Z"
+      "lastChecked": "2026-11-06T01:35:14.516Z",
+      "lastAvailableAt": "2026-11-06T01:35:14.516Z"
     },
     "movie:1756138": {
       "id": "tmdb:movie:1756138",
@@ -4097,7 +4097,7 @@
       "tmdbId": 1725038,
       "mediaType": "movie",
       "releaseDate": "2026-11-05",
-      "popularity": 1.3071,
+      "popularity": 1.2307,
       "firstSeen": "2026-11-05T09:41:31.241Z",
       "offers": [
         {
@@ -4113,8 +4113,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:25.224Z",
-      "lastAvailableAt": "2026-11-05T19:58:25.224Z"
+      "lastChecked": "2026-11-06T01:35:15.462Z",
+      "lastAvailableAt": "2026-11-06T01:35:15.462Z"
     },
     "movie:1805527": {
       "id": "tmdb:movie:1805527",
@@ -4127,7 +4127,7 @@
       "tmdbId": 1805527,
       "mediaType": "movie",
       "releaseDate": "2026-11-03",
-      "popularity": 1.4212,
+      "popularity": 1.569,
       "firstSeen": "2026-11-05T09:41:31.645Z",
       "offers": [
         {
@@ -4143,8 +4143,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:26.071Z",
-      "lastAvailableAt": "2026-11-05T19:58:26.071Z"
+      "lastChecked": "2026-11-06T01:35:16.416Z",
+      "lastAvailableAt": "2026-11-06T01:35:16.416Z"
     },
     "movie:1382316": {
       "id": "tmdb:movie:1382316",
@@ -4157,7 +4157,7 @@
       "tmdbId": 1382316,
       "mediaType": "movie",
       "releaseDate": "2026-11-03",
-      "popularity": 2.0449,
+      "popularity": 1.8945,
       "firstSeen": "2026-11-05T09:41:32.047Z",
       "offers": [
         {
@@ -4185,8 +4185,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:26.488Z",
-      "lastAvailableAt": "2026-11-05T19:58:26.488Z"
+      "lastChecked": "2026-11-06T01:35:16.935Z",
+      "lastAvailableAt": "2026-11-06T01:35:16.935Z"
     },
     "movie:1773368": {
       "id": "tmdb:movie:1773368",
@@ -4199,7 +4199,7 @@
       "tmdbId": 1773368,
       "mediaType": "movie",
       "releaseDate": "2026-11-01",
-      "popularity": 3.0267,
+      "popularity": 2.92,
       "firstSeen": "2026-11-05T09:41:32.456Z",
       "offers": [
         {
@@ -4215,8 +4215,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:26.905Z",
-      "lastAvailableAt": "2026-11-05T19:58:26.905Z"
+      "lastChecked": "2026-11-06T01:35:17.411Z",
+      "lastAvailableAt": "2026-11-06T01:35:17.411Z"
     },
     "movie:1814761": {
       "id": "tmdb:movie:1814761",
@@ -4229,7 +4229,7 @@
       "tmdbId": 1814761,
       "mediaType": "movie",
       "releaseDate": "2026-10-31",
-      "popularity": 1.3628,
+      "popularity": 1.803,
       "firstSeen": "2026-11-05T09:41:32.894Z",
       "offers": [
         {
@@ -4245,8 +4245,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:27.323Z",
-      "lastAvailableAt": "2026-11-05T19:58:27.323Z"
+      "lastChecked": "2026-11-06T01:35:17.926Z",
+      "lastAvailableAt": "2026-11-06T01:35:17.926Z"
     },
     "movie:1773374": {
       "id": "tmdb:movie:1773374",
@@ -4259,7 +4259,7 @@
       "tmdbId": 1773374,
       "mediaType": "movie",
       "releaseDate": "2026-10-31",
-      "popularity": 6.2503,
+      "popularity": 6.0723,
       "firstSeen": "2026-11-05T09:41:33.298Z",
       "offers": [
         {
@@ -4275,8 +4275,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:27.750Z",
-      "lastAvailableAt": "2026-11-05T19:58:27.750Z"
+      "lastChecked": "2026-11-06T01:35:18.401Z",
+      "lastAvailableAt": "2026-11-06T01:35:18.401Z"
     },
     "movie:1293266": {
       "id": "tmdb:movie:1293266",
@@ -4289,7 +4289,7 @@
       "tmdbId": 1293266,
       "mediaType": "movie",
       "releaseDate": "2026-10-31",
-      "popularity": 0.7842,
+      "popularity": 0.7212,
       "firstSeen": "2026-11-05T09:41:33.704Z",
       "offers": [
         {
@@ -4311,8 +4311,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:28.166Z",
-      "lastAvailableAt": "2026-11-05T19:58:28.166Z"
+      "lastChecked": "2026-11-06T01:35:18.874Z",
+      "lastAvailableAt": "2026-11-06T01:35:18.874Z"
     },
     "movie:1807303": {
       "id": "tmdb:movie:1807303",
@@ -4325,7 +4325,7 @@
       "tmdbId": 1807303,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 1.0479,
+      "popularity": 0.8803,
       "firstSeen": "2026-11-05T09:41:34.109Z",
       "offers": [
         {
@@ -4335,8 +4335,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:29.012Z",
-      "lastAvailableAt": "2026-11-05T19:58:29.012Z"
+      "lastChecked": "2026-11-06T01:35:19.870Z",
+      "lastAvailableAt": "2026-11-06T01:35:19.870Z"
     },
     "movie:1783757": {
       "id": "tmdb:movie:1783757",
@@ -4349,7 +4349,7 @@
       "tmdbId": 1783757,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 1.3054,
+      "popularity": 1.2251,
       "firstSeen": "2026-11-05T09:41:34.516Z",
       "offers": [
         {
@@ -4371,8 +4371,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:29.439Z",
-      "lastAvailableAt": "2026-11-05T19:58:29.439Z"
+      "lastChecked": "2026-11-06T01:35:20.345Z",
+      "lastAvailableAt": "2026-11-06T01:35:20.345Z"
     },
     "movie:1749825": {
       "id": "tmdb:movie:1749825",
@@ -4386,7 +4386,7 @@
       "tmdbId": 1749825,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 3.635,
+      "popularity": 3.2906,
       "firstSeen": "2026-11-05T09:41:34.923Z",
       "offers": [
         {
@@ -4396,8 +4396,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:29.859Z",
-      "lastAvailableAt": "2026-11-05T19:58:29.859Z"
+      "lastChecked": "2026-11-06T01:35:20.819Z",
+      "lastAvailableAt": "2026-11-06T01:35:20.819Z"
     },
     "movie:1713304": {
       "id": "tmdb:movie:1713304",
@@ -4410,7 +4410,7 @@
       "tmdbId": 1713304,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 1.0233,
+      "popularity": 0.8699,
       "firstSeen": "2026-11-05T09:41:35.338Z",
       "offers": [
         {
@@ -4420,8 +4420,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:30.277Z",
-      "lastAvailableAt": "2026-11-05T19:58:30.277Z"
+      "lastChecked": "2026-11-06T01:35:21.296Z",
+      "lastAvailableAt": "2026-11-06T01:35:21.296Z"
     },
     "movie:1417842": {
       "id": "tmdb:movie:1417842",
@@ -4434,7 +4434,7 @@
       "tmdbId": 1417842,
       "mediaType": "movie",
       "releaseDate": "2025-09-06",
-      "popularity": 1.3011,
+      "popularity": 1.2089,
       "firstSeen": "2026-11-05T09:41:35.744Z",
       "offers": [
         {
@@ -4450,8 +4450,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:30.695Z",
-      "lastAvailableAt": "2026-11-05T19:58:30.695Z"
+      "lastChecked": "2026-11-06T01:35:21.777Z",
+      "lastAvailableAt": "2026-11-06T01:35:21.777Z"
     },
     "movie:164328": {
       "id": "tmdb:movie:164328",
@@ -4464,7 +4464,7 @@
       "tmdbId": 164328,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 0.5633,
+      "popularity": 0.4709,
       "firstSeen": "2026-11-05T09:41:36.170Z",
       "offers": [
         {
@@ -4480,8 +4480,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:31.116Z",
-      "lastAvailableAt": "2026-11-05T19:58:31.116Z"
+      "lastChecked": "2026-11-06T01:35:22.254Z",
+      "lastAvailableAt": "2026-11-06T01:35:22.254Z"
     },
     "movie:1759826": {
       "id": "tmdb:movie:1759826",
@@ -4494,7 +4494,7 @@
       "tmdbId": 1759826,
       "mediaType": "movie",
       "releaseDate": "2026-10-29",
-      "popularity": 0.8225,
+      "popularity": 0.8586,
       "firstSeen": "2026-11-05T09:41:36.579Z",
       "offers": [
         {
@@ -4516,8 +4516,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:31.572Z",
-      "lastAvailableAt": "2026-11-05T19:58:31.572Z"
+      "lastChecked": "2026-11-06T01:35:22.728Z",
+      "lastAvailableAt": "2026-11-06T01:35:22.728Z"
     },
     "movie:1287846": {
       "id": "tmdb:movie:1287846",
@@ -4530,7 +4530,7 @@
       "tmdbId": 1287846,
       "mediaType": "movie",
       "releaseDate": "2024-07-21",
-      "popularity": 0.9705,
+      "popularity": 0.64,
       "firstSeen": "2026-11-05T09:41:36.986Z",
       "offers": [
         {
@@ -4546,8 +4546,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:32.863Z",
-      "lastAvailableAt": "2026-11-05T19:58:32.863Z"
+      "lastChecked": "2026-11-06T01:35:24.200Z",
+      "lastAvailableAt": "2026-11-06T01:35:24.200Z"
     },
     "movie:1810122": {
       "id": "tmdb:movie:1810122",
@@ -4560,7 +4560,7 @@
       "tmdbId": 1810122,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 1.1101,
+      "popularity": 1.057,
       "firstSeen": "2026-11-05T09:41:37.392Z",
       "offers": [
         {
@@ -4570,8 +4570,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:33.282Z",
-      "lastAvailableAt": "2026-11-05T19:58:33.282Z"
+      "lastChecked": "2026-11-06T01:35:24.677Z",
+      "lastAvailableAt": "2026-11-06T01:35:24.677Z"
     },
     "movie:1783268": {
       "id": "tmdb:movie:1783268",
@@ -4585,7 +4585,7 @@
       "tmdbId": 1783268,
       "mediaType": "movie",
       "releaseDate": "2026-10-27",
-      "popularity": 3.2677,
+      "popularity": 2.5655,
       "firstSeen": "2026-11-05T09:41:37.801Z",
       "offers": [
         {
@@ -4631,8 +4631,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:33.701Z",
-      "lastAvailableAt": "2026-11-05T19:58:33.701Z"
+      "lastChecked": "2026-11-06T01:35:25.189Z",
+      "lastAvailableAt": "2026-11-06T01:35:25.189Z"
     },
     "movie:1807970": {
       "id": "tmdb:movie:1807970",
@@ -4646,7 +4646,7 @@
       "tmdbId": 1807970,
       "mediaType": "movie",
       "releaseDate": "2026-10-26",
-      "popularity": 0.7013,
+      "popularity": 0.7795,
       "firstSeen": "2026-11-05T09:41:38.211Z",
       "offers": [
         {
@@ -4662,8 +4662,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:34.145Z",
-      "lastAvailableAt": "2026-11-05T19:58:34.145Z"
+      "lastChecked": "2026-11-06T01:35:25.665Z",
+      "lastAvailableAt": "2026-11-06T01:35:25.665Z"
     },
     "movie:1807926": {
       "id": "tmdb:movie:1807926",
@@ -4677,7 +4677,7 @@
       "tmdbId": 1807926,
       "mediaType": "movie",
       "releaseDate": "2026-10-25",
-      "popularity": 1.6358,
+      "popularity": 1.4918,
       "firstSeen": "2026-11-05T09:41:38.614Z",
       "offers": [
         {
@@ -4693,8 +4693,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:34.562Z",
-      "lastAvailableAt": "2026-11-05T19:58:34.562Z"
+      "lastChecked": "2026-11-06T01:35:26.139Z",
+      "lastAvailableAt": "2026-11-06T01:35:26.139Z"
     },
     "movie:1773380": {
       "id": "tmdb:movie:1773380",
@@ -4708,7 +4708,7 @@
       "tmdbId": 1773380,
       "mediaType": "movie",
       "releaseDate": "2026-10-25",
-      "popularity": 2.6495,
+      "popularity": 2.7366,
       "firstSeen": "2026-11-05T09:41:39.016Z",
       "offers": [
         {
@@ -4718,8 +4718,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:35.027Z",
-      "lastAvailableAt": "2026-11-05T19:58:35.027Z"
+      "lastChecked": "2026-11-06T01:35:26.616Z",
+      "lastAvailableAt": "2026-11-06T01:35:26.616Z"
     },
     "movie:1529126": {
       "id": "tmdb:movie:1529126",
@@ -4732,7 +4732,7 @@
       "tmdbId": 1529126,
       "mediaType": "movie",
       "releaseDate": "2026-10-25",
-      "popularity": 0.8017,
+      "popularity": 0.6129,
       "firstSeen": "2026-11-05T09:41:39.422Z",
       "offers": [
         {
@@ -4748,8 +4748,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:35.456Z",
-      "lastAvailableAt": "2026-11-05T19:58:35.456Z"
+      "lastChecked": "2026-11-06T01:35:27.137Z",
+      "lastAvailableAt": "2026-11-06T01:35:27.137Z"
     },
     "movie:1773382": {
       "id": "tmdb:movie:1773382",
@@ -4763,7 +4763,7 @@
       "tmdbId": 1773382,
       "mediaType": "movie",
       "releaseDate": "2026-10-24",
-      "popularity": 4.0848,
+      "popularity": 3.5796,
       "firstSeen": "2026-11-05T09:41:39.824Z",
       "offers": [
         {
@@ -4773,8 +4773,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:35.875Z",
-      "lastAvailableAt": "2026-11-05T19:58:35.875Z"
+      "lastChecked": "2026-11-06T01:35:27.614Z",
+      "lastAvailableAt": "2026-11-06T01:35:27.614Z"
     },
     "movie:1728002": {
       "id": "tmdb:movie:1728002",
@@ -4787,7 +4787,7 @@
       "tmdbId": 1728002,
       "mediaType": "movie",
       "releaseDate": "2026-10-24",
-      "popularity": 1.9682,
+      "popularity": 2.067,
       "firstSeen": "2026-11-05T09:41:40.258Z",
       "offers": [
         {
@@ -4803,8 +4803,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:36.292Z",
-      "lastAvailableAt": "2026-11-05T19:58:36.292Z"
+      "lastChecked": "2026-11-06T01:35:28.128Z",
+      "lastAvailableAt": "2026-11-06T01:35:28.128Z"
     },
     "movie:1693160": {
       "id": "tmdb:movie:1693160",
@@ -4817,7 +4817,7 @@
       "tmdbId": 1693160,
       "mediaType": "movie",
       "releaseDate": "2026-10-24",
-      "popularity": 1.8928,
+      "popularity": 1.3914,
       "firstSeen": "2026-11-05T09:41:40.665Z",
       "offers": [
         {
@@ -4851,8 +4851,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:36.714Z",
-      "lastAvailableAt": "2026-11-05T19:58:36.714Z"
+      "lastChecked": "2026-11-06T01:35:28.606Z",
+      "lastAvailableAt": "2026-11-06T01:35:28.606Z"
     },
     "movie:1773195": {
       "id": "tmdb:movie:1773195",
@@ -4865,7 +4865,7 @@
       "tmdbId": 1773195,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 2.8754,
+      "popularity": 2.9304,
       "firstSeen": "2026-11-05T09:41:41.079Z",
       "offers": [
         {
@@ -4875,8 +4875,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:37.159Z",
-      "lastAvailableAt": "2026-11-05T19:58:37.159Z"
+      "lastChecked": "2026-11-06T01:35:29.079Z",
+      "lastAvailableAt": "2026-11-06T01:35:29.079Z"
     },
     "movie:1768182": {
       "id": "tmdb:movie:1768182",
@@ -4889,7 +4889,7 @@
       "tmdbId": 1768182,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 1.3832,
+      "popularity": 0.9997,
       "firstSeen": "2026-11-05T09:41:41.505Z",
       "offers": [
         {
@@ -4905,8 +4905,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:37.592Z",
-      "lastAvailableAt": "2026-11-05T19:58:37.592Z"
+      "lastChecked": "2026-11-06T01:35:29.559Z",
+      "lastAvailableAt": "2026-11-06T01:35:29.559Z"
     },
     "movie:1393398": {
       "id": "tmdb:movie:1393398",
@@ -4920,7 +4920,7 @@
       "tmdbId": 1393398,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 2.3622,
+      "popularity": 2.2536,
       "firstSeen": "2026-11-05T09:41:41.908Z",
       "offers": [
         {
@@ -4936,8 +4936,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:38.021Z",
-      "lastAvailableAt": "2026-11-05T19:58:38.021Z"
+      "lastChecked": "2026-11-06T01:35:30.033Z",
+      "lastAvailableAt": "2026-11-06T01:35:30.033Z"
     },
     "movie:499371": {
       "id": "tmdb:movie:499371",
@@ -4950,7 +4950,7 @@
       "tmdbId": 499371,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 0.7928,
+      "popularity": 0.7003,
       "firstSeen": "2026-11-05T09:41:42.317Z",
       "offers": [
         {
@@ -4960,8 +4960,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:38.451Z",
-      "lastAvailableAt": "2026-11-05T19:58:38.451Z"
+      "lastChecked": "2026-11-06T01:35:30.507Z",
+      "lastAvailableAt": "2026-11-06T01:35:30.507Z"
     },
     "movie:1805031": {
       "id": "tmdb:movie:1805031",
@@ -4974,7 +4974,7 @@
       "tmdbId": 1805031,
       "mediaType": "movie",
       "releaseDate": "2026-10-22",
-      "popularity": 2.4269,
+      "popularity": 2.1986,
       "firstSeen": "2026-11-05T09:41:42.719Z",
       "offers": [
         {
@@ -4984,8 +4984,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:38.872Z",
-      "lastAvailableAt": "2026-11-05T19:58:38.872Z"
+      "lastChecked": "2026-11-06T01:35:30.981Z",
+      "lastAvailableAt": "2026-11-06T01:35:30.982Z"
     },
     "movie:1803635": {
       "id": "tmdb:movie:1803635",
@@ -4998,7 +4998,7 @@
       "tmdbId": 1803635,
       "mediaType": "movie",
       "releaseDate": "2026-10-22",
-      "popularity": 0.7021,
+      "popularity": 0.7931,
       "firstSeen": "2026-11-05T09:41:43.122Z",
       "offers": [
         {
@@ -5014,8 +5014,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:39.294Z",
-      "lastAvailableAt": "2026-11-05T19:58:39.294Z"
+      "lastChecked": "2026-11-06T01:35:31.458Z",
+      "lastAvailableAt": "2026-11-06T01:35:31.458Z"
     },
     "movie:1805213": {
       "id": "tmdb:movie:1805213",
@@ -5028,7 +5028,7 @@
       "tmdbId": 1805213,
       "mediaType": "movie",
       "releaseDate": "2026-10-21",
-      "popularity": 1.3197,
+      "popularity": 1.2109,
       "firstSeen": "2026-11-05T09:41:43.523Z",
       "offers": [
         {
@@ -5038,8 +5038,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:39.714Z",
-      "lastAvailableAt": "2026-11-05T19:58:39.714Z"
+      "lastChecked": "2026-11-06T01:35:31.937Z",
+      "lastAvailableAt": "2026-11-06T01:35:31.937Z"
     },
     "movie:1744839": {
       "id": "tmdb:movie:1744839",
@@ -5052,7 +5052,7 @@
       "tmdbId": 1744839,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 0.7227,
+      "popularity": 0.7354,
       "firstSeen": "2026-11-05T09:41:43.926Z",
       "offers": [
         {
@@ -5062,8 +5062,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:40.567Z",
-      "lastAvailableAt": "2026-11-05T19:58:40.567Z"
+      "lastChecked": "2026-11-06T01:35:32.901Z",
+      "lastAvailableAt": "2026-11-06T01:35:32.901Z"
     },
     "movie:1629356": {
       "id": "tmdb:movie:1629356",
@@ -5077,7 +5077,7 @@
       "tmdbId": 1629356,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 3.1467,
+      "popularity": 3.2937,
       "firstSeen": "2026-11-05T09:41:44.330Z",
       "offers": [
         {
@@ -5093,8 +5093,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:40.989Z",
-      "lastAvailableAt": "2026-11-05T19:58:40.989Z"
+      "lastChecked": "2026-11-06T01:35:33.448Z",
+      "lastAvailableAt": "2026-11-06T01:35:33.448Z"
     },
     "movie:1799196": {
       "id": "tmdb:movie:1799196",
@@ -5107,7 +5107,7 @@
       "tmdbId": 1799196,
       "mediaType": "movie",
       "releaseDate": "2026-10-19",
-      "popularity": 2.7241,
+      "popularity": 2.9875,
       "firstSeen": "2026-11-05T09:41:44.730Z",
       "offers": [
         {
@@ -5117,8 +5117,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:41.410Z",
-      "lastAvailableAt": "2026-11-05T19:58:41.410Z"
+      "lastChecked": "2026-11-06T01:35:33.932Z",
+      "lastAvailableAt": "2026-11-06T01:35:33.932Z"
     },
     "movie:1722652": {
       "id": "tmdb:movie:1722652",
@@ -5132,7 +5132,7 @@
       "tmdbId": 1722652,
       "mediaType": "movie",
       "releaseDate": "2026-10-19",
-      "popularity": 0.954,
+      "popularity": 0.7738,
       "firstSeen": "2026-11-05T09:41:45.135Z",
       "offers": [
         {
@@ -5148,8 +5148,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:41.835Z",
-      "lastAvailableAt": "2026-11-05T19:58:41.835Z"
+      "lastChecked": "2026-11-06T01:35:34.412Z",
+      "lastAvailableAt": "2026-11-06T01:35:34.412Z"
     },
     "movie:1400940": {
       "id": "tmdb:movie:1400940",
@@ -5163,7 +5163,7 @@
       "tmdbId": 1400940,
       "mediaType": "movie",
       "releaseDate": "2026-10-23",
-      "popularity": 114.7072,
+      "popularity": 105.4305,
       "firstSeen": "2026-11-05T09:41:45.540Z",
       "offers": [
         {
@@ -5173,8 +5173,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:42.254Z",
-      "lastAvailableAt": "2026-11-05T19:58:42.254Z"
+      "lastChecked": "2026-11-06T01:35:34.888Z",
+      "lastAvailableAt": "2026-11-06T01:35:34.888Z"
     },
     "movie:1773006": {
       "id": "tmdb:movie:1773006",
@@ -5188,7 +5188,7 @@
       "tmdbId": 1773006,
       "mediaType": "movie",
       "releaseDate": "2026-10-18",
-      "popularity": 1.9747,
+      "popularity": 2.0218,
       "firstSeen": "2026-11-05T09:41:45.947Z",
       "offers": [
         {
@@ -5198,8 +5198,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:42.676Z",
-      "lastAvailableAt": "2026-11-05T19:58:42.676Z"
+      "lastChecked": "2026-11-06T01:35:35.364Z",
+      "lastAvailableAt": "2026-11-06T01:35:35.364Z"
     },
     "movie:1800137": {
       "id": "tmdb:movie:1800137",
@@ -5213,7 +5213,7 @@
       "tmdbId": 1800137,
       "mediaType": "movie",
       "releaseDate": "2026-10-17",
-      "popularity": 0.7743,
+      "popularity": 0.6599,
       "firstSeen": "2026-11-05T09:41:46.356Z",
       "offers": [
         {
@@ -5223,8 +5223,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:43.094Z",
-      "lastAvailableAt": "2026-11-05T19:58:43.094Z"
+      "lastChecked": "2026-11-06T01:35:35.840Z",
+      "lastAvailableAt": "2026-11-06T01:35:35.840Z"
     },
     "movie:1729134": {
       "id": "tmdb:movie:1729134",
@@ -5234,11 +5234,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/hNRVmsj9XHuxHLvJTrkduDXzmMl.jpg",
       "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "5.8",
       "tmdbId": 1729134,
       "mediaType": "movie",
       "releaseDate": "2026-10-17",
-      "popularity": 3.2889,
+      "popularity": 2.788,
       "firstSeen": "2026-11-05T09:41:46.758Z",
       "offers": [
         {
@@ -5248,8 +5248,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:43.511Z",
-      "lastAvailableAt": "2026-11-05T19:58:43.511Z"
+      "lastChecked": "2026-11-06T01:35:36.318Z",
+      "lastAvailableAt": "2026-11-06T01:35:36.318Z"
     },
     "movie:810101": {
       "id": "tmdb:movie:810101",
@@ -5262,7 +5262,7 @@
       "tmdbId": 810101,
       "mediaType": "movie",
       "releaseDate": "2026-10-17",
-      "popularity": 0.533,
+      "popularity": 0.6137,
       "firstSeen": "2026-11-05T09:41:47.172Z",
       "offers": [
         {
@@ -5290,8 +5290,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:43.935Z",
-      "lastAvailableAt": "2026-11-05T19:58:43.935Z"
+      "lastChecked": "2026-11-06T01:35:36.875Z",
+      "lastAvailableAt": "2026-11-06T01:35:36.875Z"
     },
     "movie:1775352": {
       "id": "tmdb:movie:1775352",
@@ -5304,7 +5304,7 @@
       "tmdbId": 1775352,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 2.4044,
+      "popularity": 2.111,
       "firstSeen": "2026-11-05T09:41:47.594Z",
       "offers": [
         {
@@ -5320,8 +5320,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:44.362Z",
-      "lastAvailableAt": "2026-11-05T19:58:44.362Z"
+      "lastChecked": "2026-11-06T01:35:37.349Z",
+      "lastAvailableAt": "2026-11-06T01:35:37.349Z"
     },
     "movie:1772765": {
       "id": "tmdb:movie:1772765",
@@ -5335,7 +5335,7 @@
       "tmdbId": 1772765,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 2.4113,
+      "popularity": 2.4225,
       "firstSeen": "2026-11-05T09:41:48.003Z",
       "offers": [
         {
@@ -5351,8 +5351,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:44.776Z",
-      "lastAvailableAt": "2026-11-05T19:58:44.776Z"
+      "lastChecked": "2026-11-06T01:35:37.821Z",
+      "lastAvailableAt": "2026-11-06T01:35:37.821Z"
     },
     "movie:1582437": {
       "id": "tmdb:movie:1582437",
@@ -5366,7 +5366,7 @@
       "tmdbId": 1582437,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 1.4895,
+      "popularity": 1.2398,
       "firstSeen": "2026-11-05T09:41:48.421Z",
       "offers": [
         {
@@ -5394,8 +5394,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:45.235Z",
-      "lastAvailableAt": "2026-11-05T19:58:45.235Z"
+      "lastChecked": "2026-11-06T01:35:38.295Z",
+      "lastAvailableAt": "2026-11-06T01:35:38.295Z"
     },
     "movie:1472210": {
       "id": "tmdb:movie:1472210",
@@ -5409,7 +5409,7 @@
       "tmdbId": 1472210,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 2.4234,
+      "popularity": 2.0092,
       "firstSeen": "2026-11-05T09:41:48.848Z",
       "offers": [
         {
@@ -5467,8 +5467,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:45.654Z",
-      "lastAvailableAt": "2026-11-05T19:58:45.654Z"
+      "lastChecked": "2026-11-06T01:35:38.772Z",
+      "lastAvailableAt": "2026-11-06T01:35:38.772Z"
     },
     "movie:1452110": {
       "id": "tmdb:movie:1452110",
@@ -5482,7 +5482,7 @@
       "tmdbId": 1452110,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 3.0722,
+      "popularity": 2.6471,
       "firstSeen": "2026-11-05T09:41:49.253Z",
       "offers": [
         {
@@ -5516,8 +5516,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:46.079Z",
-      "lastAvailableAt": "2026-11-05T19:58:46.079Z"
+      "lastChecked": "2026-11-06T01:35:39.287Z",
+      "lastAvailableAt": "2026-11-06T01:35:39.287Z"
     },
     "movie:1436979": {
       "id": "tmdb:movie:1436979",
@@ -5530,7 +5530,7 @@
       "tmdbId": 1436979,
       "mediaType": "movie",
       "releaseDate": "2025-03-15",
-      "popularity": 1.2109,
+      "popularity": 0.8419,
       "firstSeen": "2026-11-05T09:41:49.660Z",
       "offers": [
         {
@@ -5540,8 +5540,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:46.498Z",
-      "lastAvailableAt": "2026-11-05T19:58:46.498Z"
+      "lastChecked": "2026-11-06T01:35:39.768Z",
+      "lastAvailableAt": "2026-11-06T01:35:39.768Z"
     },
     "movie:1771719": {
       "id": "tmdb:movie:1771719",
@@ -5555,7 +5555,7 @@
       "tmdbId": 1771719,
       "mediaType": "movie",
       "releaseDate": "2026-09-07",
-      "popularity": 1.8649,
+      "popularity": 1.5873,
       "firstSeen": "2026-11-05T09:41:50.063Z",
       "offers": [
         {
@@ -5565,8 +5565,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:46.917Z",
-      "lastAvailableAt": "2026-11-05T19:58:46.917Z"
+      "lastChecked": "2026-11-06T01:35:40.246Z",
+      "lastAvailableAt": "2026-11-06T01:35:40.246Z"
     },
     "movie:1794750": {
       "id": "tmdb:movie:1794750",
@@ -5835,7 +5835,7 @@
       "tmdbId": 305935,
       "mediaType": "tv",
       "releaseDate": "2026-11-04",
-      "popularity": 4.7822,
+      "popularity": 4.4551,
       "firstSeen": "2026-11-05T09:41:55.595Z",
       "offers": [
         {
@@ -5857,8 +5857,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:50.545Z",
-      "lastAvailableAt": "2026-11-05T19:58:50.545Z"
+      "lastChecked": "2026-11-06T01:35:44.542Z",
+      "lastAvailableAt": "2026-11-06T01:35:44.542Z"
     },
     "tv:314271": {
       "id": "tmdb:tv:314271",
@@ -5868,11 +5868,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
       "description": "Dans un Far West steampunk sous la coupe des hors-la-loi, des machines et de forces surnaturelles, un père de famille doit se faire juge, juré et bourreau pour protéger les siens.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.7",
       "tmdbId": 314271,
       "mediaType": "tv",
       "releaseDate": "2026-11-03",
-      "popularity": 47.2545,
+      "popularity": 42.6554,
       "firstSeen": "2026-11-05T09:41:56.001Z",
       "offers": [
         {
@@ -5900,8 +5900,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:51.402Z",
-      "lastAvailableAt": "2026-11-05T19:58:51.402Z"
+      "lastChecked": "2026-11-06T01:35:45.529Z",
+      "lastAvailableAt": "2026-11-06T01:35:45.529Z"
     },
     "tv:336241": {
       "id": "tmdb:tv:336241",
@@ -5915,7 +5915,7 @@
       "tmdbId": 336241,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
-      "popularity": 6.318,
+      "popularity": 5.76,
       "firstSeen": "2026-11-05T09:41:56.408Z",
       "offers": [
         {
@@ -5943,8 +5943,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:51.828Z",
-      "lastAvailableAt": "2026-11-05T19:58:51.828Z"
+      "lastChecked": "2026-11-06T01:35:46.005Z",
+      "lastAvailableAt": "2026-11-06T01:35:46.005Z"
     },
     "tv:336240": {
       "id": "tmdb:tv:336240",
@@ -5958,7 +5958,7 @@
       "tmdbId": 336240,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
-      "popularity": 20.8475,
+      "popularity": 20.481,
       "firstSeen": "2026-11-05T09:41:56.812Z",
       "offers": [
         {
@@ -5986,8 +5986,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:52.256Z",
-      "lastAvailableAt": "2026-11-05T19:58:52.256Z"
+      "lastChecked": "2026-11-06T01:35:46.482Z",
+      "lastAvailableAt": "2026-11-06T01:35:46.482Z"
     },
     "tv:311853": {
       "id": "tmdb:tv:311853",
@@ -6001,7 +6001,7 @@
       "tmdbId": 311853,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
-      "popularity": 16.5806,
+      "popularity": 15.0297,
       "firstSeen": "2026-11-05T09:41:57.218Z",
       "offers": [
         {
@@ -6029,8 +6029,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:52.683Z",
-      "lastAvailableAt": "2026-11-05T19:58:52.683Z"
+      "lastChecked": "2026-11-06T01:35:46.961Z",
+      "lastAvailableAt": "2026-11-06T01:35:46.961Z"
     },
     "tv:307478": {
       "id": "tmdb:tv:307478",
@@ -6044,7 +6044,7 @@
       "tmdbId": 307478,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
-      "popularity": 24.7046,
+      "popularity": 23.3254,
       "firstSeen": "2026-11-05T09:41:57.619Z",
       "offers": [
         {
@@ -6078,8 +6078,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:53.103Z",
-      "lastAvailableAt": "2026-11-05T19:58:53.103Z"
+      "lastChecked": "2026-11-06T01:35:47.478Z",
+      "lastAvailableAt": "2026-11-06T01:35:47.478Z"
     },
     "tv:289517": {
       "id": "tmdb:tv:289517",
@@ -6089,11 +6089,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "description": "Croulant sous les dettes, un jeune homme enchaîne les petits boulots très lucratifs que lui propose une mystérieuse agence, mais sa course à l'argent tourne au cauchemar.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "tmdbId": 289517,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
-      "popularity": 146.56,
+      "popularity": 145.5769,
       "firstSeen": "2026-11-05T09:41:58.025Z",
       "offers": [
         {
@@ -6121,8 +6121,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:53.525Z",
-      "lastAvailableAt": "2026-11-05T19:58:53.525Z"
+      "lastChecked": "2026-11-06T01:35:47.953Z",
+      "lastAvailableAt": "2026-11-06T01:35:47.953Z"
     },
     "tv:243555": {
       "id": "tmdb:tv:243555",
@@ -6136,7 +6136,7 @@
       "tmdbId": 243555,
       "mediaType": "tv",
       "releaseDate": "2026-10-30",
-      "popularity": 85.6927,
+      "popularity": 81.5671,
       "firstSeen": "2026-11-05T09:41:58.426Z",
       "offers": [
         {
@@ -6152,8 +6152,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:53.957Z",
-      "lastAvailableAt": "2026-11-05T19:58:53.957Z"
+      "lastChecked": "2026-11-06T01:35:48.430Z",
+      "lastAvailableAt": "2026-11-06T01:35:48.430Z"
     },
     "tv:338689": {
       "id": "tmdb:tv:338689",
@@ -6167,7 +6167,7 @@
       "tmdbId": 338689,
       "mediaType": "tv",
       "releaseDate": "2026-10-29",
-      "popularity": 17.5133,
+      "popularity": 16.1388,
       "firstSeen": "2026-11-05T09:41:58.849Z",
       "offers": [
         {
@@ -6195,8 +6195,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:54.388Z",
-      "lastAvailableAt": "2026-11-05T19:58:54.388Z"
+      "lastChecked": "2026-11-06T01:35:49.185Z",
+      "lastAvailableAt": "2026-11-06T01:35:49.185Z"
     },
     "tv:313699": {
       "id": "tmdb:tv:313699",
@@ -6210,7 +6210,7 @@
       "tmdbId": 313699,
       "mediaType": "tv",
       "releaseDate": "2026-10-29",
-      "popularity": 24.3578,
+      "popularity": 19.9454,
       "firstSeen": "2026-11-05T09:41:59.269Z",
       "offers": [
         {
@@ -6238,8 +6238,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:54.819Z",
-      "lastAvailableAt": "2026-11-05T19:58:54.819Z"
+      "lastChecked": "2026-11-06T01:35:49.704Z",
+      "lastAvailableAt": "2026-11-06T01:35:49.704Z"
     },
     "tv:292741": {
       "id": "tmdb:tv:292741",
@@ -6253,7 +6253,7 @@
       "tmdbId": 292741,
       "mediaType": "tv",
       "releaseDate": "2026-10-29",
-      "popularity": 99.2486,
+      "popularity": 93.9845,
       "firstSeen": "2026-11-05T09:41:59.672Z",
       "offers": [
         {
@@ -6293,8 +6293,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:55.237Z",
-      "lastAvailableAt": "2026-11-05T19:58:55.237Z"
+      "lastChecked": "2026-11-06T01:35:50.263Z",
+      "lastAvailableAt": "2026-11-06T01:35:50.263Z"
     },
     "tv:334700": {
       "id": "tmdb:tv:334700",
@@ -6308,7 +6308,7 @@
       "tmdbId": 334700,
       "mediaType": "tv",
       "releaseDate": "2026-10-28",
-      "popularity": 28.1525,
+      "popularity": 25.9259,
       "firstSeen": "2026-11-05T09:42:00.078Z",
       "offers": [
         {
@@ -6336,8 +6336,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:55.653Z",
-      "lastAvailableAt": "2026-11-05T19:58:55.653Z"
+      "lastChecked": "2026-11-06T01:35:50.736Z",
+      "lastAvailableAt": "2026-11-06T01:35:50.736Z"
     },
     "tv:339670": {
       "id": "tmdb:tv:339670",
@@ -6350,7 +6350,7 @@
       "tmdbId": 339670,
       "mediaType": "tv",
       "releaseDate": "2026-10-27",
-      "popularity": 2.2274,
+      "popularity": 2.1857,
       "firstSeen": "2026-11-05T09:42:00.477Z",
       "offers": [
         {
@@ -6366,8 +6366,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:56.100Z",
-      "lastAvailableAt": "2026-11-05T19:58:56.100Z"
+      "lastChecked": "2026-11-06T01:35:51.253Z",
+      "lastAvailableAt": "2026-11-06T01:35:51.253Z"
     },
     "tv:339451": {
       "id": "tmdb:tv:339451",
@@ -6381,7 +6381,7 @@
       "tmdbId": 339451,
       "mediaType": "tv",
       "releaseDate": "2026-10-27",
-      "popularity": 0.4782,
+      "popularity": 0.4862,
       "firstSeen": "2026-11-05T09:42:00.881Z",
       "offers": [
         {
@@ -6397,8 +6397,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:56.530Z",
-      "lastAvailableAt": "2026-11-05T19:58:56.530Z"
+      "lastChecked": "2026-11-06T01:35:51.724Z",
+      "lastAvailableAt": "2026-11-06T01:35:51.724Z"
     },
     "tv:333533": {
       "id": "tmdb:tv:333533",
@@ -6412,7 +6412,7 @@
       "tmdbId": 333533,
       "mediaType": "tv",
       "releaseDate": "2026-10-27",
-      "popularity": 10.5929,
+      "popularity": 8.8024,
       "firstSeen": "2026-11-05T09:42:01.287Z",
       "offers": [
         {
@@ -6440,8 +6440,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:56.947Z",
-      "lastAvailableAt": "2026-11-05T19:58:56.947Z"
+      "lastChecked": "2026-11-06T01:35:52.196Z",
+      "lastAvailableAt": "2026-11-06T01:35:52.196Z"
     },
     "tv:340106": {
       "id": "tmdb:tv:340106",
@@ -6454,7 +6454,7 @@
       "tmdbId": 340106,
       "mediaType": "tv",
       "releaseDate": "2026-10-26",
-      "popularity": 1.1838,
+      "popularity": 0.8996,
       "firstSeen": "2026-11-05T09:42:01.694Z",
       "offers": [
         {
@@ -6488,8 +6488,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:57.367Z",
-      "lastAvailableAt": "2026-11-05T19:58:57.367Z"
+      "lastChecked": "2026-11-06T01:35:52.710Z",
+      "lastAvailableAt": "2026-11-06T01:35:52.710Z"
     },
     "tv:334887": {
       "id": "tmdb:tv:334887",
@@ -6503,7 +6503,7 @@
       "tmdbId": 334887,
       "mediaType": "tv",
       "releaseDate": "2026-10-26",
-      "popularity": 6.2641,
+      "popularity": 6.6016,
       "firstSeen": "2026-11-05T09:42:02.102Z",
       "offers": [
         {
@@ -6519,8 +6519,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:57.783Z",
-      "lastAvailableAt": "2026-11-05T19:58:57.783Z"
+      "lastChecked": "2026-11-06T01:35:53.225Z",
+      "lastAvailableAt": "2026-11-06T01:35:53.225Z"
     },
     "tv:321221": {
       "id": "tmdb:tv:321221",
@@ -6534,7 +6534,7 @@
       "tmdbId": 321221,
       "mediaType": "tv",
       "releaseDate": "2026-10-26",
-      "popularity": 22.2885,
+      "popularity": 21.1302,
       "firstSeen": "2026-11-05T09:42:02.514Z",
       "offers": [
         {
@@ -6562,8 +6562,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:58.202Z",
-      "lastAvailableAt": "2026-11-05T19:58:58.202Z"
+      "lastChecked": "2026-11-06T01:35:53.702Z",
+      "lastAvailableAt": "2026-11-06T01:35:53.702Z"
     },
     "tv:316702": {
       "id": "tmdb:tv:316702",
@@ -6577,7 +6577,7 @@
       "tmdbId": 316702,
       "mediaType": "tv",
       "releaseDate": "2026-10-24",
-      "popularity": 22.4821,
+      "popularity": 19.1325,
       "firstSeen": "2026-11-05T09:42:02.920Z",
       "offers": [
         {
@@ -6605,8 +6605,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:58.622Z",
-      "lastAvailableAt": "2026-11-05T19:58:58.622Z"
+      "lastChecked": "2026-11-06T01:35:54.225Z",
+      "lastAvailableAt": "2026-11-06T01:35:54.225Z"
     },
     "tv:339733": {
       "id": "tmdb:tv:339733",
@@ -6619,7 +6619,7 @@
       "tmdbId": 339733,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 1.1155,
+      "popularity": 1.2607,
       "firstSeen": "2026-11-05T09:42:03.325Z",
       "offers": [
         {
@@ -6635,8 +6635,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:59.041Z",
-      "lastAvailableAt": "2026-11-05T19:58:59.041Z"
+      "lastChecked": "2026-11-06T01:35:54.738Z",
+      "lastAvailableAt": "2026-11-06T01:35:54.738Z"
     },
     "tv:338918": {
       "id": "tmdb:tv:338918",
@@ -6649,7 +6649,7 @@
       "tmdbId": 338918,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 6.0991,
+      "popularity": 5.4509,
       "firstSeen": "2026-11-05T09:42:03.732Z",
       "offers": [
         {
@@ -6677,8 +6677,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:59.475Z",
-      "lastAvailableAt": "2026-11-05T19:58:59.475Z"
+      "lastChecked": "2026-11-06T01:35:55.214Z",
+      "lastAvailableAt": "2026-11-06T01:35:55.214Z"
     },
     "tv:337950": {
       "id": "tmdb:tv:337950",
@@ -6691,7 +6691,7 @@
       "tmdbId": 337950,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 6.9449,
+      "popularity": 6.5811,
       "firstSeen": "2026-11-05T09:42:04.138Z",
       "offers": [
         {
@@ -6707,8 +6707,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:59.895Z",
-      "lastAvailableAt": "2026-11-05T19:58:59.895Z"
+      "lastChecked": "2026-11-06T01:35:55.685Z",
+      "lastAvailableAt": "2026-11-06T01:35:55.685Z"
     },
     "tv:335535": {
       "id": "tmdb:tv:335535",
@@ -6722,7 +6722,7 @@
       "tmdbId": 335535,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 7.6278,
+      "popularity": 7.0496,
       "firstSeen": "2026-11-05T09:42:04.545Z",
       "offers": [
         {
@@ -6750,8 +6750,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:00.317Z",
-      "lastAvailableAt": "2026-11-05T19:59:00.317Z"
+      "lastChecked": "2026-11-06T01:35:56.161Z",
+      "lastAvailableAt": "2026-11-06T01:35:56.161Z"
     },
     "tv:332649": {
       "id": "tmdb:tv:332649",
@@ -6765,7 +6765,7 @@
       "tmdbId": 332649,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 13.1353,
+      "popularity": 11.8622,
       "firstSeen": "2026-11-05T09:42:04.951Z",
       "offers": [
         {
@@ -6793,8 +6793,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:00.735Z",
-      "lastAvailableAt": "2026-11-05T19:59:00.735Z"
+      "lastChecked": "2026-11-06T01:35:56.716Z",
+      "lastAvailableAt": "2026-11-06T01:35:56.716Z"
     },
     "tv:314360": {
       "id": "tmdb:tv:314360",
@@ -6808,7 +6808,7 @@
       "tmdbId": 314360,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 26.1979,
+      "popularity": 24.3423,
       "firstSeen": "2026-11-05T09:42:05.360Z",
       "offers": [
         {
@@ -6836,8 +6836,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:01.157Z",
-      "lastAvailableAt": "2026-11-05T19:59:01.157Z"
+      "lastChecked": "2026-11-06T01:35:57.191Z",
+      "lastAvailableAt": "2026-11-06T01:35:57.191Z"
     },
     "tv:306163": {
       "id": "tmdb:tv:306163",
@@ -6851,7 +6851,7 @@
       "tmdbId": 306163,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 6.7672,
+      "popularity": 6.3679,
       "firstSeen": "2026-11-05T09:42:05.788Z",
       "offers": [
         {
@@ -6867,8 +6867,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:01.572Z",
-      "lastAvailableAt": "2026-11-05T19:59:01.572Z"
+      "lastChecked": "2026-11-06T01:35:57.664Z",
+      "lastAvailableAt": "2026-11-06T01:35:57.664Z"
     },
     "tv:337800": {
       "id": "tmdb:tv:337800",
@@ -6882,7 +6882,7 @@
       "tmdbId": 337800,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 7.4102,
+      "popularity": 7.1861,
       "firstSeen": "2026-11-05T09:42:06.194Z",
       "offers": [
         {
@@ -6898,8 +6898,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:01.991Z",
-      "lastAvailableAt": "2026-11-05T19:59:01.991Z"
+      "lastChecked": "2026-11-06T01:35:58.142Z",
+      "lastAvailableAt": "2026-11-06T01:35:58.142Z"
     },
     "tv:337609": {
       "id": "tmdb:tv:337609",
@@ -6913,7 +6913,7 @@
       "tmdbId": 337609,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 2.8405,
+      "popularity": 2.9743,
       "firstSeen": "2026-11-05T09:42:06.601Z",
       "offers": [
         {
@@ -6929,8 +6929,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:02.443Z",
-      "lastAvailableAt": "2026-11-05T19:59:02.443Z"
+      "lastChecked": "2026-11-06T01:35:58.614Z",
+      "lastAvailableAt": "2026-11-06T01:35:58.614Z"
     },
     "tv:336936": {
       "id": "tmdb:tv:336936",
@@ -6943,7 +6943,7 @@
       "tmdbId": 336936,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 0.7841,
+      "popularity": 0.7339,
       "firstSeen": "2026-11-05T09:42:07.007Z",
       "offers": [
         {
@@ -6953,8 +6953,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:02.863Z",
-      "lastAvailableAt": "2026-11-05T19:59:02.863Z"
+      "lastChecked": "2026-11-06T01:35:59.093Z",
+      "lastAvailableAt": "2026-11-06T01:35:59.093Z"
     },
     "tv:334703": {
       "id": "tmdb:tv:334703",
@@ -6967,7 +6967,7 @@
       "tmdbId": 334703,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 0.8027,
+      "popularity": 0.576,
       "firstSeen": "2026-11-05T09:42:07.415Z",
       "offers": [
         {
@@ -6995,8 +6995,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:03.286Z",
-      "lastAvailableAt": "2026-11-05T19:59:03.286Z"
+      "lastChecked": "2026-11-06T01:35:59.613Z",
+      "lastAvailableAt": "2026-11-06T01:35:59.613Z"
     },
     "tv:326780": {
       "id": "tmdb:tv:326780",
@@ -7009,7 +7009,7 @@
       "tmdbId": 326780,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 2.2079,
+      "popularity": 1.837,
       "firstSeen": "2026-11-05T09:42:07.817Z",
       "offers": [
         {
@@ -7025,8 +7025,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:03.710Z",
-      "lastAvailableAt": "2026-11-05T19:59:03.710Z"
+      "lastChecked": "2026-11-06T01:36:00.087Z",
+      "lastAvailableAt": "2026-11-06T01:36:00.087Z"
     },
     "tv:300527": {
       "id": "tmdb:tv:300527",
@@ -7040,7 +7040,7 @@
       "tmdbId": 300527,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 9.2991,
+      "popularity": 8.3953,
       "firstSeen": "2026-11-05T09:42:08.228Z",
       "offers": [
         {
@@ -7068,8 +7068,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:04.139Z",
-      "lastAvailableAt": "2026-11-05T19:59:04.139Z"
+      "lastChecked": "2026-11-06T01:36:00.562Z",
+      "lastAvailableAt": "2026-11-06T01:36:00.562Z"
     },
     "tv:299249": {
       "id": "tmdb:tv:299249",
@@ -7083,7 +7083,7 @@
       "tmdbId": 299249,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 3.3274,
+      "popularity": 3.0025,
       "firstSeen": "2026-11-05T09:42:08.636Z",
       "offers": [
         {
@@ -7105,8 +7105,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:04.558Z",
-      "lastAvailableAt": "2026-11-05T19:59:04.558Z"
+      "lastChecked": "2026-11-06T01:36:01.078Z",
+      "lastAvailableAt": "2026-11-06T01:36:01.078Z"
     },
     "tv:335319": {
       "id": "tmdb:tv:335319",
@@ -7120,7 +7120,7 @@
       "tmdbId": 335319,
       "mediaType": "tv",
       "releaseDate": "2026-10-21",
-      "popularity": 4.6071,
+      "popularity": 4.4989,
       "firstSeen": "2026-11-05T09:42:09.037Z",
       "offers": [
         {
@@ -7148,8 +7148,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:04.977Z",
-      "lastAvailableAt": "2026-11-05T19:59:04.977Z"
+      "lastChecked": "2026-11-06T01:36:01.554Z",
+      "lastAvailableAt": "2026-11-06T01:36:01.554Z"
     },
     "tv:332204": {
       "id": "tmdb:tv:332204",
@@ -7162,7 +7162,7 @@
       "tmdbId": 332204,
       "mediaType": "tv",
       "releaseDate": "2026-10-20",
-      "popularity": 1.2673,
+      "popularity": 1.208,
       "firstSeen": "2026-11-05T09:42:09.438Z",
       "offers": [
         {
@@ -7208,8 +7208,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:05.394Z",
-      "lastAvailableAt": "2026-11-05T19:59:05.394Z"
+      "lastChecked": "2026-11-06T01:36:02.027Z",
+      "lastAvailableAt": "2026-11-06T01:36:02.027Z"
     },
     "tv:275139": {
       "id": "tmdb:tv:275139",
@@ -7223,7 +7223,7 @@
       "tmdbId": 275139,
       "mediaType": "tv",
       "releaseDate": "2026-10-20",
-      "popularity": 18.5355,
+      "popularity": 17.3002,
       "firstSeen": "2026-11-05T09:42:09.843Z",
       "offers": [
         {
@@ -7239,8 +7239,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:05.832Z",
-      "lastAvailableAt": "2026-11-05T19:59:05.832Z"
+      "lastChecked": "2026-11-06T01:36:02.504Z",
+      "lastAvailableAt": "2026-11-06T01:36:02.504Z"
     },
     "tv:332713": {
       "id": "tmdb:tv:332713",
@@ -7254,7 +7254,7 @@
       "tmdbId": 332713,
       "mediaType": "tv",
       "releaseDate": "2026-10-19",
-      "popularity": 8.7106,
+      "popularity": 8.6105,
       "firstSeen": "2026-11-05T09:42:10.245Z",
       "offers": [
         {
@@ -7282,8 +7282,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:06.247Z",
-      "lastAvailableAt": "2026-11-05T19:59:06.247Z"
+      "lastChecked": "2026-11-06T01:36:02.979Z",
+      "lastAvailableAt": "2026-11-06T01:36:02.979Z"
     },
     "tv:303745": {
       "id": "tmdb:tv:303745",
@@ -7297,7 +7297,7 @@
       "tmdbId": 303745,
       "mediaType": "tv",
       "releaseDate": "2026-10-19",
-      "popularity": 85.4181,
+      "popularity": 85.0249,
       "firstSeen": "2026-11-05T09:42:10.653Z",
       "offers": [
         {
@@ -7325,8 +7325,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:06.666Z",
-      "lastAvailableAt": "2026-11-05T19:59:06.666Z"
+      "lastChecked": "2026-11-06T01:36:03.450Z",
+      "lastAvailableAt": "2026-11-06T01:36:03.450Z"
     },
     "tv:336916": {
       "id": "tmdb:tv:336916",
@@ -7340,7 +7340,7 @@
       "tmdbId": 336916,
       "mediaType": "tv",
       "releaseDate": "2026-10-18",
-      "popularity": 2.0332,
+      "popularity": 1.6668,
       "firstSeen": "2026-11-05T09:42:11.057Z",
       "offers": [
         {
@@ -7362,8 +7362,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:07.096Z",
-      "lastAvailableAt": "2026-11-05T19:59:07.096Z"
+      "lastChecked": "2026-11-06T01:36:03.946Z",
+      "lastAvailableAt": "2026-11-06T01:36:03.946Z"
     },
     "tv:204084": {
       "id": "tmdb:tv:204084",
@@ -7376,7 +7376,7 @@
       "tmdbId": 204084,
       "mediaType": "tv",
       "releaseDate": "2026-10-17",
-      "popularity": 12.9358,
+      "popularity": 12.2628,
       "firstSeen": "2026-11-05T09:42:11.465Z",
       "offers": [
         {
@@ -7416,8 +7416,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:07.539Z",
-      "lastAvailableAt": "2026-11-05T19:59:07.539Z"
+      "lastChecked": "2026-11-06T01:36:04.422Z",
+      "lastAvailableAt": "2026-11-06T01:36:04.422Z"
     },
     "tv:336973": {
       "id": "tmdb:tv:336973",
@@ -7430,7 +7430,7 @@
       "tmdbId": 336973,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 2.9135,
+      "popularity": 2.6065,
       "firstSeen": "2026-11-05T09:42:11.871Z",
       "offers": [
         {
@@ -7458,8 +7458,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:07.967Z",
-      "lastAvailableAt": "2026-11-05T19:59:07.967Z"
+      "lastChecked": "2026-11-06T01:36:04.899Z",
+      "lastAvailableAt": "2026-11-06T01:36:04.899Z"
     },
     "tv:329490": {
       "id": "tmdb:tv:329490",
@@ -7473,7 +7473,7 @@
       "tmdbId": 329490,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 4.0542,
+      "popularity": 3.6648,
       "firstSeen": "2026-11-05T09:42:12.276Z",
       "offers": [
         {
@@ -7501,8 +7501,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:08.395Z",
-      "lastAvailableAt": "2026-11-05T19:59:08.395Z"
+      "lastChecked": "2026-11-06T01:36:05.372Z",
+      "lastAvailableAt": "2026-11-06T01:36:05.372Z"
     },
     "tv:320754": {
       "id": "tmdb:tv:320754",
@@ -7516,7 +7516,7 @@
       "tmdbId": 320754,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 13.5782,
+      "popularity": 13.9068,
       "firstSeen": "2026-11-05T09:42:12.681Z",
       "offers": [
         {
@@ -7544,8 +7544,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:08.817Z",
-      "lastAvailableAt": "2026-11-05T19:59:08.817Z"
+      "lastChecked": "2026-11-06T01:36:05.845Z",
+      "lastAvailableAt": "2026-11-06T01:36:05.845Z"
     },
     "tv:300146": {
       "id": "tmdb:tv:300146",
@@ -7559,7 +7559,7 @@
       "tmdbId": 300146,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 85.5964,
+      "popularity": 83.4738,
       "firstSeen": "2026-11-05T09:42:13.088Z",
       "offers": [
         {
@@ -7587,8 +7587,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:09.245Z",
-      "lastAvailableAt": "2026-11-05T19:59:09.245Z"
+      "lastChecked": "2026-11-06T01:36:06.321Z",
+      "lastAvailableAt": "2026-11-06T01:36:06.321Z"
     },
     "tv:298550": {
       "id": "tmdb:tv:298550",
@@ -7602,7 +7602,7 @@
       "tmdbId": 298550,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 40.674,
+      "popularity": 37.7586,
       "firstSeen": "2026-11-05T09:42:13.492Z",
       "offers": [
         {
@@ -7630,8 +7630,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:09.662Z",
-      "lastAvailableAt": "2026-11-05T19:59:09.662Z"
+      "lastChecked": "2026-11-06T01:36:06.796Z",
+      "lastAvailableAt": "2026-11-06T01:36:06.796Z"
     },
     "tv:296466": {
       "id": "tmdb:tv:296466",
@@ -7645,7 +7645,7 @@
       "tmdbId": 296466,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 3.0688,
+      "popularity": 2.7918,
       "firstSeen": "2026-11-05T09:42:13.897Z",
       "offers": [
         {
@@ -7673,8 +7673,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:10.080Z",
-      "lastAvailableAt": "2026-11-05T19:59:10.080Z"
+      "lastChecked": "2026-11-06T01:36:07.271Z",
+      "lastAvailableAt": "2026-11-06T01:36:07.271Z"
     },
     "tv:337911": {
       "id": "tmdb:tv:337911",
@@ -7688,7 +7688,7 @@
       "tmdbId": 337911,
       "mediaType": "tv",
       "releaseDate": "2026-10-15",
-      "popularity": 2.132,
+      "popularity": 2.0284,
       "firstSeen": "2026-11-05T09:42:14.305Z",
       "offers": [
         {
@@ -7704,8 +7704,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:10.525Z",
-      "lastAvailableAt": "2026-11-05T19:59:10.525Z"
+      "lastChecked": "2026-11-06T01:36:07.748Z",
+      "lastAvailableAt": "2026-11-06T01:36:07.748Z"
     },
     "tv:336453": {
       "id": "tmdb:tv:336453",
@@ -7718,7 +7718,7 @@
       "tmdbId": 336453,
       "mediaType": "tv",
       "releaseDate": "2026-10-15",
-      "popularity": 0.5313,
+      "popularity": 0.6306,
       "firstSeen": "2026-11-05T09:42:14.729Z",
       "offers": [
         {
@@ -7728,8 +7728,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:10.943Z",
-      "lastAvailableAt": "2026-11-05T19:59:10.943Z"
+      "lastChecked": "2026-11-06T01:36:08.263Z",
+      "lastAvailableAt": "2026-11-06T01:36:08.263Z"
     },
     "tv:286183": {
       "id": "tmdb:tv:286183",
@@ -7743,7 +7743,7 @@
       "tmdbId": 286183,
       "mediaType": "tv",
       "releaseDate": "2026-10-15",
-      "popularity": 11.9568,
+      "popularity": 11.0677,
       "firstSeen": "2026-11-05T09:42:15.135Z",
       "offers": [
         {
@@ -7771,8 +7771,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:11.375Z",
-      "lastAvailableAt": "2026-11-05T19:59:11.375Z"
+      "lastChecked": "2026-11-06T01:36:08.736Z",
+      "lastAvailableAt": "2026-11-06T01:36:08.736Z"
     },
     "tv:213562": {
       "id": "tmdb:tv:213562",
@@ -7786,7 +7786,7 @@
       "tmdbId": 213562,
       "mediaType": "tv",
       "releaseDate": "2026-10-15",
-      "popularity": 89.673,
+      "popularity": 81.8093,
       "firstSeen": "2026-11-05T09:42:15.559Z",
       "offers": [
         {
@@ -7814,8 +7814,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:11.808Z",
-      "lastAvailableAt": "2026-11-05T19:59:11.808Z"
+      "lastChecked": "2026-11-06T01:36:09.208Z",
+      "lastAvailableAt": "2026-11-06T01:36:09.208Z"
     },
     "tv:306565": {
       "id": "tmdb:tv:306565",
@@ -7828,7 +7828,7 @@
       "tmdbId": 306565,
       "mediaType": "tv",
       "releaseDate": "2026-10-14",
-      "popularity": 9.3836,
+      "popularity": 9.2391,
       "firstSeen": "2026-11-05T09:42:15.963Z",
       "offers": [
         {
@@ -7856,8 +7856,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:12.223Z",
-      "lastAvailableAt": "2026-11-05T19:59:12.223Z"
+      "lastChecked": "2026-11-06T01:36:09.680Z",
+      "lastAvailableAt": "2026-11-06T01:36:09.680Z"
     },
     "tv:335536": {
       "id": "tmdb:tv:335536",
@@ -7871,7 +7871,7 @@
       "tmdbId": 335536,
       "mediaType": "tv",
       "releaseDate": "2026-10-13",
-      "popularity": 8.722,
+      "popularity": 8.3668,
       "firstSeen": "2026-11-05T09:42:16.371Z",
       "offers": [
         {
@@ -7899,8 +7899,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:12.640Z",
-      "lastAvailableAt": "2026-11-05T19:59:12.640Z"
+      "lastChecked": "2026-11-06T01:36:10.155Z",
+      "lastAvailableAt": "2026-11-06T01:36:10.155Z"
     },
     "tv:283371": {
       "id": "tmdb:tv:283371",
@@ -7914,7 +7914,7 @@
       "tmdbId": 283371,
       "mediaType": "tv",
       "releaseDate": "2026-10-13",
-      "popularity": 10.2077,
+      "popularity": 9.1536,
       "firstSeen": "2026-11-05T09:42:16.774Z",
       "offers": [
         {
@@ -7942,8 +7942,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:13.085Z",
-      "lastAvailableAt": "2026-11-05T19:59:13.085Z"
+      "lastChecked": "2026-11-06T01:36:10.637Z",
+      "lastAvailableAt": "2026-11-06T01:36:10.637Z"
     },
     "tv:213375": {
       "id": "tmdb:tv:213375",
@@ -7953,11 +7953,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "description": "Une nouvelle version de Vision ayant échappé à ceux qui cherchaient à faire de lui une arme, vit dans la clandestinité. En quête d’un nouveau sens à sa vie, il consulte les IA intégrées à son programme, notamment Friday, Edith, Jarvis et le tristement célèbre Ultron. Son existence discrète prend fin lorsque sa tête est mise à prix, le contraignant à prendre la fuite avec Thomas Shepherd, un garçon mystérieux qui pourrait bien être la réincarnation du fils de Vision. Tout en échappant à ses poursuivants, Vision doit se confronter à sa propre nature, résister à l’influence d’Ultron et percer le mystère qui entoure son jeune compagnon s’il veut survivre.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
+      "imdbRating": "8.6",
       "tmdbId": 213375,
       "mediaType": "tv",
       "releaseDate": "2026-10-13",
-      "popularity": 288.1133,
+      "popularity": 253.0572,
       "firstSeen": "2026-11-05T09:42:17.182Z",
       "offers": [
         {
@@ -7973,8 +7973,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:13.544Z",
-      "lastAvailableAt": "2026-11-05T19:59:13.544Z"
+      "lastChecked": "2026-11-06T01:36:11.157Z",
+      "lastAvailableAt": "2026-11-06T01:36:11.157Z"
     },
     "tv:338193": {
       "id": "tmdb:tv:338193",
@@ -7987,7 +7987,7 @@
       "tmdbId": 338193,
       "mediaType": "tv",
       "releaseDate": "2026-10-11",
-      "popularity": 1.3512,
+      "popularity": 1.5701,
       "firstSeen": "2026-11-05T09:42:17.590Z",
       "offers": [
         {
@@ -8003,8 +8003,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:14.017Z",
-      "lastAvailableAt": "2026-11-05T19:59:14.017Z"
+      "lastChecked": "2026-11-06T01:36:11.631Z",
+      "lastAvailableAt": "2026-11-06T01:36:11.631Z"
     },
     "tv:336418": {
       "id": "tmdb:tv:336418",
@@ -8018,7 +8018,7 @@
       "tmdbId": 336418,
       "mediaType": "tv",
       "releaseDate": "2026-10-11",
-      "popularity": 5.9197,
+      "popularity": 7.031,
       "firstSeen": "2026-11-05T09:42:17.997Z",
       "offers": [
         {
@@ -8046,8 +8046,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:14.446Z",
-      "lastAvailableAt": "2026-11-05T19:59:14.446Z"
+      "lastChecked": "2026-11-06T01:36:12.114Z",
+      "lastAvailableAt": "2026-11-06T01:36:12.114Z"
     },
     "tv:312359": {
       "id": "tmdb:tv:312359",
@@ -8061,7 +8061,7 @@
       "tmdbId": 312359,
       "mediaType": "tv",
       "releaseDate": "2026-10-11",
-      "popularity": 105.6797,
+      "popularity": 98.941,
       "firstSeen": "2026-11-05T09:42:18.403Z",
       "offers": [
         {
@@ -8137,8 +8137,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:14.862Z",
-      "lastAvailableAt": "2026-11-05T19:59:14.862Z"
+      "lastChecked": "2026-11-06T01:36:12.590Z",
+      "lastAvailableAt": "2026-11-06T01:36:12.590Z"
     },
     "tv:288588": {
       "id": "tmdb:tv:288588",
@@ -8151,7 +8151,7 @@
       "tmdbId": 288588,
       "mediaType": "tv",
       "releaseDate": "2026-10-11",
-      "popularity": 14.7274,
+      "popularity": 13.9178,
       "firstSeen": "2026-11-05T09:42:18.809Z",
       "offers": [
         {
@@ -8179,8 +8179,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:15.277Z",
-      "lastAvailableAt": "2026-11-05T19:59:15.277Z"
+      "lastChecked": "2026-11-06T01:36:13.108Z",
+      "lastAvailableAt": "2026-11-06T01:36:13.108Z"
     },
     "tv:328035": {
       "id": "tmdb:tv:328035",
@@ -8194,7 +8194,7 @@
       "tmdbId": 328035,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
-      "popularity": 12.4479,
+      "popularity": 11.3461,
       "firstSeen": "2026-11-05T09:42:19.214Z",
       "offers": [
         {
@@ -8216,8 +8216,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:15.691Z",
-      "lastAvailableAt": "2026-11-05T19:59:15.691Z"
+      "lastChecked": "2026-11-06T01:36:13.583Z",
+      "lastAvailableAt": "2026-11-06T01:36:13.583Z"
     },
     "tv:311955": {
       "id": "tmdb:tv:311955",
@@ -8231,7 +8231,7 @@
       "tmdbId": 311955,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
-      "popularity": 3.7421,
+      "popularity": 3.5097,
       "firstSeen": "2026-11-05T09:42:19.626Z",
       "offers": [
         {
@@ -8259,8 +8259,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:16.115Z",
-      "lastAvailableAt": "2026-11-05T19:59:16.115Z"
+      "lastChecked": "2026-11-06T01:36:14.055Z",
+      "lastAvailableAt": "2026-11-06T01:36:14.055Z"
     },
     "tv:307903": {
       "id": "tmdb:tv:307903",
@@ -8274,7 +8274,7 @@
       "tmdbId": 307903,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
-      "popularity": 9.9358,
+      "popularity": 9.5878,
       "firstSeen": "2026-11-05T09:42:20.034Z",
       "offers": [
         {
@@ -8302,8 +8302,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:16.536Z",
-      "lastAvailableAt": "2026-11-05T19:59:16.536Z"
+      "lastChecked": "2026-11-06T01:36:14.529Z",
+      "lastAvailableAt": "2026-11-06T01:36:14.529Z"
     },
     "tv:295420": {
       "id": "tmdb:tv:295420",
@@ -8317,7 +8317,7 @@
       "tmdbId": 295420,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
-      "popularity": 18.1747,
+      "popularity": 17.3265,
       "firstSeen": "2026-11-05T09:42:20.438Z",
       "offers": [
         {
@@ -8345,8 +8345,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:16.953Z",
-      "lastAvailableAt": "2026-11-05T19:59:16.953Z"
+      "lastChecked": "2026-11-06T01:36:15.002Z",
+      "lastAvailableAt": "2026-11-06T01:36:15.002Z"
     },
     "tv:293607": {
       "id": "tmdb:tv:293607",
@@ -8360,7 +8360,7 @@
       "tmdbId": 293607,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
-      "popularity": 33.5891,
+      "popularity": 33.1353,
       "firstSeen": "2026-11-05T09:42:20.843Z",
       "offers": [
         {
@@ -8388,8 +8388,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:17.382Z",
-      "lastAvailableAt": "2026-11-05T19:59:17.382Z"
+      "lastChecked": "2026-11-06T01:36:15.474Z",
+      "lastAvailableAt": "2026-11-06T01:36:15.474Z"
     },
     "tv:320909": {
       "id": "tmdb:tv:320909",
@@ -8403,7 +8403,7 @@
       "tmdbId": 320909,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 32.4827,
+      "popularity": 32.5424,
       "firstSeen": "2026-11-05T09:42:21.248Z",
       "offers": [
         {
@@ -8431,8 +8431,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:17.810Z",
-      "lastAvailableAt": "2026-11-05T19:59:17.810Z"
+      "lastChecked": "2026-11-06T01:36:15.948Z",
+      "lastAvailableAt": "2026-11-06T01:36:15.948Z"
     },
     "tv:293610": {
       "id": "tmdb:tv:293610",
@@ -8446,7 +8446,7 @@
       "tmdbId": 293610,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 47.6211,
+      "popularity": 45.2356,
       "firstSeen": "2026-11-05T09:42:21.651Z",
       "offers": [
         {
@@ -8462,8 +8462,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:18.226Z",
-      "lastAvailableAt": "2026-11-05T19:59:18.226Z"
+      "lastChecked": "2026-11-06T01:36:16.422Z",
+      "lastAvailableAt": "2026-11-06T01:36:16.422Z"
     },
     "tv:289423": {
       "id": "tmdb:tv:289423",
@@ -8477,7 +8477,7 @@
       "tmdbId": 289423,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 35.4418,
+      "popularity": 34.5994,
       "firstSeen": "2026-11-05T09:42:22.052Z",
       "offers": [
         {
@@ -8505,8 +8505,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:18.639Z",
-      "lastAvailableAt": "2026-11-05T19:59:18.639Z"
+      "lastChecked": "2026-11-06T01:36:16.897Z",
+      "lastAvailableAt": "2026-11-06T01:36:16.897Z"
     },
     "tv:284833": {
       "id": "tmdb:tv:284833",
@@ -8520,7 +8520,7 @@
       "tmdbId": 284833,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 108.2869,
+      "popularity": 99.7353,
       "firstSeen": "2026-11-05T09:42:22.455Z",
       "offers": [
         {
@@ -8578,8 +8578,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:19.066Z",
-      "lastAvailableAt": "2026-11-05T19:59:19.066Z"
+      "lastChecked": "2026-11-06T01:36:17.372Z",
+      "lastAvailableAt": "2026-11-06T01:36:17.372Z"
     },
     "tv:284580": {
       "id": "tmdb:tv:284580",
@@ -8593,7 +8593,7 @@
       "tmdbId": 284580,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 8.8714,
+      "popularity": 7.9136,
       "firstSeen": "2026-11-05T09:42:22.859Z",
       "offers": [
         {
@@ -8621,8 +8621,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:19.499Z",
-      "lastAvailableAt": "2026-11-05T19:59:19.499Z"
+      "lastChecked": "2026-11-06T01:36:17.843Z",
+      "lastAvailableAt": "2026-11-06T01:36:17.843Z"
     },
     "tv:323937": {
       "id": "tmdb:tv:323937",
@@ -8636,7 +8636,7 @@
       "tmdbId": 323937,
       "mediaType": "tv",
       "releaseDate": "2026-10-08",
-      "popularity": 8.3457,
+      "popularity": 9.6901,
       "firstSeen": "2026-11-05T09:42:23.263Z",
       "offers": [
         {
@@ -8664,8 +8664,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:19.918Z",
-      "lastAvailableAt": "2026-11-05T19:59:19.918Z"
+      "lastChecked": "2026-11-06T01:36:18.315Z",
+      "lastAvailableAt": "2026-11-06T01:36:18.315Z"
     },
     "tv:285322": {
       "id": "tmdb:tv:285322",
@@ -8679,7 +8679,7 @@
       "tmdbId": 285322,
       "mediaType": "tv",
       "releaseDate": "2026-10-08",
-      "popularity": 34.2209,
+      "popularity": 32.6517,
       "firstSeen": "2026-11-05T09:42:23.666Z",
       "offers": [
         {
@@ -8707,8 +8707,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:20.337Z",
-      "lastAvailableAt": "2026-11-05T19:59:20.337Z"
+      "lastChecked": "2026-11-06T01:36:18.788Z",
+      "lastAvailableAt": "2026-11-06T01:36:18.788Z"
     },
     "tv:337700": {
       "id": "tmdb:tv:337700",
@@ -8722,7 +8722,7 @@
       "tmdbId": 337700,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 1.6277,
+      "popularity": 1.368,
       "firstSeen": "2026-11-05T09:42:24.088Z",
       "offers": [
         {
@@ -8768,8 +8768,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:20.754Z",
-      "lastAvailableAt": "2026-11-05T19:59:20.754Z"
+      "lastChecked": "2026-11-06T01:36:19.310Z",
+      "lastAvailableAt": "2026-11-06T01:36:19.310Z"
     },
     "tv:332261": {
       "id": "tmdb:tv:332261",
@@ -8783,7 +8783,7 @@
       "tmdbId": 332261,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 5.268,
+      "popularity": 6.2088,
       "firstSeen": "2026-11-05T09:42:24.519Z",
       "offers": [
         {
@@ -8811,8 +8811,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:21.175Z",
-      "lastAvailableAt": "2026-11-05T19:59:21.175Z"
+      "lastChecked": "2026-11-06T01:36:19.785Z",
+      "lastAvailableAt": "2026-11-06T01:36:19.785Z"
     },
     "tv:321518": {
       "id": "tmdb:tv:321518",
@@ -8826,7 +8826,7 @@
       "tmdbId": 321518,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 11.7455,
+      "popularity": 10.7216,
       "firstSeen": "2026-11-05T09:42:24.924Z",
       "offers": [
         {
@@ -8854,8 +8854,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:21.598Z",
-      "lastAvailableAt": "2026-11-05T19:59:21.598Z"
+      "lastChecked": "2026-11-06T01:36:20.300Z",
+      "lastAvailableAt": "2026-11-06T01:36:20.300Z"
     },
     "tv:313346": {
       "id": "tmdb:tv:313346",
@@ -8869,7 +8869,7 @@
       "tmdbId": 313346,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 18.1881,
+      "popularity": 17.0272,
       "firstSeen": "2026-11-05T09:42:25.328Z",
       "offers": [
         {
@@ -8897,8 +8897,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:22.026Z",
-      "lastAvailableAt": "2026-11-05T19:59:22.026Z"
+      "lastChecked": "2026-11-06T01:36:20.775Z",
+      "lastAvailableAt": "2026-11-06T01:36:20.775Z"
     },
     "tv:305551": {
       "id": "tmdb:tv:305551",
@@ -8912,7 +8912,7 @@
       "tmdbId": 305551,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 21.4588,
+      "popularity": 20.8843,
       "firstSeen": "2026-11-05T09:42:25.738Z",
       "offers": [
         {
@@ -8928,8 +8928,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:22.446Z",
-      "lastAvailableAt": "2026-11-05T19:59:22.446Z"
+      "lastChecked": "2026-11-06T01:36:21.247Z",
+      "lastAvailableAt": "2026-11-06T01:36:21.247Z"
     },
     "tv:303272": {
       "id": "tmdb:tv:303272",
@@ -8943,7 +8943,7 @@
       "tmdbId": 303272,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 11.1998,
+      "popularity": 11.4707,
       "firstSeen": "2026-11-05T09:42:26.142Z",
       "offers": [
         {
@@ -9001,8 +9001,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:22.905Z",
-      "lastAvailableAt": "2026-11-05T19:59:22.905Z"
+      "lastChecked": "2026-11-06T01:36:21.721Z",
+      "lastAvailableAt": "2026-11-06T01:36:21.721Z"
     },
     "tv:290233": {
       "id": "tmdb:tv:290233",
@@ -9016,7 +9016,7 @@
       "tmdbId": 290233,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 7.9571,
+      "popularity": 7.6579,
       "firstSeen": "2026-11-05T09:42:26.552Z",
       "offers": [
         {
@@ -9044,8 +9044,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:23.322Z",
-      "lastAvailableAt": "2026-11-05T19:59:23.322Z"
+      "lastChecked": "2026-11-06T01:36:22.194Z",
+      "lastAvailableAt": "2026-11-06T01:36:22.194Z"
     },
     "tv:288673": {
       "id": "tmdb:tv:288673",
@@ -9059,7 +9059,7 @@
       "tmdbId": 288673,
       "mediaType": "tv",
       "releaseDate": "2026-10-07",
-      "popularity": 83.138,
+      "popularity": 77.9763,
       "firstSeen": "2026-11-05T09:42:26.957Z",
       "offers": [
         {
@@ -9087,8 +9087,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:23.739Z",
-      "lastAvailableAt": "2026-11-05T19:59:23.739Z"
+      "lastChecked": "2026-11-06T01:36:22.670Z",
+      "lastAvailableAt": "2026-11-06T01:36:22.670Z"
     },
     "tv:336880": {
       "id": "tmdb:tv:336880",
@@ -9102,7 +9102,7 @@
       "tmdbId": 336880,
       "mediaType": "tv",
       "releaseDate": "2026-10-06",
-      "popularity": 1.8561,
+      "popularity": 1.9383,
       "firstSeen": "2026-11-05T09:42:27.383Z",
       "offers": [
         {
@@ -9118,8 +9118,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:24.154Z",
-      "lastAvailableAt": "2026-11-05T19:59:24.154Z"
+      "lastChecked": "2026-11-06T01:36:23.141Z",
+      "lastAvailableAt": "2026-11-06T01:36:23.141Z"
     },
     "tv:336851": {
       "id": "tmdb:tv:336851",
@@ -9132,7 +9132,7 @@
       "tmdbId": 336851,
       "mediaType": "tv",
       "releaseDate": "2026-10-06",
-      "popularity": 0.2064,
+      "popularity": 0.1754,
       "firstSeen": "2026-11-05T09:42:27.791Z",
       "offers": [
         {
@@ -9142,8 +9142,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:24.588Z",
-      "lastAvailableAt": "2026-11-05T19:59:24.588Z"
+      "lastChecked": "2026-11-06T01:36:23.617Z",
+      "lastAvailableAt": "2026-11-06T01:36:23.617Z"
     },
     "tv:327765": {
       "id": "tmdb:tv:327765",
@@ -9157,7 +9157,7 @@
       "tmdbId": 327765,
       "mediaType": "tv",
       "releaseDate": "2026-10-06",
-      "popularity": 6.9662,
+      "popularity": 7.4295,
       "firstSeen": "2026-11-05T09:42:28.193Z",
       "offers": [
         {
@@ -9185,8 +9185,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:25.006Z",
-      "lastAvailableAt": "2026-11-05T19:59:25.006Z"
+      "lastChecked": "2026-11-06T01:36:24.093Z",
+      "lastAvailableAt": "2026-11-06T01:36:24.093Z"
     },
     "tv:316891": {
       "id": "tmdb:tv:316891",
@@ -9199,7 +9199,7 @@
       "tmdbId": 316891,
       "mediaType": "tv",
       "releaseDate": "2026-10-06",
-      "popularity": 12.85,
+      "popularity": 12.3999,
       "firstSeen": "2026-11-05T09:42:28.600Z",
       "offers": [
         {
@@ -9227,8 +9227,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:25.434Z",
-      "lastAvailableAt": "2026-11-05T19:59:25.434Z"
+      "lastChecked": "2026-11-06T01:36:24.566Z",
+      "lastAvailableAt": "2026-11-06T01:36:24.566Z"
     },
     "tv:316551": {
       "id": "tmdb:tv:316551",
@@ -9242,7 +9242,7 @@
       "tmdbId": 316551,
       "mediaType": "tv",
       "releaseDate": "2026-10-06",
-      "popularity": 8.4981,
+      "popularity": 10.8505,
       "firstSeen": "2026-11-05T09:42:29.002Z",
       "offers": [
         {
@@ -9270,8 +9270,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:25.858Z",
-      "lastAvailableAt": "2026-11-05T19:59:25.858Z"
+      "lastChecked": "2026-11-06T01:36:25.043Z",
+      "lastAvailableAt": "2026-11-06T01:36:25.043Z"
     },
     "tv:312850": {
       "id": "tmdb:tv:312850",
@@ -9285,7 +9285,7 @@
       "tmdbId": 312850,
       "mediaType": "tv",
       "releaseDate": "2026-10-06",
-      "popularity": 11.3811,
+      "popularity": 10.0193,
       "firstSeen": "2026-11-05T09:42:29.413Z",
       "offers": [
         {
@@ -9319,8 +9319,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:26.288Z",
-      "lastAvailableAt": "2026-11-05T19:59:26.288Z"
+      "lastChecked": "2026-11-06T01:36:25.516Z",
+      "lastAvailableAt": "2026-11-06T01:36:25.516Z"
     },
     "tv:337456": {
       "id": "tmdb:tv:337456",
@@ -9333,7 +9333,7 @@
       "tmdbId": 337456,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 0.7112,
+      "popularity": 0.7297,
       "firstSeen": "2026-11-05T09:42:29.823Z",
       "offers": [
         {
@@ -9349,8 +9349,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:26.708Z",
-      "lastAvailableAt": "2026-11-05T19:59:26.708Z"
+      "lastChecked": "2026-11-06T01:36:26.036Z",
+      "lastAvailableAt": "2026-11-06T01:36:26.036Z"
     },
     "tv:337332": {
       "id": "tmdb:tv:337332",
@@ -9363,7 +9363,7 @@
       "tmdbId": 337332,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 0.6401,
+      "popularity": 0.3746,
       "firstSeen": "2026-11-05T09:42:30.237Z",
       "offers": [
         {
@@ -9499,8 +9499,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:27.140Z",
-      "lastAvailableAt": "2026-11-05T19:59:27.140Z"
+      "lastChecked": "2026-11-06T01:36:26.511Z",
+      "lastAvailableAt": "2026-11-06T01:36:26.511Z"
     },
     "tv:336654": {
       "id": "tmdb:tv:336654",
@@ -9514,7 +9514,7 @@
       "tmdbId": 336654,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 27.0366,
+      "popularity": 25.8273,
       "firstSeen": "2026-11-05T09:42:30.643Z",
       "offers": [
         {
@@ -9530,8 +9530,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:27.572Z",
-      "lastAvailableAt": "2026-11-05T19:59:27.572Z"
+      "lastChecked": "2026-11-06T01:36:26.983Z",
+      "lastAvailableAt": "2026-11-06T01:36:26.983Z"
     },
     "tv:334779": {
       "id": "tmdb:tv:334779",
@@ -9545,7 +9545,7 @@
       "tmdbId": 334779,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 13.9897,
+      "popularity": 13.5652,
       "firstSeen": "2026-11-05T09:42:31.048Z",
       "offers": [
         {
@@ -9555,8 +9555,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:27.989Z",
-      "lastAvailableAt": "2026-11-05T19:59:27.989Z"
+      "lastChecked": "2026-11-06T01:36:27.457Z",
+      "lastAvailableAt": "2026-11-06T01:36:27.457Z"
     },
     "tv:329096": {
       "id": "tmdb:tv:329096",
@@ -9570,7 +9570,7 @@
       "tmdbId": 329096,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 6.4464,
+      "popularity": 7.173,
       "firstSeen": "2026-11-05T09:42:31.449Z",
       "offers": [
         {
@@ -9598,8 +9598,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:28.404Z",
-      "lastAvailableAt": "2026-11-05T19:59:28.404Z"
+      "lastChecked": "2026-11-06T01:36:27.972Z",
+      "lastAvailableAt": "2026-11-06T01:36:27.972Z"
     },
     "tv:316694": {
       "id": "tmdb:tv:316694",
@@ -9613,7 +9613,7 @@
       "tmdbId": 316694,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 9.9399,
+      "popularity": 9.9884,
       "firstSeen": "2026-11-05T09:42:31.852Z",
       "offers": [
         {
@@ -9641,8 +9641,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:28.823Z",
-      "lastAvailableAt": "2026-11-05T19:59:28.823Z"
+      "lastChecked": "2026-11-06T01:36:28.446Z",
+      "lastAvailableAt": "2026-11-06T01:36:28.446Z"
     },
     "tv:313068": {
       "id": "tmdb:tv:313068",
@@ -9656,7 +9656,7 @@
       "tmdbId": 313068,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 11.0217,
+      "popularity": 9.6575,
       "firstSeen": "2026-11-05T09:42:32.264Z",
       "offers": [
         {
@@ -9684,8 +9684,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:29.256Z",
-      "lastAvailableAt": "2026-11-05T19:59:29.256Z"
+      "lastChecked": "2026-11-06T01:36:28.966Z",
+      "lastAvailableAt": "2026-11-06T01:36:28.966Z"
     },
     "tv:297903": {
       "id": "tmdb:tv:297903",
@@ -9699,7 +9699,7 @@
       "tmdbId": 297903,
       "mediaType": "tv",
       "releaseDate": "2026-10-05",
-      "popularity": 10.6713,
+      "popularity": 10.2649,
       "firstSeen": "2026-11-05T09:42:32.664Z",
       "offers": [
         {
@@ -9727,8 +9727,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:29.673Z",
-      "lastAvailableAt": "2026-11-05T19:59:29.673Z"
+      "lastChecked": "2026-11-06T01:36:29.439Z",
+      "lastAvailableAt": "2026-11-06T01:36:29.439Z"
     },
     "tv:336848": {
       "id": "tmdb:tv:336848",
@@ -9742,7 +9742,7 @@
       "tmdbId": 336848,
       "mediaType": "tv",
       "releaseDate": "2026-10-04",
-      "popularity": 0.9332,
+      "popularity": 0.8556,
       "firstSeen": "2026-11-05T09:42:33.083Z",
       "offers": [
         {
@@ -9752,8 +9752,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:30.135Z",
-      "lastAvailableAt": "2026-11-05T19:59:30.135Z"
+      "lastChecked": "2026-11-06T01:36:30.002Z",
+      "lastAvailableAt": "2026-11-06T01:36:30.002Z"
     },
     "tv:335194": {
       "id": "tmdb:tv:335194",
@@ -9767,7 +9767,7 @@
       "tmdbId": 335194,
       "mediaType": "tv",
       "releaseDate": "2026-10-04",
-      "popularity": 10.2706,
+      "popularity": 10.1236,
       "firstSeen": "2026-11-05T09:42:33.506Z",
       "offers": [
         {
@@ -9795,8 +9795,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:30.581Z",
-      "lastAvailableAt": "2026-11-05T19:59:30.581Z"
+      "lastChecked": "2026-11-06T01:36:30.511Z",
+      "lastAvailableAt": "2026-11-06T01:36:30.511Z"
     },
     "tv:333622": {
       "id": "tmdb:tv:333622",
@@ -9810,7 +9810,7 @@
       "tmdbId": 333622,
       "mediaType": "tv",
       "releaseDate": "2026-10-04",
-      "popularity": 14.4598,
+      "popularity": 14.13,
       "firstSeen": "2026-11-05T09:42:33.911Z",
       "offers": [
         {
@@ -9838,8 +9838,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:31.030Z",
-      "lastAvailableAt": "2026-11-05T19:59:31.030Z"
+      "lastChecked": "2026-11-06T01:36:30.996Z",
+      "lastAvailableAt": "2026-11-06T01:36:30.996Z"
     },
     "tv:330505": {
       "id": "tmdb:tv:330505",
@@ -9852,7 +9852,7 @@
       "tmdbId": 330505,
       "mediaType": "tv",
       "releaseDate": "2026-10-04",
-      "popularity": 5.2169,
+      "popularity": 5.3384,
       "firstSeen": "2026-11-05T09:42:34.317Z",
       "offers": [
         {
@@ -9868,8 +9868,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:31.446Z",
-      "lastAvailableAt": "2026-11-05T19:59:31.446Z"
+      "lastChecked": "2026-11-06T01:36:31.471Z",
+      "lastAvailableAt": "2026-11-06T01:36:31.471Z"
     },
     "tv:303060": {
       "id": "tmdb:tv:303060",
@@ -9883,7 +9883,7 @@
       "tmdbId": 303060,
       "mediaType": "tv",
       "releaseDate": "2026-10-04",
-      "popularity": 9.2887,
+      "popularity": 9.091,
       "firstSeen": "2026-11-05T09:42:34.726Z",
       "offers": [
         {
@@ -9911,8 +9911,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:31.864Z",
-      "lastAvailableAt": "2026-11-05T19:59:31.864Z"
+      "lastChecked": "2026-11-06T01:36:31.984Z",
+      "lastAvailableAt": "2026-11-06T01:36:31.984Z"
     },
     "tv:283938": {
       "id": "tmdb:tv:283938",
@@ -10060,7 +10060,7 @@
       "tmdbId": 339375,
       "mediaType": "tv",
       "releaseDate": "2026-11-03",
-      "popularity": 4.2864,
+      "popularity": 3.9215,
       "firstSeen": "2026-11-05T09:42:36.352Z",
       "offers": [
         {
@@ -10070,8 +10070,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:32.740Z",
-      "lastAvailableAt": "2026-11-05T19:59:32.740Z"
+      "lastChecked": "2026-11-06T01:36:33.013Z",
+      "lastAvailableAt": "2026-11-06T01:36:33.013Z"
     },
     "tv:340755": {
       "id": "tmdb:tv:340755",
@@ -10084,7 +10084,7 @@
       "tmdbId": 340755,
       "mediaType": "tv",
       "releaseDate": "2026-11-02",
-      "popularity": 0.4049,
+      "popularity": 0.9117,
       "firstSeen": "2026-11-05T09:42:36.759Z",
       "offers": [
         {
@@ -10094,8 +10094,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:33.586Z",
-      "lastAvailableAt": "2026-11-05T19:59:33.586Z"
+      "lastChecked": "2026-11-06T01:36:33.963Z",
+      "lastAvailableAt": "2026-11-06T01:36:33.963Z"
     },
     "tv:340754": {
       "id": "tmdb:tv:340754",
@@ -10108,7 +10108,7 @@
       "tmdbId": 340754,
       "mediaType": "tv",
       "releaseDate": "2026-11-02",
-      "popularity": 0.264,
+      "popularity": 0.217,
       "firstSeen": "2026-11-05T09:42:37.165Z",
       "offers": [
         {
@@ -10124,8 +10124,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:34.018Z",
-      "lastAvailableAt": "2026-11-05T19:59:34.018Z"
+      "lastChecked": "2026-11-06T01:36:34.448Z",
+      "lastAvailableAt": "2026-11-06T01:36:34.448Z"
     },
     "tv:339618": {
       "id": "tmdb:tv:339618",
@@ -10138,7 +10138,7 @@
       "tmdbId": 339618,
       "mediaType": "tv",
       "releaseDate": "2026-10-26",
-      "popularity": 1.4872,
+      "popularity": 1.1622,
       "firstSeen": "2026-11-05T09:42:37.572Z",
       "offers": [
         {
@@ -10148,8 +10148,8 @@
           "monetization": "free"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:34.438Z",
-      "lastAvailableAt": "2026-11-05T19:59:34.438Z"
+      "lastChecked": "2026-11-06T01:36:34.926Z",
+      "lastAvailableAt": "2026-11-06T01:36:34.926Z"
     },
     "tv:335951": {
       "id": "tmdb:tv:335951",
@@ -10162,7 +10162,7 @@
       "tmdbId": 335951,
       "mediaType": "tv",
       "releaseDate": "2026-10-26",
-      "popularity": 10.8632,
+      "popularity": 10.7735,
       "firstSeen": "2026-11-05T09:42:37.978Z",
       "offers": [
         {
@@ -10178,8 +10178,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:34.860Z",
-      "lastAvailableAt": "2026-11-05T19:59:34.860Z"
+      "lastChecked": "2026-11-06T01:36:35.402Z",
+      "lastAvailableAt": "2026-11-06T01:36:35.402Z"
     },
     "tv:340187": {
       "id": "tmdb:tv:340187",
@@ -10192,7 +10192,7 @@
       "tmdbId": 340187,
       "mediaType": "tv",
       "releaseDate": "2026-10-25",
-      "popularity": 0.5463,
+      "popularity": 0.3929,
       "firstSeen": "2026-11-05T09:42:38.378Z",
       "offers": [
         {
@@ -10208,8 +10208,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:35.286Z",
-      "lastAvailableAt": "2026-11-05T19:59:35.286Z"
+      "lastChecked": "2026-11-06T01:36:35.878Z",
+      "lastAvailableAt": "2026-11-06T01:36:35.878Z"
     },
     "tv:335481": {
       "id": "tmdb:tv:335481",
@@ -10223,7 +10223,7 @@
       "tmdbId": 335481,
       "mediaType": "tv",
       "releaseDate": "2026-10-25",
-      "popularity": 3.2454,
+      "popularity": 3.0726,
       "firstSeen": "2026-11-05T09:42:38.779Z",
       "offers": [
         {
@@ -10257,8 +10257,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:35.704Z",
-      "lastAvailableAt": "2026-11-05T19:59:35.704Z"
+      "lastChecked": "2026-11-06T01:36:36.391Z",
+      "lastAvailableAt": "2026-11-06T01:36:36.391Z"
     },
     "tv:339763": {
       "id": "tmdb:tv:339763",
@@ -10271,7 +10271,7 @@
       "tmdbId": 339763,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 1.3431,
+      "popularity": 1.3061,
       "firstSeen": "2026-11-05T09:42:39.188Z",
       "offers": [
         {
@@ -10311,8 +10311,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:36.125Z",
-      "lastAvailableAt": "2026-11-05T19:59:36.125Z"
+      "lastChecked": "2026-11-06T01:36:36.867Z",
+      "lastAvailableAt": "2026-11-06T01:36:36.867Z"
     },
     "tv:339754": {
       "id": "tmdb:tv:339754",
@@ -10326,7 +10326,7 @@
       "tmdbId": 339754,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 4.0303,
+      "popularity": 5.3076,
       "firstSeen": "2026-11-05T09:42:39.599Z",
       "offers": [
         {
@@ -10342,8 +10342,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:36.541Z",
-      "lastAvailableAt": "2026-11-05T19:59:36.541Z"
+      "lastChecked": "2026-11-06T01:36:37.341Z",
+      "lastAvailableAt": "2026-11-06T01:36:37.341Z"
     },
     "tv:322267": {
       "id": "tmdb:tv:322267",
@@ -10357,7 +10357,7 @@
       "tmdbId": 322267,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 5.8773,
+      "popularity": 5.6715,
       "firstSeen": "2026-11-05T09:42:40.003Z",
       "offers": [
         {
@@ -10379,8 +10379,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:36.984Z",
-      "lastAvailableAt": "2026-11-05T19:59:36.984Z"
+      "lastChecked": "2026-11-06T01:36:37.814Z",
+      "lastAvailableAt": "2026-11-06T01:36:37.814Z"
     },
     "tv:286171": {
       "id": "tmdb:tv:286171",
@@ -10394,7 +10394,7 @@
       "tmdbId": 286171,
       "mediaType": "tv",
       "releaseDate": "2026-10-23",
-      "popularity": 20.0152,
+      "popularity": 19.4681,
       "firstSeen": "2026-11-05T09:42:40.432Z",
       "offers": [
         {
@@ -10404,8 +10404,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:37.407Z",
-      "lastAvailableAt": "2026-11-05T19:59:37.407Z"
+      "lastChecked": "2026-11-06T01:36:38.291Z",
+      "lastAvailableAt": "2026-11-06T01:36:38.291Z"
     },
     "tv:334470": {
       "id": "tmdb:tv:334470",
@@ -10419,7 +10419,7 @@
       "tmdbId": 334470,
       "mediaType": "tv",
       "releaseDate": "2026-10-22",
-      "popularity": 5.1717,
+      "popularity": 5.2587,
       "firstSeen": "2026-11-05T09:42:40.855Z",
       "offers": [
         {
@@ -10435,8 +10435,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:37.837Z",
-      "lastAvailableAt": "2026-11-05T19:59:37.837Z"
+      "lastChecked": "2026-11-06T01:36:38.768Z",
+      "lastAvailableAt": "2026-11-06T01:36:38.768Z"
     },
     "tv:339474": {
       "id": "tmdb:tv:339474",
@@ -10450,7 +10450,7 @@
       "tmdbId": 339474,
       "mediaType": "tv",
       "releaseDate": "2026-10-21",
-      "popularity": 7.7462,
+      "popularity": 6.9705,
       "firstSeen": "2026-11-05T09:42:41.265Z",
       "offers": [
         {
@@ -10466,8 +10466,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:38.285Z",
-      "lastAvailableAt": "2026-11-05T19:59:38.285Z"
+      "lastChecked": "2026-11-06T01:36:39.242Z",
+      "lastAvailableAt": "2026-11-06T01:36:39.242Z"
     },
     "tv:339413": {
       "id": "tmdb:tv:339413",
@@ -10480,7 +10480,7 @@
       "tmdbId": 339413,
       "mediaType": "tv",
       "releaseDate": "2026-10-21",
-      "popularity": 0.65,
+      "popularity": 0.7945,
       "firstSeen": "2026-11-05T09:42:41.669Z",
       "offers": [
         {
@@ -10496,8 +10496,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:38.701Z",
-      "lastAvailableAt": "2026-11-05T19:59:38.701Z"
+      "lastChecked": "2026-11-06T01:36:39.718Z",
+      "lastAvailableAt": "2026-11-06T01:36:39.718Z"
     },
     "tv:337061": {
       "id": "tmdb:tv:337061",
@@ -10510,7 +10510,7 @@
       "tmdbId": 337061,
       "mediaType": "tv",
       "releaseDate": "2026-10-21",
-      "popularity": 0.9465,
+      "popularity": 0.7472,
       "firstSeen": "2026-11-05T09:42:42.075Z",
       "offers": [
         {
@@ -10520,8 +10520,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:39.227Z",
-      "lastAvailableAt": "2026-11-05T19:59:39.227Z"
+      "lastChecked": "2026-11-06T01:36:40.190Z",
+      "lastAvailableAt": "2026-11-06T01:36:40.190Z"
     },
     "tv:336770": {
       "id": "tmdb:tv:336770",
@@ -10534,7 +10534,7 @@
       "tmdbId": 336770,
       "mediaType": "tv",
       "releaseDate": "2026-10-21",
-      "popularity": 1.2,
+      "popularity": 1.075,
       "firstSeen": "2026-11-05T09:42:42.480Z",
       "offers": [
         {
@@ -10544,8 +10544,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:39.662Z",
-      "lastAvailableAt": "2026-11-05T19:59:39.662Z"
+      "lastChecked": "2026-11-06T01:36:40.670Z",
+      "lastAvailableAt": "2026-11-06T01:36:40.670Z"
     },
     "tv:307831": {
       "id": "tmdb:tv:307831",
@@ -10558,7 +10558,7 @@
       "tmdbId": 307831,
       "mediaType": "tv",
       "releaseDate": "2026-10-21",
-      "popularity": 1.6646,
+      "popularity": 1.5802,
       "firstSeen": "2026-11-05T09:42:42.902Z",
       "offers": [
         {
@@ -10568,8 +10568,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:40.083Z",
-      "lastAvailableAt": "2026-11-05T19:59:40.083Z"
+      "lastChecked": "2026-11-06T01:36:41.149Z",
+      "lastAvailableAt": "2026-11-06T01:36:41.149Z"
     },
     "tv:313137": {
       "id": "tmdb:tv:313137",
@@ -10582,7 +10582,7 @@
       "tmdbId": 313137,
       "mediaType": "tv",
       "releaseDate": "2026-10-20",
-      "popularity": 4.5815,
+      "popularity": 5.0204,
       "firstSeen": "2026-11-05T09:42:43.306Z",
       "offers": [
         {
@@ -10610,8 +10610,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:40.506Z",
-      "lastAvailableAt": "2026-11-05T19:59:40.506Z"
+      "lastChecked": "2026-11-06T01:36:41.630Z",
+      "lastAvailableAt": "2026-11-06T01:36:41.630Z"
     },
     "tv:334321": {
       "id": "tmdb:tv:334321",
@@ -10624,7 +10624,7 @@
       "tmdbId": 334321,
       "mediaType": "tv",
       "releaseDate": "2026-10-19",
-      "popularity": 2.7659,
+      "popularity": 2.6569,
       "firstSeen": "2026-11-05T09:42:43.730Z",
       "offers": [
         {
@@ -10640,8 +10640,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:40.934Z",
-      "lastAvailableAt": "2026-11-05T19:59:40.934Z"
+      "lastChecked": "2026-11-06T01:36:42.100Z",
+      "lastAvailableAt": "2026-11-06T01:36:42.100Z"
     },
     "tv:339333": {
       "id": "tmdb:tv:339333",
@@ -10654,7 +10654,7 @@
       "tmdbId": 339333,
       "mediaType": "tv",
       "releaseDate": "2026-10-18",
-      "popularity": 0.8871,
+      "popularity": 0.8761,
       "firstSeen": "2026-11-05T09:42:44.137Z",
       "offers": [
         {
@@ -10670,8 +10670,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:41.353Z",
-      "lastAvailableAt": "2026-11-05T19:59:41.353Z"
+      "lastChecked": "2026-11-06T01:36:42.575Z",
+      "lastAvailableAt": "2026-11-06T01:36:42.575Z"
     },
     "tv:339331": {
       "id": "tmdb:tv:339331",
@@ -10684,7 +10684,7 @@
       "tmdbId": 339331,
       "mediaType": "tv",
       "releaseDate": "2026-10-18",
-      "popularity": 0.6216,
+      "popularity": 0.4676,
       "firstSeen": "2026-11-05T09:42:44.537Z",
       "offers": [
         {
@@ -10700,8 +10700,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:41.770Z",
-      "lastAvailableAt": "2026-11-05T19:59:41.770Z"
+      "lastChecked": "2026-11-06T01:36:43.047Z",
+      "lastAvailableAt": "2026-11-06T01:36:43.047Z"
     },
     "tv:339010": {
       "id": "tmdb:tv:339010",
@@ -10715,7 +10715,7 @@
       "tmdbId": 339010,
       "mediaType": "tv",
       "releaseDate": "2026-10-17",
-      "popularity": 9.8198,
+      "popularity": 9.9429,
       "firstSeen": "2026-11-05T09:42:44.940Z",
       "offers": [
         {
@@ -10731,8 +10731,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:42.196Z",
-      "lastAvailableAt": "2026-11-05T19:59:42.196Z"
+      "lastChecked": "2026-11-06T01:36:43.520Z",
+      "lastAvailableAt": "2026-11-06T01:36:43.520Z"
     },
     "tv:329896": {
       "id": "tmdb:tv:329896",
@@ -10745,7 +10745,7 @@
       "tmdbId": 329896,
       "mediaType": "tv",
       "releaseDate": "2026-10-17",
-      "popularity": 2.8735,
+      "popularity": 2.8964,
       "firstSeen": "2026-11-05T09:42:45.345Z",
       "offers": [
         {
@@ -10755,8 +10755,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:42.610Z",
-      "lastAvailableAt": "2026-11-05T19:59:42.610Z"
+      "lastChecked": "2026-11-06T01:36:43.997Z",
+      "lastAvailableAt": "2026-11-06T01:36:43.997Z"
     },
     "tv:339727": {
       "id": "tmdb:tv:339727",
@@ -10769,7 +10769,7 @@
       "tmdbId": 339727,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 0.4971,
+      "popularity": 0.4806,
       "firstSeen": "2026-11-05T09:42:45.754Z",
       "offers": [
         {
@@ -10791,8 +10791,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:43.039Z",
-      "lastAvailableAt": "2026-11-05T19:59:43.039Z"
+      "lastChecked": "2026-11-06T01:36:44.472Z",
+      "lastAvailableAt": "2026-11-06T01:36:44.472Z"
     },
     "tv:338844": {
       "id": "tmdb:tv:338844",
@@ -10805,7 +10805,7 @@
       "tmdbId": 338844,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 1.58,
+      "popularity": 1.3909,
       "firstSeen": "2026-11-05T09:42:46.163Z",
       "offers": [
         {
@@ -10815,8 +10815,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:43.460Z",
-      "lastAvailableAt": "2026-11-05T19:59:43.460Z"
+      "lastChecked": "2026-11-06T01:36:44.948Z",
+      "lastAvailableAt": "2026-11-06T01:36:44.948Z"
     },
     "tv:338823": {
       "id": "tmdb:tv:338823",
@@ -10829,7 +10829,7 @@
       "tmdbId": 338823,
       "mediaType": "tv",
       "releaseDate": "2026-10-16",
-      "popularity": 0.7159,
+      "popularity": 0.6938,
       "firstSeen": "2026-11-05T09:42:46.565Z",
       "offers": [
         {
@@ -10839,8 +10839,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:43.878Z",
-      "lastAvailableAt": "2026-11-05T19:59:43.878Z"
+      "lastChecked": "2026-11-06T01:36:45.421Z",
+      "lastAvailableAt": "2026-11-06T01:36:45.421Z"
     },
     "tv:311648": {
       "id": "tmdb:tv:311648",
@@ -10854,7 +10854,7 @@
       "tmdbId": 311648,
       "mediaType": "tv",
       "releaseDate": "2026-10-15",
-      "popularity": 18.5003,
+      "popularity": 21.6568,
       "firstSeen": "2026-11-05T09:42:46.971Z",
       "offers": [
         {
@@ -10870,8 +10870,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:44.294Z",
-      "lastAvailableAt": "2026-11-05T19:59:44.294Z"
+      "lastChecked": "2026-11-06T01:36:45.896Z",
+      "lastAvailableAt": "2026-11-06T01:36:45.896Z"
     },
     "tv:338973": {
       "id": "tmdb:tv:338973",
@@ -10885,7 +10885,7 @@
       "tmdbId": 338973,
       "mediaType": "tv",
       "releaseDate": "2026-10-14",
-      "popularity": 5.8099,
+      "popularity": 6.925,
       "firstSeen": "2026-11-05T09:42:47.374Z",
       "offers": [
         {
@@ -10901,8 +10901,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:44.742Z",
-      "lastAvailableAt": "2026-11-05T19:59:44.742Z"
+      "lastChecked": "2026-11-06T01:36:46.409Z",
+      "lastAvailableAt": "2026-11-06T01:36:46.409Z"
     },
     "tv:334678": {
       "id": "tmdb:tv:334678",
@@ -10916,7 +10916,7 @@
       "tmdbId": 334678,
       "mediaType": "tv",
       "releaseDate": "2026-10-13",
-      "popularity": 2.5661,
+      "popularity": 2.4046,
       "firstSeen": "2026-11-05T09:42:47.778Z",
       "offers": [
         {
@@ -10932,8 +10932,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:45.174Z",
-      "lastAvailableAt": "2026-11-05T19:59:45.174Z"
+      "lastChecked": "2026-11-06T01:36:46.881Z",
+      "lastAvailableAt": "2026-11-06T01:36:46.881Z"
     },
     "tv:338103": {
       "id": "tmdb:tv:338103",
@@ -10947,7 +10947,7 @@
       "tmdbId": 338103,
       "mediaType": "tv",
       "releaseDate": "2026-10-12",
-      "popularity": 2.2912,
+      "popularity": 2.6957,
       "firstSeen": "2026-11-05T09:42:48.184Z",
       "offers": [
         {
@@ -10963,8 +10963,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:46.028Z",
-      "lastAvailableAt": "2026-11-05T19:59:46.028Z"
+      "lastChecked": "2026-11-06T01:36:47.826Z",
+      "lastAvailableAt": "2026-11-06T01:36:47.826Z"
     },
     "tv:304452": {
       "id": "tmdb:tv:304452",
@@ -10978,7 +10978,7 @@
       "tmdbId": 304452,
       "mediaType": "tv",
       "releaseDate": "2026-10-12",
-      "popularity": 37.2675,
+      "popularity": 33.6817,
       "firstSeen": "2026-11-05T09:42:48.589Z",
       "offers": [
         {
@@ -10994,8 +10994,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:46.454Z",
-      "lastAvailableAt": "2026-11-05T19:59:46.454Z"
+      "lastChecked": "2026-11-06T01:36:48.300Z",
+      "lastAvailableAt": "2026-11-06T01:36:48.300Z"
     },
     "tv:337249": {
       "id": "tmdb:tv:337249",
@@ -11008,7 +11008,7 @@
       "tmdbId": 337249,
       "mediaType": "tv",
       "releaseDate": "2026-10-10",
-      "popularity": 0.8505,
+      "popularity": 0.7191,
       "firstSeen": "2026-11-05T09:42:48.996Z",
       "offers": [
         {
@@ -11018,8 +11018,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:46.872Z",
-      "lastAvailableAt": "2026-11-05T19:59:46.872Z"
+      "lastChecked": "2026-11-06T01:36:48.778Z",
+      "lastAvailableAt": "2026-11-06T01:36:48.778Z"
     },
     "tv:337921": {
       "id": "tmdb:tv:337921",
@@ -11032,7 +11032,7 @@
       "tmdbId": 337921,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 0.6376,
+      "popularity": 0.5854,
       "firstSeen": "2026-11-05T09:42:49.416Z",
       "offers": [
         {
@@ -11048,8 +11048,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:47.290Z",
-      "lastAvailableAt": "2026-11-05T19:59:47.290Z"
+      "lastChecked": "2026-11-06T01:36:49.259Z",
+      "lastAvailableAt": "2026-11-06T01:36:49.259Z"
     },
     "tv:337806": {
       "id": "tmdb:tv:337806",
@@ -11063,7 +11063,7 @@
       "tmdbId": 337806,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 8.2419,
+      "popularity": 8.1976,
       "firstSeen": "2026-11-05T09:42:49.822Z",
       "offers": [
         {
@@ -11079,8 +11079,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:47.708Z",
-      "lastAvailableAt": "2026-11-05T19:59:47.708Z"
+      "lastChecked": "2026-11-06T01:36:49.735Z",
+      "lastAvailableAt": "2026-11-06T01:36:49.735Z"
     },
     "tv:302020": {
       "id": "tmdb:tv:302020",
@@ -11094,7 +11094,7 @@
       "tmdbId": 302020,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 7.8596,
+      "popularity": 7.9306,
       "firstSeen": "2026-11-05T09:42:50.227Z",
       "offers": [
         {
@@ -11104,8 +11104,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:48.128Z",
-      "lastAvailableAt": "2026-11-05T19:59:48.128Z"
+      "lastChecked": "2026-11-06T01:36:50.210Z",
+      "lastAvailableAt": "2026-11-06T01:36:50.210Z"
     },
     "tv:294446": {
       "id": "tmdb:tv:294446",
@@ -11119,7 +11119,7 @@
       "tmdbId": 294446,
       "mediaType": "tv",
       "releaseDate": "2026-10-09",
-      "popularity": 7.1767,
+      "popularity": 6.2881,
       "firstSeen": "2026-11-05T09:42:50.633Z",
       "offers": [
         {
@@ -11129,8 +11129,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:48.551Z",
-      "lastAvailableAt": "2026-11-05T19:59:48.551Z"
+      "lastChecked": "2026-11-06T01:36:50.731Z",
+      "lastAvailableAt": "2026-11-06T01:36:50.731Z"
     },
     "tv:337104": {
       "id": "tmdb:tv:337104",
@@ -11143,7 +11143,7 @@
       "tmdbId": 337104,
       "mediaType": "tv",
       "releaseDate": "2026-10-08",
-      "popularity": 0.8263,
+      "popularity": 0.686,
       "firstSeen": "2026-11-05T09:42:51.041Z",
       "offers": [
         {
@@ -11153,8 +11153,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:48.973Z",
-      "lastAvailableAt": "2026-11-05T19:59:48.973Z"
+      "lastChecked": "2026-11-06T01:36:51.206Z",
+      "lastAvailableAt": "2026-11-06T01:36:51.206Z"
     },
     "tv:334323": {
       "id": "tmdb:tv:334323",
@@ -11167,7 +11167,7 @@
       "tmdbId": 334323,
       "mediaType": "tv",
       "releaseDate": "2026-10-08",
-      "popularity": 2.6665,
+      "popularity": 2.4384,
       "firstSeen": "2026-11-05T09:42:51.446Z",
       "offers": [
         {
@@ -11183,8 +11183,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:49.402Z",
-      "lastAvailableAt": "2026-11-05T19:59:49.402Z"
+      "lastChecked": "2026-11-06T01:36:51.684Z",
+      "lastAvailableAt": "2026-11-06T01:36:51.684Z"
     },
     "tv:313630": {
       "id": "tmdb:tv:313630",
@@ -11198,7 +11198,7 @@
       "tmdbId": 313630,
       "mediaType": "tv",
       "releaseDate": "2026-10-08",
-      "popularity": 8.9146,
+      "popularity": 8.7514,
       "firstSeen": "2026-11-05T09:42:51.849Z",
       "offers": [
         {
@@ -11250,8 +11250,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:49.825Z",
-      "lastAvailableAt": "2026-11-05T19:59:49.825Z"
+      "lastChecked": "2026-11-06T01:36:52.158Z",
+      "lastAvailableAt": "2026-11-06T01:36:52.158Z"
     },
     "tv:303630": {
       "id": "tmdb:tv:303630",
@@ -11352,11 +11352,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
       "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.5",
       "tmdbId": 1570488,
       "mediaType": "movie",
       "releaseDate": "2026-11-04",
-      "popularity": 51.6633,
+      "popularity": 84.1261,
       "firstSeen": "2026-11-05T19:57:42.383Z",
       "offers": [
         {
@@ -11384,8 +11384,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:42.383Z",
-      "lastAvailableAt": "2026-11-05T19:57:42.383Z"
+      "lastChecked": "2026-11-06T01:34:28.197Z",
+      "lastAvailableAt": "2026-11-06T01:34:28.197Z"
     },
     "movie:1815857": {
       "id": "tmdb:movie:1815857",
@@ -11398,7 +11398,7 @@
       "tmdbId": 1815857,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 0.2655,
+      "popularity": 0.2149,
       "firstSeen": "2026-11-05T19:57:46.214Z",
       "offers": [
         {
@@ -11426,8 +11426,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:46.214Z",
-      "lastAvailableAt": "2026-11-05T19:57:46.214Z"
+      "lastChecked": "2026-11-06T01:34:32.601Z",
+      "lastAvailableAt": "2026-11-06T01:34:32.601Z"
     },
     "movie:1294189": {
       "id": "tmdb:movie:1294189",
@@ -11437,11 +11437,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
       "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.2",
       "tmdbId": 1294189,
       "mediaType": "movie",
       "releaseDate": "2026-11-04",
-      "popularity": 197.1989,
+      "popularity": 219.4395,
       "firstSeen": "2026-11-05T19:57:50.533Z",
       "offers": [
         {
@@ -11469,8 +11469,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:50.533Z",
-      "lastAvailableAt": "2026-11-05T19:57:50.533Z"
+      "lastChecked": "2026-11-06T01:34:37.409Z",
+      "lastAvailableAt": "2026-11-06T01:34:37.409Z"
     },
     "movie:1812753": {
       "id": "tmdb:movie:1812753",
@@ -11484,7 +11484,7 @@
       "tmdbId": 1812753,
       "mediaType": "movie",
       "releaseDate": "2026-10-26",
-      "popularity": 0.4329,
+      "popularity": 0.4857,
       "firstSeen": "2026-11-05T19:57:54.355Z",
       "offers": [
         {
@@ -11494,8 +11494,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:57:54.355Z",
-      "lastAvailableAt": "2026-11-05T19:57:54.355Z"
+      "lastChecked": "2026-11-06T01:34:41.826Z",
+      "lastAvailableAt": "2026-11-06T01:34:41.826Z"
     },
     "movie:1801542": {
       "id": "tmdb:movie:1801542",
@@ -11509,7 +11509,7 @@
       "tmdbId": 1801542,
       "mediaType": "movie",
       "releaseDate": "2026-10-16",
-      "popularity": 2.3934,
+      "popularity": 2.0954,
       "firstSeen": "2026-11-05T19:58:05.961Z",
       "offers": [
         {
@@ -11519,8 +11519,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:05.961Z",
-      "lastAvailableAt": "2026-11-05T19:58:05.961Z"
+      "lastChecked": "2026-11-06T01:34:54.981Z",
+      "lastAvailableAt": "2026-11-06T01:34:54.981Z"
     },
     "movie:1797373": {
       "id": "tmdb:movie:1797373",
@@ -11533,7 +11533,7 @@
       "tmdbId": 1797373,
       "mediaType": "movie",
       "releaseDate": "2026-10-14",
-      "popularity": 0.3372,
+      "popularity": 0.3236,
       "firstSeen": "2026-11-05T19:58:11.543Z",
       "offers": [
         {
@@ -11549,8 +11549,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:11.543Z",
-      "lastAvailableAt": "2026-11-05T19:58:11.543Z"
+      "lastChecked": "2026-11-06T01:35:01.355Z",
+      "lastAvailableAt": "2026-11-06T01:35:01.355Z"
     },
     "movie:1797370": {
       "id": "tmdb:movie:1797370",
@@ -11563,7 +11563,7 @@
       "tmdbId": 1797370,
       "mediaType": "movie",
       "releaseDate": "2026-10-14",
-      "popularity": 0.2292,
+      "popularity": 0.2497,
       "firstSeen": "2026-11-05T19:58:11.975Z",
       "offers": [
         {
@@ -11579,8 +11579,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:11.975Z",
-      "lastAvailableAt": "2026-11-05T19:58:11.975Z"
+      "lastChecked": "2026-11-06T01:35:01.831Z",
+      "lastAvailableAt": "2026-11-06T01:35:01.831Z"
     },
     "movie:1797367": {
       "id": "tmdb:movie:1797367",
@@ -11593,7 +11593,7 @@
       "tmdbId": 1797367,
       "mediaType": "movie",
       "releaseDate": "2026-10-14",
-      "popularity": 0.2215,
+      "popularity": 0.3504,
       "firstSeen": "2026-11-05T19:58:12.409Z",
       "offers": [
         {
@@ -11609,8 +11609,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:12.409Z",
-      "lastAvailableAt": "2026-11-05T19:58:12.409Z"
+      "lastChecked": "2026-11-06T01:35:02.309Z",
+      "lastAvailableAt": "2026-11-06T01:35:02.309Z"
     },
     "movie:1794189": {
       "id": "tmdb:movie:1794189",
@@ -11623,7 +11623,7 @@
       "tmdbId": 1794189,
       "mediaType": "movie",
       "releaseDate": "2026-10-13",
-      "popularity": 0.2275,
+      "popularity": 0.1927,
       "firstSeen": "2026-11-05T19:58:13.685Z",
       "offers": [
         {
@@ -11639,8 +11639,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:13.685Z",
-      "lastAvailableAt": "2026-11-05T19:58:13.685Z"
+      "lastChecked": "2026-11-06T01:35:03.873Z",
+      "lastAvailableAt": "2026-11-06T01:35:03.873Z"
     },
     "movie:1815546": {
       "id": "tmdb:movie:1815546",
@@ -11653,7 +11653,7 @@
       "tmdbId": 1815546,
       "mediaType": "movie",
       "releaseDate": "2026-11-03",
-      "popularity": 0.3755,
+      "popularity": 0.2601,
       "firstSeen": "2026-11-05T19:58:25.652Z",
       "offers": [
         {
@@ -11669,8 +11669,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:25.652Z",
-      "lastAvailableAt": "2026-11-05T19:58:25.652Z"
+      "lastChecked": "2026-11-06T01:35:15.936Z",
+      "lastAvailableAt": "2026-11-06T01:35:15.936Z"
     },
     "movie:1813276": {
       "id": "tmdb:movie:1813276",
@@ -11683,7 +11683,7 @@
       "tmdbId": 1813276,
       "mediaType": "movie",
       "releaseDate": "2026-10-30",
-      "popularity": 0.976,
+      "popularity": 1.0086,
       "firstSeen": "2026-11-05T19:58:28.592Z",
       "offers": [
         {
@@ -11693,8 +11693,8 @@
           "monetization": "ads"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:28.592Z",
-      "lastAvailableAt": "2026-11-05T19:58:28.592Z"
+      "lastChecked": "2026-11-06T01:35:19.391Z",
+      "lastAvailableAt": "2026-11-06T01:35:19.391Z"
     },
     "movie:1427540": {
       "id": "tmdb:movie:1427540",
@@ -11707,7 +11707,7 @@
       "tmdbId": 1427540,
       "mediaType": "movie",
       "releaseDate": "2026-10-29",
-      "popularity": 2.4306,
+      "popularity": 2.3041,
       "firstSeen": "2026-11-05T19:58:32.004Z",
       "offers": [
         {
@@ -11723,8 +11723,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:32.004Z",
-      "lastAvailableAt": "2026-11-05T19:58:32.004Z"
+      "lastChecked": "2026-11-06T01:35:23.207Z",
+      "lastAvailableAt": "2026-11-06T01:35:23.207Z"
     },
     "movie:1814426": {
       "id": "tmdb:movie:1814426",
@@ -11737,7 +11737,7 @@
       "tmdbId": 1814426,
       "mediaType": "movie",
       "releaseDate": "2026-10-28",
-      "popularity": 0.069,
+      "popularity": 0.1492,
       "firstSeen": "2026-11-05T19:58:32.436Z",
       "offers": [
         {
@@ -11753,8 +11753,8 @@
           "monetization": "buy"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:32.436Z",
-      "lastAvailableAt": "2026-11-05T19:58:32.436Z"
+      "lastChecked": "2026-11-06T01:35:23.724Z",
+      "lastAvailableAt": "2026-11-06T01:35:23.724Z"
     },
     "movie:1801244": {
       "id": "tmdb:movie:1801244",
@@ -11767,7 +11767,7 @@
       "tmdbId": 1801244,
       "mediaType": "movie",
       "releaseDate": "2026-10-20",
-      "popularity": 0.3125,
+      "popularity": 0.2466,
       "firstSeen": "2026-11-05T19:58:40.141Z",
       "offers": [
         {
@@ -11777,8 +11777,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:40.141Z",
-      "lastAvailableAt": "2026-11-05T19:58:40.141Z"
+      "lastChecked": "2026-11-06T01:35:32.422Z",
+      "lastAvailableAt": "2026-11-06T01:35:32.422Z"
     },
     "tv:338684": {
       "id": "tmdb:tv:338684",
@@ -11788,11 +11788,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
       "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "7.7",
       "tmdbId": 338684,
       "mediaType": "tv",
       "releaseDate": "2026-11-04",
-      "popularity": 8.0986,
+      "popularity": 10.1695,
       "firstSeen": "2026-11-05T19:58:49.700Z",
       "offers": [
         {
@@ -11820,8 +11820,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:49.700Z",
-      "lastAvailableAt": "2026-11-05T19:58:49.700Z"
+      "lastChecked": "2026-11-06T01:35:43.593Z",
+      "lastAvailableAt": "2026-11-06T01:35:43.593Z"
     },
     "tv:312006": {
       "id": "tmdb:tv:312006",
@@ -11831,11 +11831,11 @@
       "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
       "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "8",
       "tmdbId": 312006,
       "mediaType": "tv",
       "releaseDate": "2026-11-04",
-      "popularity": 20.3124,
+      "popularity": 22.8351,
       "firstSeen": "2026-11-05T19:58:50.130Z",
       "offers": [
         {
@@ -11863,8 +11863,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:50.130Z",
-      "lastAvailableAt": "2026-11-05T19:58:50.130Z"
+      "lastChecked": "2026-11-06T01:35:44.069Z",
+      "lastAvailableAt": "2026-11-06T01:35:44.069Z"
     },
     "tv:258989": {
       "id": "tmdb:tv:258989",
@@ -11878,7 +11878,7 @@
       "tmdbId": 258989,
       "mediaType": "tv",
       "releaseDate": "2026-11-04",
-      "popularity": 36.4781,
+      "popularity": 46.23,
       "firstSeen": "2026-11-05T19:58:50.975Z",
       "offers": [
         {
@@ -11906,8 +11906,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:58:50.975Z",
-      "lastAvailableAt": "2026-11-05T19:58:50.975Z"
+      "lastChecked": "2026-11-06T01:35:45.056Z",
+      "lastAvailableAt": "2026-11-06T01:35:45.056Z"
     },
     "tv:340366": {
       "id": "tmdb:tv:340366",
@@ -11920,7 +11920,7 @@
       "tmdbId": 340366,
       "mediaType": "tv",
       "releaseDate": "2026-11-04",
-      "popularity": 0.7655,
+      "popularity": 0.4502,
       "firstSeen": "2026-11-05T19:59:32.315Z",
       "offers": [
         {
@@ -11930,8 +11930,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:32.315Z",
-      "lastAvailableAt": "2026-11-05T19:59:32.315Z"
+      "lastChecked": "2026-11-06T01:36:32.500Z",
+      "lastAvailableAt": "2026-11-06T01:36:32.500Z"
     },
     "tv:279246": {
       "id": "tmdb:tv:279246",
@@ -11945,7 +11945,7 @@
       "tmdbId": 279246,
       "mediaType": "tv",
       "releaseDate": "2026-11-03",
-      "popularity": 109.3984,
+      "popularity": 155.6144,
       "firstSeen": "2026-11-05T19:59:33.170Z",
       "offers": [
         {
@@ -11955,8 +11955,8 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:33.170Z",
-      "lastAvailableAt": "2026-11-05T19:59:33.170Z"
+      "lastChecked": "2026-11-06T01:36:33.487Z",
+      "lastAvailableAt": "2026-11-06T01:36:33.487Z"
     },
     "tv:334351": {
       "id": "tmdb:tv:334351",
@@ -11970,7 +11970,7 @@
       "tmdbId": 334351,
       "mediaType": "tv",
       "releaseDate": "2026-10-13",
-      "popularity": 2.1845,
+      "popularity": 1.8816,
       "firstSeen": "2026-11-05T19:59:45.599Z",
       "offers": [
         {
@@ -11986,8 +11986,206 @@
           "monetization": "flatrate"
         }
       ],
-      "lastChecked": "2026-11-05T19:59:45.599Z",
-      "lastAvailableAt": "2026-11-05T19:59:45.599Z"
+      "lastChecked": "2026-11-06T01:36:47.352Z",
+      "lastAvailableAt": "2026-11-06T01:36:47.352Z"
+    },
+    "movie:1801799": {
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "firstSeen": "2026-11-06T01:34:26.169Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 8,
+          "provider": "Netflix",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 119,
+          "provider": "Amazon Prime Video",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 1967,
+          "provider": "Molotov TV",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 1796,
+          "provider": "Netflix Standard with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 2100,
+          "provider": "Amazon Prime Video with Ads",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 35,
+          "provider": "Rakuten TV",
+          "monetization": "rent"
+        },
+        {
+          "region": "FR",
+          "providerId": 35,
+          "provider": "Rakuten TV",
+          "monetization": "buy"
+        },
+        {
+          "region": "FR",
+          "providerId": 35,
+          "provider": "Rakuten TV",
+          "monetization": "ads"
+        },
+        {
+          "region": "CA",
+          "providerId": 2,
+          "provider": "Apple TV Store",
+          "monetization": "rent"
+        },
+        {
+          "region": "CA",
+          "providerId": 2,
+          "provider": "Apple TV Store",
+          "monetization": "buy"
+        },
+        {
+          "region": "CA",
+          "providerId": 73,
+          "provider": "Tubi TV",
+          "monetization": "ads"
+        }
+      ],
+      "lastChecked": "2026-11-06T01:34:26.169Z",
+      "lastAvailableAt": "2026-11-06T01:34:26.169Z"
+    },
+    "movie:1446589": {
+      "id": "tmdb:movie:1446589",
+      "type": "movie",
+      "name": "Wanderer",
+      "poster": "https://image.tmdb.org/t/p/w500/xEhH4BUlxhqQt6ClDONwBUpkmbP.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1446589,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.3156,
+      "firstSeen": "2026-11-06T01:34:26.684Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 559,
+          "provider": "Filmzie",
+          "monetization": "ads"
+        },
+        {
+          "region": "CA",
+          "providerId": 559,
+          "provider": "Filmzie",
+          "monetization": "ads"
+        }
+      ],
+      "lastChecked": "2026-11-06T01:34:26.684Z",
+      "lastAvailableAt": "2026-11-06T01:34:26.684Z"
+    },
+    "movie:1058588": {
+      "id": "tmdb:movie:1058588",
+      "type": "movie",
+      "name": "The Invisible Guest",
+      "poster": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1058588,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 1.5143,
+      "firstSeen": "2026-11-06T01:34:27.159Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 1899,
+          "provider": "HBO Max",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 1825,
+          "provider": "HBO Max Amazon Channel",
+          "monetization": "flatrate"
+        }
+      ],
+      "lastChecked": "2026-11-06T01:34:27.159Z",
+      "lastAvailableAt": "2026-11-06T01:34:27.159Z"
+    },
+    "movie:1665638": {
+      "id": "tmdb:movie:1665638",
+      "type": "movie",
+      "name": "Les Homards",
+      "poster": "https://image.tmdb.org/t/p/w500/4Aztj0zNbQOXyZn4KyaSG3nk58G.jpg",
+      "background": null,
+      "description": "Entouré de ses meilleurs amis pour enterrer sa vie de garçon dans la maison de vacances familiale, Sami croise une amie d’enfance qui l’accuse d’avoir d’abusé d’elle quelques années plus tôt. Tout au long du weekend, Sami navigue à travers sa conscience, parfois mal avisé, parfois bousculé par ses amis. Pour reconnaitre la vérité, il va devoir briser et abandonner sa carapace.",
+      "releaseInfo": "2026",
+      "tmdbId": 1665638,
+      "mediaType": "movie",
+      "releaseDate": "2026-04-02",
+      "popularity": 0.8799,
+      "firstSeen": "2026-11-06T01:34:27.639Z",
+      "offers": [
+        {
+          "region": "FR",
+          "providerId": 193,
+          "provider": "SFR Play",
+          "monetization": "flatrate"
+        },
+        {
+          "region": "FR",
+          "providerId": 2793,
+          "provider": "TV5 Monde+",
+          "monetization": "ads"
+        }
+      ],
+      "lastChecked": "2026-11-06T01:34:27.639Z",
+      "lastAvailableAt": "2026-11-06T01:34:27.639Z"
+    },
+    "movie:1815678": {
+      "id": "tmdb:movie:1815678",
+      "type": "movie",
+      "name": "DON'T TRUST",
+      "poster": "https://image.tmdb.org/t/p/w500/nXVltaqBSLbPur5zRbp5KoTDJJJ.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815678,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.0977,
+      "firstSeen": "2026-11-06T01:35:14.989Z",
+      "offers": [
+        {
+          "region": "CA",
+          "providerId": 73,
+          "provider": "Tubi TV",
+          "monetization": "ads"
+        }
+      ],
+      "lastChecked": "2026-11-06T01:35:14.989Z",
+      "lastAvailableAt": "2026-11-06T01:35:14.989Z"
     }
   },
   "events": [
@@ -13045,8 +13243,350 @@
       "provider": "Amazon Prime Video with Ads",
       "monetization": "flatrate",
       "detectedAt": "2026-11-05T19:59:45.599Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 8,
+      "provider": "Netflix",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 119,
+      "provider": "Amazon Prime Video",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 1967,
+      "provider": "Molotov TV",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 1796,
+      "provider": "Netflix Standard with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 2100,
+      "provider": "Amazon Prime Video with Ads",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 35,
+      "provider": "Rakuten TV",
+      "monetization": "rent",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 35,
+      "provider": "Rakuten TV",
+      "monetization": "buy",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "FR",
+      "providerId": 35,
+      "provider": "Rakuten TV",
+      "monetization": "ads",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "CA",
+      "providerId": 2,
+      "provider": "Apple TV Store",
+      "monetization": "rent",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "CA",
+      "providerId": 2,
+      "provider": "Apple TV Store",
+      "monetization": "buy",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1801799",
+      "type": "movie",
+      "name": "홈커밍",
+      "poster": null,
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1801799,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.1623,
+      "region": "CA",
+      "providerId": 73,
+      "provider": "Tubi TV",
+      "monetization": "ads",
+      "detectedAt": "2026-11-06T01:34:26.169Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1446589",
+      "type": "movie",
+      "name": "Wanderer",
+      "poster": "https://image.tmdb.org/t/p/w500/xEhH4BUlxhqQt6ClDONwBUpkmbP.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1446589,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.3156,
+      "region": "FR",
+      "providerId": 559,
+      "provider": "Filmzie",
+      "monetization": "ads",
+      "detectedAt": "2026-11-06T01:34:26.684Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1446589",
+      "type": "movie",
+      "name": "Wanderer",
+      "poster": "https://image.tmdb.org/t/p/w500/xEhH4BUlxhqQt6ClDONwBUpkmbP.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1446589,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.3156,
+      "region": "CA",
+      "providerId": 559,
+      "provider": "Filmzie",
+      "monetization": "ads",
+      "detectedAt": "2026-11-06T01:34:26.684Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1058588",
+      "type": "movie",
+      "name": "The Invisible Guest",
+      "poster": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1058588,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 1.5143,
+      "region": "FR",
+      "providerId": 1899,
+      "provider": "HBO Max",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:27.159Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1058588",
+      "type": "movie",
+      "name": "The Invisible Guest",
+      "poster": "https://image.tmdb.org/t/p/w500/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1058588,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 1.5143,
+      "region": "FR",
+      "providerId": 1825,
+      "provider": "HBO Max Amazon Channel",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:27.159Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1665638",
+      "type": "movie",
+      "name": "Les Homards",
+      "poster": "https://image.tmdb.org/t/p/w500/4Aztj0zNbQOXyZn4KyaSG3nk58G.jpg",
+      "background": null,
+      "description": "Entouré de ses meilleurs amis pour enterrer sa vie de garçon dans la maison de vacances familiale, Sami croise une amie d’enfance qui l’accuse d’avoir d’abusé d’elle quelques années plus tôt. Tout au long du weekend, Sami navigue à travers sa conscience, parfois mal avisé, parfois bousculé par ses amis. Pour reconnaitre la vérité, il va devoir briser et abandonner sa carapace.",
+      "releaseInfo": "2026",
+      "tmdbId": 1665638,
+      "mediaType": "movie",
+      "releaseDate": "2026-04-02",
+      "popularity": 0.8799,
+      "region": "FR",
+      "providerId": 193,
+      "provider": "SFR Play",
+      "monetization": "flatrate",
+      "detectedAt": "2026-11-06T01:34:27.639Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1665638",
+      "type": "movie",
+      "name": "Les Homards",
+      "poster": "https://image.tmdb.org/t/p/w500/4Aztj0zNbQOXyZn4KyaSG3nk58G.jpg",
+      "background": null,
+      "description": "Entouré de ses meilleurs amis pour enterrer sa vie de garçon dans la maison de vacances familiale, Sami croise une amie d’enfance qui l’accuse d’avoir d’abusé d’elle quelques années plus tôt. Tout au long du weekend, Sami navigue à travers sa conscience, parfois mal avisé, parfois bousculé par ses amis. Pour reconnaitre la vérité, il va devoir briser et abandonner sa carapace.",
+      "releaseInfo": "2026",
+      "tmdbId": 1665638,
+      "mediaType": "movie",
+      "releaseDate": "2026-04-02",
+      "popularity": 0.8799,
+      "region": "FR",
+      "providerId": 2793,
+      "provider": "TV5 Monde+",
+      "monetization": "ads",
+      "detectedAt": "2026-11-06T01:34:27.639Z"
+    },
+    {
+      "action": "added",
+      "id": "tmdb:movie:1815678",
+      "type": "movie",
+      "name": "DON'T TRUST",
+      "poster": "https://image.tmdb.org/t/p/w500/nXVltaqBSLbPur5zRbp5KoTDJJJ.jpg",
+      "background": null,
+      "description": "",
+      "releaseInfo": "2026",
+      "tmdbId": 1815678,
+      "mediaType": "movie",
+      "releaseDate": "2026-11-06",
+      "popularity": 0.0977,
+      "region": "CA",
+      "providerId": 73,
+      "provider": "Tubi TV",
+      "monetization": "ads",
+      "detectedAt": "2026-11-06T01:35:14.989Z"
     }
   ],
-  "lastRun": "2026-11-05T19:59:49.834Z",
+  "lastRun": "2026-11-06T01:36:52.165Z",
   "bootstrapped": true
 }

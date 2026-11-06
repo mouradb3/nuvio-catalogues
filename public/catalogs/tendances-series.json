@@ -8,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "description": "Une nouvelle version de Vision ayant échappé à ceux qui cherchaient à faire de lui une arme, vit dans la clandestinité. En quête d’un nouveau sens à sa vie, il consulte les IA intégrées à son programme, notamment Friday, Edith, Jarvis et le tristement célèbre Ultron. Son existence discrète prend fin lorsque sa tête est mise à prix, le contraignant à prendre la fuite avec Thomas Shepherd, un garçon mystérieux qui pourrait bien être la réincarnation du fils de Vision. Tout en échappant à ses poursuivants, Vision doit se confronter à sa propre nature, résister à l’influence d’Ultron et percer le mystère qui entoure son jeune compagnon s’il veut survivre.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
+      "imdbRating": "8.6",
       "links": [
         {
           "name": "TMDB",
@@ -25,7 +25,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "description": "Croulant sous les dettes, un jeune homme enchaîne les petits boulots très lucratifs que lui propose une mystérieuse agence, mais sa course à l'argent tourne au cauchemar.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -86,6 +86,40 @@
       ]
     },
     {
+      "id": "tmdb:tv:303745",
+      "type": "series",
+      "name": "L'amour sous couverture",
+      "poster": "https://image.tmdb.org/t/p/w500/xima3BlIJxlrONQgZ9mYuSLAq0f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+      "description": "Yoon Yi-jun, successeur du groupe Taekang, est le principal suspect d'un terrible meurtre. Pour découvrir la vérité, l'inspectrice Kang Jae-hee s'infiltre auprès de lui en se faisant passer pour son secrétaire. Mais plus elle se rapproche de la vérité, plus ils se rapprochent l'un de l'autre. Entre Jae-hee sous couverture et Yi-jun qui cache un secret, pourront-ils s'avouer leurs sentiments ?",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303745"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:300146",
+      "type": "series",
+      "name": "Sous le masque",
+      "poster": "https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+      "description": "Wei Rao, jeune femme noble, est obligée de se marier avec le prince Lu Zuo, alors que celui-ci est dans le coma et proche de la mort. Elle force alors Ah Chou, une jeune fille ordinaire dont la seule caractéristique est sa ressemblance frappante avec Wei Rao, à prendre sa place au mariage. Mais Lu Zuo se réveille précisément le jour des noces... Ah Chou doit maintenant faire face à Wei Rao, qui veut récupérer sa place, à Lu Zuo, qui la prend pour cette vipère de Wei Rao, mais aussi à toute la demeure du prince qui est pleine de pièges et de complots.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/300146"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:213562",
       "type": "series",
       "name": "Crystal Lake",
@@ -120,40 +154,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:300146",
-      "type": "series",
-      "name": "Sous le masque",
-      "poster": "https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "description": "Wei Rao, jeune femme noble, est obligée de se marier avec le prince Lu Zuo, alors que celui-ci est dans le coma et proche de la mort. Elle force alors Ah Chou, une jeune fille ordinaire dont la seule caractéristique est sa ressemblance frappante avec Wei Rao, à prendre sa place au mariage. Mais Lu Zuo se réveille précisément le jour des noces... Ah Chou doit maintenant faire face à Wei Rao, qui veut récupérer sa place, à Lu Zuo, qui la prend pour cette vipère de Wei Rao, mais aussi à toute la demeure du prince qui est pleine de pièges et de complots.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/300146"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:303745",
-      "type": "series",
-      "name": "L'amour sous couverture",
-      "poster": "https://image.tmdb.org/t/p/w500/xima3BlIJxlrONQgZ9mYuSLAq0f.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-      "description": "Yoon Yi-jun, successeur du groupe Taekang, est le principal suspect d'un terrible meurtre. Pour découvrir la vérité, l'inspectrice Kang Jae-hee s'infiltre auprès de lui en se faisant passer pour son secrétaire. Mais plus elle se rapproche de la vérité, plus ils se rapprochent l'un de l'autre. Entre Jae-hee sous couverture et Yi-jun qui cache un secret, pourront-ils s'avouer leurs sentiments ?",
-      "releaseInfo": "2026",
-      "imdbRating": "9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/303745"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:288673",
       "type": "series",
       "name": "Carrie",
@@ -167,6 +167,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/288673"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "The Greatest",
+      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
         }
       ]
     },
@@ -195,7 +212,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
       "description": "Dans un Far West steampunk sous la coupe des hors-la-loi, des machines et de forces surnaturelles, un père de famille doit se faire juge, juré et bourreau pour protéger les siens.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -222,23 +239,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:258989",
-      "type": "series",
-      "name": "The Greatest",
-      "poster": "https://image.tmdb.org/t/p/w500/rCYv5ZKtiwqNCRtHDoDA7kgoi9X.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/258989"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:289423",
       "type": "series",
       "name": "Recharge mon Coeur",
@@ -256,23 +256,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:285322",
-      "type": "series",
-      "name": "Below",
-      "poster": "https://image.tmdb.org/t/p/w500/fG6ODXfXVJbIrFxzQv9BhnTomPc.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "description": "Lorsqu'une mystérieuse créature marine sème la terreur dans un petit village de Terre-Neuve, un pêcheur endurci et sa famille luttent pour protéger leur communauté très soudée.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285322"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:293607",
       "type": "series",
       "name": "100 jours en espionne",
@@ -286,6 +269,23 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/293607"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:285322",
+      "type": "series",
+      "name": "Below",
+      "poster": "https://image.tmdb.org/t/p/w500/fG6ODXfXVJbIrFxzQv9BhnTomPc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "description": "Lorsqu'une mystérieuse créature marine sème la terreur dans un petit village de Terre-Neuve, un pêcheur endurci et sa famille luttent pour protéger leur communauté très soudée.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285322"
         }
       ]
     },
@@ -375,36 +375,19 @@
       ]
     },
     {
-      "id": "tmdb:tv:313699",
+      "id": "tmdb:tv:312006",
       "type": "series",
-      "name": "Balaraw : Blood Island",
-      "poster": "https://image.tmdb.org/t/p/w500/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
-      "description": "À la recherche de sa mère disparue, une femme se retrouve sur l'île sinistre de Balaraw et doit lutter pour sa survie et sa propre identité sur fond de secrets inavouables.",
+      "name": "Anesthésie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/313699"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:316702",
-      "type": "series",
-      "name": "La Table finale",
-      "poster": "https://image.tmdb.org/t/p/w500/vJkXnYfInP14oW2VEoh7Qzi5DgP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-      "description": "L'émission \"La Table : K-Chef 2026\" voit les meilleurs chefs coréens s'affronter. Le mystérieux Kang Han, surnommé \"chef Chris K\", Choi Song-yi, qui se bat pour sauver son restaurant, Cha Woo-jin, un perfectionniste étoilé, et bien d'autres chefs aux parcours variés s'engagent dans une bataille culinaire acharnée. Au-delà de la compétition, ils trouvent du réconfort à cuisiner et à se soutenir.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/316702"
+          "url": "https://www.themoviedb.org/tv/312006"
         }
       ]
     },
@@ -460,19 +443,53 @@
       ]
     },
     {
-      "id": "tmdb:tv:312006",
+      "id": "tmdb:tv:313699",
       "type": "series",
-      "name": "Anesthésie",
-      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
-      "description": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+      "name": "Balaraw : Blood Island",
+      "poster": "https://image.tmdb.org/t/p/w500/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+      "description": "À la recherche de sa mère disparue, une femme se retrouve sur l'île sinistre de Balaraw et doit lutter pour sa survie et sa propre identité sur fond de secrets inavouables.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/312006"
+          "url": "https://www.themoviedb.org/tv/313699"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:316702",
+      "type": "series",
+      "name": "La Table finale",
+      "poster": "https://image.tmdb.org/t/p/w500/vJkXnYfInP14oW2VEoh7Qzi5DgP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+      "description": "L'émission \"La Table : K-Chef 2026\" voit les meilleurs chefs coréens s'affronter. Le mystérieux Kang Han, surnommé \"chef Chris K\", Choi Song-yi, qui se bat pour sauver son restaurant, Cha Woo-jin, un perfectionniste étoilé, et bien d'autres chefs aux parcours variés s'engagent dans une bataille culinaire acharnée. Au-delà de la compétition, ils trouvent du réconfort à cuisiner et à se soutenir.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/316702"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:295420",
+      "type": "series",
+      "name": "The Vermilion Mask",
+      "poster": "https://image.tmdb.org/t/p/w500/zDxrIp9cRKAjOPutX52DAJopEjZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
+      "description": "Apprenti fabricant de masques, Peru aurait dû connaître les dangers liés à ces artefacts. Possédé par le Masque du Dieu Guerrier, il tue involontairement ses amis et son maître, le légendaire Gaston Roux. Rongé par la culpabilité, Peru jure de détruire tous les masques créés par son maître avant qu’une nouvelle tragédie ne se produise.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/295420"
         }
       ]
     },
@@ -511,23 +528,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:295420",
-      "type": "series",
-      "name": "The Vermilion Mask",
-      "poster": "https://image.tmdb.org/t/p/w500/zDxrIp9cRKAjOPutX52DAJopEjZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
-      "description": "Apprenti fabricant de masques, Peru aurait dû connaître les dangers liés à ces artefacts. Possédé par le Masque du Dieu Guerrier, il tue involontairement ses amis et son maître, le légendaire Gaston Roux. Rongé par la culpabilité, Peru jure de détruire tous les masques créés par son maître avant qu’une nouvelle tragédie ne se produise.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/295420"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:338689",
       "type": "series",
       "name": "La Chute d'El Mayo",
@@ -558,22 +558,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/311853"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:288588",
-      "type": "series",
-      "name": "Full Clearing Another World Under a Goddess with Zero Believers",
-      "poster": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4hKtdyTXt4O2hy4zqadlENY1qpM.jpg",
-      "description": "Takatsuki Makoto, un lycéen accro aux jeux vidéo, est transporté dans un autre monde avec ses camarades de classe après une mésaventure sur le chemin du retour d'un camp d'entraînement. Les dieux de l'autre monde leur ont tous donné des capacités de triche, mais pour une raison qui lui échappe, Makoto est le seul qui soit inférieur à la moyenne, un apprenti magicien. Leur objectif est de sauver Noa, une déesse mineure qui est piégée dans un donjon inaccessible à l'humanité. Avec la bénédiction de Noa et les artefacts divins en main, Makoto se met en route pour devenir le plus fort d'une manière peu orthodoxe.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/288588"
         }
       ]
     },
@@ -612,19 +596,18 @@
       ]
     },
     {
-      "id": "tmdb:tv:334779",
+      "id": "tmdb:tv:288588",
       "type": "series",
-      "name": "Now That I Can Control Reality With A Mouse Cursor, I’m Gonna Click Away On The Girls!",
-      "poster": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2YCsvsdWbbT9HT2EK4024JRSF5f.jpg",
-      "description": "Otaku solitaire et introverti, Takumi n’a d’yeux que pour Mone, son amie d’enfance qui le traite pourtant avec mépris. Mais un jour, pendant un cours d’informatique, il découvre avec stupeur que son curseur est capable de sortir de l’écran et d’altérer la réalité en se pliant à ses désirs. Voyant dans ce mystérieux pouvoir l’occasion rêvée de prendre sa revanche sur Mone, Takumi s’amuse à provoquer la jeune fille en jouant avec cet outil pas comme les autres…",
+      "name": "Full Clearing Another World Under a Goddess with Zero Believers",
+      "poster": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4hKtdyTXt4O2hy4zqadlENY1qpM.jpg",
+      "description": "Takatsuki Makoto, un lycéen accro aux jeux vidéo, est transporté dans un autre monde avec ses camarades de classe après une mésaventure sur le chemin du retour d'un camp d'entraînement. Les dieux de l'autre monde leur ont tous donné des capacités de triche, mais pour une raison qui lui échappe, Makoto est le seul qui soit inférieur à la moyenne, un apprenti magicien. Leur objectif est de sauver Noa, une déesse mineure qui est piégée dans un donjon inaccessible à l'humanité. Avec la bénédiction de Noa et les artefacts divins en main, Makoto se met en route pour devenir le plus fort d'une manière peu orthodoxe.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/334779"
+          "url": "https://www.themoviedb.org/tv/288588"
         }
       ]
     },
@@ -646,19 +629,35 @@
       ]
     },
     {
-      "id": "tmdb:tv:332649",
+      "id": "tmdb:tv:334779",
       "type": "series",
-      "name": "真田十勇士 SHADOWS OF THE TEN NINJA",
-      "poster": "https://image.tmdb.org/t/p/w500/ax5C1W79usiYKDJkgTOAZrDKwmj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
-      "description": "",
+      "name": "Now That I Can Control Reality With A Mouse Cursor, I’m Gonna Click Away On The Girls!",
+      "poster": "https://image.tmdb.org/t/p/w500/2jq1jDGlv0k7icIfDrt17uZerEx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2YCsvsdWbbT9HT2EK4024JRSF5f.jpg",
+      "description": "Otaku solitaire et introverti, Takumi n’a d’yeux que pour Mone, son amie d’enfance qui le traite pourtant avec mépris. Mais un jour, pendant un cours d’informatique, il découvre avec stupeur que son curseur est capable de sortir de l’écran et d’altérer la réalité en se pliant à ses désirs. Voyant dans ce mystérieux pouvoir l’occasion rêvée de prendre sa revanche sur Mone, Takumi s’amuse à provoquer la jeune fille en jouant avec cet outil pas comme les autres…",
       "releaseInfo": "2026",
-      "imdbRating": "4",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/332649"
+          "url": "https://www.themoviedb.org/tv/334779"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:316891",
+      "type": "series",
+      "name": "The Cold Sato-san Is Only Sweet to Me",
+      "poster": "https://image.tmdb.org/t/p/w500/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
+      "description": "Sato Koharu est une jeune fille dont la beauté est appréciée par tous ses camarades de classe. Mais elle est aussi réputée pour se montrer toujours très froide avec eux. D'innombrables personnes ont été brisées par sa froideur alors qu'elles essayaient de la connaître. Mais un jour, Oshio, un garçon de sa classe, tombe sur elle par hasard lors de son travail à temps partiel, et la sauve des avances de dragueurs un peu trop insistants. Depuis, elle semble s'être prise d'affection pour lui. Oshio se retrouve alors à l'aider à prendre de belles photos pour ses réseaux sociaux. L'impassible Sato devient ainsi avec lui une douce et adorable personne au sourire enchanteur.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/316891"
         }
       ]
     },
@@ -679,18 +678,36 @@
       ]
     },
     {
-      "id": "tmdb:tv:316891",
+      "id": "tmdb:tv:332649",
       "type": "series",
-      "name": "The Cold Sato-san Is Only Sweet to Me",
-      "poster": "https://image.tmdb.org/t/p/w500/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
-      "description": "Sato Koharu est une jeune fille dont la beauté est appréciée par tous ses camarades de classe. Mais elle est aussi réputée pour se montrer toujours très froide avec eux. D'innombrables personnes ont été brisées par sa froideur alors qu'elles essayaient de la connaître. Mais un jour, Oshio, un garçon de sa classe, tombe sur elle par hasard lors de son travail à temps partiel, et la sauve des avances de dragueurs un peu trop insistants. Depuis, elle semble s'être prise d'affection pour lui. Oshio se retrouve alors à l'aider à prendre de belles photos pour ses réseaux sociaux. L'impassible Sato devient ainsi avec lui une douce et adorable personne au sourire enchanteur.",
+      "name": "真田十勇士 SHADOWS OF THE TEN NINJA",
+      "poster": "https://image.tmdb.org/t/p/w500/ax5C1W79usiYKDJkgTOAZrDKwmj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uNk5pCHUNgxGoe4bJuMYjAAuKFf.jpg",
+      "description": "",
       "releaseInfo": "2026",
+      "imdbRating": "4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/316891"
+          "url": "https://www.themoviedb.org/tv/332649"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:303272",
+      "type": "series",
+      "name": "Magic Knight Rayearth",
+      "poster": "https://image.tmdb.org/t/p/w500/mfTYbPbuxZkbJlmh0LpNegjPGw8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
+      "description": "Hikaru, Umi et Fuu sont de retour pour une nouvelle adaptation de la série culte Magic Knight Rayearth !",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303272"
         }
       ]
     },
@@ -729,57 +746,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:321518",
-      "type": "series",
-      "name": "The World's Strongest Witch",
-      "poster": "https://image.tmdb.org/t/p/w500/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
-      "description": "Rejetée par sa famille après l'éveil de son pouvoir jugé inutile, Lorna se retrouve seule, sans ressources et au bord du désespoir. Mais elle découvre bientôt que sa compétence de rang SSS, \"Internet\", est en réalité un don extraordinaire. Grâce au savoir illimité que ce pouvoir lui apporte, elle peut mettre la main sur des objets de grande valeur, acquérir sans effort des équipements rares et ainsi changer le cours de sa vie.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/321518"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:312850",
-      "type": "series",
-      "name": "Nia Liston: The Merciless Maiden",
-      "poster": "https://image.tmdb.org/t/p/w500/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
-      "description": "Aux portes de la mort, une guerrière intrépide et invaincue, succombe à ses blessures et se réincarne dans le corps frêle et maladif de Nia Liston. À la recherche d’un adversaire capable de se hisser à sa hauteur, la jeune fille entreprend de recouvrer sa force, en dépit de ce nouveau corps dont elle va devoir percer les secrets si elle souhaite retrouver sa splendeur d’antan.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312850"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:303272",
-      "type": "series",
-      "name": "Magic Knight Rayearth",
-      "poster": "https://image.tmdb.org/t/p/w500/mfTYbPbuxZkbJlmh0LpNegjPGw8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
-      "description": "Hikaru, Umi et Fuu sont de retour pour une nouvelle adaptation de la série culte Magic Knight Rayearth !",
-      "releaseInfo": "2026",
-      "imdbRating": "9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/303272"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:231801",
       "type": "series",
       "name": "GET JIRO",
@@ -797,53 +763,36 @@
       ]
     },
     {
-      "id": "tmdb:tv:313068",
+      "id": "tmdb:tv:316551",
       "type": "series",
-      "name": "Love Potion, la sorcière mal-aimée",
-      "poster": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
-      "description": "Rose, une sorcière solitaire vivant recluse au bord d'un lac, est sollicitée par le chevalier qu’elle aime en secret. Mais ce dernier lui demande de concocter un philtre d’amour ! Le cœur brisé, elle ne peut pourtant lui refuser cette faveur. En attendant le jour fatidique où le philtre sera prêt, elle profite de passer du temps avec lui en l'envoyant chercher toutes sortes d'ingrédients.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/313068"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:297903",
-      "type": "series",
-      "name": "PSYREN",
-      "poster": "https://image.tmdb.org/t/p/w500/TyohYN5o2dLfkBurnISpBl0TLe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qRgXreXNyUO30yAniTckVAho2va.jpg",
-      "description": "Ageha est dégoûté par notre monde et rêve d’une vie meilleure. Un soir, il trouve une étrange carte rouge sur laquelle il est écrit Psyren. Il s’agirait d’une société secrète à l’origine de nombreux enlèvements.\n\nPeu après, l’une de ses camarades, qui semblait connaître cette société, disparaît devant ses yeux. Ageha décide alors de la sauver : il utilise la carte rouge et se retrouve soudainement projeté dans un monde parallèle. A présent, Ageha doit lutter pour survivre et arriver jusqu’au bout du jeu, car c’est le seul moyen pour lui de retrouver son monde originel, qui n’est peut-être pas si horrible que ça finalement.\n\nDans cette entreprise, il n’est pas seul. D’autres personnes sont dans la même galère. Et c’est ensemble, qu’ils vont affronter le danger et peut-être même le vaincre…",
+      "name": "Battle Spirits [Re] ZEKKAI NO KU",
+      "poster": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
+      "description": "Keio 3, Hinomoto, Eito. Alors que l'ère Bakumatsu plonge le Japon dans la tourmente, le jeune Kû Bashin rêve de devenir plus fort grâce aux « Battle Spirits ». Son monde bascule lorsqu’il rencontre Ajara Zetsu, un redoutable samouraï errant pourchassé par les forces opposées au shogunat. Ils se retrouvent entraînés dans le périple qui va changer l'histoire.",
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/297903"
+          "url": "https://www.themoviedb.org/tv/316551"
         }
       ]
     },
     {
-      "id": "tmdb:tv:333533",
+      "id": "tmdb:tv:321518",
       "type": "series",
-      "name": "Celui qui s'appelait Matthew Perry",
-      "poster": "https://image.tmdb.org/t/p/w500/vQYMKEQ1mvl7Qx8WRGiKjPMEmKT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
-      "description": "Cette série documentaire retrace le succès hollywoodien, la prise de position ouverte et la mort tragique de la star de \"Friends\", à travers le témoignage de ses proches.",
+      "name": "The World's Strongest Witch",
+      "poster": "https://image.tmdb.org/t/p/w500/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
+      "description": "Rejetée par sa famille après l'éveil de son pouvoir jugé inutile, Lorna se retrouve seule, sans ressources et au bord du désespoir. Mais elle découvre bientôt que sa compétence de rang SSS, \"Internet\", est en réalité un don extraordinaire. Grâce au savoir illimité que ce pouvoir lui apporte, elle peut mettre la main sur des objets de grande valeur, acquérir sans effort des équipements rares et ainsi changer le cours de sa vie.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/333533"
+          "url": "https://www.themoviedb.org/tv/321518"
         }
       ]
     },
@@ -865,6 +814,40 @@
       ]
     },
     {
+      "id": "tmdb:tv:297903",
+      "type": "series",
+      "name": "PSYREN",
+      "poster": "https://image.tmdb.org/t/p/w500/TyohYN5o2dLfkBurnISpBl0TLe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qRgXreXNyUO30yAniTckVAho2va.jpg",
+      "description": "Ageha est dégoûté par notre monde et rêve d’une vie meilleure. Un soir, il trouve une étrange carte rouge sur laquelle il est écrit Psyren. Il s’agirait d’une société secrète à l’origine de nombreux enlèvements.\n\nPeu après, l’une de ses camarades, qui semblait connaître cette société, disparaît devant ses yeux. Ageha décide alors de la sauver : il utilise la carte rouge et se retrouve soudainement projeté dans un monde parallèle. A présent, Ageha doit lutter pour survivre et arriver jusqu’au bout du jeu, car c’est le seul moyen pour lui de retrouver son monde originel, qui n’est peut-être pas si horrible que ça finalement.\n\nDans cette entreprise, il n’est pas seul. D’autres personnes sont dans la même galère. Et c’est ensemble, qu’ils vont affronter le danger et peut-être même le vaincre…",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/297903"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Une vie arrachée : Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:335194",
       "type": "series",
       "name": "Magical Explorer",
@@ -882,19 +865,19 @@
       ]
     },
     {
-      "id": "tmdb:tv:283371",
+      "id": "tmdb:tv:312850",
       "type": "series",
-      "name": "Le piège",
-      "poster": "https://image.tmdb.org/t/p/w500/isBtrgjGVCd2GUMhDMcpf2SuBtB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
-      "description": "L'autrice Lisa Konrad n'est pas sortie de chez elle depuis 10 ans, lorsque sa sœur a été tuée. Quand elle croit voir le meurtrier à la télé, elle échafaude un plan risqué.",
+      "name": "Nia Liston: The Merciless Maiden",
+      "poster": "https://image.tmdb.org/t/p/w500/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
+      "description": "Aux portes de la mort, une guerrière intrépide et invaincue, succombe à ses blessures et se réincarne dans le corps frêle et maladif de Nia Liston. À la recherche d’un adversaire capable de se hisser à sa hauteur, la jeune fille entreprend de recouvrer sa force, en dépit de ce nouveau corps dont elle va devoir percer les secrets si elle souhaite retrouver sa splendeur d’antan.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/283371"
+          "url": "https://www.themoviedb.org/tv/312850"
         }
       ]
     },
@@ -912,6 +895,40 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/316694"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:323937",
+      "type": "series",
+      "name": "Dandivine",
+      "poster": "https://image.tmdb.org/t/p/w500/hQQ3kZQxPC7Y2m6jEfDYhoIOgVY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
+      "description": "Vingt ans se sont écoulés depuis que le robot Dandivine a vaincu de mystérieux envahisseurs, les Aposdoll. Dandivine est devenu si populaire qu'il fait l'objet de jouets, mais les ventes baissent au grand damne de son fabricant. Jusqu'au jour où un Aposdoll réapparaît à Tokyo, semant la panique. Pourquoi est-il ici ? Les ventes de jouets vont-elles repartir ? Une nouvelle bataille commence !",
+      "releaseInfo": "2026",
+      "imdbRating": "10",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/323937"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:313068",
+      "type": "series",
+      "name": "Love Potion, la sorcière mal-aimée",
+      "poster": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+      "description": "Rose, une sorcière solitaire vivant recluse au bord d'un lac, est sollicitée par le chevalier qu’elle aime en secret. Mais ce dernier lui demande de concocter un philtre d’amour ! Le cœur brisé, elle ne peut pourtant lui refuser cette faveur. En attendant le jour fatidique où le philtre sera prêt, elle profite de passer du temps avec lui en l'envoyant chercher toutes sortes d'ingrédients.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/313068"
         }
       ]
     },
@@ -949,19 +966,19 @@
       ]
     },
     {
-      "id": "tmdb:tv:300527",
+      "id": "tmdb:tv:283371",
       "type": "series",
-      "name": "On a parlé de moi ?",
-      "poster": "https://image.tmdb.org/t/p/w500/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
-      "description": "Jadis l'acteur le plus célèbre du Japon, Gen tombe soudain dans l’oubli. Poussé par un besoin de reconnaissance, il se bat pour remonter la pente dans cette comédie.",
+      "name": "Le piège",
+      "poster": "https://image.tmdb.org/t/p/w500/isBtrgjGVCd2GUMhDMcpf2SuBtB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+      "description": "L'autrice Lisa Konrad n'est pas sortie de chez elle depuis 10 ans, lorsque sa sœur a été tuée. Quand elle croit voir le meurtrier à la télé, elle échafaude un plan risqué.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/300527"
+          "url": "https://www.themoviedb.org/tv/283371"
         }
       ]
     },
@@ -983,36 +1000,19 @@
       ]
     },
     {
-      "id": "tmdb:tv:284580",
+      "id": "tmdb:tv:333533",
       "type": "series",
-      "name": "A Certain Dark Item",
-      "poster": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dANKBnapgjG7QmXeRZ6xQg8czX0.jpg",
-      "description": "La Cité Académique est un lieu où le meilleur de la science et de la technologie sont rassemblés tout en favorisant le développement des capacités surnaturelles. Derrière cette atmosphère en apparence paisible et séduisante, se cache ce que l'on appelle le « côté obscur ». Les filles connues sous le nom de code « Item » font partie de ce groupe d'élite, composé de spécialistes dans divers domaines et dirigé par Mugino Shizuri, une esper de niveau 5. Lorsqu'un nouveau membre les rejoint, le groupe se retrouve impliqué dans une histoire de conspiration qui se trame dans les souterrains de la ville…",
+      "name": "Celui qui s'appelait Matthew Perry",
+      "poster": "https://image.tmdb.org/t/p/w500/vQYMKEQ1mvl7Qx8WRGiKjPMEmKT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+      "description": "Cette série documentaire retrace le succès hollywoodien, la prise de position ouverte et la mort tragique de la star de \"Friends\", à travers le témoignage de ses proches.",
       "releaseInfo": "2026",
-      "imdbRating": "10",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/284580"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:335536",
-      "type": "series",
-      "name": "TYSON",
-      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
-      "description": "Découvrez la vie explosive de Mike Tyson, l'une des figures les plus redoutées et fascinantes de l'histoire du sport.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/335536"
+          "url": "https://www.themoviedb.org/tv/333533"
         }
       ]
     },
@@ -1034,53 +1034,53 @@
       ]
     },
     {
-      "id": "tmdb:tv:316551",
+      "id": "tmdb:tv:300527",
       "type": "series",
-      "name": "Battle Spirits [Re] ZEKKAI NO KU",
-      "poster": "https://image.tmdb.org/t/p/w500/1lATIjNfnDshZQAElqRJeViqsi3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9V4zVVKqy7g2n6Vxts2DmXxuPiU.jpg",
-      "description": "Keio 3, Hinomoto, Eito. Alors que l'ère Bakumatsu plonge le Japon dans la tourmente, le jeune Kû Bashin rêve de devenir plus fort grâce aux « Battle Spirits ». Son monde bascule lorsqu’il rencontre Ajara Zetsu, un redoutable samouraï errant pourchassé par les forces opposées au shogunat. Ils se retrouvent entraînés dans le périple qui va changer l'histoire.",
+      "name": "On a parlé de moi ?",
+      "poster": "https://image.tmdb.org/t/p/w500/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+      "description": "Jadis l'acteur le plus célèbre du Japon, Gen tombe soudain dans l’oubli. Poussé par un besoin de reconnaissance, il se bat pour remonter la pente dans cette comédie.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/316551"
+          "url": "https://www.themoviedb.org/tv/300527"
         }
       ]
     },
     {
-      "id": "tmdb:tv:323937",
+      "id": "tmdb:tv:335536",
       "type": "series",
-      "name": "Dandivine",
-      "poster": "https://image.tmdb.org/t/p/w500/hQQ3kZQxPC7Y2m6jEfDYhoIOgVY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
-      "description": "Vingt ans se sont écoulés depuis que le robot Dandivine a vaincu de mystérieux envahisseurs, les Aposdoll. Dandivine est devenu si populaire qu'il fait l'objet de jouets, mais les ventes baissent au grand damne de son fabricant. Jusqu'au jour où un Aposdoll réapparaît à Tokyo, semant la panique. Pourquoi est-il ici ? Les ventes de jouets vont-elles repartir ? Une nouvelle bataille commence !",
+      "name": "TYSON",
+      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+      "description": "Découvrez la vie explosive de Mike Tyson, l'une des figures les plus redoutées et fascinantes de l'histoire du sport.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/335536"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:284580",
+      "type": "series",
+      "name": "A Certain Dark Item",
+      "poster": "https://image.tmdb.org/t/p/w500/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dANKBnapgjG7QmXeRZ6xQg8czX0.jpg",
+      "description": "La Cité Académique est un lieu où le meilleur de la science et de la technologie sont rassemblés tout en favorisant le développement des capacités surnaturelles. Derrière cette atmosphère en apparence paisible et séduisante, se cache ce que l'on appelle le « côté obscur ». Les filles connues sous le nom de code « Item » font partie de ce groupe d'élite, composé de spécialistes dans divers domaines et dirigé par Mugino Shizuri, une esper de niveau 5. Lorsqu'un nouveau membre les rejoint, le groupe se retrouve impliqué dans une histoire de conspiration qui se trame dans les souterrains de la ville…",
       "releaseInfo": "2026",
       "imdbRating": "10",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/323937"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:338684",
-      "type": "series",
-      "name": "Une vie arrachée : Natalee Holloway",
-      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
-      "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/338684"
+          "url": "https://www.themoviedb.org/tv/284580"
         }
       ]
     },
@@ -1102,19 +1102,19 @@
       ]
     },
     {
-      "id": "tmdb:tv:335535",
+      "id": "tmdb:tv:327765",
       "type": "series",
-      "name": "Grand d'Espagne",
-      "poster": "https://image.tmdb.org/t/p/w500/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "description": "Prêt à tout pour vendre son manoir en ruines, un marquis déchu veut plier l'affaire avec une mystérieuse et charmante millionnaire. Mais celle-ci a ses propres projets...",
+      "name": "Super Psychic Policeman Chojo",
+      "poster": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
+      "description": "Dès son premier jour au commissariat de Shinjuku, Ippongi se rend compte qu’elle a tiré le mauvais numéro : son nouveau partenaire, Chojo, utilise ses pouvoirs psychiques pour tout, sauf travailler. Mais lorsque des yakuza menacent de s'emparer du dojo de la famille d'Ippongi, Chojo prend son travail plus au sérieux.",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/335535"
+          "url": "https://www.themoviedb.org/tv/327765"
         }
       ]
     },
@@ -1136,19 +1136,70 @@
       ]
     },
     {
-      "id": "tmdb:tv:327765",
+      "id": "tmdb:tv:329096",
       "type": "series",
-      "name": "Super Psychic Policeman Chojo",
-      "poster": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
-      "description": "Dès son premier jour au commissariat de Shinjuku, Ippongi se rend compte qu’elle a tiré le mauvais numéro : son nouveau partenaire, Chojo, utilise ses pouvoirs psychiques pour tout, sauf travailler. Mais lorsque des yakuza menacent de s'emparer du dojo de la famille d'Ippongi, Chojo prend son travail plus au sérieux.",
+      "name": "From far away",
+      "poster": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
+      "description": "Noriko est une lycéenne comme les autres, jusqu’à ce qu’une explosion l’entraîne dans un monde de magie où personne ne parle sa langue. Complètement perdue, Noriko est secourue par Izark, un épéiste mis au ban de la société, déterminé à tuer « l’Éveil » : un personnage prophétisé qui contrôlerait le Démon du Ciel. Alors qu’Izark et Noriko se rapprochent, il se rend compte qu’elle pourrait bien être celle qu’il traque.",
       "releaseInfo": "2026",
       "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/327765"
+          "url": "https://www.themoviedb.org/tv/329096"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:335535",
+      "type": "series",
+      "name": "Grand d'Espagne",
+      "poster": "https://image.tmdb.org/t/p/w500/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+      "description": "Prêt à tout pour vendre son manoir en ruines, un marquis déchu veut plier l'affaire avec une mystérieuse et charmante millionnaire. Mais celle-ci a ses propres projets...",
+      "releaseInfo": "2026",
+      "imdbRating": "5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/335535"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:336418",
+      "type": "series",
+      "name": "Meurtre au cimetière",
+      "poster": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+      "description": "Lorsqu'un policier de la Nouvelle-Orléans tente d'élucider le meurtre du propriétaire d'un cimetière pour animaux, il découvre un sombre passé.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336418"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:334887",
+      "type": "series",
+      "name": "The Mob",
+      "poster": "https://image.tmdb.org/t/p/w500/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "3.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334887"
         }
       ]
     },
@@ -1186,19 +1237,19 @@
       ]
     },
     {
-      "id": "tmdb:tv:329096",
+      "id": "tmdb:tv:332261",
       "type": "series",
-      "name": "From far away",
-      "poster": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
-      "description": "Noriko est une lycéenne comme les autres, jusqu’à ce qu’une explosion l’entraîne dans un monde de magie où personne ne parle sa langue. Complètement perdue, Noriko est secourue par Izark, un épéiste mis au ban de la société, déterminé à tuer « l’Éveil » : un personnage prophétisé qui contrôlerait le Démon du Ciel. Alors qu’Izark et Noriko se rapprochent, il se rend compte qu’elle pourrait bien être celle qu’il traque.",
+      "name": "ポリティカルパン",
+      "poster": "https://image.tmdb.org/t/p/w500/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
+      "description": "",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/329096"
+          "url": "https://www.themoviedb.org/tv/332261"
         }
       ]
     },
@@ -1220,23 +1271,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:334887",
-      "type": "series",
-      "name": "The Mob",
-      "poster": "https://image.tmdb.org/t/p/w500/p7Z3iK7g3ZEOm60h121fvtDmA3f.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jPah9SEWeBCXQwyKqoMdQp7tqci.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "3.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/334887"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:338918",
       "type": "series",
       "name": " चार यार",
@@ -1249,40 +1283,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/338918"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:336418",
-      "type": "series",
-      "name": "Meurtre au cimetière",
-      "poster": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
-      "description": "Lorsqu'un policier de la Nouvelle-Orléans tente d'élucider le meurtre du propriétaire d'un cimetière pour animaux, il découvre un sombre passé.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/336418"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:332261",
-      "type": "series",
-      "name": "ポリティカルパン",
-      "poster": "https://image.tmdb.org/t/p/w500/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/332261"
         }
       ]
     },
@@ -1303,22 +1303,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:305935",
-      "type": "series",
-      "name": "Les Disparus des Argonnes",
-      "poster": "https://image.tmdb.org/t/p/w500/7FfddTLaRDNI91W6uhrdlUURis2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4xXazUotfm3Hotm4pi3ELC8fOfS.jpg",
-      "description": "Le combat de Jocelyne Veyrades, une mère de famille modeste dont le fils, Gilles, disparaît en 1981 lors d’une permission pendant son service militaire. Les autorités évoquent une désertion, mais Jocelyne refuse de croire à cette explication. Elle pense que quelque chose de beaucoup plus grave s’est produit. Au fil des années, d’autres jeunes appelés disparaissent dans des circonstances similaires. Face au silence de l’institution militaire et à l’inaction de la justice, Jocelyne rejoint d'autres familles frappées par le même drame. Ensemble, elles brisent le mur de l’indifférence et mènent une lutte acharnée pour faire entendre leur voix.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/305935"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:335319",
       "type": "series",
       "name": "The Prison Experiment : La nouvelle expérience de Stanford",
@@ -1332,6 +1316,22 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/335319"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:305935",
+      "type": "series",
+      "name": "Les Disparus des Argonnes",
+      "poster": "https://image.tmdb.org/t/p/w500/7FfddTLaRDNI91W6uhrdlUURis2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4xXazUotfm3Hotm4pi3ELC8fOfS.jpg",
+      "description": "Le combat de Jocelyne Veyrades, une mère de famille modeste dont le fils, Gilles, disparaît en 1981 lors d’une permission pendant son service militaire. Les autorités évoquent une désertion, mais Jocelyne refuse de croire à cette explication. Elle pense que quelque chose de beaucoup plus grave s’est produit. Au fil des années, d’autres jeunes appelés disparaissent dans des circonstances similaires. Face au silence de l’institution militaire et à l’inaction de la justice, Jocelyne rejoint d'autres familles frappées par le même drame. Ensemble, elles brisent le mur de l’indifférence et mènent une lutte acharnée pour faire entendre leur voix.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305935"
         }
       ]
     },
@@ -1387,6 +1387,23 @@
       ]
     },
     {
+      "id": "tmdb:tv:337609",
+      "type": "series",
+      "name": "Swiper avec le diable",
+      "poster": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg",
+      "description": "Sydney Loofe, 24 ans, disparaît après un rendez-vous Tinder. Ce qui n'est au départ qu'une simple affaire de disparition se transforme vite en un mystère troublant. Dans leur course pour la retrouver, les enquêteurs plongent au cœur d'un monde de manipulation et de sorcellerie, où des adeptes apprennent à contrôler les esprits et à user de la magie noire. Chaque indice révèle des faits si troublants qu'ils choquent même les agents les plus chevronnés du FBI. L'histoire de Sydney devient alors une leçon sur la confiance, la vulnérabilité et les dangers qui se cachent derrière des rencontres en apparence banales. Une affaire glaçante, aussi déroutante qu'inoubliable.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/337609"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:296466",
       "type": "series",
       "name": "Marília Mendonça: Sentimento Louco",
@@ -1420,23 +1437,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:337609",
-      "type": "series",
-      "name": "Swiper avec le diable",
-      "poster": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/u0ySQwafNWcUswOSeHU5dGOn8sf.jpg",
-      "description": "Sydney Loofe, 24 ans, disparaît après un rendez-vous Tinder. Ce qui n'est au départ qu'une simple affaire de disparition se transforme vite en un mystère troublant. Dans leur course pour la retrouver, les enquêteurs plongent au cœur d'un monde de manipulation et de sorcellerie, où des adeptes apprennent à contrôler les esprits et à user de la magie noire. Chaque indice révèle des faits si troublants qu'ils choquent même les agents les plus chevronnés du FBI. L'histoire de Sydney devient alors une leçon sur la confiance, la vulnérabilité et les dangers qui se cachent derrière des rencontres en apparence banales. Une affaire glaçante, aussi déroutante qu'inoubliable.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/337609"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:339670",
       "type": "series",
       "name": "Fracture américaine",
@@ -1449,22 +1449,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/339670"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:326780",
-      "type": "series",
-      "name": "Wanted : Attrape-moi si tu peux !",
-      "poster": "https://image.tmdb.org/t/p/w500/gCU7FO2PSElst0UQgamdDgrTJ3P.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/czEopXjOExMlnymzrwxGVtL6Lso.jpg",
-      "description": "16 célébrités, devenues les « fugitifs » devront tout faire pour ne pas se faire attraper par les trois célébrités « gardiens ». Privés d’argent, de téléphone et de tous leurs repères, les « fugitifs » devront se déplacer, se nourrir, se cacher et « survivre ». Dans une ambiance aussi fun que survoltée, « les gardiens » pourront compter sur un véhicule équipé de tous les outils technologiques mais aussi, et surtout… de vous ! Car pour la première fois en France, les téléspectateurs deviennent acteurs du jeu, en choisissant, via un numéro dédié, d’aider les gardiens… ou de protéger les fugitifs.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/326780"
         }
       ]
     },
@@ -1486,6 +1470,39 @@
       ]
     },
     {
+      "id": "tmdb:tv:336880",
+      "type": "series",
+      "name": "USA, la révolution conservatrice",
+      "poster": "https://image.tmdb.org/t/p/w500/9r5pY9OtuRv3GWrcR9M4NIftsZe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pyXgQdk0oTiqWLJqhufzTQ9soeu.jpg",
+      "description": "Comment, entre 1960 et 1980, une frange conservatrice ultraminoritaire s'est imposée au sein du Parti républicain avant de conquérir le pouvoir aux États-Unis. Une exploration passionnante, tout en archives, de la face cachée d'une époque plus souvent identifiée aux luttes progressistes.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336880"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:326780",
+      "type": "series",
+      "name": "Wanted : Attrape-moi si tu peux !",
+      "poster": "https://image.tmdb.org/t/p/w500/gCU7FO2PSElst0UQgamdDgrTJ3P.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/czEopXjOExMlnymzrwxGVtL6Lso.jpg",
+      "description": "16 célébrités, devenues les « fugitifs » devront tout faire pour ne pas se faire attraper par les trois célébrités « gardiens ». Privés d’argent, de téléphone et de tous leurs repères, les « fugitifs » devront se déplacer, se nourrir, se cacher et « survivre ». Dans une ambiance aussi fun que survoltée, « les gardiens » pourront compter sur un véhicule équipé de tous les outils technologiques mais aussi, et surtout… de vous ! Car pour la première fois en France, les téléspectateurs deviennent acteurs du jeu, en choisissant, via un numéro dédié, d’aider les gardiens… ou de protéger les fugitifs.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/326780"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:336916",
       "type": "series",
       "name": "Kat sauvage",
@@ -1503,19 +1520,18 @@
       ]
     },
     {
-      "id": "tmdb:tv:336880",
+      "id": "tmdb:tv:338193",
       "type": "series",
-      "name": "USA, la révolution conservatrice",
-      "poster": "https://image.tmdb.org/t/p/w500/9r5pY9OtuRv3GWrcR9M4NIftsZe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/pyXgQdk0oTiqWLJqhufzTQ9soeu.jpg",
-      "description": "Comment, entre 1960 et 1980, une frange conservatrice ultraminoritaire s'est imposée au sein du Parti républicain avant de conquérir le pouvoir aux États-Unis. Une exploration passionnante, tout en archives, de la face cachée d'une époque plus souvent identifiée aux luttes progressistes.",
+      "name": "Les Fous du bus",
+      "poster": "https://image.tmdb.org/t/p/w500/9sDRfcrd6usRKn5kSTUgEjClxaE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iZbc8a8OTjBpVauPImJ8clROiS9.jpg",
+      "description": "Les Fous du Bus, c'est un road trip complètement fou à travers la France, mené par Ahmed Sylla aux côtés de six humoristes parmi les plus prometteurs de leur génération : Blandine Lehout, Emy BNG, Sofia Belabbes, Édouard Deloignon, Julien Santini et Umut Koker. Habitués des comedy clubs et des scènes parisiennes, ils vont cette fois devoir sortir de leur zone de confort.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/336880"
+          "url": "https://www.themoviedb.org/tv/338193"
         }
       ]
     },
@@ -1537,18 +1553,18 @@
       ]
     },
     {
-      "id": "tmdb:tv:338193",
+      "id": "tmdb:tv:339733",
       "type": "series",
-      "name": "Les Fous du bus",
-      "poster": "https://image.tmdb.org/t/p/w500/9sDRfcrd6usRKn5kSTUgEjClxaE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iZbc8a8OTjBpVauPImJ8clROiS9.jpg",
-      "description": "Les Fous du Bus, c'est un road trip complètement fou à travers la France, mené par Ahmed Sylla aux côtés de six humoristes parmi les plus prometteurs de leur génération : Blandine Lehout, Emy BNG, Sofia Belabbes, Édouard Deloignon, Julien Santini et Umut Koker. Habitués des comedy clubs et des scènes parisiennes, ils vont cette fois devoir sortir de leur zone de confort.",
+      "name": "Vendée Globe, seuls autour du monde",
+      "poster": "https://image.tmdb.org/t/p/w500/fZBtPc9A5KuQK0ck5DX2gld5Rdi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/135dMDMd2v1dwwjUniiT2yFp1GT.jpg",
+      "description": "Une plongée au cœur de l’aventure humaine et sportive moderne la plus intense, entre terre et mer, entre larmes de frustration et explosions de joie",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/338193"
+          "url": "https://www.themoviedb.org/tv/339733"
         }
       ]
     },
@@ -1585,22 +1601,6 @@
       ]
     },
     {
-      "id": "tmdb:tv:339733",
-      "type": "series",
-      "name": "Vendée Globe, seuls autour du monde",
-      "poster": "https://image.tmdb.org/t/p/w500/fZBtPc9A5KuQK0ck5DX2gld5Rdi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/135dMDMd2v1dwwjUniiT2yFp1GT.jpg",
-      "description": "Une plongée au cœur de l’aventure humaine et sportive moderne la plus intense, entre terre et mer, entre larmes de frustration et explosions de joie",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/339733"
-        }
-      ]
-    },
-    {
       "id": "tmdb:tv:336848",
       "type": "series",
       "name": "Aux origines des terrorismes",
@@ -1614,22 +1614,6 @@
           "name": "TMDB",
           "category": "source",
           "url": "https://www.themoviedb.org/tv/336848"
-        }
-      ]
-    },
-    {
-      "id": "tmdb:tv:334703",
-      "type": "series",
-      "name": "Couldn't Agree Less with Allison & Isaac",
-      "poster": "https://image.tmdb.org/t/p/w500/bm5X8IbXWEfxtYFUEOazKTJ1UhG.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xwHi0s6GHldlSf4KUYmgWXyqvYm.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/334703"
         }
       ]
     },
@@ -1666,16 +1650,34 @@
       ]
     },
     {
-      "id": "tmdb:tv:337332",
+      "id": "tmdb:tv:336453",
       "type": "series",
-      "name": "Fauchées",
-      "description": "Un héritage, deux cousines, huit péripéties ! Pour rembourser leurs dettes, Suzanne et Mona vendent les objets de leur grand-mère. Entre acheteurs loufoques, arnaques et souvenirs, chaque vente se transforme en aventure...",
+      "name": "Alerte à l'hôtel : 30 jours pour tout relancer",
+      "poster": "https://image.tmdb.org/t/p/w500/g3MXM5ixfiDFFzRTO44pK9mINg8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lkcj9IKfF4LylYT5qrz6wTC7hog.jpg",
+      "description": "Pendant 30 jours, deux experts en hôtellerie, Fred Sirieix et Pauline Petta, viennent en aide à des patrons d'hôtel en crise pour les aider à redresser la barre. Cash, exigeant mais bienveillant, le binôme s'installe à l'hôtel et passe tout au crible afin de proposer un plan d'action aux propriétaires pour relancer leur hôtel et améliorer les relations humaines au sein de l'entreprise. Face à des vérités parfois difficiles à entendre, les hôteliers n'ont qu'un seul choix : se remettre en question et transformer leur établissement !",
       "releaseInfo": "2026",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/337332"
+          "url": "https://www.themoviedb.org/tv/336453"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:334703",
+      "type": "series",
+      "name": "Couldn't Agree Less with Allison & Isaac",
+      "poster": "https://image.tmdb.org/t/p/w500/bm5X8IbXWEfxtYFUEOazKTJ1UhG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xwHi0s6GHldlSf4KUYmgWXyqvYm.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334703"
         }
       ]
     }
