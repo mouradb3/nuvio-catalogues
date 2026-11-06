@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1024362",
+    "type": "movie",
+    "name": "The Grizzlie Truth",
+    "poster": "https://image.tmdb.org/t/p/w500/6fnFoZF5YpuFRXRSpL4F0jGcYWB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fCxn4pDduEZDo1E76ZllZijZWeT.jpg",
+    "description": "Pour les fans acharnés de la franchise de la NBA, comme pour la cinéaste Kat Jayme, le déménagement abrupt de l’équipe des Grizzlies de Vancouver, à Memphis en 2001 est beaucoup plus qu’un point sensible, c’est un mystère non résolu et peut-être une conspiration criminelle. Ce qui commence par une enquête de superfan sur la disparition de son équipe locale, devient une lettre d’amour à la pire franchise sportive professionnelle de l’histoire, et une exploration des racines profondes du fandom.",
+    "releaseInfo": "2022",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1024362"
+      }
+    ]
+  }
+}
