@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1719043",
+    "type": "movie",
+    "name": "Fatol",
+    "poster": "https://image.tmdb.org/t/p/w500/ld9sN9HfdZeFXyhoHpnz1KuWmDP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bwZ6BICnfcURBUFmgc662SOZtXW.jpg",
+    "description": "",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1719043"
+      }
+    ]
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "lastRun": "2026-11-06T19:27:34.792Z",
-  "trackedTitles": 334,
-  "events90Days": 112,
-  "franceActiveTitles": 224,
-  "canadaActiveTitles": 273,
+  "lastRun": "2026-11-07T00:59:50.580Z",
+  "trackedTitles": 335,
+  "events90Days": 140,
+  "franceActiveTitles": 225,
+  "canadaActiveTitles": 275,
   "bootstrap": false,
   "note": "Date de détection locale, pas date officielle de mise en ligne. Les offres CA signalent une disponibilité au Canada, pas la présence garantie d'une piste audio québécoise."
 }

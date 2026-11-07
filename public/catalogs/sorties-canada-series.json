@@ -1,6 +1,23 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:339317",
+      "type": "series",
+      "name": "Faire Bombance",
+      "poster": "https://image.tmdb.org/t/p/w500/zCWzXs9sPBriMbkYWOf5SRB9uCO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9wLAJ3OMX1lApsgBUx51l639mGi.jpg",
+      "description": "Je suis Catherine St-Laurent et je reçois des gens que la gastronomie passionne pour cuisiner dans un esprit opulent et décomplexé. Avec curiosité, je me réapproprie l'art du festin avec gourmandise!",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/339317"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:340755",
       "type": "series",
       "name": "L'Influence de Cocottee",
